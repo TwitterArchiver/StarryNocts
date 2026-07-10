@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2043546103384310232",
+    "created_at": "2026-04-14T05:10:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T06:10:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043919845851554133"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1485951668105580548",
+          "start": 0,
+          "username": "Renci_Official"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043919845851554133",
+    "in_reply_to_user_id": "1485951668105580548",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043916833967980838",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Renci_Official 😋😋😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2043546103384310232",
+        "created_at": "2026-04-14T05:10:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T06:10:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043919845851554133"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1485951668105580548",
+              "start": 0,
+              "username": "Renci_Official"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043919845851554133",
+        "in_reply_to_user_id": "1485951668105580548",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043916833967980838",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Renci_Official 😋😋😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1485951668105580548",
+        "conversation_id": "2043546103384310232",
+        "created_at": "2026-04-14T04:58:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T05:58:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043916833967980838"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1343151486432399360",
+              "start": 0,
+              "username": "StarryNocts"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043916833967980838",
+        "in_reply_to_user_id": "1343151486432399360",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043546103384310232",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StarryNocts 吃吃吃喵喵喵🥰😋👍"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "07｜MTF🏳️‍⚧️｜无糖｜皮下男｜死肥宅｜社会学｜焦虑中｜备用:@StarryNoct 小号:@WindyLuster\n对不起对不起对不起我的错 无人在意 凭感觉回fo（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 34,
+                "username": "StarryNoct"
+              },
+              {
+                "end": 61,
+                "start": 49,
+                "username": "WindyLuster"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星波波✨",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032817226680774656/ga377Pls_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 377,
+          "following_count": 264,
+          "like_count": 2622,
+          "listed_count": 0,
+          "media_count": 139,
+          "tweet_count": 3747
+        },
+        "username": "StarryNocts",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-25T12:24:32.000Z",
+        "description": "maimaDX中国プレイヤー/ブルーアーカイブ中国プレイヤー/CTF初心者/蘇州科学技術大学学生「在学生」/CS 2 5年プレイヤー",
+        "id": "1485951668105580548",
+        "location": "Kawasaki City Kawasaki Ward",
+        "name": "Demon Renci",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990727273721589760/uWNpwWRN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 44,
+          "like_count": 702,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 88
+        },
+        "username": "Renci_Official",
+        "verified": true
+      }
+    ]
+  }
+}

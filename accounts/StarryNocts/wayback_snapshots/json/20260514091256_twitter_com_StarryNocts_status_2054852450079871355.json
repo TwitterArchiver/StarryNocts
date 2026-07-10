@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2054850996996849819",
+    "created_at": "2026-05-14T09:12:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T10:12:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054852450079871355"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1502204967549304833",
+          "start": 0,
+          "username": "satsukisan38"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054852450079871355",
+    "in_reply_to_user_id": "1502204967549304833",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054850996996849819",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@satsukisan38 おそらくXの位置情報サービスは中国をカバーしていないため、最も近い場所である北朝鮮に位置情報が表示されたのだろう"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 680,
+        "media_key": "3_2054850991401631744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIRMFvDagAANqQx.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2054850996996849819",
+        "created_at": "2026-05-14T09:12:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T10:12:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054852450079871355"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1502204967549304833",
+              "start": 0,
+              "username": "satsukisan38"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054852450079871355",
+        "in_reply_to_user_id": "1502204967549304833",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054850996996849819",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@satsukisan38 おそらくXの位置情報サービスは中国をカバーしていないため、最も近い場所である北朝鮮に位置情報が表示されたのだろう"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054850991401631744"
+          ]
+        },
+        "author_id": "1502204967549304833",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2054850996996849819",
+        "created_at": "2026-05-14T09:07:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T10:07:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054850996996849819"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5o8ONtIq8K",
+              "end": 47,
+              "expanded_url": "https://x.com/satsukisan38/status/2054850996996849819/photo/1",
+              "media_key": "3_2054850991401631744",
+              "start": 24,
+              "url": "https://t.co/5o8ONtIq8K"
+            },
+            {
+              "display_url": "x.com/starrynocts/st…",
+              "end": 71,
+              "expanded_url": "https://twitter.com/starrynocts/status/2054532519773802870",
+              "start": 48,
+              "url": "https://t.co/6kRfXnTAJS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054850996996849819",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054532519773802870",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "ツイートの送信地が「北朝鮮」になってておもろい https://t.co/5o8ONtIq8K https://t.co/6kRfXnTAJS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "07｜mtx🏳‍⚧｜死肥宅｜无糖｜社会学｜焦虑玉玉中｜备用:@StarryNoct \n对不起对不起对不起我的错 无人在意 回fo请私信（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 30,
+                "username": "StarryNoct"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星笨笨✨",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053054977611038720/CnM4tr2L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 655,
+          "following_count": 431,
+          "like_count": 4009,
+          "listed_count": 3,
+          "media_count": 201,
+          "tweet_count": 5784
+        },
+        "username": "StarryNocts",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-11T08:49:42.000Z",
+        "description": "雑多/鉄道/学マスP/シャニP🔰/動画投稿者/イラストとか 🚹18↑\n\n最近低浮上なのでフォロバはお待ち下さい\n縮小→ @Stsub_38\n🔑→ @kido_38",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 60,
+                "username": "Stsub_38"
+              },
+              {
+                "end": 81,
+                "start": 73,
+                "username": "kido_38"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@SATSUKI_Chann…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@SATSUKI_Channel",
+                "start": 0,
+                "url": "https://t.co/SwB0p12w45"
+              }
+            ]
+          }
+        },
+        "id": "1502204967549304833",
+        "location": "時の鐘と蔵のまち",
+        "name": "さつきちゃん🌸例大祭一般参加",
+        "pinned_tweet_id": "2051101614879191316",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869363583307661313/tWz5KlEW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5946,
+          "following_count": 5812,
+          "like_count": 255201,
+          "listed_count": 23,
+          "media_count": 13267,
+          "tweet_count": 76234
+        },
+        "url": "https://t.co/SwB0p12w45",
+        "username": "satsukisan38",
+        "verified": true
+      }
+    ]
+  }
+}
