@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2057107335957590436",
+    "created_at": "2026-05-20T21:13:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T22:13:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057208198474715165"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1969310423322411010",
+          "start": 0,
+          "username": "XiaoTian258"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057208198474715165",
+    "in_reply_to_user_id": "1969310423322411010",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057107335957590436",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XiaoTian258 加油哦！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2057107327430660096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIxQNxxbkAAjhiy.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2057107335957590436",
+        "created_at": "2026-05-20T21:13:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T22:13:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057208198474715165"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1969310423322411010",
+              "start": 0,
+              "username": "XiaoTian258"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057208198474715165",
+        "in_reply_to_user_id": "1969310423322411010",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057107335957590436",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XiaoTian258 加油哦！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057107327430660096"
+          ]
+        },
+        "author_id": "1969310423322411010",
+        "conversation_id": "2057107335957590436",
+        "created_at": "2026-05-20T14:33:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T15:33:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057107335957590436"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NxrrrG9zlw",
+              "end": 51,
+              "expanded_url": "https://x.com/XiaoTian258/status/2057107335957590436/photo/1",
+              "media_key": "3_2057107327430660096",
+              "start": 28,
+              "url": "https://t.co/NxrrrG9zlw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057107335957590436",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4575,
+          "like_count": 66,
+          "quote_count": 0,
+          "reply_count": 77,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一天时间！ 恭喜自己 感谢各位！\n我也要成为百万大v！ https://t.co/NxrrrG9zlw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "07🥺｜mtx🏳‍⚧｜死肥宅🤬｜无糖🍥｜清水🙂｜社恐不线下😢｜社会学😖｜焦虑玉玉中😇｜宝宝:@as_qwq0721 🥰｜备用:@StarryNoct \n对不起对不起对不起我的错 无人在意 互fo请私信（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 46,
+                "username": "as_qwq0721"
+              },
+              {
+                "end": 74,
+                "start": 63,
+                "username": "StarryNoct"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星笨笨✨",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056382888187510784/TI8up0se_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 947,
+          "following_count": 555,
+          "like_count": 4097,
+          "listed_count": 3,
+          "media_count": 209,
+          "tweet_count": 6343
+        },
+        "username": "StarryNocts",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-20T07:59:37.000Z",
+        "description": "大四计算机系在读,  探索AI/金融/Web3. \n我们都有美好的明天~",
+        "id": "1969310423322411010",
+        "name": "Aione",
+        "pinned_tweet_id": "2056677748421390846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032045985778843649/b-9yv0gA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 614,
+          "following_count": 197,
+          "like_count": 1201,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 859
+        },
+        "username": "XiaoTian258",
+        "verified": true
+      }
+    ]
+  }
+}

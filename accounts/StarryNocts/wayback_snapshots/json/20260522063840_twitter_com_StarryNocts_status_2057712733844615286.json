@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2057661897386950734",
+    "created_at": "2026-05-22T06:38:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T07:38:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057712733844615286"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1127562643512803328",
+          "start": 0,
+          "username": "ShiroSamuel_o7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057712733844615286",
+    "in_reply_to_user_id": "1127562643512803328",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057712585311752482",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ShiroSamuel_o7 没有哦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2057661897386950734",
+        "created_at": "2026-05-22T06:38:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T07:38:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057712733844615286"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1127562643512803328",
+              "start": 0,
+              "username": "ShiroSamuel_o7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057712733844615286",
+        "in_reply_to_user_id": "1127562643512803328",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057712585311752482",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ShiroSamuel_o7 没有哦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1127562643512803328",
+        "conversation_id": "2057661897386950734",
+        "created_at": "2026-05-22T06:38:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T07:38:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057712585311752482"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1343151486432399360",
+              "start": 0,
+              "username": "StarryNocts"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057712585311752482",
+        "in_reply_to_user_id": "1343151486432399360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057661897386950734",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StarryNocts 痒了自己去玩炮机"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "07🥺｜mtx🏳‍⚧｜死肥宅🤬｜无糖🍥｜清水🙂｜社恐不线下😢｜社会学😖｜焦虑玉玉中😇｜备用:@StarryNoct \n对不起对不起对不起我的错 无人在意 互fo请私信（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 46,
+                "username": "StarryNoct"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星笨笨👿（邪恶版）",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057601270576513024/ytCRYGr1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 958,
+          "following_count": 563,
+          "like_count": 4107,
+          "listed_count": 3,
+          "media_count": 212,
+          "tweet_count": 6466
+        },
+        "username": "StarryNocts",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-12T13:14:18.000Z",
+        "description": "CN/EN/JP\n某些蛆b和台巴子喜欢当复读机能不能直接自己找个坑跳啊\n整天蹦蹦跶跶的， 是不是你浮木被烧干劈成碎片了\n想给扣左扣右的帽子的前提能不能让我给你老冯当龙登\n五毛都给我挂上了 你还想我怎么 给你老冯当纸币烧吗",
+        "id": "1127562643512803328",
+        "location": "Ciallo～😋如果你破防拉黑我那你的妈妈可以似了喵",
+        "name": "你看你🐴呢",
+        "pinned_tweet_id": "2039687097561612736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052991549647241216/OUI4TrZU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 101,
+          "like_count": 484,
+          "listed_count": 4,
+          "media_count": 622,
+          "tweet_count": 2739
+        },
+        "username": "ShiroSamuel_o7",
+        "verified": false
+      }
+    ]
+  }
+}

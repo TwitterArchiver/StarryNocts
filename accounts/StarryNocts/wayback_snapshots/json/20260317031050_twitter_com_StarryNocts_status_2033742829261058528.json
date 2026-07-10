@@ -1,0 +1,138 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2033742829261058528",
+    "created_at": "2026-03-17T03:10:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-17T04:10:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2033742829261058528"
+    ],
+    "entities": {},
+    "geo": {
+      "place_id": "c999e6a453e9ef72"
+    },
+    "id": "2033742829261058528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "提前体验休学生活（"
+  },
+  "includes": {
+    "places": [
+      {
+        "country": "North Korea",
+        "country_code": "KP",
+        "full_name": "North Korea",
+        "geo": {
+          "bbox": [
+            124.18079,
+            37.6036389,
+            130.6980295,
+            43.0115891
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "c999e6a453e9ef72",
+        "name": "North Korea",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2033742829261058528",
+        "created_at": "2026-03-17T03:10:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T04:10:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033742829261058528"
+        ],
+        "entities": {},
+        "geo": {
+          "place_id": "c999e6a453e9ef72"
+        },
+        "id": "2033742829261058528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "提前体验休学生活（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "07｜mtx🏳️‍⚧️｜无糖｜死肥宅｜焦虑中｜健全b｜致歉一切｜都是逃生舱 猫猫:@GrapeJellyCat 鲨鲨:@SharkyCola 宝宝:@WindyLuster",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 41,
+                "username": "GrapeJellyCat"
+              },
+              {
+                "end": 70,
+                "start": 59,
+                "username": "SharkyCola"
+              },
+              {
+                "end": 86,
+                "start": 74,
+                "username": "WindyLuster"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星波波🏳️‍⚧️",
+        "pinned_tweet_id": "2032678873977205221",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032817226680774656/ga377Pls_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 83,
+          "like_count": 502,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 1217
+        },
+        "username": "StarryNocts",
+        "verified": false
+      }
+    ]
+  }
+}

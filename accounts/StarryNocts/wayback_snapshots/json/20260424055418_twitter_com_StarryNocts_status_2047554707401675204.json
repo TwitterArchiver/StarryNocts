@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2047544504362979496",
+    "created_at": "2026-04-24T05:54:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T06:54:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047554707401675204"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1596190117273763842",
+          "start": 0,
+          "username": "Chongchong31029"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047554707401675204",
+    "in_reply_to_user_id": "1596190117273763842",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047544504362979496",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chongchong31029 吃的话肚子会难受的…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2047544493675872256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGpW3l9bgAAdmGW.jpg",
+        "width": 1035
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2047544504362979496",
+        "created_at": "2026-04-24T05:54:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T06:54:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047554707401675204"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1596190117273763842",
+              "start": 0,
+              "username": "Chongchong31029"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047554707401675204",
+        "in_reply_to_user_id": "1596190117273763842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047544504362979496",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chongchong31029 吃的话肚子会难受的…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047544493675872256"
+          ]
+        },
+        "author_id": "1596190117273763842",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2047544504362979496",
+        "created_at": "2026-04-24T05:13:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T06:13:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047544504362979496"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JXhT1oCWoJ",
+              "end": 37,
+              "expanded_url": "https://x.com/Chongchong31029/status/2047544504362979496/photo/1",
+              "media_key": "3_2047544493675872256",
+              "start": 14,
+              "url": "https://t.co/JXhT1oCWoJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047544504362979496",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Only 0.4g.... https://t.co/JXhT1oCWoJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "07｜MTX🏳‍⚧｜死肥宅｜无糖｜健全b｜社会学｜焦虑中｜备用:@StarryNoct 小号:@WindyLuster\n对不起对不起对不起我的错 无人在意 凭感觉回fo（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 32,
+                "username": "StarryNoct"
+              },
+              {
+                "end": 59,
+                "start": 47,
+                "username": "WindyLuster"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星笨笨✨",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047542922447638528/3EZlA0VQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 443,
+          "following_count": 305,
+          "like_count": 3220,
+          "listed_count": 0,
+          "media_count": 160,
+          "tweet_count": 4430
+        },
+        "username": "StarryNocts",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-25T17:12:43.000Z",
+        "description": "160 50kg 无证含糖2025.11 hrt不涉政，不鉴证",
+        "id": "1596190117273763842",
+        "location": "北京",
+        "name": "花汀酒🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045187697954918400/VLcPTvwG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 374,
+          "like_count": 721,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 190
+        },
+        "username": "Chongchong31029",
+        "verified": false
+      }
+    ]
+  }
+}

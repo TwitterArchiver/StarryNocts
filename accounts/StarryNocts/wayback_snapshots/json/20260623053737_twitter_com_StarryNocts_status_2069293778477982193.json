@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2069250271377756502",
+    "created_at": "2026-06-23T05:37:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T06:37:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069293778477982193"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1872013127560450048",
+          "start": 0,
+          "username": "TY2D0721"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069293778477982193",
+    "in_reply_to_user_id": "1872013127560450048",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069293722798579911",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TY2D0721 你更好看"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2069250271377756502",
+        "created_at": "2026-06-23T05:37:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T06:37:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069293778477982193"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1872013127560450048",
+              "start": 0,
+              "username": "TY2D0721"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069293778477982193",
+        "in_reply_to_user_id": "1872013127560450048",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069293722798579911",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TY2D0721 你更好看"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1872013127560450048",
+        "conversation_id": "2069250271377756502",
+        "created_at": "2026-06-23T05:37:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T06:37:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069293722798579911"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1343151486432399360",
+              "start": 0,
+              "username": "StarryNocts"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069293722798579911",
+        "in_reply_to_user_id": "1343151486432399360",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069250271377756502",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StarryNocts 好看"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "07｜mtx🏳‍⚧｜xnn｜死肥宅｜无糖｜清水｜社恐不线下｜社会学｜焦虑玉玉中｜备用:@StarryNoct ｜老公:@chinyu_ouo \n对不起对不起对不起我的错 无人在意 互fo请私信（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 43,
+                "username": "StarryNoct"
+              },
+              {
+                "end": 70,
+                "start": 59,
+                "username": "chinyu_ouo"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星笨笨✨",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067758567839739904/R4rYmxfQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1414,
+          "following_count": 759,
+          "like_count": 4146,
+          "listed_count": 3,
+          "media_count": 242,
+          "tweet_count": 7864
+        },
+        "url": "",
+        "username": "StarryNocts",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-25T20:15:02.000Z",
+        "description": "16岁 性别男 176cm/58kg 推当朋友圈发 \n不线下 可以找我聊天",
+        "id": "1872013127560450048",
+        "name": "Wting",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068155778331213824/9cq34C8P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 100,
+          "like_count": 707,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 31
+        },
+        "url": "",
+        "username": "TY2D0721",
+        "verified": false
+      }
+    ]
+  }
+}

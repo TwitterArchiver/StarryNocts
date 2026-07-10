@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2055564156791898157",
+    "created_at": "2026-05-17T02:32:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T03:32:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055838865731240174"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1812363069487742976",
+          "start": 0,
+          "username": "mingji_A"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055838865731240174",
+    "in_reply_to_user_id": "1812363069487742976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055564156791898157",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mingji_A 贴贴！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3898,
+        "media_key": "3_2055307576917848064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIXrWgpbcAAM17A.jpg",
+        "width": 2924
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2055564156791898157",
+        "created_at": "2026-05-17T02:32:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T03:32:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055838865731240174"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1812363069487742976",
+              "start": 0,
+              "username": "mingji_A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055838865731240174",
+        "in_reply_to_user_id": "1812363069487742976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055564156791898157",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mingji_A 贴贴！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055307576917848064"
+          ]
+        },
+        "author_id": "1812363069487742976",
+        "conversation_id": "2055564156791898157",
+        "created_at": "2026-05-16T08:21:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T09:21:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055564156791898157"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 33,
+              "start": 30,
+              "tag": "男娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8zj7Q1zeKX",
+              "end": 57,
+              "expanded_url": "https://x.com/mingji_A/status/2055564156791898157/photo/1",
+              "media_key": "3_2055307576917848064",
+              "start": 34,
+              "url": "https://t.co/8zj7Q1zeKX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055564156791898157",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 2079,
+          "like_count": 135,
+          "quote_count": 0,
+          "reply_count": 41,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "B站在一起了\n学习在一块儿了\n跨年在一起了\n猫都馋起来了🤓\n#男娘 https://t.co/8zj7Q1zeKX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "07｜mtx🏳‍⚧｜死肥宅｜无糖｜社会学｜焦虑玉玉中｜备用:@StarryNoct \n对不起对不起对不起我的错 无人在意 回fo请私信（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 30,
+                "username": "StarryNoct"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星笨笨✨",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055173607526121472/haV2R87z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 800,
+          "following_count": 482,
+          "like_count": 4047,
+          "listed_count": 3,
+          "media_count": 204,
+          "tweet_count": 6029
+        },
+        "username": "StarryNocts",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-14T05:46:53.000Z",
+        "description": "我总以为自己是独一无二的，直到需要起一个用户名的时候",
+        "id": "1812363069487742976",
+        "location": "广州",
+        "name": "銘紀Å",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008927021653757952/qD2IxV8A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3984,
+          "following_count": 2526,
+          "like_count": 93250,
+          "listed_count": 20,
+          "media_count": 192,
+          "tweet_count": 20219
+        },
+        "username": "mingji_A",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2055156295762857990",
+    "created_at": "2026-05-16T00:04:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T01:04:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055439208001736797"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1658975618988666881",
+          "start": 0,
+          "username": "skilltns10066"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055439208001736797",
+    "in_reply_to_user_id": "1658975618988666881",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055425262049992908",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@skilltns10066 🥺🥺🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2055156295762857990",
+        "created_at": "2026-05-16T00:04:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T01:04:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055439208001736797"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1658975618988666881",
+              "start": 0,
+              "username": "skilltns10066"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055439208001736797",
+        "in_reply_to_user_id": "1658975618988666881",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055425262049992908",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@skilltns10066 🥺🥺🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1658975618988666881",
+        "conversation_id": "2055156295762857990",
+        "created_at": "2026-05-15T23:09:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T00:09:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055425262049992908"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1343151486432399360",
+              "start": 0,
+              "username": "StarryNocts"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055425262049992908",
+        "in_reply_to_user_id": "1343151486432399360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055156295762857990",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StarryNocts 你很可爱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "07｜mtx🏳‍⚧｜死肥宅｜无糖｜社会学｜焦虑玉玉中｜备用:@StarryNoct \n对不起对不起对不起我的错 无人在意 回fo请私信（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 30,
+                "username": "StarryNoct"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星笨笨✨",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055173607526121472/haV2R87z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 758,
+          "following_count": 470,
+          "like_count": 4037,
+          "listed_count": 3,
+          "media_count": 203,
+          "tweet_count": 5941
+        },
+        "username": "StarryNocts",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-17T23:19:55.000Z",
+        "description": "看不愦就亲自下场，我只是个普通人，就喜欢看自己喜欢的东西，开心就行",
+        "id": "1658975618988666881",
+        "location": "翁法罗斯的终末",
+        "name": "我很抱歉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050029886828695552/ZfT4QEDp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 1690,
+          "like_count": 5619,
+          "listed_count": 0,
+          "media_count": 92,
+          "tweet_count": 405
+        },
+        "username": "skilltns10066",
+        "verified": false
+      }
+    ]
+  }
+}

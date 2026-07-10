@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2045086027396927832",
+    "created_at": "2026-04-18T14:04:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T15:04:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045503743769415906"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2034329435042938880",
+          "start": 0,
+          "username": "AnthonyHer82061"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045503743769415906",
+    "in_reply_to_user_id": "2034329435042938880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045491677926773199",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AnthonyHer82061 养你大坝 你没有父母吗？？？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2045086027396927832",
+        "created_at": "2026-04-18T14:04:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T15:04:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045503743769415906"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2034329435042938880",
+              "start": 0,
+              "username": "AnthonyHer82061"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045503743769415906",
+        "in_reply_to_user_id": "2034329435042938880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045491677926773199",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AnthonyHer82061 养你大坝 你没有父母吗？？？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034329435042938880",
+        "conversation_id": "2045086027396927832",
+        "created_at": "2026-04-18T13:16:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T14:16:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045491677926773199"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1343151486432399360",
+              "start": 0,
+              "username": "StarryNocts"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045491677926773199",
+        "in_reply_to_user_id": "1343151486432399360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045086027396927832",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StarryNocts 谁来‌养我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "07｜MTX🏳️‍⚧️｜无糖｜皮下男｜死肥宅｜社会学｜焦虑中｜备用:@StarryNoct 小号:@WindyLuster\n对不起对不起对不起我的错 无人在意 凭感觉回fo（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 34,
+                "username": "StarryNoct"
+              },
+              {
+                "end": 61,
+                "start": 49,
+                "username": "WindyLuster"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星波波✨",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032817226680774656/ga377Pls_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 411,
+          "following_count": 279,
+          "like_count": 2935,
+          "listed_count": 0,
+          "media_count": 151,
+          "tweet_count": 4137
+        },
+        "username": "StarryNocts",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-18T18:01:54.000Z",
+        "description": "已入驻约p平台:👉https://t.co/1ofj8Vi8Z9只在平台上约推特绝大部分女主播都入驻的平台，安全可靠.下载直接打开不用注册，日常更新具体位置平台都有显示",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "d93g.top",
+                "end": 32,
+                "expanded_url": "http://d93g.top",
+                "start": 9,
+                "url": "https://t.co/1ofj8Vi8Z9"
+              }
+            ]
+          }
+        },
+        "id": "2034329435042938880",
+        "location": "附近2.88km",
+        "name": "含灵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045491704376045568/OV2jd4ia_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 12,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 267
+        },
+        "username": "AnthonyHer82061",
+        "verified": false
+      }
+    ]
+  }
+}

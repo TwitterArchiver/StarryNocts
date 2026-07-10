@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2069250271377756502",
+    "created_at": "2026-06-23T12:25:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T13:25:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069396539320189082"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2049152504542449664",
+          "start": 0,
+          "username": "hasaki_sama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069396539320189082",
+    "in_reply_to_user_id": "2049152504542449664",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069382498354926038",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hasaki_sama 🥰🥰🥰"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 300,
+        "media_key": "16_2069382477060468736",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HLfsZhmbcAAesBP.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HLfsZhmbcAAesBP.mp4"
+          }
+        ],
+        "width": 300
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2069250271377756502",
+        "created_at": "2026-06-23T12:25:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T13:25:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069396539320189082"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2049152504542449664",
+              "start": 0,
+              "username": "hasaki_sama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069396539320189082",
+        "in_reply_to_user_id": "2049152504542449664",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069382498354926038",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hasaki_sama 🥰🥰🥰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2069382477060468736"
+          ]
+        },
+        "author_id": "2049152504542449664",
+        "conversation_id": "2069250271377756502",
+        "created_at": "2026-06-23T11:30:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T12:30:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069382498354926038"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1343151486432399360",
+              "start": 0,
+              "username": "StarryNocts"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TG4sfp9hSs",
+              "end": 42,
+              "expanded_url": "https://x.com/hasaki_sama/status/2069382498354926038/photo/1",
+              "media_key": "16_2069382477060468736",
+              "start": 19,
+              "url": "https://t.co/TG4sfp9hSs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069382498354926038",
+        "in_reply_to_user_id": "1343151486432399360",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069250271377756502",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StarryNocts 可愛いね！ https://t.co/TG4sfp9hSs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "07｜mtx🏳‍⚧｜xnn｜死肥宅｜无糖｜清水｜社恐不线下｜社会学｜焦虑玉玉中｜备用:@StarryNoct ｜老公:@chinyu_ouo \n对不起对不起对不起我的错 无人在意 互fo请私信（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 43,
+                "username": "StarryNoct"
+              },
+              {
+                "end": 70,
+                "start": 59,
+                "username": "chinyu_ouo"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星笨笨✨",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067758567839739904/R4rYmxfQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1419,
+          "following_count": 761,
+          "like_count": 4148,
+          "listed_count": 3,
+          "media_count": 243,
+          "tweet_count": 7896
+        },
+        "url": "",
+        "username": "StarryNocts",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-28T15:48:05.000Z",
+        "description": "An graduated junior high student from China ( ^ω^ )\n爱好 AI科技/信息技术/日本語/ACG/羽球🏸\nLGBTQ+/友跨🍥/鉴证❌\n目前正励志成为一名合格的Developer！",
+        "id": "2049152504542449664",
+        "location": "Sapporo City Higashi Ward",
+        "name": "Neko 🐾",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065503629424095233/2n7J0sWL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 213,
+          "like_count": 870,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 431
+        },
+        "url": "",
+        "username": "hasaki_sama",
+        "verified": false
+      }
+    ]
+  }
+}

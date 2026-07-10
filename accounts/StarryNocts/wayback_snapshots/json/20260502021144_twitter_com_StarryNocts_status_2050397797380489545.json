@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2050397717353091072"
+      ]
+    },
+    "author_id": "1343151486432399360",
+    "conversation_id": "2050397797380489545",
+    "created_at": "2026-05-02T02:11:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T03:11:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050397797380489545"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/G2Gey61Vkw",
+          "end": 33,
+          "expanded_url": "https://x.com/StarryNocts/status/2050397797380489545/video/1",
+          "media_key": "7_2050397717353091072",
+          "start": 10,
+          "url": "https://t.co/G2Gey61Vkw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050397797380489545",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "鲨鲨变大之术！！！ https://t.co/G2Gey61Vkw"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 2647,
+        "height": 1280,
+        "media_key": "7_2050397717353091072",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2050397717353091072/pu/img/si-zNEb2KqHFtUV-.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2050397717353091072/pu/vid/avc1/320x568/n5BsH-lHbOfh2HiV.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2050397717353091072/pu/vid/avc1/480x852/mJ6XqeWQZRRVTbl9.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2050397717353091072/pu/vid/avc1/720x1280/CNUp3NAp94PilROR.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2050397717353091072/pu/pl/a2UVWl_0nPmOvNUB.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2050397717353091072"
+          ]
+        },
+        "author_id": "1343151486432399360",
+        "conversation_id": "2050397797380489545",
+        "created_at": "2026-05-02T02:11:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T03:11:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050397797380489545"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/G2Gey61Vkw",
+              "end": 33,
+              "expanded_url": "https://x.com/StarryNocts/status/2050397797380489545/video/1",
+              "media_key": "7_2050397717353091072",
+              "start": 10,
+              "url": "https://t.co/G2Gey61Vkw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050397797380489545",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "鲨鲨变大之术！！！ https://t.co/G2Gey61Vkw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "07｜MTX🏳‍⚧｜死肥宅｜无糖｜健全b｜社会学｜焦虑中｜乖宝宝:@xiey57828 ｜备用:@StarryNoct \n对不起对不起对不起我的错 无人在意 回fo请私信（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 33,
+                "username": "xiey57828"
+              },
+              {
+                "end": 59,
+                "start": 48,
+                "username": "StarryNoct"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星笨笨✨",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047542922447638528/3EZlA0VQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 514,
+          "following_count": 349,
+          "like_count": 3580,
+          "listed_count": 1,
+          "media_count": 174,
+          "tweet_count": 5087
+        },
+        "username": "StarryNocts",
+        "verified": false
+      }
+    ]
+  }
+}

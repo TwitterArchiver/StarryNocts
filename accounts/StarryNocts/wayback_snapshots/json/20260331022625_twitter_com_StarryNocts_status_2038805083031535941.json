@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2038805083031535941",
+    "created_at": "2026-03-31T02:26:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T03:26:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038805083031535941"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "Provided to YouTube by Gold Typhoon TaiwanDear God · David TaoBlack Tangerine℗ 2004 Gold Typhoon Music Co. Ltd.Drums: Abraham Laboriel Jr.Producer: Andrew Ch...",
+          "display_url": "youtu.be/WY3i3efkJto?si…",
+          "end": 50,
+          "expanded_url": "https://youtu.be/WY3i3efkJto?si=oLdqYnkDrDo9lYoj",
+          "images": [
+            {
+              "height": 720,
+              "url": "https://pbs.twimg.com/news_img/2038805086902816768/jVjT62Or?format=jpg&name=orig",
+              "width": 1280
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2038805086902816768/jVjT62Or?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 27,
+          "status": 200,
+          "title": "Dear God",
+          "unwound_url": "https://www.youtube.com/watch?si=oLdqYnkDrDo9lYoj&v=WY3i3efkJto&feature=youtu.be",
+          "url": "https://t.co/w2AYrCxsDX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038805083031535941",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "Dear God 为什么你闭上眼不想想办法 装做看不见https://t.co/w2AYrCxsDX"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2038805083031535941",
+        "created_at": "2026-03-31T02:26:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T03:26:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038805083031535941"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Provided to YouTube by Gold Typhoon TaiwanDear God · David TaoBlack Tangerine℗ 2004 Gold Typhoon Music Co. Ltd.Drums: Abraham Laboriel Jr.Producer: Andrew Ch...",
+              "display_url": "youtu.be/WY3i3efkJto?si…",
+              "end": 50,
+              "expanded_url": "https://youtu.be/WY3i3efkJto?si=oLdqYnkDrDo9lYoj",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/2038805086902816768/jVjT62Or?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2038805086902816768/jVjT62Or?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 27,
+              "status": 200,
+              "title": "Dear God",
+              "unwound_url": "https://www.youtube.com/watch?si=oLdqYnkDrDo9lYoj&v=WY3i3efkJto&feature=youtu.be",
+              "url": "https://t.co/w2AYrCxsDX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038805083031535941",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Dear God 为什么你闭上眼不想想办法 装做看不见https://t.co/w2AYrCxsDX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "07｜mtx🏳️‍⚧️｜无糖｜死肥宅｜焦虑中｜健全b｜社会学｜致歉一切｜备用:@StarryNoct 小号:@WindyLuster\n对不起大家 无人在意 凭感觉回fo（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 39,
+                "username": "StarryNoct"
+              },
+              {
+                "end": 66,
+                "start": 54,
+                "username": "WindyLuster"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星波波🏳️‍⚧️",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032817226680774656/ga377Pls_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 184,
+          "following_count": 142,
+          "like_count": 980,
+          "listed_count": 0,
+          "media_count": 100,
+          "tweet_count": 1923
+        },
+        "username": "StarryNocts",
+        "verified": false
+      }
+    ]
+  }
+}

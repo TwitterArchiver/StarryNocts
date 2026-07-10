@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2033016126985376101",
+    "created_at": "2026-03-15T04:31:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-15T05:31:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033038371308859569"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1500855672480489475",
+          "start": 0,
+          "username": "Usep_111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033038371308859569",
+    "in_reply_to_user_id": "1500855672480489475",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033016126985376101",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Usep_111 手淫 嫖娼全打错了\n这群瞎扯淡宣传导致的心理问题才会造成这些后果。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2033016114134003716",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDa5YmmaMAQREG1.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2033016126985376101",
+        "created_at": "2026-03-15T04:31:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T05:31:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033038371308859569"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1500855672480489475",
+              "start": 0,
+              "username": "Usep_111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033038371308859569",
+        "in_reply_to_user_id": "1500855672480489475",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033016126985376101",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Usep_111 手淫 嫖娼全打错了\n这群瞎扯淡宣传导致的心理问题才会造成这些后果。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033016114134003716"
+          ]
+        },
+        "author_id": "1500855672480489475",
+        "conversation_id": "2033016126985376101",
+        "created_at": "2026-03-15T03:03:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T04:03:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033016126985376101"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qZN88i4xkw",
+              "end": 25,
+              "expanded_url": "https://x.com/Usep_111/status/2033016126985376101/photo/1",
+              "media_key": "3_2033016114134003716",
+              "start": 2,
+              "url": "https://t.co/qZN88i4xkw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033016126985376101",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 63,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "呃 https://t.co/qZN88i4xkw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "07｜mtx🏳️‍⚧️｜无糖｜死肥宅｜焦虑中｜健全b｜致歉一切｜",
+        "id": "1343151486432399360",
+        "name": "​碎星波波🏳️‍⚧️",
+        "pinned_tweet_id": "2032678873977205221",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032817226680774656/ga377Pls_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 82,
+          "like_count": 499,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 1173
+        },
+        "username": "StarryNocts",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-07T15:27:45.000Z",
+        "description": "请息交以绝游",
+        "id": "1500855672480489475",
+        "name": "卡塔丽娜",
+        "pinned_tweet_id": "1997003294007591248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028113867411517440/lN0F3xhh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 374,
+          "following_count": 608,
+          "like_count": 2124,
+          "listed_count": 0,
+          "media_count": 102,
+          "tweet_count": 980
+        },
+        "username": "Usep_111",
+        "verified": false
+      }
+    ]
+  }
+}

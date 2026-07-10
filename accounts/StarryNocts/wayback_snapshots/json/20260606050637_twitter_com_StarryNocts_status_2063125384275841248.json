@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2063046838585098244",
+    "created_at": "2026-06-06T05:06:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T06:06:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063125384275841248"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1478718800682156037",
+          "start": 0,
+          "username": "ABC59487"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063125384275841248",
+    "in_reply_to_user_id": "1478718800682156037",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063099870647586957",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ABC59487 真的…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2063046838585098244",
+        "created_at": "2026-06-06T05:06:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T06:06:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063125384275841248"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1478718800682156037",
+              "start": 0,
+              "username": "ABC59487"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063125384275841248",
+        "in_reply_to_user_id": "1478718800682156037",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063099870647586957",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ABC59487 真的…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1478718800682156037",
+        "conversation_id": "2063046838585098244",
+        "created_at": "2026-06-06T03:25:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T04:25:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063099870647586957"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1343151486432399360",
+              "start": 0,
+              "username": "StarryNocts"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063099870647586957",
+        "in_reply_to_user_id": "1343151486432399360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063046838585098244",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StarryNocts 假的，一定很可愛只是都在謙虛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "07｜mtx🏳‍⚧｜xnn｜死肥宅｜无糖｜清水｜社恐不线下｜社会学｜焦虑玉玉中｜宝宝:@as_qwq0721｜姐妹:@xiey57828 @LeavesMao｜备用:@StarryNoct \n对不起对不起对不起我的错 无人在意 互fo请私信（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 43,
+                "username": "as_qwq0721"
+              },
+              {
+                "end": 68,
+                "start": 58,
+                "username": "xiey57828"
+              },
+              {
+                "end": 79,
+                "start": 69,
+                "username": "LeavesMao"
+              },
+              {
+                "end": 94,
+                "start": 83,
+                "username": "StarryNoct"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星笨笨✨",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057743777272582144/voe61BiT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1318,
+          "following_count": 703,
+          "like_count": 4132,
+          "listed_count": 3,
+          "media_count": 227,
+          "tweet_count": 7256
+        },
+        "username": "StarryNocts",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-05T13:23:47.000Z",
+        "description": "杏眾一位",
+        "id": "1478718800682156037",
+        "location": "番薯島嶼上",
+        "name": "浮游廢物阿介 單推老大",
+        "pinned_tweet_id": "1575113759168700418",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029782900129013760/bcJLlDoD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 845,
+          "like_count": 24121,
+          "listed_count": 2,
+          "media_count": 422,
+          "tweet_count": 10383
+        },
+        "username": "ABC59487",
+        "verified": false
+      }
+    ]
+  }
+}

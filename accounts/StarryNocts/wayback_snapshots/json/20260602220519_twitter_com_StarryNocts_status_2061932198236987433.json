@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2061659822081319369",
+    "created_at": "2026-06-02T22:05:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T23:05:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061932198236987433"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1336272590134886400",
+          "start": 0,
+          "username": "xl2895213884"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061932198236987433",
+    "in_reply_to_user_id": "1336272590134886400",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061825246475563457",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xl2895213884 🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2061659822081319369",
+        "created_at": "2026-06-02T22:05:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T23:05:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061932198236987433"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1336272590134886400",
+              "start": 0,
+              "username": "xl2895213884"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061932198236987433",
+        "in_reply_to_user_id": "1336272590134886400",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061825246475563457",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xl2895213884 🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1336272590134886400",
+        "conversation_id": "2061659822081319369",
+        "created_at": "2026-06-02T15:00:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T16:00:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061825246475563457"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1343151486432399360",
+              "start": 0,
+              "username": "StarryNocts"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061825246475563457",
+        "in_reply_to_user_id": "1343151486432399360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061659822081319369",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StarryNocts 水色系都是很贵的，老师好好看"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "07｜mtx🏳‍⚧｜xnn｜死肥宅｜无糖｜清水｜社恐不线下｜社会学｜焦虑玉玉中｜宝宝:@as_qwq0721｜姐妹:@xiey57828 @LeavesMao｜备用:@StarryNoct \n对不起对不起对不起我的错 无人在意 互fo请私信（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 43,
+                "username": "as_qwq0721"
+              },
+              {
+                "end": 68,
+                "start": 58,
+                "username": "xiey57828"
+              },
+              {
+                "end": 79,
+                "start": 69,
+                "username": "LeavesMao"
+              },
+              {
+                "end": 94,
+                "start": 83,
+                "username": "StarryNoct"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星笨笨✨",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057743777272582144/voe61BiT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1179,
+          "following_count": 658,
+          "like_count": 4129,
+          "listed_count": 3,
+          "media_count": 224,
+          "tweet_count": 7058
+        },
+        "username": "StarryNocts",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-08T11:33:20.000Z",
+        "description": "来自山东济南的萌新，超喜欢二次元和绳艺，欢迎各位同好一起来交流扩列",
+        "id": "1336272590134886400",
+        "name": "Qing chu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1527258804588408833/rMPcCUMu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 185,
+          "following_count": 1392,
+          "like_count": 1323,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 200
+        },
+        "username": "xl2895213884",
+        "verified": false
+      }
+    ]
+  }
+}

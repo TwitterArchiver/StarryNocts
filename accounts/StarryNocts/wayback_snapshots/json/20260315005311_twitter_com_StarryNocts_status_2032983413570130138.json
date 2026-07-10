@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2032891837342691504",
+    "created_at": "2026-03-15T00:53:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-15T01:53:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032983413570130138"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1922968799273418753",
+          "start": 0,
+          "username": "MoyerLiv81991"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032983413570130138",
+    "in_reply_to_user_id": "1922968799273418753",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032891837342691504",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MoyerLiv81991 晚安的这种“成瘾”不同于pr成瘾 精确来说是生理依赖 主要问题是晚安促进多巴胺 身体调控使多巴胺受体减少 以及与NMDA受体结合 身体调控NMDA受体增加 烷胺的问题本质上是受体数量变化导致的 而pr问题更严重 它影响了钙离子通道 改变了突触了正常连接 影响正常思维 而晚安的受体问题只是pr问题的一小部分"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2032891828786372608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDZIWPmbIAAy9Qy.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2032891837342691504",
+        "created_at": "2026-03-15T00:53:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T01:53:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032983413570130138"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1922968799273418753",
+              "start": 0,
+              "username": "MoyerLiv81991"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032983413570130138",
+        "in_reply_to_user_id": "1922968799273418753",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032891837342691504",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MoyerLiv81991 晚安的这种“成瘾”不同于pr成瘾 精确来说是生理依赖 主要问题是晚安促进多巴胺 身体调控使多巴胺受体减少 以及与NMDA受体结合 身体调控NMDA受体增加 烷胺的问题本质上是受体数量变化导致的 而pr问题更严重 它影响了钙离子通道 改变了突触了正常连接 影响正常思维 而晚安的受体问题只是pr问题的一小部分"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032891828786372608"
+          ]
+        },
+        "author_id": "1922968799273418753",
+        "conversation_id": "2032891837342691504",
+        "created_at": "2026-03-14T18:49:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T19:49:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032891837342691504"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/evOxphLArM",
+              "end": 41,
+              "expanded_url": "https://x.com/MoyerLiv81991/status/2032891837342691504/photo/1",
+              "media_key": "3_2032891828786372608",
+              "start": 18,
+              "url": "https://t.co/evOxphLArM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032891837342691504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么会有对晚安成瘾的😁什么心理😁 https://t.co/evOxphLArM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "07｜mtx🏳️‍⚧️｜无糖｜死肥宅｜焦虑中｜健全b｜致歉一切｜",
+        "id": "1343151486432399360",
+        "name": "​碎星波波🏳️‍⚧️",
+        "pinned_tweet_id": "2032678873977205221",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032817226680774656/ga377Pls_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 82,
+          "like_count": 497,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 1166
+        },
+        "username": "StarryNocts",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-15T10:54:35.000Z",
+        "description": "｜已精卫｜已扭转｜双向｜已升天｜策划药代理可以找窝｜二代目｜🏳️‍⚧️🍥｜14岁｜",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "od-wiki.com",
+                "end": 23,
+                "expanded_url": "https://www.od-wiki.com/",
+                "start": 0,
+                "url": "https://t.co/3qR73zw2Os"
+              }
+            ]
+          }
+        },
+        "id": "1922968799273418753",
+        "location": "✝️升天✝️",
+        "name": "洛雨🍥💊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032877156905459712/m61Zx2Uf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 42,
+          "like_count": 84,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 31
+        },
+        "url": "https://t.co/3qR73zw2Os",
+        "username": "MoyerLiv81991",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2057757424233390407",
+    "created_at": "2026-05-22T12:17:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T13:17:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057798111293231589"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1636232016231542784",
+          "start": 0,
+          "username": "SEuyrj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057798111293231589",
+    "in_reply_to_user_id": "1636232016231542784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057757424233390407",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SEuyrj 这么爽！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 516,
+        "media_key": "3_2057757414116724736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI6fdzZakAA90q8.jpg",
+        "width": 738
+      },
+      {
+        "height": 2442,
+        "media_key": "3_2057757414091583488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI6fdzTa8AAgvSg.jpg",
+        "width": 1122
+      },
+      {
+        "height": 2442,
+        "media_key": "3_2057757416260022272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI6fd7YasAAduVJ.jpg",
+        "width": 1122
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2057757424233390407",
+        "created_at": "2026-05-22T12:17:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T13:17:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057798111293231589"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1636232016231542784",
+              "start": 0,
+              "username": "SEuyrj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057798111293231589",
+        "in_reply_to_user_id": "1636232016231542784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057757424233390407",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SEuyrj 这么爽！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057757414116724736",
+            "3_2057757414091583488",
+            "3_2057757416260022272"
+          ]
+        },
+        "author_id": "1636232016231542784",
+        "conversation_id": "2057757424233390407",
+        "created_at": "2026-05-22T09:36:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T10:36:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057757424233390407"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LGqMGo17zy",
+              "end": 35,
+              "expanded_url": "https://x.com/SEuyrj/status/2057757424233390407/photo/1",
+              "media_key": "3_2057757414116724736",
+              "start": 12,
+              "url": "https://t.co/LGqMGo17zy"
+            },
+            {
+              "display_url": "pic.x.com/LGqMGo17zy",
+              "end": 35,
+              "expanded_url": "https://x.com/SEuyrj/status/2057757424233390407/photo/1",
+              "media_key": "3_2057757414091583488",
+              "start": 12,
+              "url": "https://t.co/LGqMGo17zy"
+            },
+            {
+              "display_url": "pic.x.com/LGqMGo17zy",
+              "end": 35,
+              "expanded_url": "https://x.com/SEuyrj/status/2057757424233390407/photo/1",
+              "media_key": "3_2057757416260022272",
+              "start": 12,
+              "url": "https://t.co/LGqMGo17zy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057757424233390407",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我现在什么都不缺了！！ https://t.co/LGqMGo17zy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "07🥺｜mtx🏳‍⚧｜死肥宅🤬｜无糖🍥｜清水🙂｜社恐不线下😢｜社会学😖｜焦虑玉玉中😇｜备用:@StarryNoct \n对不起对不起对不起我的错 无人在意 互fo请私信（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 46,
+                "username": "StarryNoct"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星笨笨✨",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057743777272582144/voe61BiT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 957,
+          "following_count": 561,
+          "like_count": 4110,
+          "listed_count": 3,
+          "media_count": 212,
+          "tweet_count": 6492
+        },
+        "username": "StarryNocts",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-16T05:04:59.000Z",
+        "description": "好想雌堕喵～🐾\n  是小花酱🌸～/小男娘🥴（非🍥）/偶尔会女装🥺/我会在twitter发布我的日常😖（堕小花：非公开内容可以联系私信）/轻微社恐胆小，不怎么会说话，是笨蛋…😣尽量友好待人（如果伤到你了我深感抱歉）/我的小暖宝宝：星野日向 @1234568hhhhh💌",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 132,
+                "start": 119,
+                "username": "1234568hhhhh"
+              }
+            ]
+          }
+        },
+        "id": "1636232016231542784",
+        "location": "唐辛子星",
+        "name": "老婆大人～🌸",
+        "pinned_tweet_id": "2036042430047461721",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009657883202609152/0glQAFQw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 921,
+          "following_count": 675,
+          "like_count": 11994,
+          "listed_count": 0,
+          "media_count": 468,
+          "tweet_count": 3835
+        },
+        "username": "SEuyrj",
+        "verified": false
+      }
+    ]
+  }
+}

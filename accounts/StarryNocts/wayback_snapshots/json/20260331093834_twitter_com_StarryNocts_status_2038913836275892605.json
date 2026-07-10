@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2038729602387063197",
+    "created_at": "2026-03-31T09:38:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T10:38:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038913836275892605"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1476198137589268480",
+          "start": 0,
+          "username": "N3kuv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038913836275892605",
+    "in_reply_to_user_id": "1476198137589268480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038871931706085506",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@N3kuv 短期和欣快感什么的 对于治疗都不太好吧…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2038729602387063197",
+        "created_at": "2026-03-31T09:38:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T10:38:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038913836275892605"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1476198137589268480",
+              "start": 0,
+              "username": "N3kuv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038913836275892605",
+        "in_reply_to_user_id": "1476198137589268480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038871931706085506",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@N3kuv 短期和欣快感什么的 对于治疗都不太好吧…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476198137589268480",
+        "conversation_id": "2038729602387063197",
+        "created_at": "2026-03-31T06:52:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T07:52:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038871931706085506"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1343151486432399360",
+              "start": 0,
+              "username": "StarryNocts"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038871931706085506",
+        "in_reply_to_user_id": "1343151486432399360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 171,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038729602387063197",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StarryNocts 太无聊，而且起效时间太长了，无论是拿来o还是治病都比不起opr带来的短期抗焦虑和欣快感"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "07｜mtx🏳️‍⚧️｜无糖｜死肥宅｜焦虑中｜健全b｜社会学｜致歉一切｜备用:@StarryNoct 小号:@WindyLuster\n对不起大家 无人在意 凭感觉回fo（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 39,
+                "username": "StarryNoct"
+              },
+              {
+                "end": 66,
+                "start": 54,
+                "username": "WindyLuster"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星波波🏳️‍⚧️",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032817226680774656/ga377Pls_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 205,
+          "following_count": 148,
+          "like_count": 1007,
+          "listed_count": 0,
+          "media_count": 105,
+          "tweet_count": 1957
+        },
+        "username": "StarryNocts",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-29T14:29:24.000Z",
+        "description": "Overdose/shtwt(暂停营业)/药理学/精神病学/心理学/非二元偏男/恶俗男同性恋/犬儒主义/后现代主义",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.psychonautwiki.org/wiki/Trihexyph…",
+                "end": 23,
+                "expanded_url": "https://m.psychonautwiki.org/wiki/Trihexyphenidyl",
+                "start": 0,
+                "url": "https://t.co/bE8vnoa6yU"
+              }
+            ]
+          }
+        },
+        "id": "1476198137589268480",
+        "location": "你家",
+        "name": "脑脊液之梦",
+        "pinned_tweet_id": "2034882223376306495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036955208803328000/2XjP3lkm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 230,
+          "like_count": 3533,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 890
+        },
+        "url": "https://t.co/bE8vnoa6yU",
+        "username": "N3kuv",
+        "verified": false
+      }
+    ]
+  }
+}

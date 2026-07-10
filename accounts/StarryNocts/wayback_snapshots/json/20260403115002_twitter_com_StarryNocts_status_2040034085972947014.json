@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2040033817982116019",
+    "created_at": "2026-04-03T11:50:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T12:50:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040034085972947014"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1892240715100594176",
+          "start": 0,
+          "username": "chuF6yuanmen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040034085972947014",
+    "in_reply_to_user_id": "1892240715100594176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040033817982116019",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chuF6yuanmen 对哦！鲨鲨！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2040033817982116019",
+        "created_at": "2026-04-03T11:50:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T12:50:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040034085972947014"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1892240715100594176",
+              "start": 0,
+              "username": "chuF6yuanmen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040034085972947014",
+        "in_reply_to_user_id": "1892240715100594176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040033817982116019",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chuF6yuanmen 对哦！鲨鲨！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892240715100594176",
+        "conversation_id": "2040033817982116019",
+        "created_at": "2026-04-03T11:48:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T12:48:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040033817982116019"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/XiaoHuiHuiH/st…",
+              "end": 105,
+              "expanded_url": "https://twitter.com/XiaoHuiHuiH/status/1953530138668183800",
+              "start": 82,
+              "url": "https://t.co/lslZIk8QOU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040033817982116019",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953530138668183800",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "xyn不能自杀喔，不然每天抱抱的鲨鲨会没有家的。。然后被父母丢进阴冷潮湿臭臭的垃圾桶。鲨鲨会伤心的，会怀念主人的抱抱的。多抱抱鲨鲨，不要让可爱的鲨鲨无家可归呢。。 https://t.co/lslZIk8QOU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "07｜mtx🏳️‍⚧️｜无糖｜死肥宅｜焦虑中｜健全b｜社会学｜致歉一切｜备用:@StarryNoct 小号:@WindyLuster\n对不起大家 无人在意 记录生活 凭感觉回fo（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 39,
+                "username": "StarryNoct"
+              },
+              {
+                "end": 66,
+                "start": 54,
+                "username": "WindyLuster"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "location": "摸鱼中…",
+        "name": "​碎星波波✨",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032817226680774656/ga377Pls_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 259,
+          "following_count": 202,
+          "like_count": 1382,
+          "listed_count": 0,
+          "media_count": 116,
+          "tweet_count": 2341
+        },
+        "username": "StarryNocts",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-19T15:52:22.000Z",
+        "description": "算是mtf吧 药区  闺蜜 @txlvo_ @xixijiang125714",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 14,
+                "username": "txlvo_"
+              },
+              {
+                "end": 38,
+                "start": 22,
+                "username": "xixijiang125714"
+              }
+            ]
+          }
+        },
+        "id": "1892240715100594176",
+        "name": "⁺✞假期重度依赖ɞ✟₊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039320469518831616/BwAg_pXh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1206,
+          "following_count": 863,
+          "like_count": 5478,
+          "listed_count": 1,
+          "media_count": 131,
+          "tweet_count": 2275
+        },
+        "username": "chuF6yuanmen",
+        "verified": false
+      }
+    ]
+  }
+}

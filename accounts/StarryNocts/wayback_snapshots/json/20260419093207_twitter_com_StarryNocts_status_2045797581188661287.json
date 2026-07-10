@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2045450780233363948",
+    "created_at": "2026-04-19T09:32:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T10:32:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045797581188661287"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1545993012987461632",
+          "start": 0,
+          "username": "cctpboy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045797581188661287",
+    "in_reply_to_user_id": "1545993012987461632",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045795368076763199",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cctpboy 好诶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2045450780233363948",
+        "created_at": "2026-04-19T09:32:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T10:32:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045797581188661287"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1545993012987461632",
+              "start": 0,
+              "username": "cctpboy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045797581188661287",
+        "in_reply_to_user_id": "1545993012987461632",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045795368076763199",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cctpboy 好诶"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545993012987461632",
+        "conversation_id": "2045450780233363948",
+        "created_at": "2026-04-19T09:23:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T10:23:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045795368076763199"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1343151486432399360",
+              "start": 0,
+              "username": "StarryNocts"
+            },
+            {
+              "end": 29,
+              "id": "1964042844198621187",
+              "start": 13,
+              "username": "bungeikuhakushi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045795368076763199",
+        "in_reply_to_user_id": "1343151486432399360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045480830630572305",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StarryNocts @bungeikuhakushi 我是友跨，但我不翻车"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "07｜MTX🏳️‍⚧️｜无糖｜皮下男｜死肥宅｜社会学｜焦虑中｜备用:@StarryNoct 小号:@WindyLuster\n对不起对不起对不起我的错 无人在意 凭感觉回fo（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 34,
+                "username": "StarryNoct"
+              },
+              {
+                "end": 61,
+                "start": 49,
+                "username": "WindyLuster"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星波波✨",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032817226680774656/ga377Pls_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 418,
+          "following_count": 284,
+          "like_count": 2977,
+          "listed_count": 0,
+          "media_count": 151,
+          "tweet_count": 4193
+        },
+        "username": "StarryNocts",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-10T04:47:25.000Z",
+        "description": "2007.02/男孩子/infp/爱好乱七八糟/文科生/物之不齐，物之情也/不会写简介/欢迎私信www",
+        "id": "1545993012987461632",
+        "location": "Yokohama",
+        "name": "Noche",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034643062429974529/2Ql_xgB4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 197,
+          "like_count": 956,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 1200
+        },
+        "username": "cctpboy",
+        "verified": false
+      }
+    ]
+  }
+}

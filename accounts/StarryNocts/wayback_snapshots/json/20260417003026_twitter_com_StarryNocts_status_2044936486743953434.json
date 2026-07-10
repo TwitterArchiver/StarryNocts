@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2044931206266093597",
+    "created_at": "2026-04-17T00:30:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T01:30:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044936486743953434"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1982449259774656512",
+          "start": 0,
+          "username": "smiroyama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044936486743953434",
+    "in_reply_to_user_id": "1982449259774656512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044931206266093597",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@smiroyama n55卡嘛 有意思"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2044931206266093597",
+        "created_at": "2026-04-17T00:30:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T01:30:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044936486743953434"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1982449259774656512",
+              "start": 0,
+              "username": "smiroyama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044936486743953434",
+        "in_reply_to_user_id": "1982449259774656512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044931206266093597",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@smiroyama n55卡嘛 有意思"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1982449259774656512",
+        "conversation_id": "2044931206266093597",
+        "created_at": "2026-04-17T00:09:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T01:09:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044931206266093597"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044931206266093597",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "北京码农的一天：在望京小腰排队等号时，隔壁桌已经开始复盘昨天的系统设计面试题，说最近在用 Trae 接 DeepSeek、千问、元宝轮流对拍，（实际上用的是刷刚开的中国上海 n55 卡买的 Claude Max 20x），搞了个 AI 工作流，准备做个大模型应用去见投资人。对面那位刚从 BAT 华为之一跳出来，自称大厂老兵，嘴上谈需求承接、技术方案和对齐拉通，心里却在算今年 KPI 能不能撑起晋升和绩效。有人被打了 3.25 进了待优化，又碰上裁员，群里于是开始讨论要不要转 AI 方向还是干脆去考公，给那个谁擦皮鞋，毕竟在大厂混，赛道比努力更重要。话题自然转到 package，月薪加年终加期权，再配个留任激励，才算体面。大家边刷东方财富边算资产，有人重仓英伟达中概，有人定投黄金，有人炫耀刚去香港开的汇丰银行卡却殊不知每个月要收 100 港币管理费，公积金按最高比例缴，梦想 40 岁躺平。\n\n房子也是 KPI，中介带着看朝阳望京、海淀五道口、西城金融街，纠结要不要等房价再跌，物业费会不会涨，学区能不能卷进人大附。小区就像阶级标签，中关村科学城是天花板，望京 SOHO 附近也能自我安慰。\n\n身份焦虑比股市还刺激，好比晓山瑞希听 114,514 次《IDSMILE》：北京户口、积分落户、居住证每天刷新，实在不行靠婚迁，终极目标五环内有本。周末去山姆囤货，朝阳大悦城逛街，喝霸王茶姬或茉莉奶白，晚餐簋街吃小龙虾或国贸附近随便找家馆子，穿始祖鸟背迪卡侬去香山看红叶。春天爬长城，夏天北戴河，秋天坝上草原，冬天崇礼滑雪，有体力的冲户外徒步，想文艺的去大理，每年固定出国一趟或回老家过年。聊到孩子就开始学区、奥数班、竞赛保送、英语外教和学编程，仿佛人生是一场长期规划。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 93,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "北京码农的一天：在望京小腰排队等号时，隔壁桌已经开始复盘昨天的系统设计面试题，说最近在用 Trae 接 DeepSeek、千问、元宝轮流对拍，（实际上用的是刷刚开的中国上海 n55 卡买的 Claude Max 20x），搞了个 AI 工作流，准备做个大模型应用去见投资人。对面那位刚从 BAT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "07｜MTX🏳️‍⚧️｜无糖｜皮下男｜死肥宅｜社会学｜焦虑中｜备用:@StarryNoct 小号:@WindyLuster\n对不起对不起对不起我的错 无人在意 凭感觉回fo（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 34,
+                "username": "StarryNoct"
+              },
+              {
+                "end": 61,
+                "start": 49,
+                "username": "WindyLuster"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星波波✨",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032817226680774656/ga377Pls_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 398,
+          "following_count": 272,
+          "like_count": 2767,
+          "listed_count": 0,
+          "media_count": 145,
+          "tweet_count": 3935
+        },
+        "username": "StarryNocts",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-26T14:08:58.000Z",
+        "description": "Undergraduate Student |Dev @HRTtracker🍥 @KeenLib |  User | 🐱 Lover | 好朋友 🥰: @Huang_Yut1ng @fukui_p26 @qianxunchan \nthey/them",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 27,
+                "username": "HRTtracker"
+              },
+              {
+                "end": 48,
+                "start": 40,
+                "username": "KeenLib"
+              },
+              {
+                "end": 90,
+                "start": 77,
+                "username": "Huang_Yut1ng"
+              },
+              {
+                "end": 101,
+                "start": 91,
+                "username": "fukui_p26"
+              },
+              {
+                "end": 114,
+                "start": 102,
+                "username": "qianxunchan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mizukiakiyama.com",
+                "end": 23,
+                "expanded_url": "http://mizukiakiyama.com",
+                "start": 0,
+                "url": "https://t.co/YPl1rDopW0"
+              }
+            ]
+          }
+        },
+        "id": "1982449259774656512",
+        "location": "绪山寺",
+        "name": "Smirnova 🍡",
+        "pinned_tweet_id": "2044751664612323796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041377830597246976/UX0FQmaR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3077,
+          "following_count": 1906,
+          "like_count": 7921,
+          "listed_count": 2,
+          "media_count": 1109,
+          "tweet_count": 4874
+        },
+        "url": "https://t.co/YPl1rDopW0",
+        "username": "smiroyama",
+        "verified": true
+      }
+    ]
+  }
+}

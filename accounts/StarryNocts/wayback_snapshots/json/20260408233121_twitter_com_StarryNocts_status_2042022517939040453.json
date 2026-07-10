@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2041935469613646031",
+    "created_at": "2026-04-08T23:31:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T00:31:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042022517939040453"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1988126948552568837",
+          "start": 0,
+          "username": "wxueyuehua"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042022517939040453",
+    "in_reply_to_user_id": "1988126948552568837",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041935469613646031",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wxueyuehua 不是 兄弟"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2041935454904168448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFZpekPWsAA1hTI.jpg",
+        "width": 1224
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2041935469613646031",
+        "created_at": "2026-04-08T23:31:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T00:31:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042022517939040453"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1988126948552568837",
+              "start": 0,
+              "username": "wxueyuehua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042022517939040453",
+        "in_reply_to_user_id": "1988126948552568837",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041935469613646031",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wxueyuehua 不是 兄弟"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041935454904168448"
+          ]
+        },
+        "author_id": "1988126948552568837",
+        "conversation_id": "2041935469613646031",
+        "created_at": "2026-04-08T17:45:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T18:45:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041935469613646031"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DHBw9ZijHG",
+              "end": 29,
+              "expanded_url": "https://x.com/wxueyuehua/status/2041935469613646031/photo/1",
+              "media_key": "3_2041935454904168448",
+              "start": 6,
+              "url": "https://t.co/DHBw9ZijHG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041935469613646031",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好女孩对吧 https://t.co/DHBw9ZijHG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "大傻逼｜蝈蝻｜备用:@StarryNoct 小号:@WindyLuster\n对不起对不起对不起我的错 无人在意 凭感觉回fo（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 10,
+                "username": "StarryNoct"
+              },
+              {
+                "end": 37,
+                "start": 25,
+                "username": "WindyLuster"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星波波✨（傻逼版）",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032817226680774656/ga377Pls_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 291,
+          "following_count": 234,
+          "like_count": 2095,
+          "listed_count": 0,
+          "media_count": 127,
+          "tweet_count": 3106
+        },
+        "username": "StarryNocts",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-11T06:09:52.000Z",
+        "description": "04/男/是温柔的人，如果你也是温柔可爱的人请和我多多说话ヾ(^▽^*)))",
+        "id": "1988126948552568837",
+        "location": "齐齐哈尔",
+        "name": "雪月花",
+        "pinned_tweet_id": "2041539409678340431",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994789797051994120/kbAexLvJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 410,
+          "like_count": 4039,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 1396
+        },
+        "username": "wxueyuehua",
+        "verified": false
+      }
+    ]
+  }
+}

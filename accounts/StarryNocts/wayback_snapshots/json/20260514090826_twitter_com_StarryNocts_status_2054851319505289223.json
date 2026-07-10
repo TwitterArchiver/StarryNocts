@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2054532519773802870",
+    "created_at": "2026-05-14T09:08:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T10:08:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054851319505289223"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1922185067037917185",
+          "start": 0,
+          "username": "Steven10000086"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054851319505289223",
+    "in_reply_to_user_id": "1922185067037917185",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054842574561763332",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Steven10000086 阿巴阿巴"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2054532519773802870",
+        "created_at": "2026-05-14T09:08:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T10:08:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054851319505289223"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1922185067037917185",
+              "start": 0,
+              "username": "Steven10000086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054851319505289223",
+        "in_reply_to_user_id": "1922185067037917185",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054842574561763332",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Steven10000086 阿巴阿巴"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922185067037917185",
+        "conversation_id": "2054532519773802870",
+        "created_at": "2026-05-14T08:33:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T09:33:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054842574561763332"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1343151486432399360",
+              "start": 0,
+              "username": "StarryNocts"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054842574561763332",
+        "in_reply_to_user_id": "1343151486432399360",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054532519773802870",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StarryNocts 勺🔥"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "07｜mtx🏳‍⚧｜死肥宅｜无糖｜社会学｜焦虑玉玉中｜备用:@StarryNoct \n对不起对不起对不起我的错 无人在意 回fo请私信（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 30,
+                "username": "StarryNoct"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星笨笨✨",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053054977611038720/CnM4tr2L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 655,
+          "following_count": 431,
+          "like_count": 4009,
+          "listed_count": 3,
+          "media_count": 201,
+          "tweet_count": 5783
+        },
+        "username": "StarryNocts",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-13T07:00:30.000Z",
+        "description": "跨➗tv之牢山羊也干了 | HRT 2024.08.30\n\n很可爱的好姐姐  @CountToLink  请关注关注关注",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 39,
+                "username": "CountToLink"
+              }
+            ]
+          }
+        },
+        "id": "1922185067037917185",
+        "location": "中西區, 香港",
+        "name": "Steven1000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922188805882236928/wAvPRSC-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 52,
+          "like_count": 769,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 289
+        },
+        "username": "Steven10000086",
+        "verified": false
+      }
+    ]
+  }
+}

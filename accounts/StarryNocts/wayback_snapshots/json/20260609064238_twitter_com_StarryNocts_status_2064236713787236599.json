@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2064211623640969333",
+    "created_at": "2026-06-09T06:42:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T07:42:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064236713787236599"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "862163491544813568",
+          "start": 0,
+          "username": "ZealotWhiteLich"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064236713787236599",
+    "in_reply_to_user_id": "862163491544813568",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064228941531918672",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZealotWhiteLich 🥰"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 534,
+        "media_key": "3_2064228938562383872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKWdSGoXsAASMnF.png",
+        "width": 534
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2064211623640969333",
+        "created_at": "2026-06-09T06:42:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T07:42:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064236713787236599"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "862163491544813568",
+              "start": 0,
+              "username": "ZealotWhiteLich"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064236713787236599",
+        "in_reply_to_user_id": "862163491544813568",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064228941531918672",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZealotWhiteLich 🥰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064228938562383872"
+          ]
+        },
+        "author_id": "862163491544813568",
+        "conversation_id": "2064211623640969333",
+        "created_at": "2026-06-09T06:11:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T07:11:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064228941531918672"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1343151486432399360",
+              "start": 0,
+              "username": "StarryNocts"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/j2Qj5f0Dz0",
+              "end": 36,
+              "expanded_url": "https://x.com/ZealotWhiteLich/status/2064228941531918672/photo/1",
+              "media_key": "3_2064228938562383872",
+              "start": 13,
+              "url": "https://t.co/j2Qj5f0Dz0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064228941531918672",
+        "in_reply_to_user_id": "1343151486432399360",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064211623640969333",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StarryNocts https://t.co/j2Qj5f0Dz0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "07｜mtx🏳‍⚧｜xnn｜死肥宅｜无糖｜清水｜社恐不线下｜社会学｜焦虑玉玉中｜宝宝:@as_qwq0721｜备用:@StarryNoct \n对不起对不起对不起我的错 无人在意 互fo请私信（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 43,
+                "username": "as_qwq0721"
+              },
+              {
+                "end": 69,
+                "start": 58,
+                "username": "StarryNoct"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星笨笨✨",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057743777272582144/voe61BiT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1361,
+          "following_count": 726,
+          "like_count": 4138,
+          "listed_count": 3,
+          "media_count": 231,
+          "tweet_count": 7521
+        },
+        "username": "StarryNocts",
+        "verified": false
+      },
+      {
+        "created_at": "2017-05-10T04:32:49.000Z",
+        "description": "上推为了3件事：\n1、看福瑞\n2、看男娘\n3、看福瑞男娘",
+        "id": "862163491544813568",
+        "location": "下北沢",
+        "name": "白附子（已野兽化）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980821281944584192/aZf84tF__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 606,
+          "following_count": 4008,
+          "like_count": 54250,
+          "listed_count": 3,
+          "media_count": 820,
+          "tweet_count": 23965
+        },
+        "username": "ZealotWhiteLich",
+        "verified": true
+      }
+    ]
+  }
+}

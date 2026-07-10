@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2043705513947619661",
+    "created_at": "2026-04-13T23:43:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T00:43:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043837618253947089"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1608637128132685825",
+          "start": 0,
+          "username": "nyaepheia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043837618253947089",
+    "in_reply_to_user_id": "1608637128132685825",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043705513947619661",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nyaepheia 不好看…"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "走出性别困境",
+        "height": 4080,
+        "media_key": "3_2043705490308521984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFyzUL9a4AAfmaA.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2043705513947619661",
+        "created_at": "2026-04-13T23:43:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T00:43:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043837618253947089"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1608637128132685825",
+              "start": 0,
+              "username": "nyaepheia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043837618253947089",
+        "in_reply_to_user_id": "1608637128132685825",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043705513947619661",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nyaepheia 不好看…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043705490308521984"
+          ]
+        },
+        "author_id": "1608637128132685825",
+        "conversation_id": "2043705513947619661",
+        "created_at": "2026-04-13T14:58:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T15:58:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043705513947619661"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/F2oOrMxVef",
+              "end": 46,
+              "expanded_url": "https://x.com/nyaepheia/status/2043705513947619661/photo/1",
+              "media_key": "3_2043705490308521984",
+              "start": 23,
+              "url": "https://t.co/F2oOrMxVef"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043705513947619661",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 157,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "书到了诶！虽然看过电子版了，但再仔细看一遍~ https://t.co/F2oOrMxVef"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "07｜MTF🏳️‍⚧️｜无糖｜皮下男｜死肥宅｜社会学｜焦虑中｜备用:@StarryNoct 小号:@WindyLuster\n对不起对不起对不起我的错 无人在意 凭感觉回fo（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 34,
+                "username": "StarryNoct"
+              },
+              {
+                "end": 61,
+                "start": 49,
+                "username": "WindyLuster"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星波波✨",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032817226680774656/ga377Pls_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 372,
+          "following_count": 264,
+          "like_count": 2582,
+          "listed_count": 0,
+          "media_count": 138,
+          "tweet_count": 3702
+        },
+        "username": "StarryNocts",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/二次元百合厨/🏳️‍🌈🏳️‍⚧️LGBTQ+全友好！/Transfeminine Non-binary? Queer? MtF/X transles?/✨she/they/小证含糖hrt26.4.1/家长党/天残党😭/SocDem/不键政/文科生/Vibe coding/搭网站\n❤️@yxrchina",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 159,
+                "start": 150,
+                "username": "yxrchina"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org/about/me/x",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/about/me/x",
+                "start": 0,
+                "url": "https://t.co/V7CQmn0gPA"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "Yuki & 依菲雅 ?",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂",
+        "pinned_tweet_id": "2043683739763651005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040069727905841152/yJuCt1k5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 394,
+          "following_count": 678,
+          "like_count": 12755,
+          "listed_count": 0,
+          "media_count": 108,
+          "tweet_count": 1884
+        },
+        "url": "https://t.co/V7CQmn0gPA",
+        "username": "nyaepheia",
+        "verified": true
+      }
+    ]
+  }
+}

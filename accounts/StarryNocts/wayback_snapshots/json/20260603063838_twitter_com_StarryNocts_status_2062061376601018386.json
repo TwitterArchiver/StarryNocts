@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2061659822081319369",
+    "created_at": "2026-06-03T06:38:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T07:38:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062061376601018386"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1554701603222867969",
+          "start": 0,
+          "username": "Arcaea616"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062061376601018386",
+    "in_reply_to_user_id": "1554701603222867969",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062053628383473669",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Arcaea616 真的嘛"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 400,
+        "media_key": "16_2062053623941804032",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HJ3i2ILbsAAT3It.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HJ3i2ILbsAAT3It.mp4"
+          }
+        ],
+        "width": 400
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2061659822081319369",
+        "created_at": "2026-06-03T06:38:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T07:38:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062061376601018386"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1554701603222867969",
+              "start": 0,
+              "username": "Arcaea616"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062061376601018386",
+        "in_reply_to_user_id": "1554701603222867969",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062053628383473669",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Arcaea616 真的嘛"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2062053623941804032"
+          ]
+        },
+        "author_id": "1554701603222867969",
+        "conversation_id": "2061659822081319369",
+        "created_at": "2026-06-03T06:07:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T07:07:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062053628383473669"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1343151486432399360",
+              "start": 0,
+              "username": "StarryNocts"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0emnXrUn8B",
+              "end": 41,
+              "expanded_url": "https://x.com/Arcaea616/status/2062053628383473669/photo/1",
+              "media_key": "16_2062053623941804032",
+              "start": 18,
+              "url": "https://t.co/0emnXrUn8B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062053628383473669",
+        "in_reply_to_user_id": "1343151486432399360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061659822081319369",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StarryNocts 我喜欢你 https://t.co/0emnXrUn8B"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "07｜mtx🏳‍⚧｜xnn｜死肥宅｜无糖｜清水｜社恐不线下｜社会学｜焦虑玉玉中｜宝宝:@as_qwq0721｜姐妹:@xiey57828 @LeavesMao｜备用:@StarryNoct \n对不起对不起对不起我的错 无人在意 互fo请私信（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 43,
+                "username": "as_qwq0721"
+              },
+              {
+                "end": 68,
+                "start": 58,
+                "username": "xiey57828"
+              },
+              {
+                "end": 79,
+                "start": 69,
+                "username": "LeavesMao"
+              },
+              {
+                "end": 94,
+                "start": 83,
+                "username": "StarryNoct"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星笨笨✨",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057743777272582144/voe61BiT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1199,
+          "following_count": 675,
+          "like_count": 4129,
+          "listed_count": 4,
+          "media_count": 224,
+          "tweet_count": 7087
+        },
+        "username": "StarryNocts",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-03T05:32:16.000Z",
+        "description": "喜欢咖啡",
+        "id": "1554701603222867969",
+        "name": "Arcaea",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1554701728037015552/qEE_vDdI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 44,
+          "like_count": 1463,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 64
+        },
+        "username": "Arcaea616",
+        "verified": false
+      }
+    ]
+  }
+}

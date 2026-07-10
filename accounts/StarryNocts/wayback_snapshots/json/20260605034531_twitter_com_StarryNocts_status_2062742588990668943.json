@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2062707051722371519",
+    "created_at": "2026-06-05T03:45:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T04:45:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062742588990668943"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1696876131977211906",
+          "start": 0,
+          "username": "Nah1daBuer"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062742588990668943",
+    "in_reply_to_user_id": "1696876131977211906",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062724085503664627",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nah1daBuer 不好看…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2062707051722371519",
+        "created_at": "2026-06-05T03:45:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T04:45:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062742588990668943"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1696876131977211906",
+              "start": 0,
+              "username": "Nah1daBuer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062742588990668943",
+        "in_reply_to_user_id": "1696876131977211906",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062724085503664627",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nah1daBuer 不好看…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1696876131977211906",
+        "conversation_id": "2062707051722371519",
+        "created_at": "2026-06-05T02:32:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T03:32:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062724085503664627"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1343151486432399360",
+              "start": 0,
+              "username": "StarryNocts"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062724085503664627",
+        "in_reply_to_user_id": "1343151486432399360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062707051722371519",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StarryNocts 现在正合适，太瘦不好看🥰🥰🥰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "07｜mtx🏳‍⚧｜xnn｜死肥宅｜无糖｜清水｜社恐不线下｜社会学｜焦虑玉玉中｜宝宝:@as_qwq0721｜姐妹:@xiey57828 @LeavesMao｜备用:@StarryNoct \n对不起对不起对不起我的错 无人在意 互fo请私信（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 43,
+                "username": "as_qwq0721"
+              },
+              {
+                "end": 68,
+                "start": 58,
+                "username": "xiey57828"
+              },
+              {
+                "end": 79,
+                "start": 69,
+                "username": "LeavesMao"
+              },
+              {
+                "end": 94,
+                "start": 83,
+                "username": "StarryNoct"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星笨笨✨",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057743777272582144/voe61BiT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1236,
+          "following_count": 690,
+          "like_count": 4128,
+          "listed_count": 3,
+          "media_count": 226,
+          "tweet_count": 7159
+        },
+        "username": "StarryNocts",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-30T13:23:17.000Z",
+        "description": "充电头｜All in Boom｜垃圾佬｜AI HomeLab｜5090｜NAS｜Openwrt｜CukTech｜独立开发｜果蛆｜米猴｜成分复杂｜中文VOCALOID十年｜不解锁会死｜设备党｜笔吧10级｜消费电子狂热｜全平台用户｜软粉｜小馋猫",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/HyacineGallery…",
+                "end": 23,
+                "expanded_url": "https://t.me/HyacineGallery/1",
+                "start": 0,
+                "url": "https://t.co/awZqUcvygU"
+              }
+            ]
+          }
+        },
+        "id": "1696876131977211906",
+        "name": "Nahida🍃",
+        "pinned_tweet_id": "2057706559963316432",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1709454384609075200/jSKcJV1i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 200,
+          "following_count": 825,
+          "like_count": 9929,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 579
+        },
+        "url": "https://t.co/awZqUcvygU",
+        "username": "Nah1daBuer",
+        "verified": true
+      }
+    ]
+  }
+}

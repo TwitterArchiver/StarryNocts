@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2057790827322282461",
+    "created_at": "2026-05-22T12:17:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T13:17:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057797935224778924"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1942368986051796992",
+          "start": 0,
+          "username": "CunZai1069"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057797935224778924",
+    "in_reply_to_user_id": "1942368986051796992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057790827322282461",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CunZai1069 好安静"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2057790559809597443",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI69nIuacAMvjrE.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2057790827322282461",
+        "created_at": "2026-05-22T12:17:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T13:17:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057797935224778924"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1942368986051796992",
+              "start": 0,
+              "username": "CunZai1069"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057797935224778924",
+        "in_reply_to_user_id": "1942368986051796992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057790827322282461",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CunZai1069 好安静"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057790559809597443"
+          ]
+        },
+        "author_id": "1942368986051796992",
+        "conversation_id": "2057790827322282461",
+        "created_at": "2026-05-22T11:48:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T12:48:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057790827322282461"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gDDfVOtpf3",
+              "end": 43,
+              "expanded_url": "https://x.com/CunZai1069/status/2057790827322282461/photo/1",
+              "media_key": "3_2057790559809597443",
+              "start": 20,
+              "url": "https://t.co/gDDfVOtpf3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057790827322282461",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 57,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这种天气最适合坐在窗边，对着天空发呆🥰 https://t.co/gDDfVOtpf3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "07🥺｜mtx🏳‍⚧｜死肥宅🤬｜无糖🍥｜清水🙂｜社恐不线下😢｜社会学😖｜焦虑玉玉中😇｜备用:@StarryNoct \n对不起对不起对不起我的错 无人在意 互fo请私信（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 46,
+                "username": "StarryNoct"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星笨笨✨",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057743777272582144/voe61BiT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 957,
+          "following_count": 561,
+          "like_count": 4110,
+          "listed_count": 3,
+          "media_count": 212,
+          "tweet_count": 6491
+        },
+        "username": "StarryNocts",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-07T23:44:03.000Z",
+        "description": "臭敲代码的 | INTP | 中抑重焦, 貌似还在恶化🙃。喜欢画画和编曲，可以和我私信交流，看到就会回复的！个人网站https://t.co/kOm2R6CHtc但是目前还在搭建中！https://t.co/0gQFjhG3jU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "cun-zai.com",
+                "end": 81,
+                "expanded_url": "http://www.cun-zai.com",
+                "start": 58,
+                "url": "https://t.co/kOm2R6CHtc"
+              },
+              {
+                "display_url": "ngl.link/cunzai10692",
+                "end": 114,
+                "expanded_url": "https://ngl.link/cunzai10692",
+                "start": 91,
+                "url": "https://t.co/0gQFjhG3jU"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cunzai10692",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cunzai10692",
+                "start": 0,
+                "url": "https://t.co/0gQFjhG3jU"
+              }
+            ]
+          }
+        },
+        "id": "1942368986051796992",
+        "name": "存存之王",
+        "pinned_tweet_id": "2054936300940304617",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043509872428490752/r5DJT75y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 881,
+          "following_count": 1057,
+          "like_count": 2828,
+          "listed_count": 3,
+          "media_count": 55,
+          "tweet_count": 876
+        },
+        "url": "https://t.co/0gQFjhG3jU",
+        "username": "CunZai1069",
+        "verified": false
+      }
+    ]
+  }
+}

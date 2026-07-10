@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2038729602387063197",
+    "created_at": "2026-03-31T10:39:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T11:39:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038929145321976009"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1544362896406323200",
+          "start": 0,
+          "username": "_Shotgun_fire"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038929145321976009",
+    "in_reply_to_user_id": "1544362896406323200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038924167203246153",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_Shotgun_fire 我吃的帕罗西汀前几天不良反应有点明显 但是我不吃药也这样( 最近几天倒是没什么了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2038729602387063197",
+        "created_at": "2026-03-31T10:39:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T11:39:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038929145321976009"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1544362896406323200",
+              "start": 0,
+              "username": "_Shotgun_fire"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038929145321976009",
+        "in_reply_to_user_id": "1544362896406323200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038924167203246153",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_Shotgun_fire 我吃的帕罗西汀前几天不良反应有点明显 但是我不吃药也这样( 最近几天倒是没什么了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1544362896406323200",
+        "conversation_id": "2038729602387063197",
+        "created_at": "2026-03-31T10:19:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T11:19:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038924167203246153"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1343151486432399360",
+              "start": 0,
+              "username": "StarryNocts"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038924167203246153",
+        "in_reply_to_user_id": "1343151486432399360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038915185159860592",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StarryNocts 我吃度洛西汀恶心、肠胃难受，震颤、头晕"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "07｜mtx🏳️‍⚧️｜无糖｜死肥宅｜焦虑中｜健全b｜社会学｜致歉一切｜备用:@StarryNoct 小号:@WindyLuster\n对不起大家 无人在意 凭感觉回fo（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 39,
+                "username": "StarryNoct"
+              },
+              {
+                "end": 66,
+                "start": 54,
+                "username": "WindyLuster"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星波波🏳️‍⚧️",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032817226680774656/ga377Pls_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 207,
+          "following_count": 166,
+          "like_count": 1040,
+          "listed_count": 0,
+          "media_count": 105,
+          "tweet_count": 1987
+        },
+        "username": "StarryNocts",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-05T16:50:00.000Z",
+        "description": "fuck@uuu",
+        "id": "1544362896406323200",
+        "name": "饭蛸",
+        "pinned_tweet_id": "1888474373134414232",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844607761272930307/vEU7tycE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 147,
+          "like_count": 4883,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 1282
+        },
+        "username": "_Shotgun_fire",
+        "verified": false
+      }
+    ]
+  }
+}

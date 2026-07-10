@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2045869324867686686",
+    "created_at": "2026-04-19T22:08:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T23:08:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045987962777903254"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1779149099084009472",
+          "start": 0,
+          "username": "MikuLoverr_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045987962777903254",
+    "in_reply_to_user_id": "1779149099084009472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045884829661802532",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MikuLoverr_ 似乎是这样的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2045869324867686686",
+        "created_at": "2026-04-19T22:08:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T23:08:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045987962777903254"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1779149099084009472",
+              "start": 0,
+              "username": "MikuLoverr_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045987962777903254",
+        "in_reply_to_user_id": "1779149099084009472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045884829661802532",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MikuLoverr_ 似乎是这样的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779149099084009472",
+        "conversation_id": "2045869324867686686",
+        "created_at": "2026-04-19T15:18:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T16:18:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045884829661802532"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1343151486432399360",
+              "start": 0,
+              "username": "StarryNocts"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045884829661802532",
+        "in_reply_to_user_id": "1343151486432399360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 303,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045869324867686686",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StarryNocts 被删了？？！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "07｜MTX🏳️‍⚧️｜无糖｜皮下男｜死肥宅｜社会学｜焦虑中｜备用:@StarryNoct 小号:@WindyLuster\n对不起对不起对不起我的错 无人在意 凭感觉回fo（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 34,
+                "username": "StarryNoct"
+              },
+              {
+                "end": 61,
+                "start": 49,
+                "username": "WindyLuster"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星波波✨",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032817226680774656/ga377Pls_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 419,
+          "following_count": 286,
+          "like_count": 3017,
+          "listed_count": 0,
+          "media_count": 153,
+          "tweet_count": 4235
+        },
+        "username": "StarryNocts",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-13T14:06:24.000Z",
+        "description": "Miku单推人/抑郁疯癫二相体/SRS预备/音游痴迷/重庆09年17岁理科牲/mtf🏳️‍⚧️/里推 @HiddenEmmMiku/双相ADHD感统失调/恋人 @WikuWiku1911 /tips：本人玩梗不等同于自己实际立场",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 51,
+                "username": "HiddenEmmMiku"
+              },
+              {
+                "end": 93,
+                "start": 80,
+                "username": "WikuWiku1911"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ys-api.mihoyo.com/event/download…",
+                "end": 23,
+                "expanded_url": "https://ys-api.mihoyo.com/event/download_porter/link/ys_cn/official/android_default",
+                "start": 0,
+                "url": "https://t.co/rz5fLl5d1r"
+              }
+            ]
+          }
+        },
+        "id": "1779149099084009472",
+        "location": "劳资蜀道山",
+        "name": "emm🥝",
+        "pinned_tweet_id": "1994783507596677183",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007766586707648513/c_VucSAa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1502,
+          "following_count": 1129,
+          "like_count": 30125,
+          "listed_count": 11,
+          "media_count": 971,
+          "tweet_count": 14568
+        },
+        "url": "https://t.co/rz5fLl5d1r",
+        "username": "MikuLoverr_",
+        "verified": false
+      }
+    ]
+  }
+}

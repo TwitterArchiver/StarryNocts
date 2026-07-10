@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2038100514207096855",
+    "created_at": "2026-03-29T08:58:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T09:58:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038179002389774338"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2032033299980566528",
+          "start": 0,
+          "username": "rinii165892"
+        },
+        {
+          "end": 25,
+          "id": "1956544219751063552",
+          "start": 13,
+          "username": "wu_si787878"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038179002389774338",
+    "in_reply_to_user_id": "2032033299980566528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038100514207096855",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rinii165892 @wu_si787878 我靠你号怎么没了"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [wu_si787878].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "wu_si787878",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "wu_si787878"
+    },
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2038100514207096855].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2038100514207096855",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2038100514207096855"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2038100514207096855",
+        "created_at": "2026-03-29T08:58:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T09:58:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038179002389774338"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2032033299980566528",
+              "start": 0,
+              "username": "rinii165892"
+            },
+            {
+              "end": 25,
+              "id": "1956544219751063552",
+              "start": 13,
+              "username": "wu_si787878"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038179002389774338",
+        "in_reply_to_user_id": "2032033299980566528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038100514207096855",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rinii165892 @wu_si787878 我靠你号怎么没了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "07｜mtx🏳️‍⚧️｜无糖｜死肥宅｜焦虑拉满！！！｜淡推中｜致歉一切｜备用:@StarryNoct 小号:@WindyLuster\n对不起大家 无人在意 凭感觉回fo（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 39,
+                "username": "StarryNoct"
+              },
+              {
+                "end": 66,
+                "start": 54,
+                "username": "WindyLuster"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星波波✨",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032817226680774656/ga377Pls_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 184,
+          "following_count": 140,
+          "like_count": 865,
+          "listed_count": 0,
+          "media_count": 93,
+          "tweet_count": 1803
+        },
+        "username": "StarryNocts",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-12T09:58:00.000Z",
+        "description": "霖的第二黑化人格/寻回推u【查成分回fo】大号正常期间锁推\n性别是末影人/不登校/💊2024.11/无证含糖/家暴党/炸柜2025.3/二次炸柜2026.3.26/出厂日期 2012.09.17/od/sh 全否定\n✟❀信徒:@Fislonely_ ❀灵宠:@dbdbsjbsja❀第一人格:@wu_si787878❀",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 113,
+                "username": "Fislonely_"
+              },
+              {
+                "end": 140,
+                "start": 129,
+                "username": "dbdbsjbsja"
+              },
+              {
+                "end": 158,
+                "start": 146,
+                "username": "wu_si787878"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/iirin53261",
+                "end": 23,
+                "expanded_url": "https://ngl.link/iirin53261",
+                "start": 0,
+                "url": "https://t.co/MJb34scNgb"
+              }
+            ]
+          }
+        },
+        "id": "2032033299980566528",
+        "location": "msk坟头",
+        "name": "3.雨木木（已黑化）",
+        "pinned_tweet_id": "2037038843824922810",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032130669959397377/7kOyBARR_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 297,
+          "following_count": 281,
+          "like_count": 1524,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 1032
+        },
+        "url": "https://t.co/MJb34scNgb",
+        "username": "rinii165892",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2067511678112284786",
+    "created_at": "2026-06-18T08:11:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T09:11:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067520497701585021"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1655661465200631814",
+          "start": 0,
+          "username": "ruolili_shion"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067520497701585021",
+    "in_reply_to_user_id": "1655661465200631814",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067511678112284786",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ruolili_shion 可爱捏"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2067511674647810048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLFG6fhbEAAB5_f.jpg",
+        "width": 1382
+      },
+      {
+        "height": 964,
+        "media_key": "3_2067511673968365568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLFG6c_bkAA9XG0.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2067511678112284786",
+        "created_at": "2026-06-18T08:11:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T09:11:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067520497701585021"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1655661465200631814",
+              "start": 0,
+              "username": "ruolili_shion"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067520497701585021",
+        "in_reply_to_user_id": "1655661465200631814",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067511678112284786",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ruolili_shion 可爱捏"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067511674647810048",
+            "3_2067511673968365568"
+          ]
+        },
+        "author_id": "1655661465200631814",
+        "conversation_id": "2067511678112284786",
+        "created_at": "2026-06-18T07:36:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T08:36:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067511678112284786"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 118,
+              "start": 114,
+              "tag": "小药娘"
+            },
+            {
+              "end": 123,
+              "start": 119,
+              "tag": "xyn"
+            },
+            {
+              "end": 128,
+              "start": 124,
+              "tag": "小男娘"
+            },
+            {
+              "end": 133,
+              "start": 129,
+              "tag": "xyn"
+            },
+            {
+              "end": 137,
+              "start": 134,
+              "tag": "nn"
+            },
+            {
+              "end": 142,
+              "start": 138,
+              "tag": "xnn"
+            },
+            {
+              "end": 146,
+              "start": 143,
+              "tag": "漫展"
+            },
+            {
+              "end": 151,
+              "start": 147,
+              "tag": "跨性别"
+            },
+            {
+              "end": 159,
+              "start": 152,
+              "tag": "可爱的男孩子"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bperNmbr6V",
+              "end": 183,
+              "expanded_url": "https://x.com/ruolili_shion/status/2067511678112284786/photo/1",
+              "media_key": "3_2067511674647810048",
+              "start": 160,
+              "url": "https://t.co/bperNmbr6V"
+            },
+            {
+              "display_url": "pic.x.com/bperNmbr6V",
+              "end": 183,
+              "expanded_url": "https://x.com/ruolili_shion/status/2067511678112284786/photo/1",
+              "media_key": "3_2067511673968365568",
+              "start": 160,
+              "url": "https://t.co/bperNmbr6V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067511678112284786",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "明天就和对象第一次逛漫展啦，真的没流量了吗，呜呜呜窝的流量呢，窝的流量呢窝的流量呢窝的流量呢窝的流量呢窝的流量呢(╥_╥)(╥_╥)(╥_╥)😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭\n#小药娘 #xyn #小男娘 #xyn #nn #xnn #漫展 #跨性别 #可爱的男孩子 https://t.co/bperNmbr6V"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "07｜mtx🏳‍⚧｜xnn｜死肥宅｜无糖｜清水｜社恐不线下｜社会学｜焦虑玉玉中｜备用:@StarryNoct ｜老公:@chinyu_ouo \n对不起对不起对不起我的错 无人在意 互fo请私信（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 43,
+                "username": "StarryNoct"
+              },
+              {
+                "end": 70,
+                "start": 59,
+                "username": "chinyu_ouo"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星笨笨✨",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057743777272582144/voe61BiT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1387,
+          "following_count": 741,
+          "like_count": 4144,
+          "listed_count": 3,
+          "media_count": 237,
+          "tweet_count": 7694
+        },
+        "url": "",
+        "username": "StarryNocts",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-08T19:50:36.000Z",
+        "description": "小药娘🍥|mtf🏳‍⚧️|163|54kg左右|杭州线下🉑🈷️|可收养的小狐娘|QQ2773626671|精神状态无常|私信看到都会回|欢迎互fo|收养或包养请私信|想找主人收养",
+        "id": "1655661465200631814",
+        "name": "ruolili🍥",
+        "pinned_tweet_id": "2065525518632460486",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046561666071162880/D3xq1H4m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194,
+          "following_count": 168,
+          "like_count": 117,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 180
+        },
+        "url": "",
+        "username": "ruolili_shion",
+        "verified": false
+      }
+    ]
+  }
+}

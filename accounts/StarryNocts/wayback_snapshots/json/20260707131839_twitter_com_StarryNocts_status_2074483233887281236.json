@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2074483233887281236",
+    "created_at": "2026-07-07T13:18:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T14:18:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074483233887281236"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1837843674283294720",
+          "start": 3,
+          "username": "RainBuild_2024"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074483233887281236",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074469636243087452",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RainBuild_2024: 大家好，这里是雨晴的新帐号，感谢各位支持"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2074483233887281236",
+        "created_at": "2026-07-07T13:18:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T14:18:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074483233887281236"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1837843674283294720",
+              "start": 3,
+              "username": "RainBuild_2024"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074483233887281236",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074469636243087452",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @RainBuild_2024: 大家好，这里是雨晴的新帐号，感谢各位支持"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837843674283294720",
+        "conversation_id": "2074469636243087452",
+        "created_at": "2026-07-07T12:24:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T13:24:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074469636243087452"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074469636243087452",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 274,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "大家好，这里是雨晴的新帐号，感谢各位支持"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "🏳‍⚧｜备用:@StarryNoct ｜老公:@chinyu_ouo \n对不起对不起对不起我的错 无人在意 互fo请私信（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 7,
+                "username": "StarryNoct"
+              },
+              {
+                "end": 34,
+                "start": 23,
+                "username": "chinyu_ouo"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星✨",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073578724868636673/mdHJZ7GA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1538,
+          "following_count": 812,
+          "like_count": 4155,
+          "listed_count": 4,
+          "media_count": 257,
+          "tweet_count": 8408
+        },
+        "url": "",
+        "username": "StarryNocts",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-22T13:17:49.000Z",
+        "description": "Xiaomi Partner / RainEngine UX Design",
+        "id": "1837843674283294720",
+        "name": "晴日向",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074471177054195712/JAy9wINP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 14,
+          "like_count": 17,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 9
+        },
+        "url": "",
+        "username": "RainBuild_2024",
+        "verified": false
+      }
+    ]
+  }
+}

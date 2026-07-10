@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2042220042285392250",
+    "created_at": "2026-04-09T13:15:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T14:15:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042229947352440988"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1887391023976038400",
+          "start": 0,
+          "username": "xiey57828"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042229947352440988",
+    "in_reply_to_user_id": "1887391023976038400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042220042285392250",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiey57828 小腿肌肉真的好烦😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2042220042285392250",
+        "created_at": "2026-04-09T13:15:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T14:15:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042229947352440988"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1887391023976038400",
+              "start": 0,
+              "username": "xiey57828"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042229947352440988",
+        "in_reply_to_user_id": "1887391023976038400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042220042285392250",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiey57828 小腿肌肉真的好烦😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "conversation_id": "2042220042285392250",
+        "created_at": "2026-04-09T12:36:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T13:36:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042220042285392250"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nacn999/status…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/nacn999/status/2041819217444663764",
+              "start": 9,
+              "url": "https://t.co/y0hNGM8z3c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042220042285392250",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 90,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041819217444663764",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这种腿到底怎么练 https://t.co/y0hNGM8z3c"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "大傻逼｜蝈蝻｜备用:@StarryNoct 小号:@WindyLuster\n对不起对不起对不起我的错 无人在意 凭感觉回fo（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 10,
+                "username": "StarryNoct"
+              },
+              {
+                "end": 37,
+                "start": 25,
+                "username": "WindyLuster"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星波波✨（傻逼版）",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032817226680774656/ga377Pls_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 300,
+          "following_count": 238,
+          "like_count": 2199,
+          "listed_count": 0,
+          "media_count": 128,
+          "tweet_count": 3200
+        },
+        "username": "StarryNocts",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "我不是救世主我也不会成为帮凶丨MtF＆友跨🏳️‍⚧️丨大四牲 成绩倒数 想休学丨hrt2024.02.17丨深柜＆期待炸柜？丨INFP 9w1丨爱好散步和MC丨不pass丨梦想srs丨精神状态不好正常吃药不o，https://t.co/ukTVcAQw7k",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/xiey57828",
+                "end": 128,
+                "expanded_url": "https://t.me/xiey57828",
+                "start": 105,
+                "url": "https://t.co/ukTVcAQw7k"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiey57828",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiey57828",
+                "start": 0,
+                "url": "https://t.co/dlkZFZjfgW"
+              }
+            ]
+          }
+        },
+        "id": "1887391023976038400",
+        "location": "宿舍",
+        "name": "沐桃🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038038302096490496/YzWyl6gU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 292,
+          "following_count": 418,
+          "like_count": 1302,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 447
+        },
+        "url": "https://t.co/dlkZFZjfgW",
+        "username": "xiey57828",
+        "verified": false
+      }
+    ]
+  }
+}

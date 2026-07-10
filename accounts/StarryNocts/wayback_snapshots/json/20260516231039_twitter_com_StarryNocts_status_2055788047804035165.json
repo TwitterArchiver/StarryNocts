@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2055680029871444361",
+    "created_at": "2026-05-16T23:10:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T00:10:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055788047804035165"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2016008407220977664",
+          "start": 0,
+          "username": "Miaowuke"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055788047804035165",
+    "in_reply_to_user_id": "2016008407220977664",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055680029871444361",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Miaowuke 揉揉喵喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2055680023076704256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIc-FutakAAQDoO.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2055680029871444361",
+        "created_at": "2026-05-16T23:10:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T00:10:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055788047804035165"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2016008407220977664",
+              "start": 0,
+              "username": "Miaowuke"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055788047804035165",
+        "in_reply_to_user_id": "2016008407220977664",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055680029871444361",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Miaowuke 揉揉喵喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055680023076704256"
+          ]
+        },
+        "author_id": "2016008407220977664",
+        "conversation_id": "2055680029871444361",
+        "created_at": "2026-05-16T16:01:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T17:01:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055680029871444361"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YhAsOB1IX7",
+              "end": 43,
+              "expanded_url": "https://x.com/Miaowuke/status/2055680029871444361/photo/1",
+              "media_key": "3_2055680023076704256",
+              "start": 20,
+              "url": "https://t.co/YhAsOB1IX7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055680029871444361",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "真讨厌，最近梯子老是掉，结果有小旗子了 https://t.co/YhAsOB1IX7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "07｜mtx🏳‍⚧｜死肥宅｜无糖｜社会学｜焦虑玉玉中｜备用:@StarryNoct \n对不起对不起对不起我的错 无人在意 回fo请私信（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 30,
+                "username": "StarryNoct"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星笨笨✨",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055173607526121472/haV2R87z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 785,
+          "following_count": 477,
+          "like_count": 4045,
+          "listed_count": 3,
+          "media_count": 203,
+          "tweet_count": 5998
+        },
+        "username": "StarryNocts",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-27T04:40:46.000Z",
+        "description": "07｜大一｜计科苦手｜是个笨蛋｜希望能越来越好喵（能再可爱一点的话就更好了ớ ₃ờ）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/miaowuke",
+                "end": 23,
+                "expanded_url": "https://ngl.link/miaowuke",
+                "start": 0,
+                "url": "https://t.co/jeQsJGYzm9"
+              }
+            ]
+          }
+        },
+        "id": "2016008407220977664",
+        "name": "呜咪喵🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044600817584644096/7vIbHKu5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 133,
+          "like_count": 188,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 175
+        },
+        "url": "https://t.co/jeQsJGYzm9",
+        "username": "Miaowuke",
+        "verified": false
+      }
+    ]
+  }
+}

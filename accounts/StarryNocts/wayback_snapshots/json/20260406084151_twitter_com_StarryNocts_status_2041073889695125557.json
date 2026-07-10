@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2040939774601757026",
+    "created_at": "2026-04-06T08:41:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T09:41:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041073889695125557"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1118865266538979328",
+          "start": 0,
+          "username": "jhhhujhb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041073889695125557",
+    "in_reply_to_user_id": "1118865266538979328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041073653362962777",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jhhhujhb 这些只是基础的处方药 并没有严格管控的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2040939774601757026",
+        "created_at": "2026-04-06T08:41:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T09:41:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041073889695125557"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1118865266538979328",
+              "start": 0,
+              "username": "jhhhujhb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041073889695125557",
+        "in_reply_to_user_id": "1118865266538979328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041073653362962777",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jhhhujhb 这些只是基础的处方药 并没有严格管控的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1118865266538979328",
+        "conversation_id": "2040939774601757026",
+        "created_at": "2026-04-06T08:40:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T09:40:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041073653362962777"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1343151486432399360",
+              "start": 0,
+              "username": "StarryNocts"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041073653362962777",
+        "in_reply_to_user_id": "1343151486432399360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040939774601757026",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StarryNocts 你们都怎么买这种管制类药品的，我想买个安乃近都买不到"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "大傻福｜蝈蝻｜备用:@StarryNoct 小号:@WindyLuster\n对不起对不起对不起我的错 无人在意 凭感觉回fo（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 10,
+                "username": "StarryNoct"
+              },
+              {
+                "end": 37,
+                "start": 25,
+                "username": "WindyLuster"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星波波✨（傻福版）",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032817226680774656/ga377Pls_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 278,
+          "following_count": 223,
+          "like_count": 1747,
+          "listed_count": 0,
+          "media_count": 124,
+          "tweet_count": 2765
+        },
+        "username": "StarryNocts",
+        "verified": false
+      },
+      {
+        "created_at": "2019-04-18T13:14:01.000Z",
+        "description": "英/日/韩语自学中\nINTP\n男的",
+        "id": "1118865266538979328",
+        "location": "私立希望之峰学院",
+        "name": "Chiaki Nanami",
+        "pinned_tweet_id": "1464480831028613124",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1602459399616094208/LinMyJmk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 465,
+          "following_count": 1491,
+          "like_count": 91387,
+          "listed_count": 6,
+          "media_count": 1008,
+          "tweet_count": 8995
+        },
+        "username": "jhhhujhb",
+        "verified": false
+      }
+    ]
+  }
+}

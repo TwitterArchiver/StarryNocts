@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2058427157765116043",
+    "created_at": "2026-05-24T06:28:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T07:28:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058434858972766691"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1524929460956319745",
+          "start": 0,
+          "username": "yanshua90267702"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058434858972766691",
+    "in_reply_to_user_id": "1524929460956319745",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058431222691541462",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yanshua90267702 吃！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2058427157765116043",
+        "created_at": "2026-05-24T06:28:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T07:28:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058434858972766691"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1524929460956319745",
+              "start": 0,
+              "username": "yanshua90267702"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058434858972766691",
+        "in_reply_to_user_id": "1524929460956319745",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058431222691541462",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yanshua90267702 吃！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1524929460956319745",
+        "conversation_id": "2058427157765116043",
+        "created_at": "2026-05-24T06:13:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T07:13:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058431222691541462"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1343151486432399360",
+              "start": 0,
+              "username": "StarryNocts"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058431222691541462",
+        "in_reply_to_user_id": "1343151486432399360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058427157765116043",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StarryNocts 喜欢，所以我吃😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "07🥺｜mtx🏳‍⚧｜死肥宅🤬｜无糖🍥｜清水🙂｜社恐不线下😢｜社会学😖｜焦虑玉玉中😇｜最好的大家@xiey57828 @LeavesMao ｜备用:@StarryNoct \n对不起对不起对不起我的错 无人在意 互fo请私信（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 48,
+                "username": "xiey57828"
+              },
+              {
+                "end": 69,
+                "start": 59,
+                "username": "LeavesMao"
+              },
+              {
+                "end": 85,
+                "start": 74,
+                "username": "StarryNoct"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星笨笨✨",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057743777272582144/voe61BiT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 965,
+          "following_count": 569,
+          "like_count": 4119,
+          "listed_count": 3,
+          "media_count": 212,
+          "tweet_count": 6532
+        },
+        "username": "StarryNocts",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-13T01:48:24.000Z",
+        "description": "",
+        "id": "1524929460956319745",
+        "name": "可爱的女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926422889881796608/u51heXtr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 269,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 62
+        },
+        "username": "yanshua90267702",
+        "verified": false
+      }
+    ]
+  }
+}

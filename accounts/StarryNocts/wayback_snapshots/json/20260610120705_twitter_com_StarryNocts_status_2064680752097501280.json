@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2064627099647037773",
+    "created_at": "2026-06-10T12:07:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T13:07:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064680752097501280"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1678385508609839105",
+          "start": 0,
+          "username": "liueric40542933"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064680752097501280",
+    "in_reply_to_user_id": "1678385508609839105",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064652816178950643",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liueric40542933 确实"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2064627099647037773",
+        "created_at": "2026-06-10T12:07:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T13:07:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064680752097501280"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1678385508609839105",
+              "start": 0,
+              "username": "liueric40542933"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064680752097501280",
+        "in_reply_to_user_id": "1678385508609839105",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064652816178950643",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liueric40542933 确实"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1678385508609839105",
+        "conversation_id": "2064627099647037773",
+        "created_at": "2026-06-10T10:16:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T11:16:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064652816178950643"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1343151486432399360",
+              "start": 0,
+              "username": "StarryNocts"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064652816178950643",
+        "in_reply_to_user_id": "1343151486432399360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 27,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064627099647037773",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StarryNocts 不少病患没有病识感，不会主动求医。  ASPD我相信诊断率较高，因与司法系统接触机会较大"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "07｜mtx🏳‍⚧｜xnn｜死肥宅｜无糖｜清水｜社恐不线下｜社会学｜焦虑玉玉中｜宝宝:@as_qwq0721｜备用:@StarryNoct \n对不起对不起对不起我的错 无人在意 互fo请私信（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 43,
+                "username": "as_qwq0721"
+              },
+              {
+                "end": 69,
+                "start": 58,
+                "username": "StarryNoct"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星笨笨✨",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057743777272582144/voe61BiT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1373,
+          "following_count": 730,
+          "like_count": 4141,
+          "listed_count": 3,
+          "media_count": 233,
+          "tweet_count": 7598
+        },
+        "username": "StarryNocts",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-10T12:47:59.000Z",
+        "description": "no DM/not an anti",
+        "id": "1678385508609839105",
+        "name": "liu eric",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042591591240732682/kgzJmnTp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 23,
+          "like_count": 1036,
+          "listed_count": 0,
+          "media_count": 602,
+          "tweet_count": 2389
+        },
+        "username": "liueric40542933",
+        "verified": false
+      }
+    ]
+  }
+}

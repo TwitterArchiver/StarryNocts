@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2063838517919470001",
+    "created_at": "2026-06-08T13:23:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T14:23:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063975201847816429"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2010816143846768640",
+          "start": 0,
+          "username": "luo_240110"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063975201847816429",
+    "in_reply_to_user_id": "2010816143846768640",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063947646889504976",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@luo_240110 🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2063838517919470001",
+        "created_at": "2026-06-08T13:23:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T14:23:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063975201847816429"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2010816143846768640",
+              "start": 0,
+              "username": "luo_240110"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063975201847816429",
+        "in_reply_to_user_id": "2010816143846768640",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063947646889504976",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luo_240110 🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010816143846768640",
+        "conversation_id": "2063838517919470001",
+        "created_at": "2026-06-08T11:33:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T12:33:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063947646889504976"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1343151486432399360",
+              "start": 0,
+              "username": "StarryNocts"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063947646889504976",
+        "in_reply_to_user_id": "1343151486432399360",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063875427979170203",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StarryNocts 不管！好看！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "07｜mtx🏳‍⚧｜xnn｜死肥宅｜无糖｜清水｜社恐不线下｜社会学｜焦虑玉玉中｜宝宝:@as_qwq0721｜备用:@StarryNoct \n对不起对不起对不起我的错 无人在意 互fo请私信（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 43,
+                "username": "as_qwq0721"
+              },
+              {
+                "end": 69,
+                "start": 58,
+                "username": "StarryNoct"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星笨笨✨",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057743777272582144/voe61BiT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1361,
+          "following_count": 727,
+          "like_count": 4137,
+          "listed_count": 3,
+          "media_count": 230,
+          "tweet_count": 7491
+        },
+        "username": "StarryNocts",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-12T20:48:47.000Z",
+        "description": "話したくない｜Ciallo～(∠・ω ≤ )︵★四代目\n一代目@YunoQiu56649｜二代目@Ciallo_114_514｜三代目@qi_bu64350",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 31,
+                "username": "YunoQiu56649"
+              },
+              {
+                "end": 63,
+                "start": 48,
+                "username": "Ciallo_114_514"
+              },
+              {
+                "end": 78,
+                "start": 67,
+                "username": "qi_bu64350"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Wrin520t",
+                "end": 23,
+                "expanded_url": "http://t.me/Wrin520t",
+                "start": 0,
+                "url": "https://t.co/qKIDVMQsor"
+              }
+            ]
+          }
+        },
+        "id": "2010816143846768640",
+        "location": "地球",
+        "name": "Ciallo🍥",
+        "pinned_tweet_id": "2058950293937958932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058074498285617152/2kdhJxKg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 192,
+          "following_count": 247,
+          "like_count": 416,
+          "listed_count": 2,
+          "media_count": 15,
+          "tweet_count": 669
+        },
+        "url": "https://t.co/qKIDVMQsor",
+        "username": "luo_240110",
+        "verified": false
+      }
+    ]
+  }
+}

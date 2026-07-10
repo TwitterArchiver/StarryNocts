@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2033533562474148140",
+    "created_at": "2026-03-16T13:27:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T14:27:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033535640852480174"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1887842938673094656",
+          "start": 0,
+          "username": "juanbi114514"
+        },
+        {
+          "end": 28,
+          "id": "1980140172726673408",
+          "start": 14,
+          "username": "Lian_8964tank"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033535640852480174",
+    "in_reply_to_user_id": "1887842938673094656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033535523558727717",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@juanbi114514 @Lian_8964tank 这么可怕。"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2033535523558727717].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2033535523558727717",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2033535523558727717"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2033533562474148140",
+        "created_at": "2026-03-16T13:27:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T14:27:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033535640852480174"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1887842938673094656",
+              "start": 0,
+              "username": "juanbi114514"
+            },
+            {
+              "end": 28,
+              "id": "1980140172726673408",
+              "start": 14,
+              "username": "Lian_8964tank"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033535640852480174",
+        "in_reply_to_user_id": "1887842938673094656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033535523558727717",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@juanbi114514 @Lian_8964tank 这么可怕。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "07｜mtx🏳️‍⚧️｜无糖｜死肥宅｜焦虑中｜健全b｜致歉一切｜",
+        "id": "1343151486432399360",
+        "name": "​碎星波波🏳️‍⚧️",
+        "pinned_tweet_id": "2032678873977205221",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032817226680774656/ga377Pls_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 83,
+          "like_count": 500,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 1202
+        },
+        "username": "StarryNocts",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-07T12:37:22.000Z",
+        "description": "",
+        "id": "1887842938673094656",
+        "name": "Marcas",
+        "pinned_tweet_id": "2033533562474148140",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033515671825567744/vtVGqno1_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 260,
+          "following_count": 274,
+          "like_count": 6598,
+          "listed_count": 0,
+          "media_count": 136,
+          "tweet_count": 1398
+        },
+        "username": "juanbi114514",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-20T05:13:10.000Z",
+        "description": "温柔 幽默且恶俗 数学学渣一枚 没有固定风格 你是什么样我就是什么样\n 不经意间也会展现出暴力的一面 没做过精神诊断但觉得自己就是精神病喵 来找骂的别惹我🤪\nOS：咱就是个又懒又蠢又没读过书的小孩喵 有哪句得罪你的还请包容（＾Ｏ＾）",
+        "id": "1980140172726673408",
+        "location": "中華自由聯邦武漢市",
+        "name": "東洋蓮花酥🇹🇼（淡推）",
+        "pinned_tweet_id": "2023483034323022276",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015281101166522368/mn-f5rcV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 509,
+          "following_count": 470,
+          "like_count": 29941,
+          "listed_count": 2,
+          "media_count": 91,
+          "tweet_count": 5207
+        },
+        "username": "Lian_8964tank",
+        "verified": false
+      }
+    ]
+  }
+}

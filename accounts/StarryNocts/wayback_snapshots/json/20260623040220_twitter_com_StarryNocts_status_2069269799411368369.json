@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2069250271377756502",
+    "created_at": "2026-06-23T04:02:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T05:02:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069269799411368369"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1657031387650699266",
+          "start": 0,
+          "username": "whykoishi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069269799411368369",
+    "in_reply_to_user_id": "1657031387650699266",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069269699800814004",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whykoishi 🥰🥰🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2069250271377756502",
+        "created_at": "2026-06-23T04:02:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T05:02:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069269799411368369"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1657031387650699266",
+              "start": 0,
+              "username": "whykoishi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069269799411368369",
+        "in_reply_to_user_id": "1657031387650699266",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069269699800814004",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whykoishi 🥰🥰🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657031387650699266",
+        "conversation_id": "2069250271377756502",
+        "created_at": "2026-06-23T04:01:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T05:01:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069269699800814004"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1343151486432399360",
+              "start": 0,
+              "username": "StarryNocts"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069269699800814004",
+        "in_reply_to_user_id": "1343151486432399360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069250271377756502",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StarryNocts 好可爱哦w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "07｜mtx🏳‍⚧｜xnn｜死肥宅｜无糖｜清水｜社恐不线下｜社会学｜焦虑玉玉中｜备用:@StarryNoct ｜老公:@chinyu_ouo \n对不起对不起对不起我的错 无人在意 互fo请私信（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 43,
+                "username": "StarryNoct"
+              },
+              {
+                "end": 70,
+                "start": 59,
+                "username": "chinyu_ouo"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星笨笨✨",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067758567839739904/R4rYmxfQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1415,
+          "following_count": 759,
+          "like_count": 4146,
+          "listed_count": 3,
+          "media_count": 242,
+          "tweet_count": 7859
+        },
+        "url": "",
+        "username": "StarryNocts",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-12T14:34:20.000Z",
+        "description": "Dream On....",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/whykoshi",
+                "end": 23,
+                "expanded_url": "https://ngl.link/whykoshi",
+                "start": 0,
+                "url": "https://t.co/TI8SzzXw2b"
+              }
+            ]
+          }
+        },
+        "id": "1657031387650699266",
+        "location": "Louisville, KY",
+        "name": "'39",
+        "pinned_tweet_id": "2064231613458944131",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062773021350457344/EPeHoaRM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 141,
+          "like_count": 5855,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 126
+        },
+        "url": "https://t.co/TI8SzzXw2b",
+        "username": "whykoishi",
+        "verified": false
+      }
+    ]
+  }
+}

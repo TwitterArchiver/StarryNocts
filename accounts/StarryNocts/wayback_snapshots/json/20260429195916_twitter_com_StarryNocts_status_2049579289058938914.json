@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2049449816015651070",
+    "created_at": "2026-04-29T19:59:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T20:59:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049579289058938914"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1761739613436321792",
+          "start": 0,
+          "username": "YJGAME0189"
+        },
+        {
+          "end": 23,
+          "id": "2022153081031733252",
+          "start": 12,
+          "username": "ax09s84751"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049579289058938914",
+    "in_reply_to_user_id": "1761739613436321792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049536036410458230",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YJGAME0189 @ax09s84751 不知道诶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2049449816015651070",
+        "created_at": "2026-04-29T19:59:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T20:59:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049579289058938914"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1761739613436321792",
+              "start": 0,
+              "username": "YJGAME0189"
+            },
+            {
+              "end": 23,
+              "id": "2022153081031733252",
+              "start": 12,
+              "username": "ax09s84751"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049579289058938914",
+        "in_reply_to_user_id": "1761739613436321792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049536036410458230",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YJGAME0189 @ax09s84751 不知道诶"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1761739613436321792",
+        "conversation_id": "2049449816015651070",
+        "created_at": "2026-04-29T17:07:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T18:07:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049536036410458230"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1343151486432399360",
+              "start": 0,
+              "username": "StarryNocts"
+            },
+            {
+              "end": 24,
+              "id": "2022153081031733252",
+              "start": 13,
+              "username": "ax09s84751"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049536036410458230",
+        "in_reply_to_user_id": "1343151486432399360",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049450474718576927",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StarryNocts @ax09s84751 像摊上事了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "07｜MTX🏳‍⚧｜死肥宅｜无糖｜健全b｜社会学｜焦虑中｜乖宝宝:@xiey57828 ｜备用:@StarryNoct \n对不起对不起对不起我的错 无人在意 凭感觉回fo（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 33,
+                "username": "xiey57828"
+              },
+              {
+                "end": 59,
+                "start": 48,
+                "username": "StarryNoct"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星笨笨✨",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047542922447638528/3EZlA0VQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 501,
+          "following_count": 337,
+          "like_count": 3506,
+          "listed_count": 1,
+          "media_count": 169,
+          "tweet_count": 4975
+        },
+        "username": "StarryNocts",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-25T13:07:28.000Z",
+        "description": "人类在惨痛的历史中选择了重蹈覆辙\n叫我雨爵_YJGAME/Y*Jubeat/MrRain.J，另有TO3RO等马甲\nCN/EN〇 JP△\n开盒鉴证傻逼全部滚蛋 音游人oc人关注我\n自杀干预请通过QQ联系我\n成分在「查看更多」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/101638040",
+                "end": 23,
+                "expanded_url": "http://pixiv.net/users/101638040",
+                "start": 0,
+                "url": "https://t.co/PmgsVH8ahQ"
+              }
+            ]
+          }
+        },
+        "id": "1761739613436321792",
+        "location": "STAR.RAIL 2.5次元空间站/音乐游戏体验馆",
+        "name": "YJGAME TO3RO MrRainJ等十来号人",
+        "pinned_tweet_id": "2020803041977335808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029372782774239234/vCPZmWdp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 437,
+          "following_count": 1261,
+          "like_count": 45221,
+          "listed_count": 3,
+          "media_count": 412,
+          "tweet_count": 15149
+        },
+        "url": "https://t.co/PmgsVH8ahQ",
+        "username": "YJGAME0189",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "09/SZ苏州！不是深圳/确诊/顺直，不zc不od \n精神科钉子户/喜欢超天酱/混mtf/od圈/友跨/反od/可能是mtx？？🇨🇳刻进DNA/视成分互关",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12371.cn",
+                "end": 23,
+                "expanded_url": "http://12371.cn/",
+                "start": 0,
+                "url": "https://t.co/6aaNEtSMAA"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2046782170111627621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048356974254071809/sJTTXsVq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 793,
+          "following_count": 1413,
+          "like_count": 926,
+          "listed_count": 1,
+          "media_count": 152,
+          "tweet_count": 1221
+        },
+        "url": "https://t.co/6aaNEtSMAA",
+        "username": "ax09s84751",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2038775522684240286",
+    "created_at": "2026-03-31T00:48:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T01:48:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038780491323920470"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1982449259774656512",
+          "start": 0,
+          "username": "smiroyama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038780491323920470",
+    "in_reply_to_user_id": "1982449259774656512",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038775522684240286",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@smiroyama 怎么入坑东方？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2038775522684240286",
+        "created_at": "2026-03-31T00:48:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T01:48:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038780491323920470"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1982449259774656512",
+              "start": 0,
+              "username": "smiroyama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038780491323920470",
+        "in_reply_to_user_id": "1982449259774656512",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038775522684240286",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@smiroyama 怎么入坑东方？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1982449259774656512",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1403427158953922560",
+              "name": "Shooting games"
+            }
+          }
+        ],
+        "conversation_id": "2038775522684240286",
+        "created_at": "2026-03-31T00:28:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T01:28:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038775522684240286"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038775522684240286",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "6.世界",
+                "end": 381,
+                "expanded_url": "http://6.xn--rhqv96g",
+                "start": 358,
+                "url": "https://t.co/Po1AuFNsb8"
+              }
+            ]
+          },
+          "text": "你们还记得东方project的故事吗？\n1.東方Project是一个诞生于1995年的弹幕射击游戏，现在游戏已经出到了第20作，今年是东方诞生的第30周年。\n2.东方Project简称东方，英文touhou，国内粉丝们戏称为车万（字形上相似，可区别东方树叶，东方卫视等其他带有东方的事物）\n3.东方的作者叫做太田顺也，是一个爱好日本民俗和啤酒的游戏制作人，粉丝通常称其为ZUN、神主等，现年47岁。\n4.东方的主体是弹幕射击游戏，其故事设定、角色立绘、对话文本、背景音乐和程序均由ZUN一人创作，东方的角色和故事主要取材于日本民俗和神话。\n5.ZUN创作的东方作品主要包括27部游戏和600多首原创音乐。除了ZUN自制的游戏和音乐作品外，ZUN还与其他同人作者共同制作了多部格斗游戏、漫画、设定集等东方的官方作品。\nhttps://t.co/Po1AuFNsb8观：东方是一个日式奇幻世界，存在许多女性化的日本妖怪和神明，每个角色都拥有自己独特的背景和能力。幻想乡是东方系列故事发生的主舞台，东方中还存在冥界、地狱、天界等独立的异世界可以前往。东方的故事围绕着幻想乡中的异变（各种奇异事件）展开。\n7.背景设定：近百年间，随着现实世界中的人类科学技术的飞速进步，那些存在于旧社会的幻想之物比如妖怪、神明、灵体、魔法等逐渐被越来越多的人给否定或遗忘。其中日本的妖怪们感到自身的生存环境受到威胁，因此其中有能力的妖怪贤者使用结界在日本某地建立了一个叫做『幻想乡』的幻想之物保留地。\n8.种族构成：东方里的生灵大体上可以分为世代生活在幻想乡这个地方的人类和来自世界各地的妖怪神明，其中日本妖怪占比最多，妖怪和神明都要依靠人类的精神联系而存在，妖怪靠人类的恐惧，神明靠人类的信仰。因此在幻想乡中的人类是非常重要的存在，妖怪们也被禁止杀害人类。\n9.规则秩序：妖怪们的力量通过互相决斗维持，但强力妖怪之间的决斗有造成幻想乡崩坏的危险。因此为平衡各方力量，创立了符卡规则，无论是人类，妖怪还是神明，大家都使用自己的符卡（特殊能力）进行战斗，在游戏中就表现为特殊的弹幕样式。\n10.幻想乡或其他异世界的妖怪经常通过自身能力发起异变，从而散播恐惧，而幻想乡的秩序维持者们比如灵梦、魔理沙则负责降伏妖怪，解决异变。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们还记得东方project的故事吗？\n1.東方Project是一个诞生于1995年的弹幕射击游戏，现在游戏已经出到了第20作，今年是东方诞生的第30周年。\n2.东方Project简称东方，英文touhou，国内粉丝们戏称为车万（字形上相似，可区别东方树叶，东方卫视等其他带有东方的事物）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "07｜mtx🏳️‍⚧️｜无糖｜死肥宅｜焦虑中｜健全b｜社会学｜致歉一切｜备用:@StarryNoct 小号:@WindyLuster\n对不起大家 无人在意 凭感觉回fo（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 39,
+                "username": "StarryNoct"
+              },
+              {
+                "end": 66,
+                "start": 54,
+                "username": "WindyLuster"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星波波🏳️‍⚧️",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032817226680774656/ga377Pls_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 184,
+          "following_count": 142,
+          "like_count": 966,
+          "listed_count": 0,
+          "media_count": 98,
+          "tweet_count": 1904
+        },
+        "username": "StarryNocts",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-26T14:08:58.000Z",
+        "description": "Undergraduate Student |Dev @HRTtracker @KeenLib |  User | 🐱 Lover | 好朋友 🥰: @Huang_Yut1ng @fukui_p26 @qianxunchan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 27,
+                "username": "HRTtracker"
+              },
+              {
+                "end": 47,
+                "start": 39,
+                "username": "KeenLib"
+              },
+              {
+                "end": 89,
+                "start": 76,
+                "username": "Huang_Yut1ng"
+              },
+              {
+                "end": 100,
+                "start": 90,
+                "username": "fukui_p26"
+              },
+              {
+                "end": 113,
+                "start": 101,
+                "username": "qianxunchan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mizukiakiyama.com",
+                "end": 23,
+                "expanded_url": "http://mizukiakiyama.com",
+                "start": 0,
+                "url": "https://t.co/YPl1rDopW0"
+              }
+            ]
+          }
+        },
+        "id": "1982449259774656512",
+        "location": "绪山寺",
+        "name": "Smirnova 🍡",
+        "pinned_tweet_id": "2034816823921885638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034676727314784256/fnOZrjWt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2339,
+          "following_count": 1676,
+          "like_count": 5753,
+          "listed_count": 1,
+          "media_count": 721,
+          "tweet_count": 3751
+        },
+        "url": "https://t.co/YPl1rDopW0",
+        "username": "smiroyama",
+        "verified": true
+      }
+    ]
+  }
+}

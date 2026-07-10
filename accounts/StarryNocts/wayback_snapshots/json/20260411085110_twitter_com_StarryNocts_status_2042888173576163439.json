@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2042526171393601987",
+    "created_at": "2026-04-11T08:51:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T09:51:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042888173576163439"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1463705912846159873",
+          "start": 0,
+          "username": "Nitori_404"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042888173576163439",
+    "in_reply_to_user_id": "1463705912846159873",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042835886233260270",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nitori_404 阿巴阿巴阿巴"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2042526171393601987",
+        "created_at": "2026-04-11T08:51:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T09:51:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042888173576163439"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1463705912846159873",
+              "start": 0,
+              "username": "Nitori_404"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042888173576163439",
+        "in_reply_to_user_id": "1463705912846159873",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042835886233260270",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nitori_404 阿巴阿巴阿巴"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1463705912846159873",
+        "conversation_id": "2042526171393601987",
+        "created_at": "2026-04-11T05:23:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T06:23:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042835886233260270"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1343151486432399360",
+              "start": 0,
+              "username": "StarryNocts"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042835886233260270",
+        "in_reply_to_user_id": "1343151486432399360",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042526171393601987",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StarryNocts 揉揉肉腿😻"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "大傻逼｜蝈蝻｜备用:@StarryNoct 小号:@WindyLuster\n对不起对不起对不起我的错 无人在意 凭感觉回fo（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 10,
+                "username": "StarryNoct"
+              },
+              {
+                "end": 37,
+                "start": 25,
+                "username": "WindyLuster"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星波波✨（傻逼版）",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032817226680774656/ga377Pls_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 328,
+          "following_count": 251,
+          "like_count": 2364,
+          "listed_count": 0,
+          "media_count": 130,
+          "tweet_count": 3393
+        },
+        "username": "StarryNocts",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-25T03:08:04.000Z",
+        "description": "",
+        "id": "1463705912846159873",
+        "name": "Nitori404",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1467813012509577217/d0AoGNVf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 38,
+          "like_count": 2265,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 42
+        },
+        "username": "Nitori_404",
+        "verified": false
+      }
+    ]
+  }
+}

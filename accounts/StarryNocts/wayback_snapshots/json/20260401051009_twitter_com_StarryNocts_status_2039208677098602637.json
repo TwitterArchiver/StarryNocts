@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2039195429645250584",
+    "created_at": "2026-04-01T05:10:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T06:10:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039208677098602637"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1430052755352166401",
+          "start": 0,
+          "username": "Wendy_Ai2005"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039208677098602637",
+    "in_reply_to_user_id": "1430052755352166401",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039195429645250584",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Wendy_Ai2005 好强！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1777,
+        "media_key": "3_2039195417053958145",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEytbX0bEAEza3c.jpg",
+        "width": 1279
+      },
+      {
+        "height": 1655,
+        "media_key": "3_2039195417355907072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEytbY8acAAn4b4.jpg",
+        "width": 1279
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2039195429645250584",
+        "created_at": "2026-04-01T05:10:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T06:10:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039208677098602637"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1430052755352166401",
+              "start": 0,
+              "username": "Wendy_Ai2005"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039208677098602637",
+        "in_reply_to_user_id": "1430052755352166401",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039195429645250584",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wendy_Ai2005 好强！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039195417053958145",
+            "3_2039195417355907072"
+          ]
+        },
+        "author_id": "1430052755352166401",
+        "conversation_id": "2039195429645250584",
+        "created_at": "2026-04-01T04:17:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T05:17:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039195429645250584"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/F4s6Br4mjf",
+              "end": 115,
+              "expanded_url": "https://x.com/Wendy_Ai2005/status/2039195429645250584/photo/1",
+              "media_key": "3_2039195417053958145",
+              "start": 92,
+              "url": "https://t.co/F4s6Br4mjf"
+            },
+            {
+              "display_url": "pic.x.com/F4s6Br4mjf",
+              "end": 115,
+              "expanded_url": "https://x.com/Wendy_Ai2005/status/2039195429645250584/photo/1",
+              "media_key": "3_2039195417355907072",
+              "start": 92,
+              "url": "https://t.co/F4s6Br4mjf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039195429645250584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好难受😖,上学期的钱现在才发，差点断糖。。\n\n累死累活搞这点奖学金全部用来买药💊买糖🍥了\n包含这次拖这么久这笔，上学期搞了4k3的各种奖学金和奖金。连我一年买药和急诊🏥的钱都不够😭😭 https://t.co/F4s6Br4mjf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "07｜mtx🏳️‍⚧️｜无糖｜死肥宅｜焦虑中｜健全b｜社会学｜致歉一切｜备用:@StarryNoct 小号:@WindyLuster\n对不起大家 无人在意 记录生活 凭感觉回fo（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 39,
+                "username": "StarryNoct"
+              },
+              {
+                "end": 66,
+                "start": 54,
+                "username": "WindyLuster"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "location": "摸鱼中…",
+        "name": "​碎星波波🏳️‍⚧️",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032817226680774656/ga377Pls_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 235,
+          "following_count": 188,
+          "like_count": 1136,
+          "listed_count": 0,
+          "media_count": 108,
+          "tweet_count": 2098
+        },
+        "username": "StarryNocts",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-24T06:22:15.000Z",
+        "description": "🇨🇳From China/05,185,65/🏫HIE/📡BI7AWY/🟪MTX/😝说话是狗屁不通文章生成器/🏥休学8年/ASD+ADHD+STPD💊/在读机械狗一枚/全科通识，考试弱智，拆拿教育失败品/🉑🉑机械⚙️电气⚡️天文🔭地理🗺️医学🩺生物🧫瑟瑟🥵/❌❌历史🏺政治📚脑残🤪",
+        "id": "1430052755352166401",
+        "location": "距离你2.8km",
+        "name": "安雯雨🌧️🌧️Wendy_Ai～🍎🍊🍋🍏🫐",
+        "pinned_tweet_id": "2030713067164893246",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033212769781387264/ROqqnl7h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 200,
+          "following_count": 633,
+          "like_count": 1943,
+          "listed_count": 0,
+          "media_count": 147,
+          "tweet_count": 875
+        },
+        "username": "Wendy_Ai2005",
+        "verified": false
+      }
+    ]
+  }
+}

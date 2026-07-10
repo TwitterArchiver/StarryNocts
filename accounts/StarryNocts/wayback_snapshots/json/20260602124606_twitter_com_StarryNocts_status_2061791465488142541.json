@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2061659822081319369",
+    "created_at": "2026-06-02T12:46:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T13:46:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061791465488142541"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1880140645454725120",
+          "start": 0,
+          "username": "DianJ71828"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061791465488142541",
+    "in_reply_to_user_id": "1880140645454725120",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061789726663901271",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DianJ71828 我也想要…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2061659822081319369",
+        "created_at": "2026-06-02T12:46:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T13:46:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061791465488142541"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1880140645454725120",
+              "start": 0,
+              "username": "DianJ71828"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061791465488142541",
+        "in_reply_to_user_id": "1880140645454725120",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061789726663901271",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DianJ71828 我也想要…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880140645454725120",
+        "conversation_id": "2061659822081319369",
+        "created_at": "2026-06-02T12:39:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T13:39:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061789726663901271"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1343151486432399360",
+              "start": 0,
+              "username": "StarryNocts"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061789726663901271",
+        "in_reply_to_user_id": "1343151486432399360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061659822081319369",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StarryNocts 水色很萌，但因为这个颜色太萌了，就会衬得我不萌，申请穿水色萌萌的教程。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "07｜mtx🏳‍⚧｜xnn｜死肥宅｜无糖｜清水｜社恐不线下｜社会学｜焦虑玉玉中｜宝宝:@as_qwq0721｜姐妹:@xiey57828 @LeavesMao｜备用:@StarryNoct \n对不起对不起对不起我的错 无人在意 互fo请私信（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 43,
+                "username": "as_qwq0721"
+              },
+              {
+                "end": 68,
+                "start": 58,
+                "username": "xiey57828"
+              },
+              {
+                "end": 79,
+                "start": 69,
+                "username": "LeavesMao"
+              },
+              {
+                "end": 94,
+                "start": 83,
+                "username": "StarryNoct"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星笨笨✨",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057743777272582144/voe61BiT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1164,
+          "following_count": 659,
+          "like_count": 4129,
+          "listed_count": 3,
+          "media_count": 224,
+          "tweet_count": 7055
+        },
+        "username": "StarryNocts",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "description": "跨女同💕/intp/闲聊推/持证含糖/我喜欢口嗨😋/爱保(万一呢😇😈/🚪52\\128\\256/转载置顶互fo喵喵喵💀💀💀₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "虚拟砂糖猫₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "pinned_tweet_id": "2035588536318271664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963035861492367361/hXZj087A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1544,
+          "following_count": 523,
+          "like_count": 12818,
+          "listed_count": 2,
+          "media_count": 379,
+          "tweet_count": 2558
+        },
+        "username": "DianJ71828",
+        "verified": false
+      }
+    ]
+  }
+}

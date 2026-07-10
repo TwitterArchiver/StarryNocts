@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2048219811063443941",
+    "created_at": "2026-04-26T02:36:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T03:36:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048229583208739294"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2047679401400373248",
+          "start": 0,
+          "username": "Hysteriadie0331"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048229583208739294",
+    "in_reply_to_user_id": "2047679401400373248",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048229352379437301",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hysteriadie0331 抱抱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2048219811063443941",
+        "created_at": "2026-04-26T02:36:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T03:36:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048229583208739294"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2047679401400373248",
+              "start": 0,
+              "username": "Hysteriadie0331"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048229583208739294",
+        "in_reply_to_user_id": "2047679401400373248",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048229352379437301",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hysteriadie0331 抱抱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047679401400373248",
+        "conversation_id": "2048219811063443941",
+        "created_at": "2026-04-26T02:35:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T03:35:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048229352379437301"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1343151486432399360",
+              "start": 0,
+              "username": "StarryNocts"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048229352379437301",
+        "in_reply_to_user_id": "1343151486432399360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048228692267319773",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StarryNocts 咱经历过你的那种想法，咱理解的...如果说咱不理解也是可以，咱愿意倾诉...咱尽力做到自己力所能及的..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "07｜MTX🏳‍⚧｜死肥宅｜无糖｜健全b｜社会学｜焦虑中｜备用:@StarryNoct 小号:@WindyLuster\n对不起对不起对不起我的错 无人在意 凭感觉回fo（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 32,
+                "username": "StarryNoct"
+              },
+              {
+                "end": 59,
+                "start": 47,
+                "username": "WindyLuster"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星笨笨✨",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047542922447638528/3EZlA0VQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 470,
+          "following_count": 322,
+          "like_count": 3304,
+          "listed_count": 0,
+          "media_count": 163,
+          "tweet_count": 4569
+        },
+        "username": "StarryNocts",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-24T14:10:22.000Z",
+        "description": "生日:2009.10.28｜mtf｜轻度GD｜已断糖🍥｜有易性症病历｜家长反对党｜天残党｜INFP-T｜逆来顺受｜BPD｜同类fo｜请和咱交朋友嘛~｜尝试重新做业余心理健康方面事情",
+        "id": "2047679401400373248",
+        "name": "Hysteriadie🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2048078214963380326",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047680198930501633/QKS4RbHg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 73,
+          "like_count": 19,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 57
+        },
+        "username": "Hysteriadie0331",
+        "verified": false
+      }
+    ]
+  }
+}

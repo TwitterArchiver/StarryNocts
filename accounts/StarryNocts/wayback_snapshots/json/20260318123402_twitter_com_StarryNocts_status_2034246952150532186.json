@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2034083891729076549",
+    "created_at": "2026-03-18T12:34:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-18T13:34:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034246952150532186"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1052903358900580352",
+          "start": 0,
+          "username": "Kalin_1124"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034246952150532186",
+    "in_reply_to_user_id": "1052903358900580352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034236038244405707",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kalin_1124 但是我感覺我怪怪的\n不過學校有心理中心提供幫助 還挺好的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2034083891729076549",
+        "created_at": "2026-03-18T12:34:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T13:34:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034246952150532186"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1052903358900580352",
+              "start": 0,
+              "username": "Kalin_1124"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034246952150532186",
+        "in_reply_to_user_id": "1052903358900580352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034236038244405707",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kalin_1124 但是我感覺我怪怪的\n不過學校有心理中心提供幫助 還挺好的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1052903358900580352",
+        "conversation_id": "2034083891729076549",
+        "created_at": "2026-03-18T11:50:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T12:50:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034236038244405707"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1343151486432399360",
+              "start": 0,
+              "username": "StarryNocts"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034236038244405707",
+        "in_reply_to_user_id": "1343151486432399360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034192597833670900",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StarryNocts 聽導師許多醫學生也有這樣感覺\n正常情況\n毋須擔心喵～"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "07｜mtx🏳️‍⚧️｜无糖｜死肥宅｜焦虑中｜健全b｜致歉一切｜都是逃生舱 猫猫:@GrapeJellyCat 鲨鲨:@SharkyCola 宝宝:@WindyLuster",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 41,
+                "username": "GrapeJellyCat"
+              },
+              {
+                "end": 70,
+                "start": 59,
+                "username": "SharkyCola"
+              },
+              {
+                "end": 86,
+                "start": 74,
+                "username": "WindyLuster"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星波波🏳️‍⚧️",
+        "pinned_tweet_id": "2032678873977205221",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032817226680774656/ga377Pls_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 93,
+          "like_count": 526,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 1275
+        },
+        "username": "StarryNocts",
+        "verified": false
+      },
+      {
+        "created_at": "2018-10-18T12:44:57.000Z",
+        "description": "",
+        "id": "1052903358900580352",
+        "location": "owo",
+        "name": "卡林喵～",
+        "pinned_tweet_id": "2013636116793167964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014910609528442880/ftm3U_oA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 490,
+          "following_count": 2301,
+          "like_count": 45532,
+          "listed_count": 2,
+          "media_count": 540,
+          "tweet_count": 7010
+        },
+        "username": "Kalin_1124",
+        "verified": false
+      }
+    ]
+  }
+}

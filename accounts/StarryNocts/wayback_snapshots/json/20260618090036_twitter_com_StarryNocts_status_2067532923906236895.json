@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2067493968737415404",
+    "created_at": "2026-06-18T09:00:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T10:00:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067532923906236895"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1532663208393117696",
+          "start": 0,
+          "username": "Ziverk2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067532923906236895",
+    "in_reply_to_user_id": "1532663208393117696",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067493968737415404",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ziverk2 抱抱Eina"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2067493949053472768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLE2yuiaEAAiWeX.jpg",
+        "width": 1080
+      },
+      {
+        "duration_ms": 2200,
+        "height": 1280,
+        "media_key": "7_2067493949070331904",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2067493949070331904/pu/img/ryjQk9D5C6Wo_WXo.jpg",
+        "public_metrics": {
+          "view_count": 37
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2067493949070331904/pu/vid/avc1/320x568/Fr9QuKBg6EN1be48.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2067493949070331904/pu/vid/avc1/480x852/un88VYFZKoqn6qAb.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2067493949070331904/pu/vid/avc1/720x1280/XR7bm6V8wPgio1Nv.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2067493949070331904/pu/pl/BKBvzs9-9fUvA9Cu.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2067493968737415404",
+        "created_at": "2026-06-18T09:00:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T10:00:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067532923906236895"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1532663208393117696",
+              "start": 0,
+              "username": "Ziverk2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067532923906236895",
+        "in_reply_to_user_id": "1532663208393117696",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067493968737415404",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ziverk2 抱抱Eina"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067493949053472768",
+            "7_2067493949070331904"
+          ]
+        },
+        "author_id": "1532663208393117696",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2067493968737415404",
+        "created_at": "2026-06-18T06:25:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T07:25:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067493968737415404"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eW1rolVCIh",
+              "end": 33,
+              "expanded_url": "https://x.com/Ziverk2/status/2067493968737415404/video/1",
+              "media_key": "3_2067493949053472768",
+              "start": 10,
+              "url": "https://t.co/eW1rolVCIh"
+            },
+            {
+              "display_url": "pic.x.com/eW1rolVCIh",
+              "end": 33,
+              "expanded_url": "https://x.com/Ziverk2/status/2067493968737415404/video/1",
+              "media_key": "7_2067493949070331904",
+              "start": 10,
+              "url": "https://t.co/eW1rolVCIh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067493968737415404",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 109,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "还是遮不完疤😭😭😭 https://t.co/eW1rolVCIh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "07｜mtx🏳‍⚧｜xnn｜死肥宅｜无糖｜清水｜社恐不线下｜社会学｜焦虑玉玉中｜备用:@StarryNoct ｜老公:@chinyu_ouo \n对不起对不起对不起我的错 无人在意 互fo请私信（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 43,
+                "username": "StarryNoct"
+              },
+              {
+                "end": 70,
+                "start": 59,
+                "username": "chinyu_ouo"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星笨笨✨",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057743777272582144/voe61BiT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1387,
+          "following_count": 741,
+          "like_count": 4144,
+          "listed_count": 3,
+          "media_count": 237,
+          "tweet_count": 7704
+        },
+        "username": "StarryNocts",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-03T09:59:29.000Z",
+        "description": "喵喵喵喵喵🐱\n|2008-即将（？）\n|MTF(X)🍥 🏳️‍⚧️ SINCE 2024.11\n|原创音乐人\n|负面碎碎念☹️\n|小群 1020709329 只过熟人喵\n|烤批\n|内有涩涩内容🫣😈\n|负面逃生仓⚠血图 @TakeNitrite 😿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 121,
+                "start": 109,
+                "username": "TakeNitrite"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "eina-2nd.github.io",
+                "end": 23,
+                "expanded_url": "https://eina-2nd.github.io/",
+                "start": 0,
+                "url": "https://t.co/CY9WeMigBd"
+              }
+            ]
+          }
+        },
+        "id": "1532663208393117696",
+        "name": "Einaちゃん🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2050222327573717186",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909919331443695616/ZASQNok0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3736,
+          "following_count": 5829,
+          "like_count": 182732,
+          "listed_count": 13,
+          "media_count": 320,
+          "tweet_count": 16598
+        },
+        "url": "https://t.co/CY9WeMigBd",
+        "username": "Ziverk2",
+        "verified": true
+      }
+    ]
+  }
+}

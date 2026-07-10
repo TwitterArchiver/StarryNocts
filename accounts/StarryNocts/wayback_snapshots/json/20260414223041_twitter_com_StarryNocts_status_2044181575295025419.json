@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2044099152435724678",
+    "created_at": "2026-04-14T22:30:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T23:30:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044181575295025419"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1589135845834993665",
+          "start": 0,
+          "username": "bnzn10146901"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044181575295025419",
+    "in_reply_to_user_id": "1589135845834993665",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044099152435724678",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bnzn10146901 分母（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2044099152435724678",
+        "created_at": "2026-04-14T22:30:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T23:30:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044181575295025419"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1589135845834993665",
+              "start": 0,
+              "username": "bnzn10146901"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044181575295025419",
+        "in_reply_to_user_id": "1589135845834993665",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044099152435724678",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bnzn10146901 分母（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1589135845834993665",
+        "conversation_id": "2044099152435724678",
+        "created_at": "2026-04-14T17:03:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T18:03:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044099152435724678"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044099152435724678",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 505,
+          "like_count": 12,
+          "quote_count": 2,
+          "reply_count": 12,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "决定了！100fo纪念抽奖\n一等奖：52r（一名）\n二等奖：18r（两名）\n三等奖：5.2r（五名）\n安慰奖：我的亲亲🥰（所有人）\n（参与条件：关注我并且在该帖下评论，时间持续到2026年04月15日16时）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "07｜MTF🏳️‍⚧️｜无糖｜皮下男｜死肥宅｜社会学｜焦虑中｜备用:@StarryNoct 小号:@WindyLuster\n对不起对不起对不起我的错 无人在意 凭感觉回fo（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 34,
+                "username": "StarryNoct"
+              },
+              {
+                "end": 61,
+                "start": 49,
+                "username": "WindyLuster"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星波波✨",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032817226680774656/ga377Pls_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 385,
+          "following_count": 263,
+          "like_count": 2663,
+          "listed_count": 0,
+          "media_count": 140,
+          "tweet_count": 3813
+        },
+        "username": "StarryNocts",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-06T06:01:35.000Z",
+        "description": "od︱互fo︱pjsk重度依赖︱音游重度患者︱infj︱喜欢美食︱给我发私信看见了就秒fo(☆^ー^☆)",
+        "id": "1589135845834993665",
+        "name": "笨簪🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042515696677195776/vLiJvmh8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 205,
+          "following_count": 471,
+          "like_count": 256,
+          "listed_count": 1,
+          "media_count": 45,
+          "tweet_count": 920
+        },
+        "username": "bnzn10146901",
+        "verified": false
+      }
+    ]
+  }
+}

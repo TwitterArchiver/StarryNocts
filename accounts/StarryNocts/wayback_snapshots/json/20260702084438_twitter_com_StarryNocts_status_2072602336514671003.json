@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2072516118120734940",
+    "created_at": "2026-07-02T08:44:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T09:44:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072602336514671003"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "946317027920134148",
+          "start": 0,
+          "username": "fenu57090"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072602336514671003",
+    "in_reply_to_user_id": "946317027920134148",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072574937051881907",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fenu57090 Not"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2072516118120734940",
+        "created_at": "2026-07-02T08:44:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T09:44:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072602336514671003"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "946317027920134148",
+              "start": 0,
+              "username": "fenu57090"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072602336514671003",
+        "in_reply_to_user_id": "946317027920134148",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072574937051881907",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fenu57090 Not"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "946317027920134148",
+        "conversation_id": "2072516118120734940",
+        "created_at": "2026-07-02T06:55:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T07:55:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072574937051881907"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1343151486432399360",
+              "start": 0,
+              "username": "StarryNocts"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072574937051881907",
+        "in_reply_to_user_id": "1343151486432399360",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072516118120734940",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StarryNocts 女の子の足ですか？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "07｜mtx🏳‍⚧｜femboy｜死肥宅｜无糖｜清水｜社恐不线下｜社会学｜焦虑玉玉中｜备用:@StarryNoct ｜老公:@chinyu_ouo \n对不起对不起对不起我的错 无人在意 互fo请私信（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 46,
+                "username": "StarryNoct"
+              },
+              {
+                "end": 73,
+                "start": 62,
+                "username": "chinyu_ouo"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星笨笨✨",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070068207461998592/snBVwnOw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1522,
+          "following_count": 801,
+          "like_count": 4154,
+          "listed_count": 4,
+          "media_count": 254,
+          "tweet_count": 8344
+        },
+        "url": "",
+        "username": "StarryNocts",
+        "verified": true
+      },
+      {
+        "created_at": "2017-12-28T09:48:55.000Z",
+        "description": "練馬区付近に生息するペンギン\nラーメンとアニメと男の娘を追い求める\n\n⚠年齢や性別をプロフに書くような奴、喫煙者、アフィカス、つまんないものを面白いとか違いしてる馬鹿は問答無用でブロックします",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "love-letter.club/to/fenu57090/",
+                "end": 23,
+                "expanded_url": "https://love-letter.club/to/fenu57090/",
+                "start": 0,
+                "url": "https://t.co/syuVZbON0a"
+              }
+            ]
+          }
+        },
+        "id": "946317027920134148",
+        "location": "正論でできた世界",
+        "name": "ふぇぬー/みずは",
+        "pinned_tweet_id": "2065675971357806871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976085805836988416/T3c760D1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 287,
+          "following_count": 295,
+          "like_count": 41730,
+          "listed_count": 8,
+          "media_count": 331,
+          "tweet_count": 33691
+        },
+        "url": "https://t.co/syuVZbON0a",
+        "username": "fenu57090",
+        "verified": true
+      }
+    ]
+  }
+}

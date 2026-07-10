@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2042917579644375160",
+    "created_at": "2026-04-11T12:09:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T13:09:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042938019653857325"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1478303823802552322",
+          "start": 0,
+          "username": "DalingDalingDa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042938019653857325",
+    "in_reply_to_user_id": "1478303823802552322",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042917579644375160",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@DalingDalingDa 好强"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 26701,
+        "height": 1280,
+        "media_key": "7_2042917044681871360",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2042917044681871360/pu/img/v8yrXpFCmqp486PS.jpg",
+        "public_metrics": {
+          "view_count": 13
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2042917044681871360/pu/vid/avc1/320x568/GPVa6Bj36zsrzYjM.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2042917044681871360/pu/vid/avc1/480x852/fsOGaxN8FvxRq-b6.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2042917044681871360/pu/vid/avc1/720x1280/F3ajm1GOPHX-uRDl.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2042917044681871360/pu/pl/38HriDx_6hW4bzSa.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2042917579644375160",
+        "created_at": "2026-04-11T12:09:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T13:09:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042938019653857325"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1478303823802552322",
+              "start": 0,
+              "username": "DalingDalingDa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042938019653857325",
+        "in_reply_to_user_id": "1478303823802552322",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042917579644375160",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@DalingDalingDa 好强"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2042917044681871360"
+          ]
+        },
+        "author_id": "1478303823802552322",
+        "conversation_id": "2042917579644375160",
+        "created_at": "2026-04-11T10:48:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T11:48:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042917579644375160"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/q3jr74VD0x",
+              "end": 32,
+              "expanded_url": "https://x.com/DalingDalingDa/status/2042917579644375160/video/1",
+              "media_key": "7_2042917044681871360",
+              "start": 9,
+              "url": "https://t.co/q3jr74VD0x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042917579644375160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "27秒跨子过家家 https://t.co/q3jr74VD0x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "大傻逼｜蝈蝻｜备用:@StarryNoct 小号:@WindyLuster\n对不起对不起对不起我的错 无人在意 凭感觉回fo（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 10,
+                "username": "StarryNoct"
+              },
+              {
+                "end": 37,
+                "start": 25,
+                "username": "WindyLuster"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星波波✨（傻逼版）",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032817226680774656/ga377Pls_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 330,
+          "following_count": 250,
+          "like_count": 2389,
+          "listed_count": 0,
+          "media_count": 130,
+          "tweet_count": 3425
+        },
+        "username": "StarryNocts",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-04T09:54:52.000Z",
+        "description": "仍每日如旧照常重做，只要是我不落俗套，只要你间中也给 一些鼓舞~",
+        "id": "1478303823802552322",
+        "name": "daling（呜呜呜版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930184865032613892/wi4_lT1g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 391,
+          "following_count": 603,
+          "like_count": 18866,
+          "listed_count": 5,
+          "media_count": 286,
+          "tweet_count": 1311
+        },
+        "username": "DalingDalingDa",
+        "verified": false
+      }
+    ]
+  }
+}

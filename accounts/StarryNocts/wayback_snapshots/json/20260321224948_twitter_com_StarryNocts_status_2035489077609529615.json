@@ -1,0 +1,142 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2035489077609529615",
+    "created_at": "2026-03-21T22:49:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-21T23:49:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2035489077609529615"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "The official Ripples of Past Reverie [昔涟] CN Music Video sung by 张韶涵 (Angela Chang) and produced by HOYO-MiX. She can be referred to as both Angela Zhang and...",
+          "display_url": "youtu.be/jzSYw4vJB2U?si…",
+          "end": 23,
+          "expanded_url": "https://youtu.be/jzSYw4vJB2U?si=ijIZ-8aCPCQ2qnmu",
+          "start": 0,
+          "status": 200,
+          "title": "[Eng Subs] Ripples of Past Reverie [昔涟] | Cyrene Official Music Video | Angela Chang 张韶涵 | HSR",
+          "unwound_url": "https://www.youtube.com/watch?si=ijIZ-8aCPCQ2qnmu&v=jzSYw4vJB2U&feature=youtu.be",
+          "url": "https://t.co/pBM7kz9bSS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035489077609529615",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/pBM7kz9bSS"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2035489077609529615",
+        "created_at": "2026-03-21T22:49:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T23:49:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035489077609529615"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "The official Ripples of Past Reverie [昔涟] CN Music Video sung by 张韶涵 (Angela Chang) and produced by HOYO-MiX. She can be referred to as both Angela Zhang and...",
+              "display_url": "youtu.be/jzSYw4vJB2U?si…",
+              "end": 23,
+              "expanded_url": "https://youtu.be/jzSYw4vJB2U?si=ijIZ-8aCPCQ2qnmu",
+              "start": 0,
+              "status": 200,
+              "title": "[Eng Subs] Ripples of Past Reverie [昔涟] | Cyrene Official Music Video | Angela Chang 张韶涵 | HSR",
+              "unwound_url": "https://www.youtube.com/watch?si=ijIZ-8aCPCQ2qnmu&v=jzSYw4vJB2U&feature=youtu.be",
+              "url": "https://t.co/pBM7kz9bSS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035489077609529615",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/pBM7kz9bSS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "07｜mtx🏳️‍⚧️｜无糖｜死肥宅｜焦虑中｜健全b｜致歉一切｜都是逃生舱@GrapeJellyCat @SharkyCola @WindyLuster",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 37,
+                "username": "GrapeJellyCat"
+              },
+              {
+                "end": 63,
+                "start": 52,
+                "username": "SharkyCola"
+              },
+              {
+                "end": 76,
+                "start": 64,
+                "username": "WindyLuster"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星波波✨",
+        "pinned_tweet_id": "2032678873977205221",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032817226680774656/ga377Pls_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 115,
+          "like_count": 627,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 1405
+        },
+        "username": "StarryNocts",
+        "verified": false
+      }
+    ]
+  }
+}

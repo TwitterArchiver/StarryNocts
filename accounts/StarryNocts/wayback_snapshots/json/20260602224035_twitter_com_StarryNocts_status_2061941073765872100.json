@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2061919733331673412",
+    "created_at": "2026-06-02T22:40:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T23:40:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061941073765872100"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2010816143846768640",
+          "start": 0,
+          "username": "luo_240110"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061941073765872100",
+    "in_reply_to_user_id": "2010816143846768640",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061919733331673412",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@luo_240110 羡慕"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2284,
+        "media_key": "3_2061919630340591616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ1o-rHbEAAvRs4.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2291,
+        "media_key": "3_2061919675832020992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ1pBUlbMAA8YC9.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2061919733331673412",
+        "created_at": "2026-06-02T22:40:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T23:40:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061941073765872100"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2010816143846768640",
+              "start": 0,
+              "username": "luo_240110"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061941073765872100",
+        "in_reply_to_user_id": "2010816143846768640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061919733331673412",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luo_240110 羡慕"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061919630340591616",
+            "3_2061919675832020992"
+          ]
+        },
+        "author_id": "2010816143846768640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2061919733331673412",
+        "created_at": "2026-06-02T21:15:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T22:15:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061919733331673412"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iDvbLtfiaU",
+              "end": 35,
+              "expanded_url": "https://x.com/luo_240110/status/2061919733331673412/photo/1",
+              "media_key": "3_2061919630340591616",
+              "start": 12,
+              "url": "https://t.co/iDvbLtfiaU"
+            },
+            {
+              "display_url": "pic.x.com/iDvbLtfiaU",
+              "end": 35,
+              "expanded_url": "https://x.com/luo_240110/status/2061919733331673412/photo/1",
+              "media_key": "3_2061919675832020992",
+              "start": 12,
+              "url": "https://t.co/iDvbLtfiaU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061919733331673412",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一代目和四代目的差距😹 https://t.co/iDvbLtfiaU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "07｜mtx🏳‍⚧｜xnn｜死肥宅｜无糖｜清水｜社恐不线下｜社会学｜焦虑玉玉中｜宝宝:@as_qwq0721｜姐妹:@xiey57828 @LeavesMao｜备用:@StarryNoct \n对不起对不起对不起我的错 无人在意 互fo请私信（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 43,
+                "username": "as_qwq0721"
+              },
+              {
+                "end": 68,
+                "start": 58,
+                "username": "xiey57828"
+              },
+              {
+                "end": 79,
+                "start": 69,
+                "username": "LeavesMao"
+              },
+              {
+                "end": 94,
+                "start": 83,
+                "username": "StarryNoct"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星笨笨✨",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057743777272582144/voe61BiT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1179,
+          "following_count": 662,
+          "like_count": 4129,
+          "listed_count": 3,
+          "media_count": 224,
+          "tweet_count": 7066
+        },
+        "username": "StarryNocts",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-12T20:48:47.000Z",
+        "description": "話したくない｜Ciallo～(∠・ω ≤ )︵★四代目",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Wrin520t",
+                "end": 23,
+                "expanded_url": "http://t.me/Wrin520t",
+                "start": 0,
+                "url": "https://t.co/qKIDVMQsor"
+              }
+            ]
+          }
+        },
+        "id": "2010816143846768640",
+        "location": "地球",
+        "name": "Ciallo🍥",
+        "pinned_tweet_id": "2058950293937958932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058074498285617152/2kdhJxKg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 207,
+          "like_count": 344,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 500
+        },
+        "url": "https://t.co/qKIDVMQsor",
+        "username": "luo_240110",
+        "verified": false
+      }
+    ]
+  }
+}

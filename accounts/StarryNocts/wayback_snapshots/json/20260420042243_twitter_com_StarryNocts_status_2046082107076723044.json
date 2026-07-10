@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2046035635740504455",
+    "created_at": "2026-04-20T04:22:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T05:22:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046082107076723044"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1545993012987461632",
+          "start": 0,
+          "username": "cctpboy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046082107076723044",
+    "in_reply_to_user_id": "1545993012987461632",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046081597464805846",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cctpboy 喝！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2046035635740504455",
+        "created_at": "2026-04-20T04:22:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T05:22:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046082107076723044"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1545993012987461632",
+              "start": 0,
+              "username": "cctpboy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046082107076723044",
+        "in_reply_to_user_id": "1545993012987461632",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046081597464805846",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cctpboy 喝！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545993012987461632",
+        "conversation_id": "2046035635740504455",
+        "created_at": "2026-04-20T04:20:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T05:20:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046081597464805846"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1343151486432399360",
+              "start": 0,
+              "username": "StarryNocts"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046081597464805846",
+        "in_reply_to_user_id": "1343151486432399360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046035635740504455",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StarryNocts 偷喝一口（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "07｜友跨顺男｜死肥宅｜社会学｜焦虑中｜备用:@StarryNoct 小号:@WindyLuster\n对不起对不起对不起我的错 无人在意 凭感觉回fo（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 23,
+                "username": "StarryNoct"
+              },
+              {
+                "end": 50,
+                "start": 38,
+                "username": "WindyLuster"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星波波✨",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032817226680774656/ga377Pls_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 424,
+          "following_count": 290,
+          "like_count": 3048,
+          "listed_count": 0,
+          "media_count": 154,
+          "tweet_count": 4252
+        },
+        "username": "StarryNocts",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-10T04:47:25.000Z",
+        "description": "2007.02/男孩子/infp/爱好乱七八糟/文科生/物之不齐，物之情也/不会写简介/欢迎私信www",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/noche098",
+                "end": 23,
+                "expanded_url": "https://t.me/noche098",
+                "start": 0,
+                "url": "https://t.co/8SRUZbWcg7"
+              }
+            ]
+          }
+        },
+        "id": "1545993012987461632",
+        "location": "Yokohama",
+        "name": "Noche",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034643062429974529/2Ql_xgB4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 197,
+          "like_count": 963,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 1216
+        },
+        "url": "https://t.co/8SRUZbWcg7",
+        "username": "cctpboy",
+        "verified": false
+      }
+    ]
+  }
+}

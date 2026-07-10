@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2055807476776517824",
+    "created_at": "2026-05-17T01:48:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T02:48:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055827799651594722"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1706600551855656960",
+          "start": 0,
+          "username": "Jameswesore"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055827799651594722",
+    "in_reply_to_user_id": "1706600551855656960",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055825996293804078",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jameswesore 吃！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2055807476776517824",
+        "created_at": "2026-05-17T01:48:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T02:48:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055827799651594722"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1706600551855656960",
+              "start": 0,
+              "username": "Jameswesore"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055827799651594722",
+        "in_reply_to_user_id": "1706600551855656960",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055825996293804078",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jameswesore 吃！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1706600551855656960",
+        "conversation_id": "2055807476776517824",
+        "created_at": "2026-05-17T01:41:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T02:41:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055825996293804078"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1343151486432399360",
+              "start": 0,
+              "username": "StarryNocts"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055825996293804078",
+        "in_reply_to_user_id": "1343151486432399360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055807476776517824",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StarryNocts 😋好好看，好想摸，好想吃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "07｜mtx🏳‍⚧｜死肥宅｜无糖｜社会学｜焦虑玉玉中｜备用:@StarryNoct \n对不起对不起对不起我的错 无人在意 回fo请私信（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 30,
+                "username": "StarryNoct"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星笨笨✨",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055173607526121472/haV2R87z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 795,
+          "following_count": 480,
+          "like_count": 4046,
+          "listed_count": 3,
+          "media_count": 204,
+          "tweet_count": 6023
+        },
+        "username": "StarryNocts",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-26T09:24:29.000Z",
+        "description": "👀时不时来视奸你们",
+        "id": "1706600551855656960",
+        "name": "サメ🦈",
+        "pinned_tweet_id": "2037834689873080420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036460154410188800/VxEcEp12_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 449,
+          "following_count": 3079,
+          "like_count": 25751,
+          "listed_count": 1,
+          "media_count": 74,
+          "tweet_count": 9205
+        },
+        "username": "Jameswesore",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2068528610978463795",
+    "created_at": "2026-06-21T13:24:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T14:24:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068686411314688461"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1709061123767767040",
+          "start": 0,
+          "username": "Suchet27"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068686411314688461",
+    "in_reply_to_user_id": "1709061123767767040",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068681606940815384",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Suchet27 香草味的好吃😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2068528610978463795",
+        "created_at": "2026-06-21T13:24:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T14:24:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068686411314688461"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1709061123767767040",
+              "start": 0,
+              "username": "Suchet27"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068686411314688461",
+        "in_reply_to_user_id": "1709061123767767040",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068681606940815384",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Suchet27 香草味的好吃😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1709061123767767040",
+        "conversation_id": "2068528610978463795",
+        "created_at": "2026-06-21T13:05:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T14:05:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068681606940815384"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1343151486432399360",
+              "start": 0,
+              "username": "StarryNocts"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068681606940815384",
+        "in_reply_to_user_id": "1343151486432399360",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068528610978463795",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StarryNocts 香草"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "07｜mtx🏳‍⚧｜xnn｜死肥宅｜无糖｜清水｜社恐不线下｜社会学｜焦虑玉玉中｜备用:@StarryNoct ｜老公:@chinyu_ouo \n对不起对不起对不起我的错 无人在意 互fo请私信（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 43,
+                "username": "StarryNoct"
+              },
+              {
+                "end": 70,
+                "start": 59,
+                "username": "chinyu_ouo"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星笨笨✨",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067758567839739904/R4rYmxfQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1407,
+          "following_count": 750,
+          "like_count": 4145,
+          "listed_count": 3,
+          "media_count": 240,
+          "tweet_count": 7799
+        },
+        "url": "",
+        "username": "StarryNocts",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-03T04:22:32.000Z",
+        "description": "",
+        "id": "1709061123767767040",
+        "name": "道格",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1709061453482004480/grLUKilJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 233,
+          "like_count": 782,
+          "listed_count": 2,
+          "media_count": 20,
+          "tweet_count": 883
+        },
+        "url": "",
+        "username": "Suchet27",
+        "verified": false
+      }
+    ]
+  }
+}

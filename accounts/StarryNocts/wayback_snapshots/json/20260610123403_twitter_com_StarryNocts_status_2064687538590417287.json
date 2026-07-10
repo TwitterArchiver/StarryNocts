@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2064594372537282680",
+    "created_at": "2026-06-10T12:34:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T13:34:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064687538590417287"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1227603655903399936",
+          "start": 0,
+          "username": "K66cheng"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064687538590417287",
+    "in_reply_to_user_id": "1227603655903399936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064594372537282680",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@K66cheng 太坏了！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2340,
+        "media_key": "3_2064594312000856065",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKbplowaYAEPiZp.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2340,
+        "media_key": "3_2064594312269344768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKbplpwbMAAgJ0-.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2340,
+        "media_key": "3_2064594315037601792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKbpl0EbcAANKE5.jpg",
+        "width": 1080
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2064594320297250816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKbpmHqbUAAvk1X.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2064594372537282680",
+        "created_at": "2026-06-10T12:34:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T13:34:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064687538590417287"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1227603655903399936",
+              "start": 0,
+              "username": "K66cheng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064687538590417287",
+        "in_reply_to_user_id": "1227603655903399936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064594372537282680",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@K66cheng 太坏了！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064594312000856065",
+            "3_2064594312269344768",
+            "3_2064594315037601792",
+            "3_2064594320297250816"
+          ]
+        },
+        "author_id": "1227603655903399936",
+        "conversation_id": "2064594372537282680",
+        "created_at": "2026-06-10T06:23:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T07:23:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064594372537282680"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YDH4nmFLLe",
+              "end": 55,
+              "expanded_url": "https://x.com/K66cheng/status/2064594372537282680/photo/1",
+              "media_key": "3_2064594312000856065",
+              "start": 32,
+              "url": "https://t.co/YDH4nmFLLe"
+            },
+            {
+              "display_url": "pic.x.com/YDH4nmFLLe",
+              "end": 55,
+              "expanded_url": "https://x.com/K66cheng/status/2064594372537282680/photo/1",
+              "media_key": "3_2064594312269344768",
+              "start": 32,
+              "url": "https://t.co/YDH4nmFLLe"
+            },
+            {
+              "display_url": "pic.x.com/YDH4nmFLLe",
+              "end": 55,
+              "expanded_url": "https://x.com/K66cheng/status/2064594372537282680/photo/1",
+              "media_key": "3_2064594315037601792",
+              "start": 32,
+              "url": "https://t.co/YDH4nmFLLe"
+            },
+            {
+              "display_url": "pic.x.com/YDH4nmFLLe",
+              "end": 55,
+              "expanded_url": "https://x.com/K66cheng/status/2064594372537282680/photo/1",
+              "media_key": "3_2064594320297250816",
+              "start": 32,
+              "url": "https://t.co/YDH4nmFLLe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064594372537282680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 111,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大飞舞迪迪。。\n天天在家躺着也不找工作。。\n在家养膘当飞猪。。 https://t.co/YDH4nmFLLe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "07｜mtx🏳‍⚧｜xnn｜死肥宅｜无糖｜清水｜社恐不线下｜社会学｜焦虑玉玉中｜宝宝:@as_qwq0721｜备用:@StarryNoct \n对不起对不起对不起我的错 无人在意 互fo请私信（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 43,
+                "username": "as_qwq0721"
+              },
+              {
+                "end": 69,
+                "start": 58,
+                "username": "StarryNoct"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星笨笨✨",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057743777272582144/voe61BiT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1374,
+          "following_count": 730,
+          "like_count": 4141,
+          "listed_count": 3,
+          "media_count": 233,
+          "tweet_count": 7603
+        },
+        "username": "StarryNocts",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-12T14:42:44.000Z",
+        "description": "伪物空城｜\n含糖友跨翻车顺♂｜\n厨娘女仆 | \nINTJ-T｜\n瑶瑶@GK98815227｜\n小妹妹@baizhimengyao｜\n皮肤饥渴症终末期患者快和我贴贴｜\n缺爱｜\n喵喵｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 34,
+                "username": "GK98815227"
+              },
+              {
+                "end": 64,
+                "start": 50,
+                "username": "baizhimengyao"
+              }
+            ]
+          }
+        },
+        "id": "1227603655903399936",
+        "location": "北京",
+        "name": "蓝粉白糖🏳️‍⚧️🏳️‍🌈",
+        "pinned_tweet_id": "1892567203943252339",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1297561582734467072/wWXPtOUY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6044,
+          "following_count": 3551,
+          "like_count": 24393,
+          "listed_count": 26,
+          "media_count": 1297,
+          "tweet_count": 17420
+        },
+        "username": "K66cheng",
+        "verified": false
+      }
+    ]
+  }
+}

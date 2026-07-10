@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2041749881497563600",
+    "created_at": "2026-04-08T05:43:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T06:43:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041753788852400572"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1478303823802552322",
+          "start": 0,
+          "username": "DalingDalingDa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041753788852400572",
+    "in_reply_to_user_id": "1478303823802552322",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041749881497563600",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DalingDalingDa 我想吃！"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8366,
+        "height": 720,
+        "media_key": "7_2041749840158453764",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2041749840158453764/pu/img/BWRK-6JbQ3jLx8Vw.jpg",
+        "public_metrics": {
+          "view_count": 3
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2041749840158453764/pu/vid/avc1/480x270/mB_GytLxnt-JwrHk.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2041749840158453764/pu/vid/avc1/640x360/jXHZLPvW5zINeWi0.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2041749840158453764/pu/vid/avc1/1280x720/nqzmCfnC-vKathWQ.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2041749840158453764/pu/pl/Xj0Hw0_LluYX3SIg.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2041749881497563600",
+        "created_at": "2026-04-08T05:43:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T06:43:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041753788852400572"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1478303823802552322",
+              "start": 0,
+              "username": "DalingDalingDa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041753788852400572",
+        "in_reply_to_user_id": "1478303823802552322",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041749881497563600",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DalingDalingDa 我想吃！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2041749840158453764"
+          ]
+        },
+        "author_id": "1478303823802552322",
+        "conversation_id": "2041749881497563600",
+        "created_at": "2026-04-08T05:28:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T06:28:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041749881497563600"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YkzRbd4qJ4",
+              "end": 31,
+              "expanded_url": "https://x.com/DalingDalingDa/status/2041749881497563600/video/1",
+              "media_key": "7_2041749840158453764",
+              "start": 8,
+              "url": "https://t.co/YkzRbd4qJ4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041749881497563600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "葱油鸡永远OK https://t.co/YkzRbd4qJ4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "大傻逼｜蝈蝻｜备用:@StarryNoct 小号:@WindyLuster\n对不起对不起对不起我的错 无人在意 凭感觉回fo（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 10,
+                "username": "StarryNoct"
+              },
+              {
+                "end": 37,
+                "start": 25,
+                "username": "WindyLuster"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星波波✨（傻逼版）",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032817226680774656/ga377Pls_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 285,
+          "following_count": 230,
+          "like_count": 1984,
+          "listed_count": 0,
+          "media_count": 126,
+          "tweet_count": 2997
+        },
+        "username": "StarryNocts",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-04T09:54:52.000Z",
+        "description": "仍每日如旧照常重做，只要是我不落俗套，只要你间中也给 一些鼓舞~",
+        "id": "1478303823802552322",
+        "name": "daling",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930184865032613892/wi4_lT1g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 383,
+          "following_count": 595,
+          "like_count": 18752,
+          "listed_count": 5,
+          "media_count": 284,
+          "tweet_count": 1297
+        },
+        "username": "DalingDalingDa",
+        "verified": false
+      }
+    ]
+  }
+}

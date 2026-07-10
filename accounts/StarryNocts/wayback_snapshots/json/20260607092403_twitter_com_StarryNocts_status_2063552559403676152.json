@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2063092062082465960",
+    "created_at": "2026-06-07T09:24:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T10:24:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063552559403676152"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1899882819436109825",
+          "start": 0,
+          "username": "Xqop19439"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063552559403676152",
+    "in_reply_to_user_id": "1899882819436109825",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063550640807428219",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xqop19439 😭😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2063092062082465960",
+        "created_at": "2026-06-07T09:24:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T10:24:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063552559403676152"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1899882819436109825",
+              "start": 0,
+              "username": "Xqop19439"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063552559403676152",
+        "in_reply_to_user_id": "1899882819436109825",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063550640807428219",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xqop19439 😭😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1899882819436109825",
+        "conversation_id": "2063092062082465960",
+        "created_at": "2026-06-07T09:16:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T10:16:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063550640807428219"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1343151486432399360",
+              "start": 0,
+              "username": "StarryNocts"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063550640807428219",
+        "in_reply_to_user_id": "1343151486432399360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063431336229290038",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StarryNocts 因为我没钱了啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "07｜mtx🏳‍⚧｜xnn｜死肥宅｜无糖｜清水｜社恐不线下｜社会学｜焦虑玉玉中｜宝宝:@as_qwq0721｜姐妹:@xiey57828 @LeavesMao｜备用:@StarryNoct \n对不起对不起对不起我的错 无人在意 互fo请私信（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 43,
+                "username": "as_qwq0721"
+              },
+              {
+                "end": 68,
+                "start": 58,
+                "username": "xiey57828"
+              },
+              {
+                "end": 79,
+                "start": 69,
+                "username": "LeavesMao"
+              },
+              {
+                "end": 94,
+                "start": 83,
+                "username": "StarryNoct"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星笨笨✨",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057743777272582144/voe61BiT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1347,
+          "following_count": 717,
+          "like_count": 4133,
+          "listed_count": 3,
+          "media_count": 229,
+          "tweet_count": 7374
+        },
+        "username": "StarryNocts",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-12T17:59:26.000Z",
+        "description": "18+🍼A 19-year-old girl is an adult baby trapped in a boy.🥺\nABDLamateur🤗\nCDLittle boy and girl😊\nplease take care of it☺️",
+        "id": "1899882819436109825",
+        "location": "Shijiazhuang in Hebei, China",
+        "name": "Qwer (ABDL)",
+        "pinned_tweet_id": "2060762473008116128",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063091617691746304/4ZBdzQ_3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 393,
+          "like_count": 460,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 82
+        },
+        "username": "Xqop19439",
+        "verified": false
+      }
+    ]
+  }
+}

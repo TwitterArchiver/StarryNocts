@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2070538821184504314",
+    "created_at": "2026-06-27T04:27:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T05:27:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070725731345191057"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1854736085068517376",
+          "start": 0,
+          "username": "RainEngine_2024"
+        },
+        {
+          "end": 32,
+          "id": "1810873766119100416",
+          "start": 17,
+          "username": "RainEngine2024"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070725731345191057",
+    "in_reply_to_user_id": "1854736085068517376",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070538821184504314",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RainEngine_2024 @RainEngine2024 抱抱…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1493,
+        "media_key": "3_2070538812481286144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLwIFGubMAA3D3i.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2070538821184504314",
+        "created_at": "2026-06-27T04:27:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T05:27:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070725731345191057"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1854736085068517376",
+              "start": 0,
+              "username": "RainEngine_2024"
+            },
+            {
+              "end": 32,
+              "id": "1810873766119100416",
+              "start": 17,
+              "username": "RainEngine2024"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070725731345191057",
+        "in_reply_to_user_id": "1854736085068517376",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070538821184504314",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RainEngine_2024 @RainEngine2024 抱抱…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070538812481286144"
+          ]
+        },
+        "author_id": "1854736085068517376",
+        "conversation_id": "2070538821184504314",
+        "created_at": "2026-06-26T16:04:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T17:04:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070538821184504314"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 38,
+              "id": "1810873766119100416",
+              "start": 23,
+              "username": "RainEngine2024"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DGKqcwOsRi",
+              "end": 81,
+              "expanded_url": "https://x.com/RainEngine_2024/status/2070538821184504314/photo/1",
+              "media_key": "3_2070538812481286144",
+              "start": 58,
+              "url": "https://t.co/DGKqcwOsRi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070538821184504314",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 835,
+          "like_count": 39,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大家好，我是推特时长两年半的个人推特主雨晴酱 @RainEngine2024 ，现在这里是三代目账号，感谢大家支持 https://t.co/DGKqcwOsRi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "07｜mtx🏳‍⚧｜femboy｜死肥宅｜无糖｜清水｜社恐不线下｜社会学｜焦虑玉玉中｜备用:@StarryNoct ｜老公:@chinyu_ouo \n对不起对不起对不起我的错 无人在意 互fo请私信（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 46,
+                "username": "StarryNoct"
+              },
+              {
+                "end": 73,
+                "start": 62,
+                "username": "chinyu_ouo"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星笨笨✨",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070068207461998592/snBVwnOw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1445,
+          "following_count": 777,
+          "like_count": 4150,
+          "listed_count": 4,
+          "media_count": 248,
+          "tweet_count": 8065
+        },
+        "url": "",
+        "username": "StarryNocts",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-08T04:02:15.000Z",
+        "description": "雨擎项目组设计总监/Dancing Line饭制作者/07年/曾小米合作伙伴/目前在学习u3d引擎技术/貌似不是学生/双相/HRT:2025.9.5/炸柜:2026.6.2/来自广东东莞/喜欢拍照记录生活/喜欢折腾各类的手机/很高兴认识大家/欢迎互fo",
+        "id": "1854736085068517376",
+        "name": "晴日向",
+        "pinned_tweet_id": "2070538821184504314",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053488985306198016/M7IDcy9f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 787,
+          "following_count": 321,
+          "like_count": 2783,
+          "listed_count": 1,
+          "media_count": 38,
+          "tweet_count": 348
+        },
+        "url": "",
+        "username": "RainEngine_2024",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-10T03:08:51.000Z",
+        "description": "RainEngine联合创始人/曾小米项目部运营/现移动合作伙伴/SimpleUX维护者/喜欢摄影/喜欢折腾各类的Android手机/偶尔发些日常/GMT+8/PM前请征得同意否则Ban/追求源于热爱，极致源于梦想",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/RainEngine2024",
+                "end": 23,
+                "expanded_url": "https://t.me/RainEngine2024",
+                "start": 0,
+                "url": "https://t.co/9PQn0qPrWk"
+              }
+            ]
+          }
+        },
+        "id": "1810873766119100416",
+        "name": "雨晴酱_Official",
+        "pinned_tweet_id": "2038233746755948881",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060444078790348800/OZRYk2nj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10581,
+          "following_count": 973,
+          "like_count": 95333,
+          "listed_count": 25,
+          "media_count": 1945,
+          "tweet_count": 13359
+        },
+        "url": "https://t.co/9PQn0qPrWk",
+        "username": "RainEngine2024",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2042526171393601987",
+    "created_at": "2026-04-10T11:24:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T12:24:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042564378457981248"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2032847763029868544",
+          "start": 0,
+          "username": "Aielww"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042564378457981248",
+    "in_reply_to_user_id": "2032847763029868544",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042561568156631426",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aielww 不好看"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2042526171393601987",
+        "created_at": "2026-04-10T11:24:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T12:24:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042564378457981248"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2032847763029868544",
+              "start": 0,
+              "username": "Aielww"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042564378457981248",
+        "in_reply_to_user_id": "2032847763029868544",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042561568156631426",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aielww 不好看"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032847763029868544",
+        "conversation_id": "2042526171393601987",
+        "created_at": "2026-04-10T11:13:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T12:13:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042561568156631426"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1343151486432399360",
+              "start": 0,
+              "username": "StarryNocts"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042561568156631426",
+        "in_reply_to_user_id": "1343151486432399360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 96,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042526171393601987",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StarryNocts 你看你看！明明那么好看！怎么会粗呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "大傻逼｜蝈蝻｜备用:@StarryNoct 小号:@WindyLuster\n对不起对不起对不起我的错 无人在意 凭感觉回fo（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 10,
+                "username": "StarryNoct"
+              },
+              {
+                "end": 37,
+                "start": 25,
+                "username": "WindyLuster"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星波波✨（傻逼版）",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032817226680774656/ga377Pls_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 311,
+          "following_count": 245,
+          "like_count": 2279,
+          "listed_count": 0,
+          "media_count": 127,
+          "tweet_count": 3297
+        },
+        "username": "StarryNocts",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-14T15:55:19.000Z",
+        "description": "一个臭读电子信息的fw/喜欢喝点好喝的甜甜的（酒）/有时候会女装（但是难看、身材不好）",
+        "id": "2032847763029868544",
+        "name": "Aiel",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032848601349505024/ORqQKE5M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 10,
+          "like_count": 93,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 38
+        },
+        "username": "Aielww",
+        "verified": false
+      }
+    ]
+  }
+}

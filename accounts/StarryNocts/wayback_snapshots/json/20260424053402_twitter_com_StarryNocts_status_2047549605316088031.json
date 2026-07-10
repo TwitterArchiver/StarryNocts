@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2047527806176051678",
+    "created_at": "2026-04-24T05:34:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T06:34:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047549605316088031"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1850683970889076736",
+          "start": 0,
+          "username": "xyamzw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047549605316088031",
+    "in_reply_to_user_id": "1850683970889076736",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047549075952746652",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xyamzw 你也吃！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2047527806176051678",
+        "created_at": "2026-04-24T05:34:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T06:34:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047549605316088031"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1850683970889076736",
+              "start": 0,
+              "username": "xyamzw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047549605316088031",
+        "in_reply_to_user_id": "1850683970889076736",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047549075952746652",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xyamzw 你也吃！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850683970889076736",
+        "conversation_id": "2047527806176051678",
+        "created_at": "2026-04-24T05:31:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T06:31:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047549075952746652"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1343151486432399360",
+              "start": 0,
+              "username": "StarryNocts"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047549075952746652",
+        "in_reply_to_user_id": "1343151486432399360",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047527806176051678",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StarryNocts xm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "07｜MTX🏳‍⚧｜死肥宅｜无糖｜健全b｜社会学｜焦虑中｜备用:@StarryNoct 小号:@WindyLuster\n对不起对不起对不起我的错 无人在意 凭感觉回fo（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 32,
+                "username": "StarryNoct"
+              },
+              {
+                "end": 59,
+                "start": 47,
+                "username": "WindyLuster"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星笨笨✨",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047542922447638528/3EZlA0VQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 441,
+          "following_count": 303,
+          "like_count": 3216,
+          "listed_count": 0,
+          "media_count": 160,
+          "tweet_count": 4427
+        },
+        "username": "StarryNocts",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-27T23:41:49.000Z",
+        "description": "19 y.o | Frontend Developer",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xyamzw.top",
+                "end": 23,
+                "expanded_url": "http://xyamzw.top",
+                "start": 0,
+                "url": "https://t.co/Nx5ZEzIODH"
+              }
+            ]
+          }
+        },
+        "id": "1850683970889076736",
+        "name": "未觉寻星",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957515014333480960/ql5s6uEM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 162,
+          "like_count": 61,
+          "listed_count": 2,
+          "media_count": 12,
+          "tweet_count": 267
+        },
+        "url": "https://t.co/Nx5ZEzIODH",
+        "username": "xyamzw",
+        "verified": false
+      }
+    ]
+  }
+}

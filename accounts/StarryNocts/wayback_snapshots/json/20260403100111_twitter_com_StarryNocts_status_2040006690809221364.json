@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2040006322557788309",
+    "created_at": "2026-04-03T10:01:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T11:01:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040006690809221364"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1118865266538979328",
+          "start": 0,
+          "username": "jhhhujhb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040006690809221364",
+    "in_reply_to_user_id": "1118865266538979328",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040006322557788309",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jhhhujhb 诶？！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2040006322557788309",
+        "created_at": "2026-04-03T10:01:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T11:01:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040006690809221364"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1118865266538979328",
+              "start": 0,
+              "username": "jhhhujhb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040006690809221364",
+        "in_reply_to_user_id": "1118865266538979328",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040006322557788309",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jhhhujhb 诶？！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1118865266538979328",
+        "conversation_id": "2040006322557788309",
+        "created_at": "2026-04-03T09:59:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T10:59:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040006322557788309"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2040006322557788309",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "连续导了两发真他妈爽，为什么男生有cd这个东西"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "07｜mtx🏳️‍⚧️｜无糖｜死肥宅｜焦虑中｜健全b｜社会学｜致歉一切｜备用:@StarryNoct 小号:@WindyLuster\n对不起大家 无人在意 记录生活 凭感觉回fo（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 39,
+                "username": "StarryNoct"
+              },
+              {
+                "end": 66,
+                "start": 54,
+                "username": "WindyLuster"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "location": "摸鱼中…",
+        "name": "​碎星波波✨",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032817226680774656/ga377Pls_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 255,
+          "following_count": 199,
+          "like_count": 1365,
+          "listed_count": 0,
+          "media_count": 116,
+          "tweet_count": 2314
+        },
+        "username": "StarryNocts",
+        "verified": false
+      },
+      {
+        "created_at": "2019-04-18T13:14:01.000Z",
+        "description": "英/日/韩语自学中\nINTP\n男的",
+        "id": "1118865266538979328",
+        "location": "私立希望之峰学院",
+        "name": "Chiaki Nanami",
+        "pinned_tweet_id": "1464480831028613124",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1602459399616094208/LinMyJmk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 467,
+          "following_count": 1492,
+          "like_count": 90610,
+          "listed_count": 6,
+          "media_count": 1005,
+          "tweet_count": 8968
+        },
+        "username": "jhhhujhb",
+        "verified": false
+      }
+    ]
+  }
+}

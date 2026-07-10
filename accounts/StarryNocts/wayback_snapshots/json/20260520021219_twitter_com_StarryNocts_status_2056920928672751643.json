@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2056918971375595574",
+    "created_at": "2026-05-20T02:12:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T03:12:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056920928672751643"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1764195010986274816",
+          "start": 0,
+          "username": "CCA8798"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056920928672751643",
+    "in_reply_to_user_id": "1764195010986274816",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056920627827949854",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CCA8798 好耶！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2056918971375595574",
+        "created_at": "2026-05-20T02:12:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T03:12:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056920928672751643"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1764195010986274816",
+              "start": 0,
+              "username": "CCA8798"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056920928672751643",
+        "in_reply_to_user_id": "1764195010986274816",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056920627827949854",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CCA8798 好耶！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1764195010986274816",
+        "conversation_id": "2056918971375595574",
+        "created_at": "2026-05-20T02:11:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T03:11:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056920627827949854"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1343151486432399360",
+              "start": 0,
+              "username": "StarryNocts"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056920627827949854",
+        "in_reply_to_user_id": "1343151486432399360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056918971375595574",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StarryNocts 有的姐们有的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "07｜mtx🏳‍⚧｜死肥宅｜无糖｜清水｜社会学｜焦虑玉玉中｜宝宝:@as_qwq0721｜备用:@StarryNoct \n对不起对不起对不起我的错 无人在意 互fo请私信（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 33,
+                "username": "as_qwq0721"
+              },
+              {
+                "end": 59,
+                "start": 48,
+                "username": "StarryNoct"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星笨笨✨",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056382888187510784/TI8up0se_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 900,
+          "following_count": 521,
+          "like_count": 4075,
+          "listed_count": 3,
+          "media_count": 209,
+          "tweet_count": 6218
+        },
+        "username": "StarryNocts",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-03T07:45:22.000Z",
+        "description": "MTF/X🍥 | 含糖 | 年龄党(家长党！) 出柜26.05.05 | 出厂:壹贰.零壹.零叁 | 166cm/41kg | 佛山 | 玻璃心 心境障碍 ED GD (OD🧐)双相中焦 | 交通 科学 医学 杂圈迷 | 战争雷霆 | Cpp Coder\n可寄拍/扩列\n二代目(逃生舱): @CCA8798suki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "CCA8798suki"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cca8798.com/about/",
+                "end": 23,
+                "expanded_url": "https://www.cca8798.com/about/",
+                "start": 0,
+                "url": "https://t.co/7pvlNCbO8x"
+              }
+            ]
+          }
+        },
+        "id": "1764195010986274816",
+        "location": "安东星蜗牛第一票常交易有限公司",
+        "name": "不会起名の捌拐玖捌(疲乏版)🍥",
+        "pinned_tweet_id": "2052265032193581443",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051736077615136768/q8UF6A0j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 925,
+          "following_count": 1236,
+          "like_count": 16050,
+          "listed_count": 4,
+          "media_count": 183,
+          "tweet_count": 2270
+        },
+        "url": "https://t.co/7pvlNCbO8x",
+        "username": "CCA8798",
+        "verified": false
+      }
+    ]
+  }
+}

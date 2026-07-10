@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2034869152318726373",
+    "created_at": "2026-03-20T05:48:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-20T06:48:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034869555605185003"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2034869555605185003",
+    "in_reply_to_user_id": "1343151486432399360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034869152318726373",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不了解或者以偏概全只会产生偏见。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2034869139085602816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD1Os2eaMAAdOvG.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2034869152318726373",
+        "created_at": "2026-03-20T05:48:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T06:48:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034869555605185003"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2034869555605185003",
+        "in_reply_to_user_id": "1343151486432399360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034869152318726373",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不了解或者以偏概全只会产生偏见。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034869139085602816"
+          ]
+        },
+        "author_id": "1343151486432399360",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for all fields of study, e.g., futurology, microbiology ",
+              "id": "164",
+              "name": "Fields of study"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          }
+        ],
+        "conversation_id": "2034869152318726373",
+        "created_at": "2026-03-20T05:46:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T06:46:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034869152318726373"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UETVrX8W9K",
+              "end": 167,
+              "expanded_url": "https://x.com/StarryNocts/status/2034869152318726373/photo/1",
+              "media_key": "3_2034869139085602816",
+              "start": 144,
+              "url": "https://t.co/UETVrX8W9K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034869152318726373",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不知道。\n确实盲目吃糖有害的。\n确实吃糖是缓解GD的。\n确实正规医疗机构会使用的。\n确实在心理学的治疗上会使用。\n确实我和很多木桶饭交流，查看了各类资料和书籍，从心理学学习到糖的风险和适用范围。\n但不能因为滥用直接就喷正规的HRT治疗。\n你滥用过没有效果。\n那你不能喷人家有GD的啊。 https://t.co/UETVrX8W9K"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "07｜mtx🏳️‍⚧️｜无糖｜死肥宅｜焦虑中｜健全b｜致歉一切｜都是逃生舱@GrapeJellyCat @SharkyCola @WindyLuster",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 37,
+                "username": "GrapeJellyCat"
+              },
+              {
+                "end": 63,
+                "start": 52,
+                "username": "SharkyCola"
+              },
+              {
+                "end": 76,
+                "start": 64,
+                "username": "WindyLuster"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星波波✨",
+        "pinned_tweet_id": "2032678873977205221",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032817226680774656/ga377Pls_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 99,
+          "like_count": 540,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 1302
+        },
+        "username": "StarryNocts",
+        "verified": false
+      }
+    ]
+  }
+}

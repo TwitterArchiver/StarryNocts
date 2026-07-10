@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2071859809939284349",
+    "created_at": "2026-06-30T22:38:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T23:38:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072087518984683521"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2068392248627331072",
+          "start": 0,
+          "username": "SometimesLying"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072087518984683521",
+    "in_reply_to_user_id": "2068392248627331072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071867196276625548",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SometimesLying 你更可爱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2071859809939284349",
+        "created_at": "2026-06-30T22:38:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T23:38:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072087518984683521"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2068392248627331072",
+              "start": 0,
+              "username": "SometimesLying"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072087518984683521",
+        "in_reply_to_user_id": "2068392248627331072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071867196276625548",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SometimesLying 你更可爱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2068392248627331072",
+        "conversation_id": "2071859809939284349",
+        "created_at": "2026-06-30T08:03:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T09:03:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071867196276625548"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1343151486432399360",
+              "start": 0,
+              "username": "StarryNocts"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071867196276625548",
+        "in_reply_to_user_id": "1343151486432399360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 50,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071859809939284349",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StarryNocts 可爱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "07｜mtx🏳‍⚧｜femboy｜死肥宅｜无糖｜清水｜社恐不线下｜社会学｜焦虑玉玉中｜备用:@StarryNoct ｜老公:@chinyu_ouo \n对不起对不起对不起我的错 无人在意 互fo请私信（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 46,
+                "username": "StarryNoct"
+              },
+              {
+                "end": 73,
+                "start": 62,
+                "username": "chinyu_ouo"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星笨笨✨",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070068207461998592/snBVwnOw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1486,
+          "following_count": 792,
+          "like_count": 4152,
+          "listed_count": 4,
+          "media_count": 252,
+          "tweet_count": 8259
+        },
+        "url": "",
+        "username": "StarryNocts",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-20T17:59:19.000Z",
+        "description": "Femboy｜Cs2 Player｜Gokz Noob｜I'm of legal age｜拒绝谈论一切政治敏感话题｜未经允许禁止转载｜感谢关注♡",
+        "id": "2068392248627331072",
+        "name": "Loriii",
+        "pinned_tweet_id": "2069455873626505547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068393577982636032/fHlAR81p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 76,
+          "like_count": 531,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 73
+        },
+        "url": "",
+        "username": "SometimesLying",
+        "verified": false
+      }
+    ]
+  }
+}

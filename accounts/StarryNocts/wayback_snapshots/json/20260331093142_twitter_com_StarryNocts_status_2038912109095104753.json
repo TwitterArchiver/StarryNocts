@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2038826507473490127",
+    "created_at": "2026-03-31T09:31:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T10:31:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038912109095104753"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1738107522459082752",
+          "start": 0,
+          "username": "cuzhnx278792"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038912109095104753",
+    "in_reply_to_user_id": "1738107522459082752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038847270070968769",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cuzhnx278792 我也想吃几年前的自己…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2038826507473490127",
+        "created_at": "2026-03-31T09:31:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T10:31:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038912109095104753"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1738107522459082752",
+              "start": 0,
+              "username": "cuzhnx278792"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038912109095104753",
+        "in_reply_to_user_id": "1738107522459082752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038847270070968769",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cuzhnx278792 我也想吃几年前的自己…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738107522459082752",
+        "conversation_id": "2038826507473490127",
+        "created_at": "2026-03-31T05:14:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T06:14:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038847270070968769"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1343151486432399360",
+              "start": 0,
+              "username": "StarryNocts"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038847270070968769",
+        "in_reply_to_user_id": "1343151486432399360",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038826507473490127",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StarryNocts 兄弟，你好香啊🥵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "07｜mtx🏳️‍⚧️｜无糖｜死肥宅｜焦虑中｜健全b｜社会学｜致歉一切｜备用:@StarryNoct 小号:@WindyLuster\n对不起大家 无人在意 凭感觉回fo（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 39,
+                "username": "StarryNoct"
+              },
+              {
+                "end": 66,
+                "start": 54,
+                "username": "WindyLuster"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星波波🏳️‍⚧️",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032817226680774656/ga377Pls_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 205,
+          "following_count": 148,
+          "like_count": 1004,
+          "listed_count": 0,
+          "media_count": 105,
+          "tweet_count": 1954
+        },
+        "username": "StarryNocts",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-22T08:02:51.000Z",
+        "description": "成就我的难道真的只是鸿运齐天蛊吗？",
+        "id": "1738107522459082752",
+        "name": "马鸿运",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036104243275501568/px7VBjsk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 1,
+          "like_count": 767,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 354
+        },
+        "username": "cuzhnx278792",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2044386288913219862",
+    "created_at": "2026-04-15T13:06:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T14:06:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044401886850331102"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1491394557657124864",
+          "start": 0,
+          "username": "Rumia10_9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044401886850331102",
+    "in_reply_to_user_id": "1491394557657124864",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044401401049317477",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rumia10_9 Really???"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2044386288913219862",
+        "created_at": "2026-04-15T13:06:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T14:06:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044401886850331102"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1491394557657124864",
+              "start": 0,
+              "username": "Rumia10_9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044401886850331102",
+        "in_reply_to_user_id": "1491394557657124864",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044401401049317477",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rumia10_9 Really???"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1491394557657124864",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Society",
+              "id": "847896364256067584",
+              "name": "Society"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Marriage",
+              "id": "847896538105782272",
+              "name": "Marriage"
+            }
+          }
+        ],
+        "conversation_id": "2044386288913219862",
+        "created_at": "2026-04-15T13:04:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T14:04:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044401401049317477"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1343151486432399360",
+              "start": 0,
+              "username": "StarryNocts"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044401401049317477",
+        "in_reply_to_user_id": "1343151486432399360",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044386288913219862",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StarryNocts いい加減、結婚しましょう"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "07｜MTF🏳️‍⚧️｜无糖｜皮下男｜死肥宅｜社会学｜焦虑中｜备用:@StarryNoct 小号:@WindyLuster\n对不起对不起对不起我的错 无人在意 凭感觉回fo（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 34,
+                "username": "StarryNoct"
+              },
+              {
+                "end": 61,
+                "start": 49,
+                "username": "WindyLuster"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星波波✨",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032817226680774656/ga377Pls_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 386,
+          "following_count": 265,
+          "like_count": 2723,
+          "listed_count": 0,
+          "media_count": 144,
+          "tweet_count": 3875
+        },
+        "username": "StarryNocts",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-09T12:52:53.000Z",
+        "description": "#おこ鯖  @_KageHime ←の大ファン！お友達♡▶︎@leaf10102 BB200ランカー目標！→1:01:079 太鼓の達人赤銀十段、マリカ、マリメ2、青鬼ON、城ドラー、テトラー、エフゼロ99、アモアス、マイクラPVP（1.9）、にゃんこエンジョイ勢 サブ@Rumia10_9_2 アイコン▶えすれき 様",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 4,
+                "start": 0,
+                "tag": "おこ鯖"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 16,
+                "start": 6,
+                "username": "_KageHime"
+              },
+              {
+                "end": 40,
+                "start": 30,
+                "username": "leaf10102"
+              },
+              {
+                "end": 147,
+                "start": 135,
+                "username": "Rumia10_9_2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ameblo.jp/rumia666",
+                "end": 23,
+                "expanded_url": "http://ameblo.jp/rumia666",
+                "start": 0,
+                "url": "https://t.co/yj8uiqYs6q"
+              }
+            ]
+          }
+        },
+        "id": "1491394557657124864",
+        "location": "25段位終わるまで玄人目標！！",
+        "name": "ルuuuuuuuuuuuuuuuミア☺︎🍬🍪-Ruumia☆666",
+        "pinned_tweet_id": "1992416030602531174",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009222049567485952/ER6QO1ZQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1974,
+          "following_count": 4109,
+          "like_count": 32255,
+          "listed_count": 5,
+          "media_count": 1939,
+          "tweet_count": 15048
+        },
+        "url": "https://t.co/yj8uiqYs6q",
+        "username": "Rumia10_9",
+        "verified": false
+      }
+    ]
+  }
+}

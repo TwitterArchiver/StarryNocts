@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2047544504362979496",
+    "created_at": "2026-04-24T06:17:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T07:17:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047560483750973647"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1596190117273763842",
+          "start": 0,
+          "username": "Chongchong31029"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047560483750973647",
+    "in_reply_to_user_id": "1596190117273763842",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047556343897428421",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chongchong31029 要不眯一觉 听点歌？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2047544504362979496",
+        "created_at": "2026-04-24T06:17:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T07:17:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047560483750973647"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1596190117273763842",
+              "start": 0,
+              "username": "Chongchong31029"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047560483750973647",
+        "in_reply_to_user_id": "1596190117273763842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047556343897428421",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chongchong31029 要不眯一觉 听点歌？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596190117273763842",
+        "conversation_id": "2047544504362979496",
+        "created_at": "2026-04-24T06:00:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T07:00:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047556343897428421"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1343151486432399360",
+              "start": 0,
+              "username": "StarryNocts"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047556343897428421",
+        "in_reply_to_user_id": "1343151486432399360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047554707401675204",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StarryNocts 想睡觉...睡不着"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "07｜MTX🏳‍⚧｜死肥宅｜无糖｜健全b｜社会学｜焦虑中｜备用:@StarryNoct 小号:@WindyLuster\n对不起对不起对不起我的错 无人在意 凭感觉回fo（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 32,
+                "username": "StarryNoct"
+              },
+              {
+                "end": 59,
+                "start": 47,
+                "username": "WindyLuster"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星笨笨✨",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047542922447638528/3EZlA0VQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 445,
+          "following_count": 305,
+          "like_count": 3223,
+          "listed_count": 0,
+          "media_count": 160,
+          "tweet_count": 4432
+        },
+        "username": "StarryNocts",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-25T17:12:43.000Z",
+        "description": "160 50kg 无证含糖2025.11 hrt不涉政，不鉴证",
+        "id": "1596190117273763842",
+        "location": "北京",
+        "name": "花汀酒🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045187697954918400/VLcPTvwG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 375,
+          "like_count": 724,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 192
+        },
+        "username": "Chongchong31029",
+        "verified": false
+      }
+    ]
+  }
+}

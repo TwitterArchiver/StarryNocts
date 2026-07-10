@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2042772489164787784",
+    "created_at": "2026-04-11T01:24:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T02:24:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042775655952310736"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1319578357395156993",
+          "start": 0,
+          "username": "yoshino_2333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042775655952310736",
+    "in_reply_to_user_id": "1319578357395156993",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042772489164787784",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yoshino_2333 好强"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2042770479002587138",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFlg7XaakAIJYlt.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2042770479019364353",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFlg7XeakAEwc23.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2042772489164787784",
+        "created_at": "2026-04-11T01:24:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T02:24:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042775655952310736"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1319578357395156993",
+              "start": 0,
+              "username": "yoshino_2333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042775655952310736",
+        "in_reply_to_user_id": "1319578357395156993",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042772489164787784",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yoshino_2333 好强"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042770479002587138",
+            "3_2042770479019364353"
+          ]
+        },
+        "author_id": "1319578357395156993",
+        "conversation_id": "2042772489164787784",
+        "created_at": "2026-04-11T01:11:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T02:11:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042772489164787784"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9NCNRzBVjx",
+              "end": 180,
+              "expanded_url": "https://x.com/yoshino_2333/status/2042772489164787784/photo/1",
+              "media_key": "3_2042770479002587138",
+              "start": 157,
+              "url": "https://t.co/9NCNRzBVjx"
+            },
+            {
+              "display_url": "pic.x.com/9NCNRzBVjx",
+              "end": 180,
+              "expanded_url": "https://x.com/yoshino_2333/status/2042772489164787784/photo/1",
+              "media_key": "3_2042770479019364353",
+              "start": 157,
+              "url": "https://t.co/9NCNRzBVjx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042772489164787784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "无聊了来回答一波：\n1. xp 是大姐姐（？这算 xp 吗），特别喜欢温柔体贴的大姐姐（曾几何时我还是 lolicon 来着，不知道什么时候变成姐控了）\n2. 要看怎么算了，小学会写点爬虫什么的，但最喜欢的还是写公众号和拍 vlog（）初中开始玩 nas 和软路由，给一个自动化影视下载系统写了两个 python 插件。真正写完整项目基本是初三开始的"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 46,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "无聊了来回答一波：\n1. xp 是大姐姐（？这算 xp 吗），特别喜欢温柔体贴的大姐姐（曾几何时我还是 lolicon 来着，不知道什么时候变成姐控了）\n2. 要看怎么算了，小学会写点爬虫什么的，但最喜欢的还是写公众号和拍 vlog（）初中开始玩 nas 和软路由，给一个自动化影视下载系统写了两个 python https://t.co/9NCNRzBVjx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "大傻逼｜蝈蝻｜备用:@StarryNoct 小号:@WindyLuster\n对不起对不起对不起我的错 无人在意 凭感觉回fo（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 10,
+                "username": "StarryNoct"
+              },
+              {
+                "end": 37,
+                "start": 25,
+                "username": "WindyLuster"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星波波✨（傻逼版）",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032817226680774656/ga377Pls_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 326,
+          "following_count": 249,
+          "like_count": 2328,
+          "listed_count": 0,
+          "media_count": 128,
+          "tweet_count": 3364
+        },
+        "username": "StarryNocts",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-23T09:56:17.000Z",
+        "description": "我是 Roitium/Yoshino | Frontend/ReactNative Developer | Tweets in EN/CN | 欢迎 DM! | 头像 @qyMinusk9\n\n「I love the world and everything in it.」",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 84,
+                "username": "qyMinusk9"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/roitium",
+                "end": 23,
+                "expanded_url": "https://github.com/roitium",
+                "start": 0,
+                "url": "https://t.co/z8BZ98SA9U"
+              }
+            ]
+          }
+        },
+        "id": "1319578357395156993",
+        "location": "你的电脑",
+        "name": "Yoshino233",
+        "pinned_tweet_id": "2030998636159730141",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039474668680486912/hErJuvgd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1286,
+          "following_count": 510,
+          "like_count": 9963,
+          "listed_count": 2,
+          "media_count": 203,
+          "tweet_count": 7310
+        },
+        "url": "https://t.co/z8BZ98SA9U",
+        "username": "yoshino_2333",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2045869324867686686",
+    "created_at": "2026-04-19T22:15:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T23:15:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045989760456663371"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1852896305514975232",
+          "start": 0,
+          "username": "mi46843"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045989760456663371",
+    "in_reply_to_user_id": "1852896305514975232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045892382848426328",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mi46843 我那个时候就发现自己已经被刻板印象困扰了…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2045869324867686686",
+        "created_at": "2026-04-19T22:15:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T23:15:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045989760456663371"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1852896305514975232",
+              "start": 0,
+              "username": "mi46843"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045989760456663371",
+        "in_reply_to_user_id": "1852896305514975232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045892382848426328",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mi46843 我那个时候就发现自己已经被刻板印象困扰了…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852896305514975232",
+        "conversation_id": "2045869324867686686",
+        "created_at": "2026-04-19T15:48:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T16:48:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045892382848426328"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1343151486432399360",
+              "start": 0,
+              "username": "StarryNocts"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045892382848426328",
+        "in_reply_to_user_id": "1343151486432399360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 606,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045869324867686686",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StarryNocts 这说的不免有些抽象了，不经事的初一学生能理解吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "07｜MTX🏳️‍⚧️｜无糖｜皮下男｜死肥宅｜社会学｜焦虑中｜备用:@StarryNoct 小号:@WindyLuster\n对不起对不起对不起我的错 无人在意 凭感觉回fo（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 34,
+                "username": "StarryNoct"
+              },
+              {
+                "end": 61,
+                "start": 49,
+                "username": "WindyLuster"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星波波✨",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032817226680774656/ga377Pls_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 419,
+          "following_count": 286,
+          "like_count": 3021,
+          "listed_count": 0,
+          "media_count": 153,
+          "tweet_count": 4238
+        },
+        "username": "StarryNocts",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-03T02:11:40.000Z",
+        "description": "这里是一条简介 \n反对一切形式的对人歧视\n👊🏳️‍🌈🔥",
+        "id": "1852896305514975232",
+        "name": "Francois Millet",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904979770842177536/gcVv6VhF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 634,
+          "following_count": 3542,
+          "like_count": 31960,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 1808
+        },
+        "username": "mi46843",
+        "verified": false
+      }
+    ]
+  }
+}

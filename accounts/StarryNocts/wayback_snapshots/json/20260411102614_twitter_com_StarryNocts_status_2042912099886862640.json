@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2042876210729128422",
+    "created_at": "2026-04-11T10:26:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T11:26:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042912099886862640"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "850349756559654912",
+          "start": 0,
+          "username": "cgugbvhct88"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042912099886862640",
+    "in_reply_to_user_id": "850349756559654912",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042907934624223692",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cgugbvhct88 喵喵喵喵喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2042876210729128422",
+        "created_at": "2026-04-11T10:26:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T11:26:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042912099886862640"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "850349756559654912",
+              "start": 0,
+              "username": "cgugbvhct88"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042912099886862640",
+        "in_reply_to_user_id": "850349756559654912",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042907934624223692",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cgugbvhct88 喵喵喵喵喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "850349756559654912",
+        "conversation_id": "2042876210729128422",
+        "created_at": "2026-04-11T10:09:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T11:09:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042907934624223692"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1343151486432399360",
+              "start": 0,
+              "username": "StarryNocts"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042907934624223692",
+        "in_reply_to_user_id": "1343151486432399360",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042876210729128422",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StarryNocts 喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "大傻逼｜蝈蝻｜备用:@StarryNoct 小号:@WindyLuster\n对不起对不起对不起我的错 无人在意 凭感觉回fo（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 10,
+                "username": "StarryNoct"
+              },
+              {
+                "end": 37,
+                "start": 25,
+                "username": "WindyLuster"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星波波✨（傻逼版）",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032817226680774656/ga377Pls_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 330,
+          "following_count": 251,
+          "like_count": 2382,
+          "listed_count": 0,
+          "media_count": 130,
+          "tweet_count": 3411
+        },
+        "username": "StarryNocts",
+        "verified": false
+      },
+      {
+        "created_at": "2017-04-07T14:09:15.000Z",
+        "description": "喜歡蒐集各式各樣的泰迪熊🧸 是熊弟弟的媽媽非常喜歡看喵的影片,喵是熊孩子的父母",
+        "id": "850349756559654912",
+        "name": "庭熊🐻🐈🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933487049551781888/-owYWBd7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 531,
+          "following_count": 6162,
+          "like_count": 33258,
+          "listed_count": 2,
+          "media_count": 132,
+          "tweet_count": 7623
+        },
+        "username": "cgugbvhct88",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2063177167132033336",
+    "created_at": "2026-06-06T09:24:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T10:24:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063190316291866625"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1430312926737354753",
+          "start": 0,
+          "username": "mufan_2006"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063190316291866625",
+    "in_reply_to_user_id": "1430312926737354753",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063177167132033336",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mufan_2006 好好看！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2063177154901544961",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKHgsPKbkAEtHMW.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2063177155341897728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKHgsQza0AAjtHh.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2063177155916505088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKHgsS8aoAAcho9.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2063177167132033336",
+        "created_at": "2026-06-06T09:24:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T10:24:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063190316291866625"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1430312926737354753",
+              "start": 0,
+              "username": "mufan_2006"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063190316291866625",
+        "in_reply_to_user_id": "1430312926737354753",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063177167132033336",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mufan_2006 好好看！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063177154901544961",
+            "3_2063177155341897728",
+            "3_2063177155916505088"
+          ]
+        },
+        "author_id": "1430312926737354753",
+        "conversation_id": "2063177167132033336",
+        "created_at": "2026-06-06T08:32:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T09:32:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063177167132033336"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rzLzixgssN",
+              "end": 147,
+              "expanded_url": "https://x.com/mufan_2006/status/2063177167132033336/photo/1",
+              "media_key": "3_2063177154901544961",
+              "start": 124,
+              "url": "https://t.co/rzLzixgssN"
+            },
+            {
+              "display_url": "pic.x.com/rzLzixgssN",
+              "end": 147,
+              "expanded_url": "https://x.com/mufan_2006/status/2063177167132033336/photo/1",
+              "media_key": "3_2063177155341897728",
+              "start": 124,
+              "url": "https://t.co/rzLzixgssN"
+            },
+            {
+              "display_url": "pic.x.com/rzLzixgssN",
+              "end": 147,
+              "expanded_url": "https://x.com/mufan_2006/status/2063177167132033336/photo/1",
+              "media_key": "3_2063177155916505088",
+              "start": 124,
+              "url": "https://t.co/rzLzixgssN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063177167132033336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 77,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "1.索尼大法好，不買還是人？\n2.先有索尼後有天，大法在手虐神仙。\n3.賺錢為了啥？不就是為了買大法嘛！\n\n4、一個字，買！兩個字，買買三個字，買買買！ ！ ！五個字，一上市就買！眾生皆為德味來，現世險惡忘前緣。索尼弟子說出真相，教你脫險莫拒絕。 https://t.co/rzLzixgssN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "07｜mtx🏳‍⚧｜xnn｜死肥宅｜无糖｜清水｜社恐不线下｜社会学｜焦虑玉玉中｜宝宝:@as_qwq0721｜姐妹:@xiey57828 @LeavesMao｜备用:@StarryNoct \n对不起对不起对不起我的错 无人在意 互fo请私信（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 43,
+                "username": "as_qwq0721"
+              },
+              {
+                "end": 68,
+                "start": 58,
+                "username": "xiey57828"
+              },
+              {
+                "end": 79,
+                "start": 69,
+                "username": "LeavesMao"
+              },
+              {
+                "end": 94,
+                "start": 83,
+                "username": "StarryNoct"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星笨笨✨",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057743777272582144/voe61BiT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1325,
+          "following_count": 708,
+          "like_count": 4133,
+          "listed_count": 3,
+          "media_count": 228,
+          "tweet_count": 7288
+        },
+        "username": "StarryNocts",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-24T23:35:59.000Z",
+        "description": "日常休學生\n喜歡被耳機強姦，會搞建模+3d列印\n還有對電子的東西有點興趣。\n我最愛的老婆❤️@SONY846995",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 46,
+                "username": "SONY846995"
+              }
+            ]
+          }
+        },
+        "id": "1430312926737354753",
+        "location": "台中",
+        "name": "暮范🩵",
+        "pinned_tweet_id": "2053079084536889478",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057653027071569920/oAlS3WK-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11840,
+          "following_count": 93,
+          "like_count": 18635,
+          "listed_count": 13,
+          "media_count": 47,
+          "tweet_count": 276
+        },
+        "username": "mufan_2006",
+        "verified": false
+      }
+    ]
+  }
+}

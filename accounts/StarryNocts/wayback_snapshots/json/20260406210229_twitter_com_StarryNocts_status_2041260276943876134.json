@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2041118511511327172",
+    "created_at": "2026-04-06T21:02:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T22:02:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041260276943876134"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1977283341583106052",
+          "start": 0,
+          "username": "Gatn_ID"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041260276943876134",
+    "in_reply_to_user_id": "1977283341583106052",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041118511511327172",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Gatn_ID 想吃！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2041118495417733120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFOCdQ_akAAzBph.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2041118495749058560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFOCdSOaMAAiwag.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2041118511511327172",
+        "created_at": "2026-04-06T21:02:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T22:02:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041260276943876134"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1977283341583106052",
+              "start": 0,
+              "username": "Gatn_ID"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041260276943876134",
+        "in_reply_to_user_id": "1977283341583106052",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041118511511327172",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Gatn_ID 想吃！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041118495417733120",
+            "3_2041118495749058560"
+          ]
+        },
+        "author_id": "1977283341583106052",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2041118511511327172",
+        "created_at": "2026-04-06T11:39:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T12:39:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041118511511327172"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/STDUnhA9F6",
+              "end": 29,
+              "expanded_url": "https://x.com/Gatn_ID/status/2041118511511327172/photo/1",
+              "media_key": "3_2041118495417733120",
+              "start": 6,
+              "url": "https://t.co/STDUnhA9F6"
+            },
+            {
+              "display_url": "pic.x.com/STDUnhA9F6",
+              "end": 29,
+              "expanded_url": "https://x.com/Gatn_ID/status/2041118511511327172/photo/1",
+              "media_key": "3_2041118495749058560",
+              "start": 6,
+              "url": "https://t.co/STDUnhA9F6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041118511511327172",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 107,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "开始撕咬！ https://t.co/STDUnhA9F6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "大傻福｜蝈蝻｜备用:@StarryNoct 小号:@WindyLuster\n对不起对不起对不起我的错 无人在意 凭感觉回fo（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 10,
+                "username": "StarryNoct"
+              },
+              {
+                "end": 37,
+                "start": 25,
+                "username": "WindyLuster"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星波波✨（傻福版）",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032817226680774656/ga377Pls_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 281,
+          "following_count": 225,
+          "like_count": 1799,
+          "listed_count": 0,
+          "media_count": 125,
+          "tweet_count": 2825
+        },
+        "username": "StarryNocts",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-12T08:01:06.000Z",
+        "description": "04的老old大叔 自学过一点梅花易数的数字卦跟阳明心学有领域大神可以一起讨论一下\n/VRchat：TangD:",
+        "id": "1977283341583106052",
+        "name": "GaTn_:D",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977287571786153987/anKaiFG1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 187,
+          "following_count": 674,
+          "like_count": 28724,
+          "listed_count": 0,
+          "media_count": 502,
+          "tweet_count": 5459
+        },
+        "username": "Gatn_ID",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2060887677780762903",
+    "created_at": "2026-06-03T05:32:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T06:32:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062044661213188459"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1964960204384251904",
+          "start": 0,
+          "username": "alt252247822749"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062044661213188459",
+    "in_reply_to_user_id": "1964960204384251904",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062043433066520897",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@alt252247822749 😋😋😋"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2062043422622638080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ3ZkVTaYAA6Aq9.jpg",
+        "width": 1606
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2060887677780762903",
+        "created_at": "2026-06-03T05:32:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T06:32:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062044661213188459"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1964960204384251904",
+              "start": 0,
+              "username": "alt252247822749"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062044661213188459",
+        "in_reply_to_user_id": "1964960204384251904",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062043433066520897",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@alt252247822749 😋😋😋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062043422622638080"
+          ]
+        },
+        "author_id": "1964960204384251904",
+        "conversation_id": "2060887677780762903",
+        "created_at": "2026-06-03T05:27:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T06:27:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062043433066520897"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1343151486432399360",
+              "start": 0,
+              "username": "StarryNocts"
+            },
+            {
+              "end": 26,
+              "id": "1319578357395156993",
+              "start": 13,
+              "username": "yoshino_2333"
+            },
+            {
+              "end": 42,
+              "id": "1779063322500874240",
+              "start": 27,
+              "username": "kunkunyuzaizai"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/v3RyAcimKw",
+              "end": 79,
+              "expanded_url": "https://x.com/alt252247822749/status/2062043433066520897/photo/1",
+              "media_key": "3_2062043422622638080",
+              "start": 56,
+              "url": "https://t.co/v3RyAcimKw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062043433066520897",
+        "in_reply_to_user_id": "1343151486432399360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060887677780762903",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StarryNocts @yoshino_2333 @kunkunyuzaizai 谢谢，顺带发一下白丝雪糕 https://t.co/v3RyAcimKw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "07｜mtx🏳‍⚧｜xnn｜死肥宅｜无糖｜清水｜社恐不线下｜社会学｜焦虑玉玉中｜宝宝:@as_qwq0721｜姐妹:@xiey57828 @LeavesMao｜备用:@StarryNoct \n对不起对不起对不起我的错 无人在意 互fo请私信（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 43,
+                "username": "as_qwq0721"
+              },
+              {
+                "end": 68,
+                "start": 58,
+                "username": "xiey57828"
+              },
+              {
+                "end": 79,
+                "start": 69,
+                "username": "LeavesMao"
+              },
+              {
+                "end": 94,
+                "start": 83,
+                "username": "StarryNoct"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星笨笨✨",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057743777272582144/voe61BiT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1197,
+          "following_count": 675,
+          "like_count": 4129,
+          "listed_count": 3,
+          "media_count": 224,
+          "tweet_count": 7086
+        },
+        "username": "StarryNocts",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-08T07:53:30.000Z",
+        "description": "",
+        "id": "1964960204384251904",
+        "name": "alt",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965000951095570432/X197U8zw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 285,
+          "like_count": 10183,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 20
+        },
+        "username": "alt252247822749",
+        "verified": false
+      }
+    ]
+  }
+}

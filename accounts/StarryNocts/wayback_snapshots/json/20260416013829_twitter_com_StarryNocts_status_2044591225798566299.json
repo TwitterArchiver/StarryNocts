@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2044590618589151618",
+    "created_at": "2026-04-16T01:38:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T02:38:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044591225798566299"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1982449259774656512",
+          "start": 0,
+          "username": "smiroyama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044591225798566299",
+    "in_reply_to_user_id": "1982449259774656512",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044590618589151618",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@smiroyama 好诶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2044590618589151618",
+        "created_at": "2026-04-16T01:38:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T02:38:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044591225798566299"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1982449259774656512",
+              "start": 0,
+              "username": "smiroyama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044591225798566299",
+        "in_reply_to_user_id": "1982449259774656512",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044590618589151618",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@smiroyama 好诶"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1982449259774656512",
+        "conversation_id": "2044590618589151618",
+        "created_at": "2026-04-16T01:36:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T02:36:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044590618589151618"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "在全球气候变暖的宏观研究框架中，学术界通常将温室气体排放的焦点集中于工业生产、化石燃料燃烧以及大规模的农业活动。然而，在这些宏大的叙事背后，一个极为隐蔽且呈指数级增长的人为热力学热源却长期被忽视：即全球高校与科研机构中，研究生导师频繁在微信群或朋友圈转发公众号文章所引发的“学术界信息级联效应”（Academic Information Cascade Effect）。这一看似无害的日常社交行为，实...",
+              "display_url": "oyamamahiro.com/articles/tutor…",
+              "end": 23,
+              "expanded_url": "https://oyamamahiro.com/articles/tutor-and-greenhouse?lang=ja",
+              "start": 0,
+              "status": 200,
+              "title": "为什么导师经常转发公众号，会严重导致全球变暖？",
+              "unwound_url": "https://oyamamahiro.com/articles/tutor-and-greenhouse?lang=ja",
+              "url": "https://t.co/cwi9fgQYlT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044590618589151618",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/cwi9fgQYlT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "07｜MTF🏳️‍⚧️｜无糖｜皮下男｜死肥宅｜社会学｜焦虑中｜备用:@StarryNoct 小号:@WindyLuster\n对不起对不起对不起我的错 无人在意 凭感觉回fo（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 34,
+                "username": "StarryNoct"
+              },
+              {
+                "end": 61,
+                "start": 49,
+                "username": "WindyLuster"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星波波✨",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032817226680774656/ga377Pls_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 391,
+          "following_count": 266,
+          "like_count": 2755,
+          "listed_count": 0,
+          "media_count": 144,
+          "tweet_count": 3911
+        },
+        "username": "StarryNocts",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-26T14:08:58.000Z",
+        "description": "Undergraduate Student |Dev @HRTtracker🍥 @KeenLib |  User | 🐱 Lover | 好朋友 🥰: @Huang_Yut1ng @fukui_p26 @qianxunchan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 27,
+                "username": "HRTtracker"
+              },
+              {
+                "end": 48,
+                "start": 40,
+                "username": "KeenLib"
+              },
+              {
+                "end": 90,
+                "start": 77,
+                "username": "Huang_Yut1ng"
+              },
+              {
+                "end": 101,
+                "start": 91,
+                "username": "fukui_p26"
+              },
+              {
+                "end": 114,
+                "start": 102,
+                "username": "qianxunchan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mizukiakiyama.com",
+                "end": 23,
+                "expanded_url": "http://mizukiakiyama.com",
+                "start": 0,
+                "url": "https://t.co/YPl1rDopW0"
+              }
+            ]
+          }
+        },
+        "id": "1982449259774656512",
+        "location": "绪山寺",
+        "name": "Smirnova 🍡",
+        "pinned_tweet_id": "2034816823921885638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041377830597246976/UX0FQmaR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2976,
+          "following_count": 1887,
+          "like_count": 7820,
+          "listed_count": 2,
+          "media_count": 1090,
+          "tweet_count": 4816
+        },
+        "url": "https://t.co/YPl1rDopW0",
+        "username": "smiroyama",
+        "verified": true
+      }
+    ]
+  }
+}

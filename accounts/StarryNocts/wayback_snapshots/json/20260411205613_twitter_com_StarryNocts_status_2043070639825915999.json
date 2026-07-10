@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2042965083719123302",
+    "created_at": "2026-04-11T20:56:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T21:56:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043070639825915999"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "822329886257790976",
+          "start": 0,
+          "username": "LumidexNZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043070639825915999",
+    "in_reply_to_user_id": "822329886257790976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042965083719123302",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LumidexNZ 怎么都刷到高考作文了 我是不是活到头了…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 829,
+        "media_key": "3_2042965071161364494",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFoR6HsakA4R29s.jpg",
+        "width": 1095
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2042965083719123302",
+        "created_at": "2026-04-11T20:56:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T21:56:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043070639825915999"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "822329886257790976",
+              "start": 0,
+              "username": "LumidexNZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043070639825915999",
+        "in_reply_to_user_id": "822329886257790976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042965083719123302",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LumidexNZ 怎么都刷到高考作文了 我是不是活到头了…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042965071161364494"
+          ]
+        },
+        "author_id": "822329886257790976",
+        "conversation_id": "2042965083719123302",
+        "created_at": "2026-04-11T13:56:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T14:56:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042965083719123302"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Yg8od9CkEp",
+              "end": 58,
+              "expanded_url": "https://x.com/LumidexNZ/status/2042965083719123302/photo/1",
+              "media_key": "3_2042965071161364494",
+              "start": 35,
+              "url": "https://t.co/Yg8od9CkEp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042965083719123302",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1168,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "困死了这个点，只要撑过这个点后半夜就精神得一批，这也算是第二次呼吸了 https://t.co/Yg8od9CkEp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "大傻逼｜蝈蝻｜备用:@StarryNoct 小号:@WindyLuster\n对不起对不起对不起我的错 无人在意 凭感觉回fo（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 10,
+                "username": "StarryNoct"
+              },
+              {
+                "end": 37,
+                "start": 25,
+                "username": "WindyLuster"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星波波✨（傻逼版）",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032817226680774656/ga377Pls_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 332,
+          "following_count": 250,
+          "like_count": 2401,
+          "listed_count": 0,
+          "media_count": 130,
+          "tweet_count": 3442
+        },
+        "username": "StarryNocts",
+        "verified": false
+      },
+      {
+        "created_at": "2017-01-20T06:28:17.000Z",
+        "description": "精神病挂壁老鼠人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/RKudep",
+                "end": 23,
+                "expanded_url": "https://t.me/RKudep",
+                "start": 0,
+                "url": "https://t.co/y8BdM7JDKk"
+              }
+            ]
+          }
+        },
+        "id": "822329886257790976",
+        "location": "喵星",
+        "name": "Lumidex🏳️‍⚧️",
+        "pinned_tweet_id": "1996780227146781129",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974094378621947904/Xsfc6pAa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1613,
+          "following_count": 609,
+          "like_count": 4823,
+          "listed_count": 1,
+          "media_count": 131,
+          "tweet_count": 2016
+        },
+        "url": "https://t.co/y8BdM7JDKk",
+        "username": "LumidexNZ",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2032221940749124058",
+    "created_at": "2026-03-13T02:07:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-13T03:07:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032277452387729675"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1500855672480489475",
+          "start": 0,
+          "username": "Usep_111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032277452387729675",
+    "in_reply_to_user_id": "1500855672480489475",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032269286799261829",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Usep_111 按理说应该是指一个人的肉体和精神 但这里我更想侧重于精神上 有些主观行为实际是受到神经递质和受体结合情况所影响的 所以我想希望大家找到真正属于自己的生活 而不是因为药物或者心理障碍造成的偏离轨道的事"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2032221940749124058",
+        "created_at": "2026-03-13T02:07:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T03:07:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032277452387729675"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1500855672480489475",
+              "start": 0,
+              "username": "Usep_111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032277452387729675",
+        "in_reply_to_user_id": "1500855672480489475",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032269286799261829",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Usep_111 按理说应该是指一个人的肉体和精神 但这里我更想侧重于精神上 有些主观行为实际是受到神经递质和受体结合情况所影响的 所以我想希望大家找到真正属于自己的生活 而不是因为药物或者心理障碍造成的偏离轨道的事"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1500855672480489475",
+        "conversation_id": "2032221940749124058",
+        "created_at": "2026-03-13T01:35:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T02:35:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032269286799261829"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1343151486432399360",
+              "start": 0,
+              "username": "StarryNocts"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032269286799261829",
+        "in_reply_to_user_id": "1343151486432399360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032221940749124058",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StarryNocts 自己是什么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "07｜mtx🏳️‍⚧️｜肥宅｜焦虑中｜淡推｜备用:@WindyLuster",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 25,
+                "username": "WindyLuster"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星波波",
+        "pinned_tweet_id": "2032030717673390279",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032221830988324865/b6J0gocC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 80,
+          "like_count": 491,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 1132
+        },
+        "username": "StarryNocts",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-07T15:27:45.000Z",
+        "description": "请息交以绝游",
+        "id": "1500855672480489475",
+        "name": "卡塔丽娜",
+        "pinned_tweet_id": "1997003294007591248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028113867411517440/lN0F3xhh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 366,
+          "following_count": 596,
+          "like_count": 2062,
+          "listed_count": 0,
+          "media_count": 99,
+          "tweet_count": 938
+        },
+        "username": "Usep_111",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2051895910624633115",
+    "created_at": "2026-05-06T08:31:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T09:31:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051942917913391131"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1127562643512803328",
+          "start": 0,
+          "username": "ShiroSamuel_o7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051942917913391131",
+    "in_reply_to_user_id": "1127562643512803328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051936312085889232",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ShiroSamuel_o7 没钱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2051895910624633115",
+        "created_at": "2026-05-06T08:31:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T09:31:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051942917913391131"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1127562643512803328",
+              "start": 0,
+              "username": "ShiroSamuel_o7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051942917913391131",
+        "in_reply_to_user_id": "1127562643512803328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051936312085889232",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ShiroSamuel_o7 没钱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1127562643512803328",
+        "conversation_id": "2051895910624633115",
+        "created_at": "2026-05-06T08:05:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T09:05:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051936312085889232"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1343151486432399360",
+              "start": 0,
+              "username": "StarryNocts"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051936312085889232",
+        "in_reply_to_user_id": "1343151486432399360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051895910624633115",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StarryNocts 所以你什么时候去长大扔子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "07｜MTX🏳‍⚧｜死肥宅｜无糖｜健全b｜社会学｜焦虑中｜乖宝宝:@xiey57828 ｜备用:@StarryNoct \n对不起对不起对不起我的错 无人在意 回fo请私信（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 33,
+                "username": "xiey57828"
+              },
+              {
+                "end": 59,
+                "start": 48,
+                "username": "StarryNoct"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星笨笨✨",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047542922447638528/3EZlA0VQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 567,
+          "following_count": 386,
+          "like_count": 3845,
+          "listed_count": 3,
+          "media_count": 189,
+          "tweet_count": 5405
+        },
+        "username": "StarryNocts",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-12T13:14:18.000Z",
+        "description": "🤨虽左非极/陆台为一国，且无产阶级专政/中日友好，其基础为正视过去的历史，摒弃右翼思想，降低美军在日在亚洲影响度/你有你的理 我有我的理，但你扭曲事实编造不切实际的东西是否过于愚钝了。\nCN/EN/JP",
+        "id": "1127562643512803328",
+        "location": "Ciallo～😋如果你破防拉黑我那你的妈妈可以似了喵",
+        "name": "你看你🐴呢",
+        "pinned_tweet_id": "2039687097561612736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038220230389014528/8W2N_dc8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 94,
+          "like_count": 477,
+          "listed_count": 4,
+          "media_count": 508,
+          "tweet_count": 2577
+        },
+        "username": "ShiroSamuel_o7",
+        "verified": false
+      }
+    ]
+  }
+}

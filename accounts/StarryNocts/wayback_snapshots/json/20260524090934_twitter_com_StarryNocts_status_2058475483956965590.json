@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2058153374563054057",
+    "created_at": "2026-05-24T09:09:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T10:09:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058475483956965590"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1763034943599607808",
+          "start": 0,
+          "username": "moonlight_ruri"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058475483956965590",
+    "in_reply_to_user_id": "1763034943599607808",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058153374563054057",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@moonlight_ruri 要是我20万彩礼娶男娘呢🤤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2058153374563054057",
+        "created_at": "2026-05-24T09:09:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T10:09:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058475483956965590"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1763034943599607808",
+              "start": 0,
+              "username": "moonlight_ruri"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058475483956965590",
+        "in_reply_to_user_id": "1763034943599607808",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058153374563054057",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@moonlight_ruri 要是我20万彩礼娶男娘呢🤤"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1763034943599607808",
+        "conversation_id": "2058153374563054057",
+        "created_at": "2026-05-23T11:49:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T12:49:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058153374563054057"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058153374563054057",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 8944,
+          "like_count": 40,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "连拍照摆姿势都没男娘骚，还想收20万彩礼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "07🥺｜mtx🏳‍⚧｜死肥宅🤬｜无糖🍥｜清水🙂｜社恐不线下😢｜社会学😖｜焦虑玉玉中😇｜最好的大家@xiey57828 @LeavesMao ｜备用:@StarryNoct \n对不起对不起对不起我的错 无人在意 互fo请私信（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 48,
+                "username": "xiey57828"
+              },
+              {
+                "end": 69,
+                "start": 59,
+                "username": "LeavesMao"
+              },
+              {
+                "end": 85,
+                "start": 74,
+                "username": "StarryNoct"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星笨笨✨",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057743777272582144/voe61BiT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 970,
+          "following_count": 569,
+          "like_count": 4120,
+          "listed_count": 3,
+          "media_count": 212,
+          "tweet_count": 6551
+        },
+        "username": "StarryNocts",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-29T02:55:00.000Z",
+        "description": "男娘｜En_name：Luna ruri｜femboy｜not trans｜friendly to trans｜EN CN JP｜ally of justice and fairness｜cute things｜168cm50kg｜ACG culture｜Beauty share｜thanks",
+        "id": "1763034943599607808",
+        "location": "🚪50🉑date✈️｜鄂｜埼玉｜蓝v必回请私信｜DM",
+        "name": "月璃_LunaRuri🏳️‍⚧️🍥🌸",
+        "pinned_tweet_id": "2058418322090373297",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041518071383527424/Ikw4pdSr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6893,
+          "following_count": 320,
+          "like_count": 930,
+          "listed_count": 17,
+          "media_count": 145,
+          "tweet_count": 1818
+        },
+        "username": "moonlight_ruri",
+        "verified": true
+      }
+    ]
+  }
+}

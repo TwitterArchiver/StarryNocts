@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2035591708579373536",
+    "created_at": "2026-03-22T05:40:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-22T06:40:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035592376039969145"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1982449259774656512",
+          "start": 0,
+          "username": "smiroyama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035592376039969145",
+    "in_reply_to_user_id": "1982449259774656512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035591708579373536",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@smiroyama 不知道为什么就从小一直喜欢…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2035591700794802176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD_f3embgAA2ln4.jpg",
+        "width": 1036
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2035591708579373536",
+        "created_at": "2026-03-22T05:40:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T06:40:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035592376039969145"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1982449259774656512",
+              "start": 0,
+              "username": "smiroyama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035592376039969145",
+        "in_reply_to_user_id": "1982449259774656512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035591708579373536",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@smiroyama 不知道为什么就从小一直喜欢…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035591700794802176"
+          ]
+        },
+        "author_id": "1982449259774656512",
+        "conversation_id": "2035591708579373536",
+        "created_at": "2026-03-22T05:37:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T06:37:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035591708579373536"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kTkYt4lUnD",
+              "end": 119,
+              "expanded_url": "https://x.com/smiroyama/status/2035591708579373536/photo/1",
+              "media_key": "3_2035591700794802176",
+              "start": 96,
+              "url": "https://t.co/kTkYt4lUnD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035591708579373536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "抱着鲨鲨这类柔软、有重量感的毛绒玩具，可以触发催产素分泌。大脑响应的是触觉刺激本身，而非对象是否”有生命”。皮肤感受器受到温暖柔软的接触时，会激活 C 触觉传入神经纤维，进而促进催产素释放。\n\n如果对它有情感依附，效果会更强。研究也表明，抱毛绒玩具能降低皮质醇、缓解孤独感和焦虑，是有真实神经生物学基础的生理反应，不是单纯的心理安慰。🦈"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "抱着鲨鲨这类柔软、有重量感的毛绒玩具，可以触发催产素分泌。大脑响应的是触觉刺激本身，而非对象是否”有生命”。皮肤感受器受到温暖柔软的接触时，会激活 C 触觉传入神经纤维，进而促进催产素释放。 https://t.co/kTkYt4lUnD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "07｜mtx🏳️‍⚧️｜无糖｜死肥宅｜焦虑中｜健全b｜致歉一切｜都是逃生舱@GrapeJellyCat @SharkyCola @WindyLuster\n对不起大家 无人在意",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 37,
+                "username": "GrapeJellyCat"
+              },
+              {
+                "end": 63,
+                "start": 52,
+                "username": "SharkyCola"
+              },
+              {
+                "end": 76,
+                "start": 64,
+                "username": "WindyLuster"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星波波✨",
+        "pinned_tweet_id": "2032678873977205221",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032817226680774656/ga377Pls_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 116,
+          "like_count": 637,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 1425
+        },
+        "username": "StarryNocts",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-26T14:08:58.000Z",
+        "description": "Undergraduate Student |One of the developer of @HRTtracker 🍥|  User | 🐱 Lover | 好朋友 🥰: @Huang_Yut1ng @fukui_p26 @qianxunchan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 47,
+                "username": "HRTtracker"
+              },
+              {
+                "end": 101,
+                "start": 88,
+                "username": "Huang_Yut1ng"
+              },
+              {
+                "end": 112,
+                "start": 102,
+                "username": "fukui_p26"
+              },
+              {
+                "end": 125,
+                "start": 113,
+                "username": "qianxunchan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mizukiakiyama.com",
+                "end": 23,
+                "expanded_url": "http://mizukiakiyama.com",
+                "start": 0,
+                "url": "https://t.co/YPl1rDopW0"
+              }
+            ]
+          }
+        },
+        "id": "1982449259774656512",
+        "location": "绪山寺",
+        "name": "Smirnova 🍡",
+        "pinned_tweet_id": "2034816823921885638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034676727314784256/fnOZrjWt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1304,
+          "following_count": 976,
+          "like_count": 4845,
+          "listed_count": 1,
+          "media_count": 594,
+          "tweet_count": 3266
+        },
+        "url": "https://t.co/YPl1rDopW0",
+        "username": "smiroyama",
+        "verified": true
+      }
+    ]
+  }
+}

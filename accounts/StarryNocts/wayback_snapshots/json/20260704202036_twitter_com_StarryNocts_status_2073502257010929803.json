@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2073484291959656613",
+    "created_at": "2026-07-04T20:20:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T21:20:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073502257010929803"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1610266226894442496",
+          "start": 0,
+          "username": "chinyu_ouo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073502257010929803",
+    "in_reply_to_user_id": "1610266226894442496",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073484291959656613",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chinyu_ouo 吃！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2073484286225940480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMZ--PfaAAAe1Kw.jpg",
+        "width": 719
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2073484291959656613",
+        "created_at": "2026-07-04T20:20:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T21:20:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073502257010929803"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1610266226894442496",
+              "start": 0,
+              "username": "chinyu_ouo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073502257010929803",
+        "in_reply_to_user_id": "1610266226894442496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073484291959656613",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chinyu_ouo 吃！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073484286225940480"
+          ]
+        },
+        "author_id": "1610266226894442496",
+        "conversation_id": "2073484291959656613",
+        "created_at": "2026-07-04T19:09:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T20:09:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073484291959656613"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/q9VQ4hGr3u",
+              "end": 30,
+              "expanded_url": "https://x.com/chinyu_ouo/status/2073484291959656613/photo/1",
+              "media_key": "3_2073484286225940480",
+              "start": 7,
+              "url": "https://t.co/q9VQ4hGr3u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073484291959656613",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好看的外套～ https://t.co/q9VQ4hGr3u"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "07｜mtx🏳‍⚧｜femboy｜死肥宅｜无糖｜清水｜社恐不线下｜社会学｜焦虑玉玉中｜备用:@StarryNoct ｜老公:@chinyu_ouo \n对不起对不起对不起我的错 无人在意 互fo请私信（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 46,
+                "username": "StarryNoct"
+              },
+              {
+                "end": 73,
+                "start": 62,
+                "username": "chinyu_ouo"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星笨笨✨",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070068207461998592/snBVwnOw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1537,
+          "following_count": 804,
+          "like_count": 4154,
+          "listed_count": 4,
+          "media_count": 255,
+          "tweet_count": 8385
+        },
+        "url": "",
+        "username": "StarryNocts",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-03T13:26:25.000Z",
+        "description": "可愛服裝・軟軟日常\n問問題或摸頭都歡迎 uwu\n不太會聊天….不舒服可以直接跟窩說////\n最可愛的老婆 @StarryNocts",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 53,
+                "username": "StarryNocts"
+              }
+            ]
+          }
+        },
+        "id": "1610266226894442496",
+        "location": "台灣",
+        "name": "chinyu_ouo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061835130164117504/i_83RspN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 549,
+          "like_count": 1855,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 172
+        },
+        "url": "",
+        "username": "chinyu_ouo",
+        "verified": false
+      }
+    ]
+  }
+}

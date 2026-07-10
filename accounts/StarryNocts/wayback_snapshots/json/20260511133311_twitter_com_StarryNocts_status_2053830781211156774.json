@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2053815507732885765",
+    "created_at": "2026-05-11T13:33:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T14:33:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053830781211156774"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1127562643512803328",
+          "start": 0,
+          "username": "ShiroSamuel_o7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053830781211156774",
+    "in_reply_to_user_id": "1127562643512803328",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053824772614795649",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ShiroSamuel_o7 嗯嗯"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1137,
+        "media_key": "3_2053824762313576448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HICmvVyaEAArVxK.jpg",
+        "width": 1104
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2053815507732885765",
+        "created_at": "2026-05-11T13:33:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T14:33:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053830781211156774"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1127562643512803328",
+              "start": 0,
+              "username": "ShiroSamuel_o7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053830781211156774",
+        "in_reply_to_user_id": "1127562643512803328",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053824772614795649",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ShiroSamuel_o7 嗯嗯"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053824762313576448"
+          ]
+        },
+        "author_id": "1127562643512803328",
+        "conversation_id": "2053815507732885765",
+        "created_at": "2026-05-11T13:09:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T14:09:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053824772614795649"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1343151486432399360",
+              "start": 0,
+              "username": "StarryNocts"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KWb8J9sIvL",
+              "end": 45,
+              "expanded_url": "https://x.com/ShiroSamuel_o7/status/2053824772614795649/photo/1",
+              "media_key": "3_2053824762313576448",
+              "start": 22,
+              "url": "https://t.co/KWb8J9sIvL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053824772614795649",
+        "in_reply_to_user_id": "1343151486432399360",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053817188906365073",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StarryNocts 想当小比崽汁是吧 https://t.co/KWb8J9sIvL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "07｜mtf🏳‍⚧｜死肥宅｜无糖｜社会学｜焦虑玉玉中｜备用:@StarryNoct \n对不起对不起对不起我的错 无人在意 回fo请私信（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 30,
+                "username": "StarryNoct"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星笨笨✨",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053054977611038720/CnM4tr2L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 600,
+          "following_count": 403,
+          "like_count": 3978,
+          "listed_count": 3,
+          "media_count": 199,
+          "tweet_count": 5692
+        },
+        "username": "StarryNocts",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-12T13:14:18.000Z",
+        "description": "CN/EN/JP\n某些蛆b和台巴子喜欢当复读机能不能直接自己找个坑跳啊\n整天蹦蹦跶跶的， 是不是你浮木被烧干劈成碎片了\n想给扣左扣右的帽子的前提能不能让我给你老冯当龙登\n五毛都给我挂上了 你还想我怎么 给你老冯当纸币烧吗",
+        "id": "1127562643512803328",
+        "location": "Ciallo～😋如果你破防拉黑我那你的妈妈可以似了喵",
+        "name": "你看你🐴呢",
+        "pinned_tweet_id": "2039687097561612736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052991549647241216/OUI4TrZU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 98,
+          "like_count": 481,
+          "listed_count": 4,
+          "media_count": 552,
+          "tweet_count": 2641
+        },
+        "username": "ShiroSamuel_o7",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2041644229349535769",
+    "created_at": "2026-04-08T01:18:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T02:18:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041687073393184778"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2038931071526473728",
+          "start": 0,
+          "username": "GuoQu23349"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041687073393184778",
+    "in_reply_to_user_id": "2038931071526473728",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041686839288066063",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GuoQu23349 嗯嗯！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2041644229349535769",
+        "created_at": "2026-04-08T01:18:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T02:18:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041687073393184778"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2038931071526473728",
+              "start": 0,
+              "username": "GuoQu23349"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041687073393184778",
+        "in_reply_to_user_id": "2038931071526473728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041686839288066063",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GuoQu23349 嗯嗯！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2038931071526473728",
+        "conversation_id": "2041644229349535769",
+        "created_at": "2026-04-08T01:17:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T02:17:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041686839288066063"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1343151486432399360",
+              "start": 0,
+              "username": "StarryNocts"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041686839288066063",
+        "in_reply_to_user_id": "1343151486432399360",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041644229349535769",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StarryNocts 那就不要吃🍥了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "大傻逼｜蝈蝻｜备用:@StarryNoct 小号:@WindyLuster\n对不起对不起对不起我的错 无人在意 凭感觉回fo（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 10,
+                "username": "StarryNoct"
+              },
+              {
+                "end": 37,
+                "start": 25,
+                "username": "WindyLuster"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星波波✨（傻逼版）",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032817226680774656/ga377Pls_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 283,
+          "following_count": 229,
+          "like_count": 1943,
+          "listed_count": 0,
+          "media_count": 126,
+          "tweet_count": 2968
+        },
+        "username": "StarryNocts",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-31T10:47:38.000Z",
+        "description": "退学休息中，，无证含糖，，hrt25.9.5\n逃避现实，身高170，幻想幸福，讨厌现实，喜欢打三角洲，自来熟",
+        "id": "2038931071526473728",
+        "name": "过去式🍥🍥🍥",
+        "pinned_tweet_id": "2040009160205688933",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038957131341451264/GxegGvBE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 0,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 131
+        },
+        "username": "GuoQu23349",
+        "verified": false
+      }
+    ]
+  }
+}

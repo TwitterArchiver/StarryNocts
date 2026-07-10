@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2063528579665944595",
+    "created_at": "2026-06-07T13:56:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T14:56:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063621238417948746"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1960198897827282944",
+          "start": 0,
+          "username": "Nya_QwQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063621238417948746",
+    "in_reply_to_user_id": "1960198897827282944",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063568822980972681",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nya_QwQ 😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2063528579665944595",
+        "created_at": "2026-06-07T13:56:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T14:56:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063621238417948746"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1960198897827282944",
+              "start": 0,
+              "username": "Nya_QwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063621238417948746",
+        "in_reply_to_user_id": "1960198897827282944",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063568822980972681",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nya_QwQ 😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1960198897827282944",
+        "conversation_id": "2063528579665944595",
+        "created_at": "2026-06-07T10:28:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T11:28:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063568822980972681"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1343151486432399360",
+              "start": 0,
+              "username": "StarryNocts"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063568822980972681",
+        "in_reply_to_user_id": "1343151486432399360",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063528579665944595",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StarryNocts 好吃😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "07｜mtx🏳‍⚧｜xnn｜死肥宅｜无糖｜清水｜社恐不线下｜社会学｜焦虑玉玉中｜宝宝:@as_qwq0721｜姐妹:@xiey57828 @LeavesMao｜备用:@StarryNoct \n对不起对不起对不起我的错 无人在意 互fo请私信（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 43,
+                "username": "as_qwq0721"
+              },
+              {
+                "end": 68,
+                "start": 58,
+                "username": "xiey57828"
+              },
+              {
+                "end": 79,
+                "start": 69,
+                "username": "LeavesMao"
+              },
+              {
+                "end": 94,
+                "start": 83,
+                "username": "StarryNoct"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星笨笨✨",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057743777272582144/voe61BiT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1350,
+          "following_count": 724,
+          "like_count": 4134,
+          "listed_count": 3,
+          "media_count": 229,
+          "tweet_count": 7393
+        },
+        "username": "StarryNocts",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-26T04:33:47.000Z",
+        "description": "",
+        "id": "1960198897827282944",
+        "location": "猫猫の窝",
+        "name": "nya🍥",
+        "pinned_tweet_id": "2041592755416395999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039372266392477696/TKfpldWL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 642,
+          "following_count": 960,
+          "like_count": 7464,
+          "listed_count": 2,
+          "media_count": 172,
+          "tweet_count": 1246
+        },
+        "username": "Nya_QwQ",
+        "verified": false
+      }
+    ]
+  }
+}

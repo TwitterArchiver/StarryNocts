@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2047472113846772157",
+    "created_at": "2026-04-24T05:31:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T06:31:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047549065936961663"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1751306897985298432",
+          "start": 0,
+          "username": "Rorochan___2001"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047549065936961663",
+    "in_reply_to_user_id": "1751306897985298432",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047546522427088905",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rorochan___2001 好哦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2047472113846772157",
+        "created_at": "2026-04-24T05:31:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T06:31:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047549065936961663"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1751306897985298432",
+              "start": 0,
+              "username": "Rorochan___2001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047549065936961663",
+        "in_reply_to_user_id": "1751306897985298432",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047546522427088905",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rorochan___2001 好哦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751306897985298432",
+        "conversation_id": "2047472113846772157",
+        "created_at": "2026-04-24T05:21:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T06:21:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047546522427088905"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1343151486432399360",
+              "start": 0,
+              "username": "StarryNocts"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047546522427088905",
+        "in_reply_to_user_id": "1343151486432399360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047472113846772157",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StarryNocts 当然了宝宝，文艺宝宝更应该把软萌可爱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "07｜MTX🏳‍⚧｜死肥宅｜无糖｜健全b｜社会学｜焦虑中｜备用:@StarryNoct 小号:@WindyLuster\n对不起对不起对不起我的错 无人在意 凭感觉回fo（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 32,
+                "username": "StarryNoct"
+              },
+              {
+                "end": 59,
+                "start": 47,
+                "username": "WindyLuster"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星笨笨✨",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047542922447638528/3EZlA0VQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 441,
+          "following_count": 303,
+          "like_count": 3215,
+          "listed_count": 0,
+          "media_count": 160,
+          "tweet_count": 4425
+        },
+        "username": "StarryNocts",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-27T18:11:27.000Z",
+        "description": "「写真が好きな彼女」┋她(she/her)🏳️‍⚧️┋INFJ-T 💮┋阅读📖┋心理学&哲学爱好📖┋猫咪和蜗牛🐌┋双相💊┋偏执型人格障碍🥲 ┋恋爱中💕┋点链接看摄影作品谢谢捧场🙇🏻‍♀️ ┋同类同好互fo✨企鹅扩列私",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/rorochan__2001…",
+                "end": 23,
+                "expanded_url": "https://x.com/rorochan__2001?s=21",
+                "start": 0,
+                "url": "https://t.co/5bY3leWVsZ"
+              }
+            ]
+          }
+        },
+        "id": "1751306897985298432",
+        "location": "病棟81號🏥",
+        "name": "辰辰不爱吃菠菜🏳️‍⚧️",
+        "pinned_tweet_id": "2045911170553700803",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044626304847478784/qVAZ5poC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 130,
+          "like_count": 1199,
+          "listed_count": 0,
+          "media_count": 147,
+          "tweet_count": 447
+        },
+        "url": "https://t.co/5bY3leWVsZ",
+        "username": "Rorochan___2001",
+        "verified": false
+      }
+    ]
+  }
+}

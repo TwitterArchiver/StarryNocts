@@ -1,0 +1,323 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2037810708415729771",
+    "created_at": "2026-03-28T08:46:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T09:46:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037813637243601007"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1982449259774656512",
+          "start": 0,
+          "username": "smiroyama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037813637243601007",
+    "in_reply_to_user_id": "1982449259774656512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037810708415729771",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@smiroyama 在广告这一点上芒果是遥遥领先的 作为摇一摇广告的开创者 我在有vip的情况下出现开屏摇一摇广告、首页信息流广告、暂停全屏广告、全屏播放长期悬浮弹窗 当然了视频内节目冠名的广告也必不可少 有的时候我真怀疑我充没充钱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2037810694742294528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEfCB7ObQAA89xD.jpg",
+        "width": 945
+      },
+      {
+        "height": 945,
+        "media_key": "3_2037810694738046976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEfCB7NacAAjOex.jpg",
+        "width": 2048
+      },
+      {
+        "height": 945,
+        "media_key": "3_2037810694733938688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEfCB7MbwAAAaey.jpg",
+        "width": 2048
+      },
+      {
+        "height": 945,
+        "media_key": "3_2037810694733840384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEfCB7MaQAAyfDZ.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2037810708415729771",
+        "created_at": "2026-03-28T08:46:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T09:46:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037813637243601007"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1982449259774656512",
+              "start": 0,
+              "username": "smiroyama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037813637243601007",
+        "in_reply_to_user_id": "1982449259774656512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037810708415729771",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@smiroyama 在广告这一点上芒果是遥遥领先的 作为摇一摇广告的开创者 我在有vip的情况下出现开屏摇一摇广告、首页信息流广告、暂停全屏广告、全屏播放长期悬浮弹窗 当然了视频内节目冠名的广告也必不可少 有的时候我真怀疑我充没充钱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037810694742294528",
+            "3_2037810694738046976",
+            "3_2037810694733938688",
+            "3_2037810694733840384"
+          ]
+        },
+        "author_id": "1982449259774656512",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2037810708415729771",
+        "created_at": "2026-03-28T08:35:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T09:35:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037810708415729771"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bE5olYcpKw",
+              "end": 133,
+              "expanded_url": "https://x.com/smiroyama/status/2037810708415729771/photo/1",
+              "media_key": "3_2037810694742294528",
+              "start": 110,
+              "url": "https://t.co/bE5olYcpKw"
+            },
+            {
+              "display_url": "pic.x.com/bE5olYcpKw",
+              "end": 133,
+              "expanded_url": "https://x.com/smiroyama/status/2037810708415729771/photo/1",
+              "media_key": "3_2037810694738046976",
+              "start": 110,
+              "url": "https://t.co/bE5olYcpKw"
+            },
+            {
+              "display_url": "pic.x.com/bE5olYcpKw",
+              "end": 133,
+              "expanded_url": "https://x.com/smiroyama/status/2037810708415729771/photo/1",
+              "media_key": "3_2037810694733938688",
+              "start": 110,
+              "url": "https://t.co/bE5olYcpKw"
+            },
+            {
+              "display_url": "pic.x.com/bE5olYcpKw",
+              "end": 133,
+              "expanded_url": "https://x.com/smiroyama/status/2037810708415729771/photo/1",
+              "media_key": "3_2037810694733840384",
+              "start": 110,
+              "url": "https://t.co/bE5olYcpKw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037810708415729771",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "最近，我为了追港剧《正义女神》，开通了优酷 SVIP 会员：\n\n首先是点进剧集开头有广告，持续50秒，且不支持跳过片头片尾\n\n然后是剧集中间还会插广告，大概十几秒，手机端用户不知道要往右滑动多少距离才能刚好跳过剧中广告\n\n且暂停的时候也会跳出广告贴脸，如图4，不过这个是有概率的，通常主视频部分会变为小窗到右下角，关闭广告按钮会比较小气地显示在右上角"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近，我为了追港剧《正义女神》，开通了优酷 SVIP 会员：\n\n首先是点进剧集开头有广告，持续50秒，且不支持跳过片头片尾\n\n然后是剧集中间还会插广告，大概十几秒，手机端用户不知道要往右滑动多少距离才能刚好跳过剧中广告 https://t.co/bE5olYcpKw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "07｜mtx🏳️‍⚧️｜无糖｜死肥宅｜焦虑拉满！！！｜淡推中｜致歉一切｜备用:@StarryNoct 小号:@WindyLuster\n对不起大家 无人在意 凭感觉回fo（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 39,
+                "username": "StarryNoct"
+              },
+              {
+                "end": 66,
+                "start": 54,
+                "username": "WindyLuster"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星波波✨",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032817226680774656/ga377Pls_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 181,
+          "following_count": 135,
+          "like_count": 840,
+          "listed_count": 0,
+          "media_count": 90,
+          "tweet_count": 1765
+        },
+        "username": "StarryNocts",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-26T14:08:58.000Z",
+        "description": "Undergraduate Student |One of the developer of @HRTtracker 🍥|  User | 🐱 Lover | 好朋友 🥰: @Huang_Yut1ng @fukui_p26 @qianxunchan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 47,
+                "username": "HRTtracker"
+              },
+              {
+                "end": 101,
+                "start": 88,
+                "username": "Huang_Yut1ng"
+              },
+              {
+                "end": 112,
+                "start": 102,
+                "username": "fukui_p26"
+              },
+              {
+                "end": 125,
+                "start": 113,
+                "username": "qianxunchan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mizukiakiyama.com",
+                "end": 23,
+                "expanded_url": "http://mizukiakiyama.com",
+                "start": 0,
+                "url": "https://t.co/YPl1rDopW0"
+              }
+            ]
+          }
+        },
+        "id": "1982449259774656512",
+        "location": "绪山寺",
+        "name": "Smirnova 🍡",
+        "pinned_tweet_id": "2034816823921885638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034676727314784256/fnOZrjWt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2270,
+          "following_count": 1650,
+          "like_count": 5588,
+          "listed_count": 1,
+          "media_count": 688,
+          "tweet_count": 3629
+        },
+        "url": "https://t.co/YPl1rDopW0",
+        "username": "smiroyama",
+        "verified": true
+      }
+    ]
+  }
+}

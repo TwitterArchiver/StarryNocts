@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2047886180101005553",
+    "created_at": "2026-04-25T13:17:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T14:17:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048028546996809755"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2037715970857291777",
+          "start": 0,
+          "username": "PhillipsBr90250"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048028546996809755",
+    "in_reply_to_user_id": "2037715970857291777",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048024975282450945",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PhillipsBr90250 陪你个几把 自己整点汁吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2047886180101005553",
+        "created_at": "2026-04-25T13:17:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T14:17:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048028546996809755"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2037715970857291777",
+              "start": 0,
+              "username": "PhillipsBr90250"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048028546996809755",
+        "in_reply_to_user_id": "2037715970857291777",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048024975282450945",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PhillipsBr90250 陪你个几把 自己整点汁吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2037715970857291777",
+        "conversation_id": "2047886180101005553",
+        "created_at": "2026-04-25T13:02:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T14:02:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048024975282450945"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1343151486432399360",
+              "start": 0,
+              "username": "StarryNocts"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048024975282450945",
+        "in_reply_to_user_id": "1343151486432399360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047886180101005553",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StarryNocts 谁陪​​我‌‍"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "07｜MTX🏳‍⚧｜死肥宅｜无糖｜健全b｜社会学｜焦虑中｜备用:@StarryNoct 小号:@WindyLuster\n对不起对不起对不起我的错 无人在意 凭感觉回fo（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 32,
+                "username": "StarryNoct"
+              },
+              {
+                "end": 59,
+                "start": 47,
+                "username": "WindyLuster"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星笨笨✨",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047542922447638528/3EZlA0VQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 467,
+          "following_count": 320,
+          "like_count": 3280,
+          "listed_count": 0,
+          "media_count": 162,
+          "tweet_count": 4518
+        },
+        "username": "StarryNocts",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-28T02:18:51.000Z",
+        "description": "已入驻约p平台:👉https://t.co/al35hUblCv只在平台上约推特绝大部分女主播都入驻的平台，安全可靠.下载直接打开不用注册，日常更新具体位置平台都有显示.",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "d93g.top",
+                "end": 32,
+                "expanded_url": "http://d93g.top",
+                "start": 9,
+                "url": "https://t.co/al35hUblCv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/taozi8811",
+                "end": 23,
+                "expanded_url": "https://t.me/taozi8811",
+                "start": 0,
+                "url": "https://t.co/uqmTrxJlZb"
+              }
+            ]
+          }
+        },
+        "id": "2037715970857291777",
+        "location": "附近3.58km              👉全国外围上门✈",
+        "name": "欣怡🌸🌸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048024983646220288/-BxEyy46_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 2,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 92
+        },
+        "url": "https://t.co/uqmTrxJlZb",
+        "username": "PhillipsBr90250",
+        "verified": false
+      }
+    ]
+  }
+}

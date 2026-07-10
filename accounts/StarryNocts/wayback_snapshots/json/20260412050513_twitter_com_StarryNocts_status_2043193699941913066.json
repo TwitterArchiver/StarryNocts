@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2042526171393601987",
+    "created_at": "2026-04-12T05:05:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T06:05:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043193699941913066"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2024424705026117634",
+          "start": 0,
+          "username": "cavityuk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043193699941913066",
+    "in_reply_to_user_id": "2024424705026117634",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043193143525335162",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cavityuk 诶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2042526171393601987",
+        "created_at": "2026-04-12T05:05:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T06:05:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043193699941913066"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2024424705026117634",
+              "start": 0,
+              "username": "cavityuk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043193699941913066",
+        "in_reply_to_user_id": "2024424705026117634",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043193143525335162",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cavityuk 诶"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024424705026117634",
+        "conversation_id": "2042526171393601987",
+        "created_at": "2026-04-12T05:03:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T06:03:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043193143525335162"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1343151486432399360",
+              "start": 0,
+              "username": "StarryNocts"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043193143525335162",
+        "in_reply_to_user_id": "1343151486432399360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043192926076022938",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StarryNocts 好有趣的友友，关注你！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "大傻逼｜蝈蝻｜备用:@StarryNoct 小号:@WindyLuster\n对不起对不起对不起我的错 无人在意 凭感觉回fo（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 10,
+                "username": "StarryNoct"
+              },
+              {
+                "end": 37,
+                "start": 25,
+                "username": "WindyLuster"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星波波✨（傻逼版）",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032817226680774656/ga377Pls_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 343,
+          "following_count": 255,
+          "like_count": 2444,
+          "listed_count": 0,
+          "media_count": 131,
+          "tweet_count": 3497
+        },
+        "username": "StarryNocts",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-19T10:04:05.000Z",
+        "description": "ciallo～՞˶˃ ᵕ ˂˶՞这里是屿谙～\n素散架的高中生……\n2010.8 ♍ ENTP🧩\n🏳️‍🌈友好\n找不到我就是在画画画🎨……(绝不是在学习bushi\n看成分fo！❤️❤️",
+        "id": "2024424705026117634",
+        "location": "屿塘🐟",
+        "name": "是屿谙喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024424842578317313/CtJuVDll_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 13,
+          "like_count": 212,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 54
+        },
+        "username": "cavityuk",
+        "verified": false
+      }
+    ]
+  }
+}

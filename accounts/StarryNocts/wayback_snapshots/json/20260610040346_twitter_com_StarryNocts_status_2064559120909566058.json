@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2064378342082748883",
+    "created_at": "2026-06-10T04:03:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T05:03:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064559120909566058"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1982449259774656512",
+          "start": 0,
+          "username": "smiroyama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064559120909566058",
+    "in_reply_to_user_id": "1982449259774656512",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064378342082748883",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@smiroyama 😋😋😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2064378342082748883",
+        "created_at": "2026-06-10T04:03:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T05:03:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064559120909566058"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1982449259774656512",
+              "start": 0,
+              "username": "smiroyama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064559120909566058",
+        "in_reply_to_user_id": "1982449259774656512",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064378342082748883",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@smiroyama 😋😋😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1982449259774656512",
+        "conversation_id": "2064378342082748883",
+        "created_at": "2026-06-09T16:05:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T17:05:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064378342082748883"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064378342082748883",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "刚高考完的学弟学妹们来学计算机。女的就学计算机。男的就学计算机。理科就软件工程。文科就信息管理。个子高学计算机。个子低学计算机。好看学计算机。不好看学计算机。细心学计算机。不细心学计算机。数学好学计算机。数学不好学计算机。英语好学计算机。英语不好学计算机。他们网上那么多人劝退学计算机就是怕你们进来分一杯羹，学计算机非常好的其实我们计算机学生长得很斯文，站在人群中非常耀眼。他的身体线条非常优美，挺拔的身姿常常走路带风，给人以强壮有内涵的感觉。帽衫袖管空空荡荡，一双手骨节分明。他的脸庞轮廓深刻，五官分明透露着对代码事业的热爱和坚定，尤其是那双深邃的眼睛，写满了对算法的热情和无限的活力（近视度数不超过一千度）。我们计算机学生是天之饺子、明日之猩，本科毕业就可以进入各大互联网公司，与产品经理侃侃而谈，对各种需求变更了如指掌，能够解答所有问题。还会参与国际开源社区交流，对问题全面分析，让外国开发者惊叫连连，拿下令亲戚朋友望尘莫及的几十w年薪。在过年时，面对亲戚的电脑故障和手机卡顿问题，也能够回答自如。我们总是在腋下夹着MacBook，显得干练。所以，学计算机好啊，这是对自我的历练与突破，气质脱俗。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 5971,
+          "like_count": 70,
+          "quote_count": 1,
+          "reply_count": 12,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "刚高考完的学弟学妹们来学计算机。女的就学计算机。男的就学计算机。理科就软件工程。文科就信息管理。个子高学计算机。个子低学计算机。好看学计算机。不好看学计算机。细心学计算机。不细心学计算机。数学好学计算机。数学不好学计算机。英语好学计算机。英语不好学计算机。他们网上那么多人劝退学计"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "07｜mtx🏳‍⚧｜xnn｜死肥宅｜无糖｜清水｜社恐不线下｜社会学｜焦虑玉玉中｜宝宝:@as_qwq0721｜备用:@StarryNoct \n对不起对不起对不起我的错 无人在意 互fo请私信（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 43,
+                "username": "as_qwq0721"
+              },
+              {
+                "end": 69,
+                "start": 58,
+                "username": "StarryNoct"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星笨笨✨",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057743777272582144/voe61BiT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1367,
+          "following_count": 728,
+          "like_count": 4139,
+          "listed_count": 3,
+          "media_count": 232,
+          "tweet_count": 7559
+        },
+        "username": "StarryNocts",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-26T14:08:58.000Z",
+        "description": "Developing https://t.co/pJ9VtduSxe | 好姐姐 🥰: @qianxunchan | friends: @Huang_Yut1ng @fukui_p26",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 44,
+                "username": "qianxunchan"
+              },
+              {
+                "end": 81,
+                "start": 68,
+                "username": "Huang_Yut1ng"
+              },
+              {
+                "end": 92,
+                "start": 82,
+                "username": "fukui_p26"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "hrt.mahiro.uk",
+                "end": 34,
+                "expanded_url": "http://hrt.mahiro.uk",
+                "start": 11,
+                "url": "https://t.co/pJ9VtduSxe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mizukiakiyama.com",
+                "end": 23,
+                "expanded_url": "http://mizukiakiyama.com",
+                "start": 0,
+                "url": "https://t.co/YPl1rDopW0"
+              }
+            ]
+          }
+        },
+        "id": "1982449259774656512",
+        "location": "绪山寺",
+        "name": "Smirnova 🏳️‍⚧️🍡",
+        "pinned_tweet_id": "2034816823921885638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062932840699084800/9M3agsOz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6534,
+          "following_count": 2373,
+          "like_count": 12887,
+          "listed_count": 21,
+          "media_count": 2053,
+          "tweet_count": 7636
+        },
+        "url": "https://t.co/YPl1rDopW0",
+        "username": "smiroyama",
+        "verified": true
+      }
+    ]
+  }
+}

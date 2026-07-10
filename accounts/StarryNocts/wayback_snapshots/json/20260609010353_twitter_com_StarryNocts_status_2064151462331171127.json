@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2063628981669446011",
+    "created_at": "2026-06-09T01:03:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T02:03:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064151462331171127"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1972970846194180096",
+          "start": 0,
+          "username": "xuelingqiansha"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064151462331171127",
+    "in_reply_to_user_id": "1972970846194180096",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064034060243239283",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xuelingqiansha 😋😋😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2063628981669446011",
+        "created_at": "2026-06-09T01:03:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T02:03:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064151462331171127"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1972970846194180096",
+              "start": 0,
+              "username": "xuelingqiansha"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064151462331171127",
+        "in_reply_to_user_id": "1972970846194180096",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064034060243239283",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xuelingqiansha 😋😋😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972970846194180096",
+        "conversation_id": "2063628981669446011",
+        "created_at": "2026-06-08T17:17:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T18:17:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064034060243239283"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1343151486432399360",
+              "start": 0,
+              "username": "StarryNocts"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064034060243239283",
+        "in_reply_to_user_id": "1343151486432399360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063628981669446011",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StarryNocts 有品位,我也喜欢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "07｜mtx🏳‍⚧｜xnn｜死肥宅｜无糖｜清水｜社恐不线下｜社会学｜焦虑玉玉中｜宝宝:@as_qwq0721｜备用:@StarryNoct \n对不起对不起对不起我的错 无人在意 互fo请私信（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 43,
+                "username": "as_qwq0721"
+              },
+              {
+                "end": 69,
+                "start": 58,
+                "username": "StarryNoct"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星笨笨✨",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057743777272582144/voe61BiT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1361,
+          "following_count": 725,
+          "like_count": 4138,
+          "listed_count": 3,
+          "media_count": 230,
+          "tweet_count": 7499
+        },
+        "username": "StarryNocts",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-30T10:24:49.000Z",
+        "description": "05.2.20/hrt:24.5.16(已经是大龄药娘哩)/家长管不了党/长的一般/不会伪音(好难)/大学生一枚/学校:新疆 家:辽宁/不打算srs,就这样过一辈子,mtx/180大只(嘻嘻)/抖m,sub/讨厌被骗(超级超级讨厌)/同类互fo,随时欢迎找我玩捏",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xuelingqiansha",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xuelingqiansha",
+                "start": 0,
+                "url": "https://t.co/SKiotz39DX"
+              }
+            ]
+          }
+        },
+        "id": "1972970846194180096",
+        "location": "就在你的心里呀,笨蛋～",
+        "name": "雪澪🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062878865501155328/bqTiL-ye_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 99,
+          "like_count": 197,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 314
+        },
+        "url": "https://t.co/SKiotz39DX",
+        "username": "xuelingqiansha",
+        "verified": true
+      }
+    ]
+  }
+}

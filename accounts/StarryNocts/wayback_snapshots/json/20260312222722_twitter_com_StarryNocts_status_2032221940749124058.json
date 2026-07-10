@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2032221940749124058",
+    "created_at": "2026-03-12T22:27:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T23:27:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2032221940749124058"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2032221940749124058",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "别让自己成为神经递质和受体的奴隶。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2032221940749124058",
+        "created_at": "2026-03-12T22:27:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T23:27:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032221940749124058"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2032221940749124058",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "别让自己成为神经递质和受体的奴隶。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "备用:@WindyLuster",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "WindyLuster"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "location": "■■■■■",
+        "name": "​碎星波波",
+        "pinned_tweet_id": "2032030717673390279",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032221830988324865/b6J0gocC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 80,
+          "like_count": 488,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 1123
+        },
+        "username": "StarryNocts",
+        "verified": false
+      }
+    ]
+  }
+}

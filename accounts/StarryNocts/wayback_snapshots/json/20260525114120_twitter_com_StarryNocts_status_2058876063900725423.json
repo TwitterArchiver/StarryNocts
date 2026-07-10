@@ -1,0 +1,382 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2058872762077426055",
+    "created_at": "2026-05-25T11:41:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T12:41:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058876063900725423"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1815436279905218561",
+          "start": 0,
+          "username": "The_Last_kk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058876063900725423",
+    "in_reply_to_user_id": "1815436279905218561",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058872762077426055",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@The_Last_kk 好好看"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2058872758789169152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJKV3aFbYAAZWQH.jpg",
+        "width": 1262
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2058872762077426055",
+        "created_at": "2026-05-25T11:41:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T12:41:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058876063900725423"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1815436279905218561",
+              "start": 0,
+              "username": "The_Last_kk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058876063900725423",
+        "in_reply_to_user_id": "1815436279905218561",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058872762077426055",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@The_Last_kk 好好看"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058872758789169152"
+          ]
+        },
+        "author_id": "1815436279905218561",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897789013393420",
+              "name": "Strategy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "2058872762077426055",
+        "created_at": "2026-05-25T11:28:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T12:28:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058872762077426055"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 37,
+              "start": 34,
+              "tag": "男娘"
+            },
+            {
+              "end": 41,
+              "start": 38,
+              "tag": "伪娘"
+            },
+            {
+              "end": 47,
+              "start": 42,
+              "tag": "明日方舟"
+            },
+            {
+              "end": 56,
+              "start": 48,
+              "tag": "cosplay"
+            },
+            {
+              "end": 60,
+              "start": 57,
+              "tag": "黑丝"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FMzr7TTEk0",
+              "end": 84,
+              "expanded_url": "https://x.com/The_Last_kk/status/2058872762077426055/photo/1",
+              "media_key": "3_2058872758789169152",
+              "start": 61,
+              "url": "https://t.co/FMzr7TTEk0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058872762077426055",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我今天跟房梁表白了 它没拒绝我 只是一直吊着我 脸红红的 好暧昧…\n#男娘 #伪娘 #明日方舟 #cosplay #黑丝 https://t.co/FMzr7TTEk0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "07🥺｜mtx🏳‍⚧｜死肥宅🤬｜无糖🍥｜清水🙂｜社恐不线下😢｜社会学😖｜焦虑玉玉中😇｜宝宝:@as_qwq0721｜最好的大家@xiey57828 @LeavesMao ｜备用:@StarryNoct \n对不起对不起对不起我的错 无人在意 互fo请私信（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 46,
+                "username": "as_qwq0721"
+              },
+              {
+                "end": 73,
+                "start": 63,
+                "username": "xiey57828"
+              },
+              {
+                "end": 84,
+                "start": 74,
+                "username": "LeavesMao"
+              },
+              {
+                "end": 100,
+                "start": 89,
+                "username": "StarryNoct"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星笨笨✨",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057743777272582144/voe61BiT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 997,
+          "following_count": 575,
+          "like_count": 4124,
+          "listed_count": 3,
+          "media_count": 213,
+          "tweet_count": 6645
+        },
+        "username": "StarryNocts",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-22T17:19:00.000Z",
+        "description": "身份为泰君，方块人，老农民\n喜欢看特摄，大乱斗玩家，FGO牢玩家\nxp与兴趣广泛，欢迎扩列\n常驻在广东珠海，欢迎线下同好贴贴。",
+        "id": "1815436279905218561",
+        "location": "风暴壁垒后的迦勒底",
+        "name": "薯饼（互fo呗）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033194681530769408/Sl4xXNHh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 332,
+          "following_count": 1146,
+          "like_count": 3607,
+          "listed_count": 2,
+          "media_count": 79,
+          "tweet_count": 408
+        },
+        "username": "The_Last_kk",
+        "verified": false
+      }
+    ]
+  }
+}

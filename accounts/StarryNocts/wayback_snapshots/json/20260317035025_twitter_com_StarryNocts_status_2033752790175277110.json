@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2033715793117254098",
+    "created_at": "2026-03-17T03:50:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-17T04:50:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033752790175277110"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1721863847185952768",
+          "start": 0,
+          "username": "IntelDriver"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033752790175277110",
+    "in_reply_to_user_id": "1721863847185952768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033751055909965989",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IntelDriver ai写的感觉完全跑不了（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2033715793117254098",
+        "created_at": "2026-03-17T03:50:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T04:50:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033752790175277110"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1721863847185952768",
+              "start": 0,
+              "username": "IntelDriver"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033752790175277110",
+        "in_reply_to_user_id": "1721863847185952768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033751055909965989",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IntelDriver ai写的感觉完全跑不了（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721863847185952768",
+        "conversation_id": "2033715793117254098",
+        "created_at": "2026-03-17T03:43:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T04:43:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033751055909965989"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1343151486432399360",
+              "start": 0,
+              "username": "StarryNocts"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033751055909965989",
+        "in_reply_to_user_id": "1343151486432399360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033750271613145505",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StarryNocts 交给ai喵（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "07｜mtx🏳️‍⚧️｜无糖｜死肥宅｜焦虑中｜健全b｜致歉一切｜都是逃生舱 猫猫:@GrapeJellyCat 鲨鲨:@SharkyCola 宝宝:@WindyLuster",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 41,
+                "username": "GrapeJellyCat"
+              },
+              {
+                "end": 70,
+                "start": 59,
+                "username": "SharkyCola"
+              },
+              {
+                "end": 86,
+                "start": 74,
+                "username": "WindyLuster"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星波波🏳️‍⚧️",
+        "pinned_tweet_id": "2032678873977205221",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032817226680774656/ga377Pls_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 83,
+          "like_count": 503,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 1221
+        },
+        "username": "StarryNocts",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-07T12:15:13.000Z",
+        "description": "喵喵？",
+        "id": "1721863847185952768",
+        "location": "in your heart",
+        "name": "ZhaYi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020171119429570560/HleURNqP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 330,
+          "like_count": 852,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 186
+        },
+        "username": "IntelDriver",
+        "verified": false
+      }
+    ]
+  }
+}

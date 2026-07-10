@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2036195177786908687",
+    "created_at": "2026-03-23T21:50:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T22:50:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036198837895962723"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1687566770763071489",
+          "start": 0,
+          "username": "Olebe179131"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036198837895962723",
+    "in_reply_to_user_id": "1687566770763071489",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036195177786908687",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Olebe179131 我还说我怎么This page is down了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2036194284198830082",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEID6ctaIAIHKCw.jpg",
+        "width": 922
+      },
+      {
+        "height": 170,
+        "media_key": "3_2036195162985209856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEIEtmcaIAAZFyH.jpg",
+        "width": 175
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2036195177786908687",
+        "created_at": "2026-03-23T21:50:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T22:50:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036198837895962723"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1687566770763071489",
+              "start": 0,
+              "username": "Olebe179131"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036198837895962723",
+        "in_reply_to_user_id": "1687566770763071489",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036195177786908687",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Olebe179131 我还说我怎么This page is down了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036194284198830082",
+            "3_2036195162985209856"
+          ]
+        },
+        "author_id": "1687566770763071489",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2036195177786908687",
+        "created_at": "2026-03-23T21:35:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T22:35:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036195177786908687"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZIfX3u84XT",
+              "end": 85,
+              "expanded_url": "https://x.com/Olebe179131/status/2036195177786908687/photo/1",
+              "media_key": "3_2036194284198830082",
+              "start": 62,
+              "url": "https://t.co/ZIfX3u84XT"
+            },
+            {
+              "display_url": "pic.x.com/ZIfX3u84XT",
+              "end": 85,
+              "expanded_url": "https://x.com/Olebe179131/status/2036195177786908687/photo/1",
+              "media_key": "3_2036195162985209856",
+              "start": 62,
+              "url": "https://t.co/ZIfX3u84XT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036195177786908687",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是什么意思，为什么我用的网页版推特，其他功能正常点私信点开加载不出来，一刷新就是此页已关闭，我好急，好想看看是谁私信我！ https://t.co/ZIfX3u84XT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "07｜mtx🏳️‍⚧️｜无糖｜死肥宅｜焦虑中｜致歉一切｜都是逃生舱@GrapeJellyCat @SharkyCola @WindyLuster\n对不起大家 无人在意",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 33,
+                "username": "GrapeJellyCat"
+              },
+              {
+                "end": 59,
+                "start": 48,
+                "username": "SharkyCola"
+              },
+              {
+                "end": 72,
+                "start": 60,
+                "username": "WindyLuster"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星波波✨",
+        "pinned_tweet_id": "2032678873977205221",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032817226680774656/ga377Pls_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 126,
+          "like_count": 705,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 1538
+        },
+        "username": "StarryNocts",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-04T20:51:01.000Z",
+        "description": "04医学生/od/精神不稳定已发疯胡言乱语/百合厨/二次元/清水推/已老实各位老公老婆主人求求了不要举报我喵！/玩很多二游:方舟(蒂厨)终末地(汤汤厨)重返未来1999(百合全磕，笔友组99)崩铁(阿那克萨戈拉斯单推，夏雅99)还玩蔚蓝档案和碧蓝航线\n欢迎互fo",
+        "id": "1687566770763071489",
+        "name": "多柔比星(又黑化了)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030533545626877952/XkC0-vBT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 491,
+          "following_count": 457,
+          "like_count": 17377,
+          "listed_count": 0,
+          "media_count": 595,
+          "tweet_count": 2083
+        },
+        "username": "Olebe179131",
+        "verified": false
+      }
+    ]
+  }
+}

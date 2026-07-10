@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2055944260835532839",
+    "created_at": "2026-05-17T10:56:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T11:56:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055965673667604715"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1377860792599519237",
+          "start": 0,
+          "username": "alexder51947745"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055965673667604715",
+    "in_reply_to_user_id": "1377860792599519237",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055962185571164231",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@alexder51947745 好哦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2055944260835532839",
+        "created_at": "2026-05-17T10:56:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T11:56:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055965673667604715"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1377860792599519237",
+              "start": 0,
+              "username": "alexder51947745"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055965673667604715",
+        "in_reply_to_user_id": "1377860792599519237",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055962185571164231",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@alexder51947745 好哦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1377860792599519237",
+        "conversation_id": "2055944260835532839",
+        "created_at": "2026-05-17T10:42:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T11:42:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055962185571164231"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1343151486432399360",
+              "start": 0,
+              "username": "StarryNocts"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055962185571164231",
+        "in_reply_to_user_id": "1343151486432399360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055945965551616482",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StarryNocts 不会的不会的！有碎星抱着的鲨鲨是不会孤单的哦，因为碎星也是特别特别可爱的宝宝～"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "07｜mtx🏳‍⚧｜死肥宅｜无糖｜社会学｜焦虑玉玉中｜备用:@StarryNoct \n对不起对不起对不起我的错 无人在意 回fo请私信（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 30,
+                "username": "StarryNoct"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星笨笨✨",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055173607526121472/haV2R87z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 824,
+          "following_count": 491,
+          "like_count": 4058,
+          "listed_count": 3,
+          "media_count": 205,
+          "tweet_count": 6093
+        },
+        "username": "StarryNocts",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-02T05:49:54.000Z",
+        "description": "自由意志主义者 友跨 支持平权 想要成为一个可爱的人 mtx",
+        "id": "1377860792599519237",
+        "name": "糖渍胡萝卜🏳️‍⚧️🇺🇦",
+        "pinned_tweet_id": "1742408171870953829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1725356277973520384/Qu66uhAC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1046,
+          "following_count": 3167,
+          "like_count": 203247,
+          "listed_count": 4,
+          "media_count": 63,
+          "tweet_count": 10549
+        },
+        "username": "alexder51947745",
+        "verified": false
+      }
+    ]
+  }
+}

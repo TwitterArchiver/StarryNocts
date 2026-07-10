@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1395474411180892160",
+          "name": "Google brand conversation"
+        }
+      }
+    ],
+    "conversation_id": "2051279423283114427",
+    "created_at": "2026-05-04T12:57:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T13:57:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051285002978279842"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1566670035560513536",
+          "start": 0,
+          "username": "Lpt_naisho"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051285002978279842",
+    "in_reply_to_user_id": "1566670035560513536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051279423283114427",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lpt_naisho 对的 很多国产机通病 用Google登录可以"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3200,
+        "media_key": "3_2051279187470938112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHebjYhbcAANdtT.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          }
+        ],
+        "conversation_id": "2051279423283114427",
+        "created_at": "2026-05-04T12:57:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T13:57:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051285002978279842"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1566670035560513536",
+              "start": 0,
+              "username": "Lpt_naisho"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051285002978279842",
+        "in_reply_to_user_id": "1566670035560513536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051279423283114427",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lpt_naisho 对的 很多国产机通病 用Google登录可以"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051279187470938112"
+          ]
+        },
+        "author_id": "1566670035560513536",
+        "conversation_id": "2051279423283114427",
+        "created_at": "2026-05-04T12:35:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T13:35:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051279423283114427"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GjVNMCKWyQ",
+              "end": 39,
+              "expanded_url": "https://x.com/Lpt_naisho/status/2051279423283114427/photo/1",
+              "media_key": "3_2051279187470938112",
+              "start": 16,
+              "url": "https://t.co/GjVNMCKWyQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051279423283114427",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "姐妹们，我手机上不去推特了😭😭 https://t.co/GjVNMCKWyQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "07｜MTX🏳‍⚧｜死肥宅｜无糖｜健全b｜社会学｜焦虑中｜乖宝宝:@xiey57828 ｜备用:@StarryNoct \n对不起对不起对不起我的错 无人在意 回fo请私信（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 33,
+                "username": "xiey57828"
+              },
+              {
+                "end": 59,
+                "start": 48,
+                "username": "StarryNoct"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星笨笨✨",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047542922447638528/3EZlA0VQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 543,
+          "following_count": 372,
+          "like_count": 3732,
+          "listed_count": 2,
+          "media_count": 180,
+          "tweet_count": 5261
+        },
+        "username": "StarryNocts",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-05T06:10:55.000Z",
+        "description": "2005生|mtf|性别焦虑9年，弄清自己是mtf1个月|性别烦躁致抑郁发作|抑郁发作导致炸柜|有5年花刀史|暂未od|暂未hrt|坐看流星破天际，巡天遥看一千河",
+        "id": "1566670035560513536",
+        "name": "YoyouDiin丁语瑶🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042932365803294728/R2RqLMcV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 200,
+          "like_count": 316,
+          "listed_count": 1,
+          "media_count": 26,
+          "tweet_count": 249
+        },
+        "username": "Lpt_naisho",
+        "verified": false
+      }
+    ]
+  }
+}

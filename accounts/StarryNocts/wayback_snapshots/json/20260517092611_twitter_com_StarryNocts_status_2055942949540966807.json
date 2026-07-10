@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2055941566649577580",
+    "created_at": "2026-05-17T09:26:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T10:26:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055942949540966807"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1478303823802552322",
+          "start": 0,
+          "username": "DalingDalingDa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055942949540966807",
+    "in_reply_to_user_id": "1478303823802552322",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055941566649577580",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@DalingDalingDa 好吃的！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2055941566649577580",
+        "created_at": "2026-05-17T09:26:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T10:26:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055942949540966807"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1478303823802552322",
+              "start": 0,
+              "username": "DalingDalingDa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055942949540966807",
+        "in_reply_to_user_id": "1478303823802552322",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055941566649577580",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@DalingDalingDa 好吃的！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1478303823802552322",
+        "conversation_id": "2055941566649577580",
+        "created_at": "2026-05-17T09:20:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T10:20:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055941566649577580"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055941566649577580",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "沙姜猪手\n蒜蓉秋葵蛏子\n捞汁小海鲜\n化州香油鸡\n碌鸭\n清蒸多宝鱼\n豆花水煮牛肉\n脆皮大肠\n支竹羊肉煲\n咖喱大虾垫伊面\n五柳炸蛋\n金针菇日本豆腐煲\n客家酿辣椒\n蒜炒番薯叶\n丝瓜白贝汤\n槐花糖水"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "07｜mtx🏳‍⚧｜死肥宅｜无糖｜社会学｜焦虑玉玉中｜备用:@StarryNoct \n对不起对不起对不起我的错 无人在意 回fo请私信（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 30,
+                "username": "StarryNoct"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星笨笨✨",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055173607526121472/haV2R87z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 818,
+          "following_count": 488,
+          "like_count": 4056,
+          "listed_count": 3,
+          "media_count": 204,
+          "tweet_count": 6070
+        },
+        "username": "StarryNocts",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-04T09:54:52.000Z",
+        "description": "仍每日如旧照常重做，只要是我不落俗套，只要你间中也给 一些鼓舞~",
+        "id": "1478303823802552322",
+        "name": "daling （考研下线）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930184865032613892/wi4_lT1g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 393,
+          "following_count": 620,
+          "like_count": 19021,
+          "listed_count": 3,
+          "media_count": 296,
+          "tweet_count": 1399
+        },
+        "username": "DalingDalingDa",
+        "verified": false
+      }
+    ]
+  }
+}

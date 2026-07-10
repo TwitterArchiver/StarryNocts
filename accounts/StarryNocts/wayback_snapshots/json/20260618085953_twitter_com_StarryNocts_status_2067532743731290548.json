@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2067416993964437773",
+    "created_at": "2026-06-18T08:59:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T09:59:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067532743731290548"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1939255209278296064",
+          "start": 0,
+          "username": "Messer_official"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067532743731290548",
+    "in_reply_to_user_id": "1939255209278296064",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067532569156145426",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Messer_official 鲨鲨鲨鲨鲨鲨鲨鲨鲨鲨鲨？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2067416993964437773",
+        "created_at": "2026-06-18T08:59:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T09:59:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067532743731290548"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1939255209278296064",
+              "start": 0,
+              "username": "Messer_official"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067532743731290548",
+        "in_reply_to_user_id": "1939255209278296064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067532569156145426",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Messer_official 鲨鲨鲨鲨鲨鲨鲨鲨鲨鲨鲨？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939255209278296064",
+        "conversation_id": "2067416993964437773",
+        "created_at": "2026-06-18T08:59:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T09:59:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067532569156145426"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1343151486432399360",
+              "start": 0,
+              "username": "StarryNocts"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067532569156145426",
+        "in_reply_to_user_id": "1343151486432399360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067531784196411466",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StarryNocts 我最讨厌事后道歉😡😡😡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "07｜mtx🏳‍⚧｜xnn｜死肥宅｜无糖｜清水｜社恐不线下｜社会学｜焦虑玉玉中｜备用:@StarryNoct ｜老公:@chinyu_ouo \n对不起对不起对不起我的错 无人在意 互fo请私信（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 43,
+                "username": "StarryNoct"
+              },
+              {
+                "end": 70,
+                "start": 59,
+                "username": "chinyu_ouo"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星笨笨✨",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057743777272582144/voe61BiT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1387,
+          "following_count": 741,
+          "like_count": 4144,
+          "listed_count": 3,
+          "media_count": 237,
+          "tweet_count": 7703
+        },
+        "username": "StarryNocts",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-29T09:30:55.000Z",
+        "description": "超絕的混水摸魚者 \n拜託不要給我戴帽子\nMBTI    ENFJ-T\n#DM開放中#",
+        "id": "1939255209278296064",
+        "name": "Messerschmidt",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066382638135566336/1RC9SQlx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 100,
+          "like_count": 432,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 142
+        },
+        "username": "Messer_official",
+        "verified": false
+      }
+    ]
+  }
+}

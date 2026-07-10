@@ -1,0 +1,166 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2035350257039753725",
+    "created_at": "2026-03-21T13:38:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-21T14:38:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2035350257039753725"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "【Lyric Video】歡迎訂閱滾石唱片YouTube官方頻道 → http://bit.ly/RockRecords#張雨生《#我的未來不是夢》Lyric Video 1988年，張雨生唱紅了黑松沙士廣告曲《我的未來不是夢》歌詞中傳達了當時年輕人對未來夢想的勇敢無懼，唱出了許多青年人對夢想的追求與不懈的努力...",
+          "display_url": "youtu.be/lTxZmhAoSGU?si…",
+          "end": 23,
+          "expanded_url": "https://youtu.be/lTxZmhAoSGU?si=1uvzy6MchQXUQdig",
+          "images": [
+            {
+              "height": 720,
+              "url": "https://pbs.twimg.com/news_img/2035350257346002944/yko2Cp0c?format=jpg&name=orig",
+              "width": 1280
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2035350257346002944/yko2Cp0c?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 0,
+          "status": 200,
+          "title": "張雨生 Tom Chang【我的未來不是夢】1988年黑松沙士廣告曲 Lyric Video",
+          "unwound_url": "https://www.youtube.com/watch?si=1uvzy6MchQXUQdig&v=lTxZmhAoSGU&feature=youtu.be",
+          "url": "https://t.co/geBpHOaraG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035350257039753725",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/geBpHOaraG"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2035350257039753725",
+        "created_at": "2026-03-21T13:38:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T14:38:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035350257039753725"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "【Lyric Video】歡迎訂閱滾石唱片YouTube官方頻道 → http://bit.ly/RockRecords#張雨生《#我的未來不是夢》Lyric Video 1988年，張雨生唱紅了黑松沙士廣告曲《我的未來不是夢》歌詞中傳達了當時年輕人對未來夢想的勇敢無懼，唱出了許多青年人對夢想的追求與不懈的努力...",
+              "display_url": "youtu.be/lTxZmhAoSGU?si…",
+              "end": 23,
+              "expanded_url": "https://youtu.be/lTxZmhAoSGU?si=1uvzy6MchQXUQdig",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/2035350257346002944/yko2Cp0c?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2035350257346002944/yko2Cp0c?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "張雨生 Tom Chang【我的未來不是夢】1988年黑松沙士廣告曲 Lyric Video",
+              "unwound_url": "https://www.youtube.com/watch?si=1uvzy6MchQXUQdig&v=lTxZmhAoSGU&feature=youtu.be",
+              "url": "https://t.co/geBpHOaraG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035350257039753725",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/geBpHOaraG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "07｜mtx🏳️‍⚧️｜无糖｜死肥宅｜焦虑中｜健全b｜致歉一切｜都是逃生舱@GrapeJellyCat @SharkyCola @WindyLuster",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 37,
+                "username": "GrapeJellyCat"
+              },
+              {
+                "end": 63,
+                "start": 52,
+                "username": "SharkyCola"
+              },
+              {
+                "end": 76,
+                "start": 64,
+                "username": "WindyLuster"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星波波✨",
+        "pinned_tweet_id": "2032678873977205221",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032817226680774656/ga377Pls_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 109,
+          "like_count": 597,
+          "listed_count": 3,
+          "media_count": 73,
+          "tweet_count": 1378
+        },
+        "username": "StarryNocts",
+        "verified": false
+      }
+    ]
+  }
+}

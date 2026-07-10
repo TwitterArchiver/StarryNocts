@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2035276361515040801",
+    "created_at": "2026-03-21T11:02:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-21T12:02:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035311034513441204"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1532095464081739776",
+          "start": 0,
+          "username": "Yuiibaoii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035311034513441204",
+    "in_reply_to_user_id": "1532095464081739776",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035310187029160184",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yuiibaoii 啊…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2035276361515040801",
+        "created_at": "2026-03-21T11:02:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T12:02:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035311034513441204"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1532095464081739776",
+              "start": 0,
+              "username": "Yuiibaoii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035311034513441204",
+        "in_reply_to_user_id": "1532095464081739776",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035310187029160184",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuiibaoii 啊…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1532095464081739776",
+        "conversation_id": "2035276361515040801",
+        "created_at": "2026-03-21T10:58:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T11:58:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035310187029160184"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1343151486432399360",
+              "start": 0,
+              "username": "StarryNocts"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035310187029160184",
+        "in_reply_to_user_id": "1343151486432399360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035276361515040801",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StarryNocts 可以考，面试过不了就是了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "07｜mtx🏳️‍⚧️｜无糖｜死肥宅｜焦虑中｜健全b｜致歉一切｜都是逃生舱@GrapeJellyCat @SharkyCola @WindyLuster",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 37,
+                "username": "GrapeJellyCat"
+              },
+              {
+                "end": 63,
+                "start": 52,
+                "username": "SharkyCola"
+              },
+              {
+                "end": 76,
+                "start": 64,
+                "username": "WindyLuster"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星波波✨",
+        "pinned_tweet_id": "2032678873977205221",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032817226680774656/ga377Pls_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141,
+          "following_count": 103,
+          "like_count": 587,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 1366
+        },
+        "username": "StarryNocts",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-01T20:23:26.000Z",
+        "description": "复活坐标山东 | 不是女生 | 想要变可爱 | 网瘾宅女 | 搞点涩涩",
+        "id": "1532095464081739776",
+        "location": "🚪88接哦～",
+        "name": "昕子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938207170082050048/-RZ7P-iD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12871,
+          "following_count": 623,
+          "like_count": 622,
+          "listed_count": 71,
+          "media_count": 214,
+          "tweet_count": 1027
+        },
+        "username": "Yuiibaoii",
+        "verified": false
+      }
+    ]
+  }
+}

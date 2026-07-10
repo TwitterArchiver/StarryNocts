@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2043122562717344111",
+    "created_at": "2026-04-12T04:14:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T05:14:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043180873991049708"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1491394557657124864",
+          "start": 0,
+          "username": "Rumia10_9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043180873991049708",
+    "in_reply_to_user_id": "1491394557657124864",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043170198291906560",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rumia10_9 wwwww\nwow interesting"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2043122562717344111",
+        "created_at": "2026-04-12T04:14:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T05:14:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043180873991049708"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1491394557657124864",
+              "start": 0,
+              "username": "Rumia10_9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043180873991049708",
+        "in_reply_to_user_id": "1491394557657124864",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043170198291906560",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rumia10_9 wwwww\nwow interesting"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1491394557657124864",
+        "conversation_id": "2043122562717344111",
+        "created_at": "2026-04-12T03:31:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T04:31:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043170198291906560"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1343151486432399360",
+              "start": 0,
+              "username": "StarryNocts"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043170198291906560",
+        "in_reply_to_user_id": "1343151486432399360",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043122562717344111",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StarryNocts 俺は、お前が、好きだ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "大傻逼｜蝈蝻｜备用:@StarryNoct 小号:@WindyLuster\n对不起对不起对不起我的错 无人在意 凭感觉回fo（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 10,
+                "username": "StarryNoct"
+              },
+              {
+                "end": 37,
+                "start": 25,
+                "username": "WindyLuster"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星波波✨（傻逼版）",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032817226680774656/ga377Pls_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 342,
+          "following_count": 254,
+          "like_count": 2430,
+          "listed_count": 0,
+          "media_count": 131,
+          "tweet_count": 3474
+        },
+        "username": "StarryNocts",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-09T12:52:53.000Z",
+        "description": "#おこ鯖  @_KageHime ←の大ファン！お友達♡▶︎@leaf10102 BB200ランカー目標！→1:01:079 太鼓の達人赤銀十段、マリカ、マリメ2、青鬼ON、城ドラー、テトラー、エフゼロ99、アモアス、マイクラ、にゃんこエンジョイ勢 サブ@Rumia10_9_2 アイコン▶えすれき 様",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 4,
+                "start": 0,
+                "tag": "おこ鯖"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 16,
+                "start": 6,
+                "username": "_KageHime"
+              },
+              {
+                "end": 40,
+                "start": 30,
+                "username": "leaf10102"
+              },
+              {
+                "end": 139,
+                "start": 127,
+                "username": "Rumia10_9_2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ameblo.jp/rumia666",
+                "end": 23,
+                "expanded_url": "http://ameblo.jp/rumia666",
+                "start": 0,
+                "url": "https://t.co/yj8uiqYs6q"
+              }
+            ]
+          }
+        },
+        "id": "1491394557657124864",
+        "location": "25段位終わるまで玄人目標！！",
+        "name": "ルuuuuuuuuuuuuuuuミア☺︎🍬🍪-Ruumia☆666",
+        "pinned_tweet_id": "1992416030602531174",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009222049567485952/ER6QO1ZQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1978,
+          "following_count": 4083,
+          "like_count": 32140,
+          "listed_count": 5,
+          "media_count": 1934,
+          "tweet_count": 15012
+        },
+        "url": "https://t.co/yj8uiqYs6q",
+        "username": "Rumia10_9",
+        "verified": false
+      }
+    ]
+  }
+}

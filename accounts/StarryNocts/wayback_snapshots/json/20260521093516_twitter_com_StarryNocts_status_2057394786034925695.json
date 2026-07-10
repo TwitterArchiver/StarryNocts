@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2057386587747725568",
+    "created_at": "2026-05-21T09:35:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T10:35:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057394786034925695"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1097378439315767297",
+          "start": 0,
+          "username": "Chelants_1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057394786034925695",
+    "in_reply_to_user_id": "1097378439315767297",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057386587747725568",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chelants_1 揉揉 坏诶"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2057386580550316032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI1OMctbcAAQXXI.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2057386587747725568",
+        "created_at": "2026-05-21T09:35:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T10:35:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057394786034925695"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1097378439315767297",
+              "start": 0,
+              "username": "Chelants_1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057394786034925695",
+        "in_reply_to_user_id": "1097378439315767297",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057386587747725568",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chelants_1 揉揉 坏诶"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057386580550316032"
+          ]
+        },
+        "author_id": "1097378439315767297",
+        "conversation_id": "2057386587747725568",
+        "created_at": "2026-05-21T09:02:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T10:02:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057386587747725568"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NQBktgG4SN",
+              "end": 29,
+              "expanded_url": "https://x.com/Chelants_1/status/2057386587747725568/photo/1",
+              "media_key": "3_2057386580550316032",
+              "start": 6,
+              "url": "https://t.co/NQBktgG4SN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057386587747725568",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "主播去世了 https://t.co/NQBktgG4SN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "07🥺｜mtx🏳‍⚧｜死肥宅🤬｜无糖🍥｜清水🙂｜社恐不线下😢｜社会学😖｜焦虑玉玉中😇｜宝宝:@as_qwq0721 🥰｜备用:@StarryNoct \n对不起对不起对不起我的错 无人在意 互fo请私信（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 46,
+                "username": "as_qwq0721"
+              },
+              {
+                "end": 74,
+                "start": 63,
+                "username": "StarryNoct"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星笨笨✨",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056382888187510784/TI8up0se_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 952,
+          "following_count": 559,
+          "like_count": 4105,
+          "listed_count": 3,
+          "media_count": 211,
+          "tweet_count": 6396
+        },
+        "username": "StarryNocts",
+        "verified": false
+      },
+      {
+        "created_at": "2019-02-18T06:13:03.000Z",
+        "description": "思乡",
+        "id": "1097378439315767297",
+        "name": "冷月霜华",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871975402077327360/6msZcTDk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 251,
+          "like_count": 90,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 194
+        },
+        "username": "Chelants_1",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2071647687590764962",
+    "created_at": "2026-06-29T22:43:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T23:43:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071726213715075090"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1910979720227049472",
+          "start": 0,
+          "username": "Remth_07"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071726213715075090",
+    "in_reply_to_user_id": "1910979720227049472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071647687590764962",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Remth_07 可爱！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2071647066238201856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL_4B9sbsAANHFP.jpg",
+        "width": 2853
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2071647687590764962",
+        "created_at": "2026-06-29T22:43:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T23:43:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071726213715075090"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1910979720227049472",
+              "start": 0,
+              "username": "Remth_07"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071726213715075090",
+        "in_reply_to_user_id": "1910979720227049472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071647687590764962",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Remth_07 可爱！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071647066238201856"
+          ]
+        },
+        "author_id": "1910979720227049472",
+        "conversation_id": "2071647687590764962",
+        "created_at": "2026-06-29T17:31:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T18:31:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071647687590764962"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7u8nbqT9Es",
+              "end": 57,
+              "expanded_url": "https://x.com/Remth_07/status/2071647687590764962/photo/1",
+              "media_key": "3_2071647066238201856",
+              "start": 34,
+              "url": "https://t.co/7u8nbqT9Es"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071647687590764962",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 200,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哈！中考完了！\n坏消息:出分后才能换手机😢\n不管了考完了我将爽玩😋 https://t.co/7u8nbqT9Es"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "07｜mtx🏳‍⚧｜femboy｜死肥宅｜无糖｜清水｜社恐不线下｜社会学｜焦虑玉玉中｜备用:@StarryNoct ｜老公:@chinyu_ouo \n对不起对不起对不起我的错 无人在意 互fo请私信（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 46,
+                "username": "StarryNoct"
+              },
+              {
+                "end": 73,
+                "start": 62,
+                "username": "chinyu_ouo"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星笨笨✨",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070068207461998592/snBVwnOw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1479,
+          "following_count": 792,
+          "like_count": 4152,
+          "listed_count": 4,
+          "media_count": 251,
+          "tweet_count": 8235
+        },
+        "url": "",
+        "username": "StarryNocts",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-12T08:54:16.000Z",
+        "description": "睡觉是全世界最舒服的事情",
+        "id": "1910979720227049472",
+        "name": "Remth",
+        "pinned_tweet_id": "1934080937060610415",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041878825135697927/tUFv4RsC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1175,
+          "following_count": 990,
+          "like_count": 4134,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 1205
+        },
+        "url": "",
+        "username": "Remth_07",
+        "verified": false
+      }
+    ]
+  }
+}

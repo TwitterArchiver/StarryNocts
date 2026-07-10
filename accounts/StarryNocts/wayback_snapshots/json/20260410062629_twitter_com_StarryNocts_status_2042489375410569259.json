@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2042488259478241698",
+    "created_at": "2026-04-10T06:26:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T07:26:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042489375410569259"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1052903358900580352",
+          "start": 0,
+          "username": "Kalin_1124"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042489375410569259",
+    "in_reply_to_user_id": "1052903358900580352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042488259478241698",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kalin_1124 贴贴！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 877,
+        "media_key": "3_2042488252737994752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFhgPopbQAA0kPr.jpg",
+        "width": 703
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2042488259478241698",
+        "created_at": "2026-04-10T06:26:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T07:26:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042489375410569259"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1052903358900580352",
+              "start": 0,
+              "username": "Kalin_1124"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042489375410569259",
+        "in_reply_to_user_id": "1052903358900580352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042488259478241698",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kalin_1124 贴贴！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042488252737994752"
+          ]
+        },
+        "author_id": "1052903358900580352",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2042488259478241698",
+        "created_at": "2026-04-10T06:22:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T07:22:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042488259478241698"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "@acnekot mutual circle (indicative). Based on public data from the last 30 days. No login required.",
+              "display_url": "nareaitter.appwrite.network/en/acnekot",
+              "end": 35,
+              "expanded_url": "https://nareaitter.appwrite.network/en/acnekot",
+              "start": 12,
+              "status": 200,
+              "title": "@acnekot",
+              "unwound_url": "https://nareaitter.appwrite.network/en/acnekot",
+              "url": "https://t.co/6CFjEivTrd"
+            },
+            {
+              "display_url": "pic.x.com/XNiHmNJTsh",
+              "end": 59,
+              "expanded_url": "https://x.com/Kalin_1124/status/2042488259478241698/photo/1",
+              "media_key": "3_2042488252737994752",
+              "start": 36,
+              "url": "https://t.co/XNiHmNJTsh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042488259478241698",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "148人卡林大圈圈喵！\nhttps://t.co/6CFjEivTrd https://t.co/XNiHmNJTsh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "大傻逼｜蝈蝻｜备用:@StarryNoct 小号:@WindyLuster\n对不起对不起对不起我的错 无人在意 凭感觉回fo（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 10,
+                "username": "StarryNoct"
+              },
+              {
+                "end": 37,
+                "start": 25,
+                "username": "WindyLuster"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星波波✨（傻逼版）",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032817226680774656/ga377Pls_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 307,
+          "following_count": 242,
+          "like_count": 2251,
+          "listed_count": 0,
+          "media_count": 128,
+          "tweet_count": 3265
+        },
+        "username": "StarryNocts",
+        "verified": false
+      },
+      {
+        "created_at": "2018-10-18T12:44:57.000Z",
+        "description": "07｜男｜喵",
+        "id": "1052903358900580352",
+        "location": "owo",
+        "name": "卡林喵～",
+        "pinned_tweet_id": "2013636116793167964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014910609528442880/ftm3U_oA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 534,
+          "following_count": 2401,
+          "like_count": 48383,
+          "listed_count": 2,
+          "media_count": 600,
+          "tweet_count": 8156
+        },
+        "username": "Kalin_1124",
+        "verified": false
+      }
+    ]
+  }
+}

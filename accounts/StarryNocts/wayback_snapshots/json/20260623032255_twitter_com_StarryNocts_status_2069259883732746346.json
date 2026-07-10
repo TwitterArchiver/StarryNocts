@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2069255372343484705",
+    "created_at": "2026-06-23T03:22:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T04:22:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069259883732746346"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1763034943599607808",
+          "start": 0,
+          "username": "moonlight_ruri"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069259883732746346",
+    "in_reply_to_user_id": "1763034943599607808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069255372343484705",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@moonlight_ruri 白色好喝！很清爽！\n不过有的颜色不同地区口味不一样的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2067955328457842688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLLaaiwbIAAgcWp.jpg",
+        "width": 720
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2067955328470462464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLLaaizbsAAEQhx.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2069255372343484705",
+        "created_at": "2026-06-23T03:22:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T04:22:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069259883732746346"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1763034943599607808",
+              "start": 0,
+              "username": "moonlight_ruri"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069259883732746346",
+        "in_reply_to_user_id": "1763034943599607808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069255372343484705",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@moonlight_ruri 白色好喝！很清爽！\n不过有的颜色不同地区口味不一样的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067955328457842688",
+            "3_2067955328470462464"
+          ]
+        },
+        "author_id": "1763034943599607808",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2069255372343484705",
+        "created_at": "2026-06-23T03:05:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T04:05:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069255372343484705"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xrXrFNHnYa",
+              "end": 71,
+              "expanded_url": "https://x.com/moonlight_ruri/status/2069255372343484705/photo/1",
+              "media_key": "3_2067955328457842688",
+              "start": 48,
+              "url": "https://t.co/xrXrFNHnYa"
+            },
+            {
+              "display_url": "pic.x.com/xrXrFNHnYa",
+              "end": 71,
+              "expanded_url": "https://x.com/moonlight_ruri/status/2069255372343484705/photo/1",
+              "media_key": "3_2067955328470462464",
+              "start": 48,
+              "url": "https://t.co/xrXrFNHnYa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069255372343484705",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 87,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "第一次喝魔爪，因为不知道什么好喝，选了一个颜色好看的，但这个并不好喝，各位有推荐给小天使的吗？ https://t.co/xrXrFNHnYa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "07｜mtx🏳‍⚧｜xnn｜死肥宅｜无糖｜清水｜社恐不线下｜社会学｜焦虑玉玉中｜备用:@StarryNoct ｜老公:@chinyu_ouo \n对不起对不起对不起我的错 无人在意 互fo请私信（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 43,
+                "username": "StarryNoct"
+              },
+              {
+                "end": 70,
+                "start": 59,
+                "username": "chinyu_ouo"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星笨笨✨",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067758567839739904/R4rYmxfQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1415,
+          "following_count": 760,
+          "like_count": 4146,
+          "listed_count": 3,
+          "media_count": 242,
+          "tweet_count": 7851
+        },
+        "url": "",
+        "username": "StarryNocts",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-29T02:55:00.000Z",
+        "description": "小天使｜蓝v必回｜femboy｜ENname：LunaRuri｜EN CN JP｜little angel｜Random thoughts｜Humor｜Entertainment｜beauty share｜Verified users follow back｜Submissions welcome｜Thanks",
+        "id": "1763034943599607808",
+        "location": "千葉縣｜蓝v必回请私信｜x telegram同id",
+        "name": "月璃_LunaRuri🏳️‍⚧️🍥🌸",
+        "pinned_tweet_id": "2064979619095392478",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064945472159272961/vaDy2Hdw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10632,
+          "following_count": 623,
+          "like_count": 1186,
+          "listed_count": 24,
+          "media_count": 323,
+          "tweet_count": 2303
+        },
+        "url": "",
+        "username": "moonlight_ruri",
+        "verified": true
+      }
+    ]
+  }
+}

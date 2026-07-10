@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2071758850827657695",
+    "created_at": "2026-06-30T02:00:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T03:00:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071775738857177403"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1929798380240465921",
+          "start": 0,
+          "username": "AacerF59616"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071775738857177403",
+    "in_reply_to_user_id": "1929798380240465921",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071758850827657695",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AacerF59616 好诶"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3276,
+        "media_key": "3_2071758208260354048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMBdHR_bsAADV5C.jpg",
+        "width": 2457
+      },
+      {
+        "height": 3276,
+        "media_key": "3_2071758208264474624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMBdHSAakAAxeBc.jpg",
+        "width": 2457
+      },
+      {
+        "height": 2457,
+        "media_key": "3_2071758208264503296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMBdHSAbAAALnKB.jpg",
+        "width": 3276
+      },
+      {
+        "height": 2457,
+        "media_key": "3_2071758208235106304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMBdHR5acAAsyJX.jpg",
+        "width": 3276
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2071758850827657695",
+        "created_at": "2026-06-30T02:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T03:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071775738857177403"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1929798380240465921",
+              "start": 0,
+              "username": "AacerF59616"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071775738857177403",
+        "in_reply_to_user_id": "1929798380240465921",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071758850827657695",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AacerF59616 好诶"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071758208260354048",
+            "3_2071758208264474624",
+            "3_2071758208264503296",
+            "3_2071758208235106304"
+          ]
+        },
+        "author_id": "1929798380240465921",
+        "conversation_id": "2071758850827657695",
+        "created_at": "2026-06-30T00:52:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T01:52:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071758850827657695"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 41,
+              "start": 38,
+              "tag": "伪娘"
+            },
+            {
+              "end": 45,
+              "start": 42,
+              "tag": "黑丝"
+            },
+            {
+              "end": 49,
+              "start": 46,
+              "tag": "女装"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0BQK9U6UeT",
+              "end": 73,
+              "expanded_url": "https://x.com/AacerF59616/status/2071758850827657695/photo/1",
+              "media_key": "3_2071758208260354048",
+              "start": 50,
+              "url": "https://t.co/0BQK9U6UeT"
+            },
+            {
+              "display_url": "pic.x.com/0BQK9U6UeT",
+              "end": 73,
+              "expanded_url": "https://x.com/AacerF59616/status/2071758850827657695/photo/1",
+              "media_key": "3_2071758208264474624",
+              "start": 50,
+              "url": "https://t.co/0BQK9U6UeT"
+            },
+            {
+              "display_url": "pic.x.com/0BQK9U6UeT",
+              "end": 73,
+              "expanded_url": "https://x.com/AacerF59616/status/2071758850827657695/photo/1",
+              "media_key": "3_2071758208264503296",
+              "start": 50,
+              "url": "https://t.co/0BQK9U6UeT"
+            },
+            {
+              "display_url": "pic.x.com/0BQK9U6UeT",
+              "end": 73,
+              "expanded_url": "https://x.com/AacerF59616/status/2071758850827657695/photo/1",
+              "media_key": "3_2071758208235106304",
+              "start": 50,
+              "url": "https://t.co/0BQK9U6UeT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071758850827657695",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 122,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "继续日更喵，还是睡裙和黑丝腿腿，除了两张腿照之外还附带了张带派的全身照喵～ #伪娘 #黑丝 #女装 https://t.co/0BQK9U6UeT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "07｜mtx🏳‍⚧｜femboy｜死肥宅｜无糖｜清水｜社恐不线下｜社会学｜焦虑玉玉中｜备用:@StarryNoct ｜老公:@chinyu_ouo \n对不起对不起对不起我的错 无人在意 互fo请私信（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 46,
+                "username": "StarryNoct"
+              },
+              {
+                "end": 73,
+                "start": 62,
+                "username": "chinyu_ouo"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星笨笨✨",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070068207461998592/snBVwnOw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1479,
+          "following_count": 792,
+          "like_count": 4152,
+          "listed_count": 4,
+          "media_count": 251,
+          "tweet_count": 8239
+        },
+        "url": "",
+        "username": "StarryNocts",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜性别指派男 认同女｜未带糖｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od戒自伤少见证？｜有小众癖好｜同类可互fo｜可以加QQ找咱玩喵",
+        "id": "1929798380240465921",
+        "location": "金星 伊什塔高地",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙",
+        "pinned_tweet_id": "2068738476930179271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063009511326244864/yk5zK_Ma_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 207,
+          "following_count": 257,
+          "like_count": 2017,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 652
+        },
+        "url": "",
+        "username": "AacerF59616",
+        "verified": false
+      }
+    ]
+  }
+}

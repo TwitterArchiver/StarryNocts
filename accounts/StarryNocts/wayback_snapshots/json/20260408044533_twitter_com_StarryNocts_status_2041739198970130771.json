@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2041470026339987861",
+    "created_at": "2026-04-08T04:45:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T05:45:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041739198970130771"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1244424427313348608",
+          "start": 0,
+          "username": "Errrrese"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041739198970130771",
+    "in_reply_to_user_id": "1244424427313348608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041470026339987861",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Errrrese 在北京找男娘同好的难度堪比在老家村里找二刺猿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2041470026339987861",
+        "created_at": "2026-04-08T04:45:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T05:45:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041739198970130771"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1244424427313348608",
+              "start": 0,
+              "username": "Errrrese"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041739198970130771",
+        "in_reply_to_user_id": "1244424427313348608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041470026339987861",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Errrrese 在北京找男娘同好的难度堪比在老家村里找二刺猿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1244424427313348608",
+        "conversation_id": "2041470026339987861",
+        "created_at": "2026-04-07T10:55:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T11:55:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041470026339987861"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041470026339987861",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1046,
+          "like_count": 24,
+          "quote_count": 2,
+          "reply_count": 10,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "在北京找二刺猿同好的难度堪比在老家村里找男娘"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "大傻逼｜蝈蝻｜备用:@StarryNoct 小号:@WindyLuster\n对不起对不起对不起我的错 无人在意 凭感觉回fo（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 10,
+                "username": "StarryNoct"
+              },
+              {
+                "end": 37,
+                "start": 25,
+                "username": "WindyLuster"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星波波✨（傻逼版）",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032817226680774656/ga377Pls_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 283,
+          "following_count": 229,
+          "like_count": 1973,
+          "listed_count": 0,
+          "media_count": 126,
+          "tweet_count": 2990
+        },
+        "username": "StarryNocts",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-30T00:41:24.000Z",
+        "description": "神秘嘉宾",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+4zVdahr8MmdmZ…",
+                "end": 23,
+                "expanded_url": "https://t.me/+4zVdahr8MmdmZjI1",
+                "start": 0,
+                "url": "https://t.co/DBOWYkUPbU"
+              }
+            ]
+          }
+        },
+        "id": "1244424427313348608",
+        "location": "사리원",
+        "name": "名前を入力してください",
+        "pinned_tweet_id": "1973619917556723808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022695103169728518/A-3Ainkm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3161,
+          "following_count": 2089,
+          "like_count": 90078,
+          "listed_count": 18,
+          "media_count": 2410,
+          "tweet_count": 29900
+        },
+        "url": "https://t.co/DBOWYkUPbU",
+        "username": "Errrrese",
+        "verified": false
+      }
+    ]
+  }
+}

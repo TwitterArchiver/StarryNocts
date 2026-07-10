@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2070103425090748620",
+    "created_at": "2026-06-25T11:58:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T12:58:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070114488008011856"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1815436279905218561",
+          "start": 0,
+          "username": "The_Last_kk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070114488008011856",
+    "in_reply_to_user_id": "1815436279905218561",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070103425090748620",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@The_Last_kk 好看好看！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2070103414013603840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLp8FlCasAAu4q-.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2070103425090748620",
+        "created_at": "2026-06-25T11:58:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T12:58:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070114488008011856"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1815436279905218561",
+              "start": 0,
+              "username": "The_Last_kk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070114488008011856",
+        "in_reply_to_user_id": "1815436279905218561",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070103425090748620",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@The_Last_kk 好看好看！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070103414013603840"
+          ]
+        },
+        "author_id": "1815436279905218561",
+        "conversation_id": "2070103425090748620",
+        "created_at": "2026-06-25T11:14:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T12:14:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070103425090748620"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 28,
+              "start": 25,
+              "tag": "男娘"
+            },
+            {
+              "end": 32,
+              "start": 29,
+              "tag": "足控"
+            },
+            {
+              "end": 37,
+              "start": 33,
+              "tag": "踩脚袜"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Xu0Dbb8OWL",
+              "end": 61,
+              "expanded_url": "https://x.com/The_Last_kk/status/2070103425090748620/photo/1",
+              "media_key": "3_2070103414013603840",
+              "start": 38,
+              "url": "https://t.co/Xu0Dbb8OWL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070103425090748620",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 144,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我在不要看脚挑战中保持了0秒，推友也来试试吧~🥰\n#男娘 #足控 #踩脚袜 https://t.co/Xu0Dbb8OWL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "07｜mtx🏳‍⚧｜xnn｜死肥宅｜无糖｜清水｜社恐不线下｜社会学｜焦虑玉玉中｜备用:@StarryNoct ｜老公:@chinyu_ouo \n对不起对不起对不起我的错 无人在意 互fo请私信（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 43,
+                "username": "StarryNoct"
+              },
+              {
+                "end": 70,
+                "start": 59,
+                "username": "chinyu_ouo"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星笨笨✨🏳️‍⚧",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070068207461998592/snBVwnOw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1439,
+          "following_count": 772,
+          "like_count": 4150,
+          "listed_count": 3,
+          "media_count": 247,
+          "tweet_count": 8014
+        },
+        "url": "",
+        "username": "StarryNocts",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-22T17:19:00.000Z",
+        "description": "173/60 肥肥男娘喜欢瑟瑟，双向插头，只看关注私信\n喜欢看特摄，大乱斗玩家，FGO牢玩家\nxp极度广泛，欢迎私信互关\n常驻在广东珠海，欢迎线下同好贴贴。",
+        "id": "1815436279905218561",
+        "location": "风暴壁垒后的迦勒底",
+        "name": "薯饼(ᗜ ˰ ᗜ) ​",
+        "pinned_tweet_id": "2068647699877089507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033194681530769408/Sl4xXNHh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 582,
+          "following_count": 1266,
+          "like_count": 4330,
+          "listed_count": 1,
+          "media_count": 103,
+          "tweet_count": 611
+        },
+        "url": "",
+        "username": "The_Last_kk",
+        "verified": false
+      }
+    ]
+  }
+}

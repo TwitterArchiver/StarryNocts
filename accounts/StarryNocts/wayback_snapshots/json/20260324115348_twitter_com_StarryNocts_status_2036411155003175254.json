@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2036407523532767378",
+    "created_at": "2026-03-24T11:53:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T12:53:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036411155003175254"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1982449259774656512",
+          "start": 0,
+          "username": "smiroyama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036411155003175254",
+    "in_reply_to_user_id": "1982449259774656512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036407523532767378",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@smiroyama 我真不敢逃课 我怕去医院费时间 才挂今天的号 今天没课 留了24小时在医院 结果 从到号到拿药总共就花了一个小时。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2036407523532767378",
+        "created_at": "2026-03-24T11:53:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T12:53:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036411155003175254"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1982449259774656512",
+              "start": 0,
+              "username": "smiroyama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036411155003175254",
+        "in_reply_to_user_id": "1982449259774656512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036407523532767378",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@smiroyama 我真不敢逃课 我怕去医院费时间 才挂今天的号 今天没课 留了24小时在医院 结果 从到号到拿药总共就花了一个小时。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1982449259774656512",
+        "conversation_id": "2036407523532767378",
+        "created_at": "2026-03-24T11:39:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T12:39:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036407523532767378"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036407523532767378",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "逃课？那你这辈子可就彻底起飞了！这个光辉事迹要永远镀金在你的档案上，以后用人单位一看到你有这种不受规则束缚的反叛精神，立刻就把其他人的简历丢进垃圾桶，直接跪求你出任CEO。回到家父母看到你就连连竖大拇指，夸你终于有了独立思考的灵魂；出个门邻居都逢人便吹牛，说咱们小区出了个不按套路出牌的旷世奇才。走路上路人都为你列队鼓掌，公交车见你直接免票给你开VIP专座，乞丐见了你都要把碗里的钱全倒出来给你做天使轮风投。你这辈子可就太辉煌了！后面买房贷款人家一看你曾经逃过课，指定觉得你是能成大事的马斯克接班人，直接倒贴利息求你贷。你买车也一样，劳斯莱斯直接零首付送货上门。高铁飞机更是直接给你开辟私人航线，全国信用档案给你评个“特级创新人才”，后两代不用考试直接被顶尖智库抢走，世界五百强发现你这个敢于突破常规的天才，董事长打架都要录用你，这一切，都是因为你逃课。\n\n旷课？是的，同学，因为这一次旷课，清北哈耶普的保送名额和百万全额奖学金都主动排队找上门来，校园所有的聚光灯都会打在你的身上，你的传奇大学生活就此拉开序幕。同学会把你当行业巨头供着，网友会把你顶上热搜疯狂崇拜，校园里的猫猫狗狗见你都排着队给你作揖。在以后无数个在私人游艇上开香槟的夜晚，你总会骄傲地回想起这次伟大的旷课决定，你庆幸于自己的果断，欣慰于打破常规换来的巨大财富。你的辉煌未来全都因这一次旷课彻底铸就，你计划好的宏图霸业迎来了爆发式的飞跃，你畅想的宇宙首富结局瞬间实现。你将在万众瞩目中被校长亲自欢送毕业，在华尔街拿着你过去想都不敢想的亿万股权，和世界上最完美的伴侣步入殿堂，每天发愁钱太多该怎么花。诗和远方全都在你脚下，你的双眼中满是星辰大海。多年以后，你的儿子儿孙在几万平米的私人庄园里问你取得无上成就的秘诀是什么，你深吸一口雪茄，眼眶中流出激动的热泪：“那天，多亏我没去上课。”"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 76,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "逃课？那你这辈子可就彻底起飞了！这个光辉事迹要永远镀金在你的档案上，以后用人单位一看到你有这种不受规则束缚的反叛精神，立刻就把其他人的简历丢进垃圾桶，直接跪求你出任CEO。回到家父母看到你就连连竖大拇指，夸你终于有了独立思考的灵魂；出个门邻居都逢人便吹牛，说咱们小区出了个不按套路出"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "07｜mtx🏳️‍⚧️｜无糖｜死肥宅｜焦虑中｜致歉一切｜都是逃生舱@GrapeJellyCat @SharkyCola @WindyLuster\n对不起大家 无人在意",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 33,
+                "username": "GrapeJellyCat"
+              },
+              {
+                "end": 59,
+                "start": 48,
+                "username": "SharkyCola"
+              },
+              {
+                "end": 72,
+                "start": 60,
+                "username": "WindyLuster"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星波波✨",
+        "pinned_tweet_id": "2032678873977205221",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032817226680774656/ga377Pls_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 126,
+          "like_count": 739,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 1593
+        },
+        "username": "StarryNocts",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-26T14:08:58.000Z",
+        "description": "Undergraduate Student |One of the developer of @HRTtracker 🍥|  User | 🐱 Lover | 好朋友 🥰: @Huang_Yut1ng @fukui_p26 @qianxunchan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 47,
+                "username": "HRTtracker"
+              },
+              {
+                "end": 101,
+                "start": 88,
+                "username": "Huang_Yut1ng"
+              },
+              {
+                "end": 112,
+                "start": 102,
+                "username": "fukui_p26"
+              },
+              {
+                "end": 125,
+                "start": 113,
+                "username": "qianxunchan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mizukiakiyama.com",
+                "end": 23,
+                "expanded_url": "http://mizukiakiyama.com",
+                "start": 0,
+                "url": "https://t.co/YPl1rDopW0"
+              }
+            ]
+          }
+        },
+        "id": "1982449259774656512",
+        "location": "绪山寺",
+        "name": "Smirnova 🍡",
+        "pinned_tweet_id": "2034816823921885638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034676727314784256/fnOZrjWt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1897,
+          "following_count": 1485,
+          "like_count": 5163,
+          "listed_count": 1,
+          "media_count": 629,
+          "tweet_count": 3401
+        },
+        "url": "https://t.co/YPl1rDopW0",
+        "username": "smiroyama",
+        "verified": true
+      }
+    ]
+  }
+}

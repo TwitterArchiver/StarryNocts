@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2071561117902725201",
+    "created_at": "2026-06-29T12:00:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T13:00:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071564410662137988"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1519649212736049152",
+          "start": 0,
+          "username": "Mark67358226"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071564410662137988",
+    "in_reply_to_user_id": "1519649212736049152",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071561117902725201",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mark67358226 隱士高手"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11455,
+        "height": 1280,
+        "media_key": "13_2071561055768350720",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2071561055768350720/img/Jy6LUFU9u3Th4a42.jpg",
+        "public_metrics": {
+          "view_count": 40
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2071561055768350720/vid/avc1/320x568/gsZZwrBoamFEsmaL.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2071561055768350720/vid/avc1/480x852/LDJv1N5h4jNQFipm.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2071561055768350720/vid/avc1/720x1280/r476WNFmR5VeKaZy.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2071561055768350720/pl/ofQTJQxcncyrONLY.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2071561117902725201",
+        "created_at": "2026-06-29T12:00:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T13:00:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071564410662137988"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1519649212736049152",
+              "start": 0,
+              "username": "Mark67358226"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071564410662137988",
+        "in_reply_to_user_id": "1519649212736049152",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071561117902725201",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mark67358226 隱士高手"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2071561055768350720"
+          ]
+        },
+        "author_id": "1519649212736049152",
+        "conversation_id": "2071561117902725201",
+        "created_at": "2026-06-29T11:47:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T12:47:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071561117902725201"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tLVdWaEuMB",
+              "end": 98,
+              "expanded_url": "https://x.com/Mark67358226/status/2071561117902725201/video/1",
+              "media_key": "13_2071561055768350720",
+              "start": 75,
+              "url": "https://t.co/tLVdWaEuMB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071561117902725201",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 106,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天挑戰開一個45到50磅的😋\n清弓拉滿37磅+漢小梢25磅。目前能拉開的最大的。給我手磨破了😢\n弓一起拉磅數是加法哦。我現在都是虛的體力消耗很大… https://t.co/tLVdWaEuMB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "07｜mtx🏳‍⚧｜femboy｜死肥宅｜无糖｜清水｜社恐不线下｜社会学｜焦虑玉玉中｜备用:@StarryNoct ｜老公:@chinyu_ouo \n对不起对不起对不起我的错 无人在意 互fo请私信（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 46,
+                "username": "StarryNoct"
+              },
+              {
+                "end": 73,
+                "start": 62,
+                "username": "chinyu_ouo"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星笨笨✨",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070068207461998592/snBVwnOw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1476,
+          "following_count": 789,
+          "like_count": 4152,
+          "listed_count": 4,
+          "media_count": 251,
+          "tweet_count": 8206
+        },
+        "url": "",
+        "username": "StarryNocts",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-28T12:06:42.000Z",
+        "description": "生產日期：2010.9.6 | 181cm 57kg | 北京昌平🇨🇳 | 主要繁體🇹🇼 簡體🉑 | 是男孩子w |日語🇯🇵 朝鮮語🇰🇷也會一點 | 友跨+LGBT友好 | 留長髮中 | 喜歡漢服、東亞文化和可愛的男孩子（小南梁），歡迎諸君找我聊天口牙！（求你們私信找我聊天吧！）僅交友不約！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "dreamail.cn",
+                "end": 23,
+                "expanded_url": "http://dreamail.cn",
+                "start": 0,
+                "url": "https://t.co/UrGAmTGSj9"
+              }
+            ]
+          }
+        },
+        "id": "1519649212736049152",
+        "location": "琉球國首里城",
+        "name": "Lhn002",
+        "pinned_tweet_id": "2070101728381591818",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020892688674103296/MTlilAxM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1053,
+          "following_count": 1405,
+          "like_count": 23365,
+          "listed_count": 3,
+          "media_count": 265,
+          "tweet_count": 5165
+        },
+        "url": "https://t.co/UrGAmTGSj9",
+        "username": "Mark67358226",
+        "verified": false
+      }
+    ]
+  }
+}

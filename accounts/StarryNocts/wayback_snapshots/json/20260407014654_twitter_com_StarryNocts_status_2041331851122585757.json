@@ -1,0 +1,109 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2041331851122585757",
+    "created_at": "2026-04-07T01:46:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T02:46:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041331851122585757"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2041331851122585757",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "想去广东吃鸡煲 打边炉 肠粉 虾饺 叉烧 鱼蛋 牛肉丸 腊肠 煲仔饭 双皮奶 白切鸡 靓汤 干炒牛河 烧麦\n而且我吃不了辣。。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2041331851122585757",
+        "created_at": "2026-04-07T01:46:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T02:46:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041331851122585757"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041331851122585757",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想去广东吃鸡煲 打边炉 肠粉 虾饺 叉烧 鱼蛋 牛肉丸 腊肠 煲仔饭 双皮奶 白切鸡 靓汤 干炒牛河 烧麦\n而且我吃不了辣。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "大傻福｜蝈蝻｜备用:@StarryNoct 小号:@WindyLuster\n对不起对不起对不起我的错 无人在意 凭感觉回fo（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 10,
+                "username": "StarryNoct"
+              },
+              {
+                "end": 37,
+                "start": 25,
+                "username": "WindyLuster"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星波波✨（傻福版）",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032817226680774656/ga377Pls_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 281,
+          "following_count": 228,
+          "like_count": 1825,
+          "listed_count": 0,
+          "media_count": 126,
+          "tweet_count": 2854
+        },
+        "username": "StarryNocts",
+        "verified": false
+      }
+    ]
+  }
+}

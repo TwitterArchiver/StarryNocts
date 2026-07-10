@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2048983259930079534",
+    "created_at": "2026-04-28T04:41:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T05:41:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048985825183203531"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1747180238810021888",
+          "start": 0,
+          "username": "wwj23355"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048985825183203531",
+    "in_reply_to_user_id": "1747180238810021888",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048983259930079534",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wwj23355 好诶"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 264,
+        "media_key": "3_2048983254875918337",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG9zahGaUAE1vEq.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2048983259930079534",
+        "created_at": "2026-04-28T04:41:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T05:41:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048985825183203531"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1747180238810021888",
+              "start": 0,
+              "username": "wwj23355"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048985825183203531",
+        "in_reply_to_user_id": "1747180238810021888",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048983259930079534",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wwj23355 好诶"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048983254875918337"
+          ]
+        },
+        "author_id": "1747180238810021888",
+        "conversation_id": "2048983259930079534",
+        "created_at": "2026-04-28T04:30:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T05:30:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048983259930079534"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/is0GTVwO6m",
+              "end": 35,
+              "expanded_url": "https://x.com/wwj23355/status/2048983259930079534/photo/1",
+              "media_key": "3_2048983254875918337",
+              "start": 12,
+              "url": "https://t.co/is0GTVwO6m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048983259930079534",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "へええー\n追星成功了喵 https://t.co/is0GTVwO6m"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "07｜MTX🏳‍⚧｜死肥宅｜无糖｜健全b｜社会学｜焦虑中｜乖宝宝:@xiey57828 ｜备用:@StarryNoct \n对不起对不起对不起我的错 无人在意 凭感觉回fo（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 33,
+                "username": "xiey57828"
+              },
+              {
+                "end": 59,
+                "start": 48,
+                "username": "StarryNoct"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星笨笨✨",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047542922447638528/3EZlA0VQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 493,
+          "following_count": 333,
+          "like_count": 3446,
+          "listed_count": 1,
+          "media_count": 165,
+          "tweet_count": 4850
+        },
+        "username": "StarryNocts",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-16T08:53:40.000Z",
+        "description": "Ciallo～～(∠・ω)⌒☆\n｜重抑轻焦 (康复中?)｜不od (?) 不割手 (?) 不登校｜183 60的mtf?() | 无证含糖｜HRT: 26.04.27 |睡眠重度依赖｜满级颓废｜玩车｜BA | CN/EN/KR/JP prob OK |\n｜生产日期：08.09.13｜\n天天发一些负能量傻逼言论真的对不起",
+        "id": "1747180238810021888",
+        "name": "WVKI233333🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044056098873978883/TB8Ilmi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 262,
+          "following_count": 278,
+          "like_count": 1276,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 473
+        },
+        "username": "wwj23355",
+        "verified": false
+      }
+    ]
+  }
+}

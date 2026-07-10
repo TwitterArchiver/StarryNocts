@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2062349000519630993",
+    "created_at": "2026-06-04T02:06:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T03:06:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062355202452385914"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1877473083063201792",
+          "start": 0,
+          "username": "dorothy1614926"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062355202452385914",
+    "in_reply_to_user_id": "1877473083063201792",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062349000519630993",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dorothy1614926 揉揉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2062349000519630993",
+        "created_at": "2026-06-04T02:06:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T03:06:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062355202452385914"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1877473083063201792",
+              "start": 0,
+              "username": "dorothy1614926"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062355202452385914",
+        "in_reply_to_user_id": "1877473083063201792",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062349000519630993",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dorothy1614926 揉揉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877473083063201792",
+        "conversation_id": "2062349000519630993",
+        "created_at": "2026-06-04T01:41:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T02:41:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062349000519630993"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062349000519630993",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "休学了呢……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "07｜mtx🏳‍⚧｜xnn｜死肥宅｜无糖｜清水｜社恐不线下｜社会学｜焦虑玉玉中｜宝宝:@as_qwq0721｜姐妹:@xiey57828 @LeavesMao｜备用:@StarryNoct \n对不起对不起对不起我的错 无人在意 互fo请私信（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 43,
+                "username": "as_qwq0721"
+              },
+              {
+                "end": 68,
+                "start": 58,
+                "username": "xiey57828"
+              },
+              {
+                "end": 79,
+                "start": 69,
+                "username": "LeavesMao"
+              },
+              {
+                "end": 94,
+                "start": 83,
+                "username": "StarryNoct"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星笨笨✨",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057743777272582144/voe61BiT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1225,
+          "following_count": 685,
+          "like_count": 4128,
+          "listed_count": 3,
+          "media_count": 225,
+          "tweet_count": 7114
+        },
+        "username": "StarryNocts",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-09T21:50:55.000Z",
+        "description": "🌸可愛のこいし、閉じた恋の瞳、ただ無邪気な小天使の文椛ちゃんなのににゃ～🌸｜东方众｜磕觉恋｜精神状态良好，超温柔～｜无证含🍥｜互fo｜最最最最可爱的妹妹&恋人❤️@maxC47884317783｜世另我？@wenhuamengyue｜可爱的小鲨鲨@TixItem4527｜可爱猫猫叶～@LeavesMao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 81,
+                "username": "maxC47884317783"
+              },
+              {
+                "end": 116,
+                "start": 102,
+                "username": "wenhuamengyue"
+              },
+              {
+                "end": 135,
+                "start": 123,
+                "username": "TixItem4527"
+              },
+              {
+                "end": 152,
+                "start": 142,
+                "username": "LeavesMao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dorothy16149261",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dorothy16149261",
+                "start": 0,
+                "url": "https://t.co/apd2CBfCuO"
+              }
+            ]
+          }
+        },
+        "id": "1877473083063201792",
+        "location": "看看你身后喵",
+        "name": "文椛🌸 恋🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058475297205604352/Ezx8PWCO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 566,
+          "following_count": 647,
+          "like_count": 7260,
+          "listed_count": 1,
+          "media_count": 77,
+          "tweet_count": 1815
+        },
+        "url": "https://t.co/apd2CBfCuO",
+        "username": "dorothy1614926",
+        "verified": false
+      }
+    ]
+  }
+}

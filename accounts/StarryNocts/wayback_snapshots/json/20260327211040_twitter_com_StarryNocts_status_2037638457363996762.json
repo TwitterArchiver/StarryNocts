@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2037573449603023260",
+    "created_at": "2026-03-27T21:10:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T22:10:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037638457363996762"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1862154440645742592",
+          "start": 0,
+          "username": "wuhuqifeigg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037638457363996762",
+    "in_reply_to_user_id": "1862154440645742592",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037604621615788354",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wuhuqifeigg 一定要走吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2037573449603023260",
+        "created_at": "2026-03-27T21:10:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T22:10:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037638457363996762"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1862154440645742592",
+              "start": 0,
+              "username": "wuhuqifeigg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037638457363996762",
+        "in_reply_to_user_id": "1862154440645742592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037604621615788354",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wuhuqifeigg 一定要走吗？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1862154440645742592",
+        "conversation_id": "2037573449603023260",
+        "created_at": "2026-03-27T18:56:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T19:56:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037604621615788354"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1343151486432399360",
+              "start": 0,
+              "username": "StarryNocts"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037604621615788354",
+        "in_reply_to_user_id": "1343151486432399360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037596499887190209",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StarryNocts 逃离世界"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "07｜mtx🏳️‍⚧️｜无糖｜死肥宅｜焦虑拉满！！！｜淡推中｜致歉一切｜都是逃生舱@GrapeJellyCat @SharkyCola @WindyLuster\n对不起大家 无人在意 凭感觉回fo（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 41,
+                "username": "GrapeJellyCat"
+              },
+              {
+                "end": 67,
+                "start": 56,
+                "username": "SharkyCola"
+              },
+              {
+                "end": 80,
+                "start": 68,
+                "username": "WindyLuster"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星波波✨",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032817226680774656/ga377Pls_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 134,
+          "like_count": 831,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 1751
+        },
+        "username": "StarryNocts",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-28T15:20:36.000Z",
+        "description": "成分复杂の玩家（我是糕手）😇/郊狼是控🤤（QQ3938951307）/乐观の抽象沙贝",
+        "id": "1862154440645742592",
+        "location": "紫罗兰酒馆",
+        "name": "真夜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992249714847502336/XLKbh9pN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 429,
+          "like_count": 3478,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 597
+        },
+        "username": "wuhuqifeigg",
+        "verified": false
+      }
+    ]
+  }
+}

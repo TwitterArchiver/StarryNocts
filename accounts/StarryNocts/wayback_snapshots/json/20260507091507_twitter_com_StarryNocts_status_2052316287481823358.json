@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2052315899827556790",
+    "created_at": "2026-05-07T09:15:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T10:15:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052316287481823358"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1985245121080922112",
+          "start": 0,
+          "username": "kiyaf_00xx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052316287481823358",
+    "in_reply_to_user_id": "1985245121080922112",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052315899827556790",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kiyaf_00xx ？？？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2052315899827556790",
+        "created_at": "2026-05-07T09:15:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T10:15:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052316287481823358"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1985245121080922112",
+              "start": 0,
+              "username": "kiyaf_00xx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052316287481823358",
+        "in_reply_to_user_id": "1985245121080922112",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052315899827556790",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kiyaf_00xx ？？？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1985245121080922112",
+        "conversation_id": "2052315899827556790",
+        "created_at": "2026-05-07T09:13:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T10:13:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052315899827556790"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052315899827556790",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "やっぱ垢消そうかな"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "07｜MTX🏳‍⚧｜死肥宅｜无糖｜健全b｜社会学｜焦虑中｜乖宝宝:@xiey57828 ｜备用:@StarryNoct \n对不起对不起对不起我的错 无人在意 回fo请私信（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 33,
+                "username": "xiey57828"
+              },
+              {
+                "end": 59,
+                "start": 48,
+                "username": "StarryNoct"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星笨笨✨",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047542922447638528/3EZlA0VQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 577,
+          "following_count": 389,
+          "like_count": 3902,
+          "listed_count": 3,
+          "media_count": 191,
+          "tweet_count": 5469
+        },
+        "username": "StarryNocts",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-03T07:18:27.000Z",
+        "description": "crossdresser / ボカロとか歴史が好き / 🗝: @utsusemi_n",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 31,
+                "username": "utsusemi_n"
+              }
+            ]
+          }
+        },
+        "id": "1985245121080922112",
+        "name": "眠々蝉",
+        "pinned_tweet_id": "2042244260188303657",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046254489435521024/r8LUv8Jq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 520,
+          "following_count": 211,
+          "like_count": 549,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 190
+        },
+        "username": "kiyaf_00xx",
+        "verified": false
+      }
+    ]
+  }
+}

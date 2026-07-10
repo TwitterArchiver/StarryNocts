@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2072497628248690977",
+    "created_at": "2026-07-02T02:05:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T03:05:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072501905079898519"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1886011884211740672",
+          "start": 0,
+          "username": "Lucien_037"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072501905079898519",
+    "in_reply_to_user_id": "1886011884211740672",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072497628248690977",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lucien_037 好好看…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2072497615082827776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HML9mbDbMAABDTe.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2072497628248690977",
+        "created_at": "2026-07-02T02:05:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T03:05:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072501905079898519"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1886011884211740672",
+              "start": 0,
+              "username": "Lucien_037"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072501905079898519",
+        "in_reply_to_user_id": "1886011884211740672",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072497628248690977",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lucien_037 好好看…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072497615082827776"
+          ]
+        },
+        "author_id": "1886011884211740672",
+        "conversation_id": "2072497628248690977",
+        "created_at": "2026-07-02T01:48:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T02:48:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072497628248690977"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 17,
+              "tag": "伪娘"
+            },
+            {
+              "end": 24,
+              "start": 21,
+              "tag": "男娘"
+            },
+            {
+              "end": 28,
+              "start": 25,
+              "tag": "女装"
+            },
+            {
+              "end": 32,
+              "start": 29,
+              "tag": "黑丝"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pfnr7XNMyN",
+              "end": 56,
+              "expanded_url": "https://x.com/Lucien_037/status/2072497628248690977/photo/1",
+              "media_key": "3_2072497615082827776",
+              "start": 33,
+              "url": "https://t.co/pfnr7XNMyN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072497628248690977",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 60,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "怪怪的好像没复刻到那种老图qwq\n#伪娘 #男娘 #女装 #黑丝 https://t.co/pfnr7XNMyN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "07｜mtx🏳‍⚧｜femboy｜死肥宅｜无糖｜清水｜社恐不线下｜社会学｜焦虑玉玉中｜备用:@StarryNoct ｜老公:@chinyu_ouo \n对不起对不起对不起我的错 无人在意 互fo请私信（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 46,
+                "username": "StarryNoct"
+              },
+              {
+                "end": 73,
+                "start": 62,
+                "username": "chinyu_ouo"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星笨笨✨",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070068207461998592/snBVwnOw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1510,
+          "following_count": 798,
+          "like_count": 4154,
+          "listed_count": 4,
+          "media_count": 253,
+          "tweet_count": 8328
+        },
+        "url": "",
+        "username": "StarryNocts",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-02T11:21:03.000Z",
+        "description": "定位0752，170/75kg，女装SUKI，里百合SUKI~\n目前还在减肥中，想变得更好~\nxp：白丝，Lolita，cosplay，男娘\n可1可0~（后面在开发中喵）最近性压抑严重呜呜呜\n（希望有同好可以深入了解喵）\n\n希望有xnn来戳我qwq，🐧：3754320796（记得跟我说你的ID喵，zn不给过喵~）",
+        "id": "1886011884211740672",
+        "location": "Guangdong",
+        "name": "Xi'an Lu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053236894184374272/WAms_G3y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 241,
+          "following_count": 545,
+          "like_count": 2310,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 175
+        },
+        "url": "",
+        "username": "Lucien_037",
+        "verified": false
+      }
+    ]
+  }
+}

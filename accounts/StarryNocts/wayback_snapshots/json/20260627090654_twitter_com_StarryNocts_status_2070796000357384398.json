@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2070789573198922170",
+    "created_at": "2026-06-27T09:06:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T10:06:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070796000357384398"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1637472306237956096",
+          "start": 0,
+          "username": "senluo_photo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070796000357384398",
+    "in_reply_to_user_id": "1637472306237956096",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070795272976838785",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@senluo_photo 好哦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2070789573198922170",
+        "created_at": "2026-06-27T09:06:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T10:06:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070796000357384398"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1637472306237956096",
+              "start": 0,
+              "username": "senluo_photo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070796000357384398",
+        "in_reply_to_user_id": "1637472306237956096",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070795272976838785",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@senluo_photo 好哦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1637472306237956096",
+        "conversation_id": "2070789573198922170",
+        "created_at": "2026-06-27T09:04:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T10:04:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070795272976838785"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1343151486432399360",
+              "start": 0,
+              "username": "StarryNocts"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070795272976838785",
+        "in_reply_to_user_id": "1343151486432399360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070789573198922170",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StarryNocts 白丝要多发 ya"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "07｜mtx🏳‍⚧｜femboy｜死肥宅｜无糖｜清水｜社恐不线下｜社会学｜焦虑玉玉中｜备用:@StarryNoct ｜老公:@chinyu_ouo \n对不起对不起对不起我的错 无人在意 互fo请私信（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 46,
+                "username": "StarryNoct"
+              },
+              {
+                "end": 73,
+                "start": 62,
+                "username": "chinyu_ouo"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星笨笨✨",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070068207461998592/snBVwnOw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1447,
+          "following_count": 776,
+          "like_count": 4150,
+          "listed_count": 4,
+          "media_count": 249,
+          "tweet_count": 8081
+        },
+        "url": "",
+        "username": "StarryNocts",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-19T15:13:25.000Z",
+        "description": "相信生活值得被记录，也在努力成为更酷的自己！ \n🐧可以扩列",
+        "id": "1637472306237956096",
+        "name": "糯米团子🍡",
+        "pinned_tweet_id": "2070696228799545364",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059829928636620801/H_UGwUgq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10247,
+          "following_count": 283,
+          "like_count": 522,
+          "listed_count": 17,
+          "media_count": 23,
+          "tweet_count": 363
+        },
+        "url": "",
+        "username": "senluo_photo",
+        "verified": false
+      }
+    ]
+  }
+}

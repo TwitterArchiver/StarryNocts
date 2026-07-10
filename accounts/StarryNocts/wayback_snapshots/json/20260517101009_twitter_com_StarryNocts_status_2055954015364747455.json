@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2055944260835532839",
+    "created_at": "2026-05-17T10:10:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T11:10:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055954015364747455"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1545993012987461632",
+          "start": 0,
+          "username": "cctpboy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055954015364747455",
+    "in_reply_to_user_id": "1545993012987461632",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055953113379676520",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cctpboy 好哦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2055944260835532839",
+        "created_at": "2026-05-17T10:10:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T11:10:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055954015364747455"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1545993012987461632",
+              "start": 0,
+              "username": "cctpboy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055954015364747455",
+        "in_reply_to_user_id": "1545993012987461632",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055953113379676520",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cctpboy 好哦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545993012987461632",
+        "conversation_id": "2055944260835532839",
+        "created_at": "2026-05-17T10:06:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T11:06:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055953113379676520"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1343151486432399360",
+              "start": 0,
+              "username": "StarryNocts"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055953113379676520",
+        "in_reply_to_user_id": "1343151486432399360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055944260835532839",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StarryNocts 会啊，而且我的鲨鲨和熊猫之间就会聊天呢\n（不行放暑假了得买只大鲨，小鲨孤零零一个太孤单了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "07｜mtx🏳‍⚧｜死肥宅｜无糖｜社会学｜焦虑玉玉中｜备用:@StarryNoct \n对不起对不起对不起我的错 无人在意 回fo请私信（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 30,
+                "username": "StarryNoct"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星笨笨✨",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055173607526121472/haV2R87z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 821,
+          "following_count": 489,
+          "like_count": 4057,
+          "listed_count": 3,
+          "media_count": 205,
+          "tweet_count": 6084
+        },
+        "username": "StarryNocts",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-10T04:47:25.000Z",
+        "description": "2007.02/男孩子/infp/爱好乱七八糟/文科生/物之不齐，物之情也/不会写简介/ bi + finsexual(?)/欢迎私信www",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/noche098",
+                "end": 23,
+                "expanded_url": "https://t.me/noche098",
+                "start": 0,
+                "url": "https://t.co/8SRUZbWcg7"
+              }
+            ]
+          }
+        },
+        "id": "1545993012987461632",
+        "location": "Yokohama",
+        "name": "Noche",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034643062429974529/2Ql_xgB4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 229,
+          "like_count": 1224,
+          "listed_count": 0,
+          "media_count": 90,
+          "tweet_count": 1620
+        },
+        "url": "https://t.co/8SRUZbWcg7",
+        "username": "cctpboy",
+        "verified": false
+      }
+    ]
+  }
+}

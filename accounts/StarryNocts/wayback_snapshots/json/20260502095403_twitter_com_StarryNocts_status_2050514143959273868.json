@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2050512158862332057",
+    "created_at": "2026-05-02T09:54:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T10:54:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050514143959273868"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1545993012987461632",
+          "start": 0,
+          "username": "cctpboy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050514143959273868",
+    "in_reply_to_user_id": "1545993012987461632",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050512158862332057",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cctpboy 哈？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 811,
+        "media_key": "3_2050512154957316096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHTh8NvaAAABUR9.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2050512158862332057",
+        "created_at": "2026-05-02T09:54:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T10:54:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050514143959273868"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1545993012987461632",
+              "start": 0,
+              "username": "cctpboy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050514143959273868",
+        "in_reply_to_user_id": "1545993012987461632",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050512158862332057",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cctpboy 哈？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050512154957316096"
+          ]
+        },
+        "author_id": "1545993012987461632",
+        "conversation_id": "2050512158862332057",
+        "created_at": "2026-05-02T09:46:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T10:46:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050512158862332057"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 34,
+              "id": "1955477303376441344",
+              "start": 22,
+              "username": "Hoshiko_ttv"
+            },
+            {
+              "end": 50,
+              "id": "1918274202580467713",
+              "start": 35,
+              "username": "CyberKanjousen"
+            },
+            {
+              "end": 73,
+              "id": "1757630242288541696",
+              "start": 57,
+              "username": "Zhixiang_312145"
+            },
+            {
+              "end": 92,
+              "id": "1946863961502298112",
+              "start": 80,
+              "username": "Chloris8964"
+            },
+            {
+              "end": 105,
+              "id": "1343151486432399360",
+              "start": 93,
+              "username": "StarryNocts"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Meet your Twitter family: parents, spouse, and children! 🌳 This fun feature uses a secret algorithm to predict your closest Twitter connections, representing your parents, spouse, and children 👨‍👩‍👧‍👦",
+              "display_url": "infinitetweet.me/family-tree?la…",
+              "end": 133,
+              "expanded_url": "https://infinitetweet.me/family-tree?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/2049769251213565952/9CpZFQ5P?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2049769251213565952/9CpZFQ5P?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 110,
+              "status": 200,
+              "title": "Family Tree • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/family-tree?lang=zh",
+              "url": "https://t.co/v904J2WxgW"
+            },
+            {
+              "display_url": "pic.x.com/gqqRqAPx3M",
+              "end": 157,
+              "expanded_url": "https://x.com/cctpboy/status/2050512158862332057/photo/1",
+              "media_key": "3_2050512154957316096",
+              "start": 134,
+              "url": "https://t.co/gqqRqAPx3M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050512158862332057",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "👨‍👩‍👧‍👦 我的推特家庭:\n👫 父母: @Hoshiko_ttv @CyberKanjousen\n👰 配偶: @Zhixiang_312145\n👶 孩子: @Chloris8964 @StarryNocts\n\n➡️ https://t.co/v904J2WxgW https://t.co/gqqRqAPx3M"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "07｜MTX🏳‍⚧｜死肥宅｜无糖｜健全b｜社会学｜焦虑中｜乖宝宝:@xiey57828 ｜备用:@StarryNoct \n对不起对不起对不起我的错 无人在意 回fo请私信（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 33,
+                "username": "xiey57828"
+              },
+              {
+                "end": 59,
+                "start": 48,
+                "username": "StarryNoct"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星笨笨✨",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047542922447638528/3EZlA0VQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 519,
+          "following_count": 350,
+          "like_count": 3601,
+          "listed_count": 1,
+          "media_count": 175,
+          "tweet_count": 5109
+        },
+        "username": "StarryNocts",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-10T04:47:25.000Z",
+        "description": "2007.02/男孩子/infp/爱好乱七八糟/文科生/物之不齐，物之情也/不会写简介/ bi + finsexual(?)/欢迎私信www",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/noche098",
+                "end": 23,
+                "expanded_url": "https://t.me/noche098",
+                "start": 0,
+                "url": "https://t.co/8SRUZbWcg7"
+              }
+            ]
+          }
+        },
+        "id": "1545993012987461632",
+        "location": "Yokohama",
+        "name": "Noche",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034643062429974529/2Ql_xgB4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 215,
+          "like_count": 1102,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 1395
+        },
+        "url": "https://t.co/8SRUZbWcg7",
+        "username": "cctpboy",
+        "verified": false
+      }
+    ]
+  }
+}

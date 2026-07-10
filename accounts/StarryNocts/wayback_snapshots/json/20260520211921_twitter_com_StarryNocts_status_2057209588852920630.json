@@ -1,0 +1,327 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2056773471070499131",
+    "created_at": "2026-05-20T21:19:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T22:19:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057209588852920630"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1798992128732983296",
+          "start": 0,
+          "username": "weiwei041011"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057209588852920630",
+    "in_reply_to_user_id": "1798992128732983296",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056773471070499131",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@weiwei041011 好看诶！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2056773459276083200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIsgkF-aMAAAI7k.jpg",
+        "width": 944
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2056773459288752128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIsgkGBbgAA0SNi.jpg",
+        "width": 944
+      },
+      {
+        "height": 1560,
+        "media_key": "3_2056773459297099781",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIsgkGDa4AU4duY.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2056773471070499131",
+        "created_at": "2026-05-20T21:19:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T22:19:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057209588852920630"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1798992128732983296",
+              "start": 0,
+              "username": "weiwei041011"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057209588852920630",
+        "in_reply_to_user_id": "1798992128732983296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056773471070499131",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@weiwei041011 好看诶！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056773459276083200",
+            "3_2056773459288752128",
+            "3_2056773459297099781"
+          ]
+        },
+        "author_id": "1798992128732983296",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2056773471070499131",
+        "created_at": "2026-05-19T16:26:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T17:26:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056773471070499131"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 33,
+              "start": 30,
+              "tag": "男娘"
+            },
+            {
+              "end": 37,
+              "start": 34,
+              "tag": "伪娘"
+            },
+            {
+              "end": 42,
+              "start": 38,
+              "tag": "mtf"
+            },
+            {
+              "end": 46,
+              "start": 43,
+              "tag": "药娘"
+            },
+            {
+              "end": 52,
+              "start": 47,
+              "tag": "丰川祥子"
+            },
+            {
+              "end": 61,
+              "start": 53,
+              "tag": "cosplay"
+            },
+            {
+              "end": 66,
+              "start": 62,
+              "tag": "跨性别"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LXr11rsGj0",
+              "end": 90,
+              "expanded_url": "https://x.com/weiwei041011/status/2056773471070499131/photo/1",
+              "media_key": "3_2056773459276083200",
+              "start": 67,
+              "url": "https://t.co/LXr11rsGj0"
+            },
+            {
+              "display_url": "pic.x.com/LXr11rsGj0",
+              "end": 90,
+              "expanded_url": "https://x.com/weiwei041011/status/2056773471070499131/photo/1",
+              "media_key": "3_2056773459288752128",
+              "start": 67,
+              "url": "https://t.co/LXr11rsGj0"
+            },
+            {
+              "display_url": "pic.x.com/LXr11rsGj0",
+              "end": 90,
+              "expanded_url": "https://x.com/weiwei041011/status/2056773471070499131/photo/1",
+              "media_key": "3_2056773459297099781",
+              "start": 67,
+              "url": "https://t.co/LXr11rsGj0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056773471070499131",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 291,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "怼脸拍了几张，实在是太懒了，应该来说是明天还有课，好烦啊😡\n#男娘 #伪娘 #mtf #药娘 #丰川祥子 #cosplay #跨性别 https://t.co/LXr11rsGj0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "07🥺｜mtx🏳‍⚧｜死肥宅🤬｜无糖🍥｜清水🙂｜社恐不线下😢｜社会学😖｜焦虑玉玉中😇｜宝宝:@as_qwq0721 🥰｜备用:@StarryNoct \n对不起对不起对不起我的错 无人在意 互fo请私信（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 46,
+                "username": "as_qwq0721"
+              },
+              {
+                "end": 74,
+                "start": 63,
+                "username": "StarryNoct"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星笨笨✨",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056382888187510784/TI8up0se_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 947,
+          "following_count": 556,
+          "like_count": 4097,
+          "listed_count": 3,
+          "media_count": 209,
+          "tweet_count": 6346
+        },
+        "username": "StarryNocts",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-07T08:15:46.000Z",
+        "description": "线上聊天🚪15r，线下陪玩🚪52r，软件工程在读，图灵派码农，单推丰川祥子，喜爱玩cos，167/140在减肥男娘，取向男，fps，明日方舟，mygo，avemujica",
+        "id": "1798992128732983296",
+        "location": "江苏",
+        "name": "丰川薇薇",
+        "pinned_tweet_id": "2056758036912656656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024919206240915456/7EaQuqPH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 23,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 162
+        },
+        "username": "weiwei041011",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2055807476776517824",
+    "created_at": "2026-05-17T08:54:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T09:54:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055935097665421388"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1601109010714750978",
+          "start": 0,
+          "username": "tianyi712521"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055935097665421388",
+    "in_reply_to_user_id": "1601109010714750978",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055934584232276399",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tianyi712521 🥰🥰🥰"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2055934584232276399].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2055934584232276399",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2055934584232276399"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2055807476776517824",
+        "created_at": "2026-05-17T08:54:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T09:54:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055935097665421388"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1601109010714750978",
+              "start": 0,
+              "username": "tianyi712521"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055935097665421388",
+        "in_reply_to_user_id": "1601109010714750978",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055934584232276399",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tianyi712521 🥰🥰🥰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "07｜mtx🏳‍⚧｜死肥宅｜无糖｜社会学｜焦虑玉玉中｜备用:@StarryNoct \n对不起对不起对不起我的错 无人在意 回fo请私信（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 30,
+                "username": "StarryNoct"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星笨笨✨",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055173607526121472/haV2R87z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 818,
+          "following_count": 488,
+          "like_count": 4054,
+          "listed_count": 3,
+          "media_count": 204,
+          "tweet_count": 6066
+        },
+        "username": "StarryNocts",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-09T06:58:40.000Z",
+        "description": "07的一名高二牲/170-61/INTP-T(原来是ISFJ)/🏳️‍⚧️（大概是MTX偏F） /最好的姐姐@maimai_dx///快fo咱的可爱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 54,
+                "username": "maimai_dx"
+              }
+            ]
+          }
+        },
+        "id": "1601109010714750978",
+        "location": "距离你100m",
+        "name": "依不依夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1601611138491645952/v2V-0pa0_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1108,
+          "following_count": 721,
+          "like_count": 46355,
+          "listed_count": 2,
+          "media_count": 59,
+          "tweet_count": 5647
+        },
+        "username": "tianyi712521",
+        "verified": false
+      }
+    ]
+  }
+}

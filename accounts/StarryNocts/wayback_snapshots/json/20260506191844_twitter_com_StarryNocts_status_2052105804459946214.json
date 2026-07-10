@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2051895910624633115",
+    "created_at": "2026-05-06T19:18:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T20:18:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052105804459946214"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2044055032761372672",
+          "start": 0,
+          "username": "COMO44067969551"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052105804459946214",
+    "in_reply_to_user_id": "2044055032761372672",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052042962637599147",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@COMO44067969551 可爱捏"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2052042928575619072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHpSK92aIAABo0W.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2051895910624633115",
+        "created_at": "2026-05-06T19:18:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T20:18:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052105804459946214"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2044055032761372672",
+              "start": 0,
+              "username": "COMO44067969551"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052105804459946214",
+        "in_reply_to_user_id": "2044055032761372672",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052042962637599147",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@COMO44067969551 可爱捏"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052042928575619072"
+          ]
+        },
+        "author_id": "2044055032761372672",
+        "conversation_id": "2051895910624633115",
+        "created_at": "2026-05-06T15:09:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T16:09:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052042962637599147"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1343151486432399360",
+              "start": 0,
+              "username": "StarryNocts"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SPmtzJyRR7",
+              "end": 36,
+              "expanded_url": "https://x.com/COMO44067969551/status/2052042962637599147/photo/1",
+              "media_key": "3_2052042928575619072",
+              "start": 13,
+              "url": "https://t.co/SPmtzJyRR7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052042962637599147",
+        "in_reply_to_user_id": "1343151486432399360",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051895910624633115",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StarryNocts https://t.co/SPmtzJyRR7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "07｜MTX🏳‍⚧｜死肥宅｜无糖｜健全b｜社会学｜焦虑中｜乖宝宝:@xiey57828 ｜备用:@StarryNoct \n对不起对不起对不起我的错 无人在意 回fo请私信（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 33,
+                "username": "xiey57828"
+              },
+              {
+                "end": 59,
+                "start": 48,
+                "username": "StarryNoct"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星笨笨✨",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047542922447638528/3EZlA0VQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 572,
+          "following_count": 384,
+          "like_count": 3879,
+          "listed_count": 3,
+          "media_count": 190,
+          "tweet_count": 5438
+        },
+        "username": "StarryNocts",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-14T14:08:07.000Z",
+        "description": "",
+        "id": "2044055032761372672",
+        "name": "千绘莉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048433456389246976/iqQZG63__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 4,
+          "like_count": 27,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 3
+        },
+        "username": "COMO44067969551",
+        "verified": false
+      }
+    ]
+  }
+}

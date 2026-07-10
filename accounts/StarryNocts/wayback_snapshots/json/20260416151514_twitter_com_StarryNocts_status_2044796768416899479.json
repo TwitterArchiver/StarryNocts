@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2044386288913219862",
+    "created_at": "2026-04-16T15:15:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T16:15:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044796768416899479"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2033927632711258115",
+          "start": 0,
+          "username": "AndrewLewi86958"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044796768416899479",
+    "in_reply_to_user_id": "2033927632711258115",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044739552607162464",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AndrewLewi86958 你是个几把！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2044386288913219862",
+        "created_at": "2026-04-16T15:15:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T16:15:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044796768416899479"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2033927632711258115",
+              "start": 0,
+              "username": "AndrewLewi86958"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044796768416899479",
+        "in_reply_to_user_id": "2033927632711258115",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044739552607162464",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AndrewLewi86958 你是个几把！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033927632711258115",
+        "conversation_id": "2044386288913219862",
+        "created_at": "2026-04-16T11:27:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T12:27:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044739552607162464"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1343151486432399360",
+              "start": 0,
+              "username": "StarryNocts"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044739552607162464",
+        "in_reply_to_user_id": "1343151486432399360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044386288913219862",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StarryNocts 我是真人，⁠有‌线下​吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "07｜MTF🏳️‍⚧️｜无糖｜皮下男｜死肥宅｜社会学｜焦虑中｜备用:@StarryNoct 小号:@WindyLuster\n对不起对不起对不起我的错 无人在意 凭感觉回fo（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 34,
+                "username": "StarryNoct"
+              },
+              {
+                "end": 61,
+                "start": 49,
+                "username": "WindyLuster"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星波波✨",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032817226680774656/ga377Pls_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 396,
+          "following_count": 271,
+          "like_count": 2766,
+          "listed_count": 0,
+          "media_count": 145,
+          "tweet_count": 3930
+        },
+        "username": "StarryNocts",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-17T15:25:15.000Z",
+        "description": "已入驻约p平台:👉https://t.co/C0VjzC83v1只在平台上约，推特绝大部分女主播都入驻的平台，安全可靠，下载直接搜我名字，日常更新具体位置平台都有显示哦。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "u0p2.top",
+                "end": 32,
+                "expanded_url": "http://u0p2.top",
+                "start": 9,
+                "url": "https://t.co/C0VjzC83v1"
+              }
+            ]
+          }
+        },
+        "id": "2033927632711258115",
+        "location": "附近2.88km",
+        "name": "雨萱🌸同城上门🌸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044739582248603648/LVXYcirW_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 11,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 290
+        },
+        "username": "AndrewLewi86958",
+        "verified": false
+      }
+    ]
+  }
+}

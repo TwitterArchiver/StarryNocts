@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2071283332281741755",
+    "created_at": "2026-06-28T23:37:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T00:37:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071377412424921149"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2042902564048355328",
+          "start": 0,
+          "username": "TTTypezhi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071377412424921149",
+    "in_reply_to_user_id": "2042902564048355328",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071283332281741755",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TTTypezhi 抱抱知式"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2071283329899651072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL6tNuPbYAAaSVW.jpg",
+        "width": 921
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2071283332281741755",
+        "created_at": "2026-06-28T23:37:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T00:37:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071377412424921149"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2042902564048355328",
+              "start": 0,
+              "username": "TTTypezhi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071377412424921149",
+        "in_reply_to_user_id": "2042902564048355328",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071283332281741755",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TTTypezhi 抱抱知式"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071283329899651072"
+          ]
+        },
+        "author_id": "2042902564048355328",
+        "conversation_id": "2071283332281741755",
+        "created_at": "2026-06-28T17:23:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T18:23:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071283332281741755"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/n88MUWUdWm",
+              "end": 28,
+              "expanded_url": "https://x.com/TTTypezhi/status/2071283332281741755/photo/1",
+              "media_key": "3_2071283329899651072",
+              "start": 5,
+              "url": "https://t.co/n88MUWUdWm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071283332281741755",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 134,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "新简介喵 https://t.co/n88MUWUdWm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "07｜mtx🏳‍⚧｜femboy｜死肥宅｜无糖｜清水｜社恐不线下｜社会学｜焦虑玉玉中｜备用:@StarryNoct ｜老公:@chinyu_ouo \n对不起对不起对不起我的错 无人在意 互fo请私信（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 46,
+                "username": "StarryNoct"
+              },
+              {
+                "end": 73,
+                "start": 62,
+                "username": "chinyu_ouo"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星笨笨✨",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070068207461998592/snBVwnOw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1466,
+          "following_count": 783,
+          "like_count": 4150,
+          "listed_count": 4,
+          "media_count": 250,
+          "tweet_count": 8165
+        },
+        "url": "",
+        "username": "StarryNocts",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-11T09:48:33.000Z",
+        "description": "全世界最好的小女孩/She.Her/17岁的小笨蛋🥺/🎂2009.3.7/🍥:2025.1.9/RLE时间太长不记得了😢/有小证/不割手od/家长不支持/💰打工攒钱SRS中.../💀死了五个号/❌线下/努力生活中喵...",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "zinet.top",
+                "end": 23,
+                "expanded_url": "https://zinet.top",
+                "start": 0,
+                "url": "https://t.co/tc7gn1vBTW"
+              }
+            ]
+          }
+        },
+        "id": "2042902564048355328",
+        "location": "你家",
+        "name": "知式（四代目）🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042902713881731072/m36bwUKf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 436,
+          "following_count": 204,
+          "like_count": 10,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 61
+        },
+        "url": "https://t.co/tc7gn1vBTW",
+        "username": "TTTypezhi",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2067543862210605440",
+    "created_at": "2026-06-18T10:05:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T11:05:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067549376516608243"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1838866598427549696",
+          "start": 0,
+          "username": "Yunmengyue"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067549376516608243",
+    "in_reply_to_user_id": "1838866598427549696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067543862210605440",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yunmengyue 好热啊啊啊啊啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4341,
+        "height": 1906,
+        "media_key": "13_2067543671000678400",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2067543671000678400/img/7_C0EEWfJswaGf-L.jpg",
+        "public_metrics": {
+          "view_count": 13
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2067543671000678400/vid/avc1/320x564/fCFtLx31tj3A-eQ0.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2067543671000678400/vid/avc1/480x846/gjlMhkvRX5dVC5j-.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2067543671000678400/vid/avc1/720x1270/tWbqnK010u91nUJr.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2067543671000678400/pl/BXK8Hyw0QDH20BUw.m3u8?tag=14"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2067543862210605440",
+        "created_at": "2026-06-18T10:05:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T11:05:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067549376516608243"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1838866598427549696",
+              "start": 0,
+              "username": "Yunmengyue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067549376516608243",
+        "in_reply_to_user_id": "1838866598427549696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067543862210605440",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yunmengyue 好热啊啊啊啊啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2067543671000678400"
+          ]
+        },
+        "author_id": "1838866598427549696",
+        "conversation_id": "2067543862210605440",
+        "created_at": "2026-06-18T09:44:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T10:44:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067543862210605440"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fBEPEGT5OU",
+              "end": 55,
+              "expanded_url": "https://x.com/Yunmengyue/status/2067543862210605440/video/1",
+              "media_key": "13_2067543671000678400",
+              "start": 32,
+              "url": "https://t.co/fBEPEGT5OU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067543862210605440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "怎么天津今天下午这么闷啊…我可能要考虑进修化妆技能了，瓶颈了😅 https://t.co/fBEPEGT5OU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "07｜mtx🏳‍⚧｜xnn｜死肥宅｜无糖｜清水｜社恐不线下｜社会学｜焦虑玉玉中｜备用:@StarryNoct ｜老公:@chinyu_ouo \n对不起对不起对不起我的错 无人在意 互fo请私信（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 43,
+                "username": "StarryNoct"
+              },
+              {
+                "end": 70,
+                "start": 59,
+                "username": "chinyu_ouo"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星笨笨✨",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057743777272582144/voe61BiT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1390,
+          "following_count": 741,
+          "like_count": 4144,
+          "listed_count": 3,
+          "media_count": 237,
+          "tweet_count": 7708
+        },
+        "username": "StarryNocts",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-25T09:02:26.000Z",
+        "description": "🍬2025.10吃糖🍬\n🍥2026.5开启hrt🍥\n🌈持证含糖MtF🌈\n🎂97年大龄跨🎂\n✨愿自己早日变成女生✨\n❤希望有男人真心的爱我陪伴我❤",
+        "id": "1838866598427549696",
+        "name": "云梦玥Yuzuki🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060339603601854464/KKYNJjoy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 593,
+          "following_count": 287,
+          "like_count": 1761,
+          "listed_count": 6,
+          "media_count": 25,
+          "tweet_count": 1136
+        },
+        "username": "Yunmengyue",
+        "verified": false
+      }
+    ]
+  }
+}

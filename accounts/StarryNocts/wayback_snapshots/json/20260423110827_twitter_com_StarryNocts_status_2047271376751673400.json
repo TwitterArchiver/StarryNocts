@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2047264074975813644",
+    "created_at": "2026-04-23T11:08:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T12:08:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047271376751673400"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1982449259774656512",
+          "start": 0,
+          "username": "smiroyama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047271376751673400",
+    "in_reply_to_user_id": "1982449259774656512",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047264074975813644",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@smiroyama 好诶！那在哪试呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2047264074975813644",
+        "created_at": "2026-04-23T11:08:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T12:08:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047271376751673400"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1982449259774656512",
+              "start": 0,
+              "username": "smiroyama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047271376751673400",
+        "in_reply_to_user_id": "1982449259774656512",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047264074975813644",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@smiroyama 好诶！那在哪试呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1982449259774656512",
+        "conversation_id": "2047264074975813644",
+        "created_at": "2026-04-23T10:39:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T11:39:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047264074975813644"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047264074975813644",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "攻略小男娘，第一步是建立真正的连接，而不是把对方当成“目标”或幻想对象。小男娘往往在性别表达上比较敏感，他们可能喜欢可爱的事物、二次元文化或温柔的互动，但内心也需要被尊重和理解。建议从共同兴趣入手，比如一起看动漫、打游戏或分享日常趣事，慢慢聊天时多夸赞他们的外表或打扮（例如“今天这身衣服好适合你，超有少女感”），但要真诚，避免刻意或油腻。关键是多倾听他们的想法，给予情感支持，让他们感觉到安全和被欣赏，而不是急于推进关系。\n\n第二步是注意界限和沟通。小男娘的身份可能涉及个人隐私和自我认同，不要随意在公共场合或不熟悉的人面前点破或调侃他们的“男娘”属性，以免造成尴尬或不适。相处时可以逐步试探对方的舒适度，比如一起尝试女装相关的活动、分享妆容心得，或温柔地给予拥抱和陪伴，但一切都要基于双方自愿。记住，健康的关系建立在平等和互信上，如果对方表现出害羞或退缩，就多给空间，不要强求。\n\n最后，攻略的核心其实是成为一个值得依赖的人。很多人喜欢小男娘的温柔可爱，但真正长久的相处需要你也展现体贴、幽默和责任感。学会照顾对方的情绪，偶尔制造小惊喜（如送可爱的小礼物或一起cosplay），同时保持自己的魅力。无论结果如何，都要尊重对方的选择——如果不合适，就当多认识了一个有趣的朋友。感情本就复杂，保持真心和耐心，往往比任何“技巧”都有效。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 156,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "攻略小男娘，第一步是建立真正的连接，而不是把对方当成“目标”或幻想对象。小男娘往往在性别表达上比较敏感，他们可能喜欢可爱的事物、二次元文化或温柔的互动，但内心也需要被尊重和理解。建议从共同兴趣入手，比如一起看动漫、打游戏或分享日常趣事，慢慢聊天时多夸赞他们的外表或打扮（例如“今天这"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "07｜MTX🏳‍⚧｜死肥宅｜健全b｜社会学｜焦虑中｜备用:@StarryNoct 小号:@WindyLuster\n对不起对不起对不起我的错 无人在意 凭感觉回fo（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 29,
+                "username": "StarryNoct"
+              },
+              {
+                "end": 56,
+                "start": 44,
+                "username": "WindyLuster"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星笨笨✨",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032817226680774656/ga377Pls_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 434,
+          "following_count": 298,
+          "like_count": 3185,
+          "listed_count": 0,
+          "media_count": 158,
+          "tweet_count": 4392
+        },
+        "username": "StarryNocts",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-26T14:08:58.000Z",
+        "description": "sharing and making some funny memes\ndev https://t.co/pJ9VtduSxe 🍥\nfriends🥰: @Huang_Yut1ng @fukui_p26 @qianxunchan \nthey/them",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 76,
+                "username": "Huang_Yut1ng"
+              },
+              {
+                "end": 100,
+                "start": 90,
+                "username": "fukui_p26"
+              },
+              {
+                "end": 113,
+                "start": 101,
+                "username": "qianxunchan"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "hrt.mahiro.uk",
+                "end": 63,
+                "expanded_url": "http://hrt.mahiro.uk",
+                "start": 40,
+                "url": "https://t.co/pJ9VtduSxe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mizukiakiyama.com",
+                "end": 23,
+                "expanded_url": "http://mizukiakiyama.com",
+                "start": 0,
+                "url": "https://t.co/YPl1rDopW0"
+              }
+            ]
+          }
+        },
+        "id": "1982449259774656512",
+        "location": "绪山寺",
+        "name": "Smirnova 🏳️‍⚧️🍡",
+        "pinned_tweet_id": "2044751664612323796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046272487093313536/37Hos-Hz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3608,
+          "following_count": 1977,
+          "like_count": 8540,
+          "listed_count": 9,
+          "media_count": 1267,
+          "tweet_count": 5259
+        },
+        "url": "https://t.co/YPl1rDopW0",
+        "username": "smiroyama",
+        "verified": true
+      }
+    ]
+  }
+}

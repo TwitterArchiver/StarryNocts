@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2042194723079881159",
+    "created_at": "2026-04-09T11:17:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T12:17:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042200237490810980"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1982449259774656512",
+          "start": 0,
+          "username": "smiroyama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042200237490810980",
+    "in_reply_to_user_id": "1982449259774656512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042194723079881159",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@smiroyama 这个药盒怎么这么大！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 768,
+        "media_key": "3_2042194711507849216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFdVRSWbUAA1xWW.jpg",
+        "width": 1376
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2042194723079881159",
+        "created_at": "2026-04-09T11:17:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T12:17:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042200237490810980"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1982449259774656512",
+              "start": 0,
+              "username": "smiroyama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042200237490810980",
+        "in_reply_to_user_id": "1982449259774656512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042194723079881159",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@smiroyama 这个药盒怎么这么大！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042194711507849216"
+          ]
+        },
+        "author_id": "1982449259774656512",
+        "conversation_id": "2042194723079881159",
+        "created_at": "2026-04-09T10:55:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T11:55:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042194723079881159"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/C2REZFkjki",
+              "end": 164,
+              "expanded_url": "https://x.com/smiroyama/status/2042194723079881159/photo/1",
+              "media_key": "3_2042194711507849216",
+              "start": 141,
+              "url": "https://t.co/C2REZFkjki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042194723079881159",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "一个高度详细的动漫风格插画，主角是一个可爱的女孩，其形象与提供的角色图片非常相似，拥有长而柔软的米粉色头发，头顶有标志性的呆毛，大而明亮的琥珀色眼睛，以及好奇而微笑的表情。她穿着图片中的海军蓝校服外套，带有粉色滚边和袖口，内搭淡蓝色衬衫和粉色领结。她坐在质朴的木桌旁，双手拿着提供的补佳乐药盒，正低头好奇地看着。她的右手食指指着盒子上的文字。该药盒是一个精确的复制品，所有文字和图案都清晰可辨：中英文大字补佳乐PROGYNOVA和戊酸雌二醇片；盒子设计上部白色，下部带粉色线条，中间有粉色水彩风格的螺旋纹图案；小字包含请仔细阅读说明书并在医师指导下使用，Bayer拜耳标志，以及21片口服等具体细节。构图为中景特写，聚焦于女孩的脸和她手中的盒子。背景是一个柔和虚化的温暖室内环境，有一扇窗户提供温和的自然光，以及一个模糊的木椅背。光线柔和而温暖，营造出一种温馨好奇的氛围。Masterpiece, high quality, delicate line art, clean colors, highly detailed, sharp focus on face and hands, shallow depth of field, detailed textures on wood and paper, heartwarming anime illustration, precise text rendering on the box."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 103,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一个高度详细的动漫风格插画，主角是一个可爱的女孩，其形象与提供的角色图片非常相似，拥有长而柔软的米粉色头发，头顶有标志性的呆毛，大而明亮的琥珀色眼睛，以及好奇而微笑的表情。她穿着图片中的海军蓝校服外套，带有粉色滚边和袖口，内搭淡蓝色衬衫和粉色领结。她坐在质朴的木桌旁，双手拿着提供 https://t.co/C2REZFkjki"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "大傻逼｜蝈蝻｜备用:@StarryNoct 小号:@WindyLuster\n对不起对不起对不起我的错 无人在意 凭感觉回fo（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 10,
+                "username": "StarryNoct"
+              },
+              {
+                "end": 37,
+                "start": 25,
+                "username": "WindyLuster"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星波波✨（傻逼版）",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032817226680774656/ga377Pls_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 299,
+          "following_count": 238,
+          "like_count": 2188,
+          "listed_count": 0,
+          "media_count": 128,
+          "tweet_count": 3187
+        },
+        "username": "StarryNocts",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-26T14:08:58.000Z",
+        "description": "Undergraduate Student |Dev @HRTtracker🍥 @KeenLib |  User | 🐱 Lover | 好朋友 🥰: @Huang_Yut1ng @fukui_p26 @qianxunchan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 27,
+                "username": "HRTtracker"
+              },
+              {
+                "end": 48,
+                "start": 40,
+                "username": "KeenLib"
+              },
+              {
+                "end": 90,
+                "start": 77,
+                "username": "Huang_Yut1ng"
+              },
+              {
+                "end": 101,
+                "start": 91,
+                "username": "fukui_p26"
+              },
+              {
+                "end": 114,
+                "start": 102,
+                "username": "qianxunchan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mizukiakiyama.com",
+                "end": 23,
+                "expanded_url": "http://mizukiakiyama.com",
+                "start": 0,
+                "url": "https://t.co/YPl1rDopW0"
+              }
+            ]
+          }
+        },
+        "id": "1982449259774656512",
+        "location": "绪山寺",
+        "name": "Smirnova 🍡",
+        "pinned_tweet_id": "2034816823921885638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041377830597246976/UX0FQmaR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2785,
+          "following_count": 1784,
+          "like_count": 6977,
+          "listed_count": 2,
+          "media_count": 928,
+          "tweet_count": 4347
+        },
+        "url": "https://t.co/YPl1rDopW0",
+        "username": "smiroyama",
+        "verified": true
+      }
+    ]
+  }
+}

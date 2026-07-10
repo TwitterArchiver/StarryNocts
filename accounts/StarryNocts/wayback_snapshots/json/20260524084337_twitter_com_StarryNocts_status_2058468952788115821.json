@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2058427157765116043",
+    "created_at": "2026-05-24T08:43:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T09:43:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058468952788115821"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1969310423322411010",
+          "start": 0,
+          "username": "XiaoTian258"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058468952788115821",
+    "in_reply_to_user_id": "1969310423322411010",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058445169536696479",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XiaoTian258 🥰🥰🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2058427157765116043",
+        "created_at": "2026-05-24T08:43:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T09:43:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058468952788115821"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1969310423322411010",
+              "start": 0,
+              "username": "XiaoTian258"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058468952788115821",
+        "in_reply_to_user_id": "1969310423322411010",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058445169536696479",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XiaoTian258 🥰🥰🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1969310423322411010",
+        "conversation_id": "2058427157765116043",
+        "created_at": "2026-05-24T07:09:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T08:09:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058445169536696479"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1343151486432399360",
+              "start": 0,
+              "username": "StarryNocts"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058445169536696479",
+        "in_reply_to_user_id": "1343151486432399360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058427157765116043",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StarryNocts 我也喜欢😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "07🥺｜mtx🏳‍⚧｜死肥宅🤬｜无糖🍥｜清水🙂｜社恐不线下😢｜社会学😖｜焦虑玉玉中😇｜最好的大家@xiey57828 @LeavesMao ｜备用:@StarryNoct \n对不起对不起对不起我的错 无人在意 互fo请私信（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 48,
+                "username": "xiey57828"
+              },
+              {
+                "end": 69,
+                "start": 59,
+                "username": "LeavesMao"
+              },
+              {
+                "end": 85,
+                "start": 74,
+                "username": "StarryNoct"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星笨笨✨",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057743777272582144/voe61BiT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 971,
+          "following_count": 569,
+          "like_count": 4119,
+          "listed_count": 3,
+          "media_count": 212,
+          "tweet_count": 6544
+        },
+        "username": "StarryNocts",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-20T07:59:37.000Z",
+        "description": "大四计算机系在读,  探索AI/金融/Web3. \n之余简单分享一下生活~~\n我们都有美好的明天~",
+        "id": "1969310423322411010",
+        "name": "Aione",
+        "pinned_tweet_id": "2056677748421390846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032045985778843649/b-9yv0gA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 972,
+          "following_count": 276,
+          "like_count": 2538,
+          "listed_count": 1,
+          "media_count": 54,
+          "tweet_count": 1720
+        },
+        "username": "XiaoTian258",
+        "verified": true
+      }
+    ]
+  }
+}

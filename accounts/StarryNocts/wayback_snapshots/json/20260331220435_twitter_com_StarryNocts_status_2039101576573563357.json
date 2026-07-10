@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2038729602387063197",
+    "created_at": "2026-03-31T22:04:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T23:04:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039101576573563357"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1354545024046821376",
+          "start": 0,
+          "username": "KURANAGA0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039101576573563357",
+    "in_reply_to_user_id": "1354545024046821376",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038979557710332100",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KURANAGA0 常用的抗抑郁药"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2038729602387063197",
+        "created_at": "2026-03-31T22:04:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T23:04:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039101576573563357"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1354545024046821376",
+              "start": 0,
+              "username": "KURANAGA0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039101576573563357",
+        "in_reply_to_user_id": "1354545024046821376",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038979557710332100",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KURANAGA0 常用的抗抑郁药"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1354545024046821376",
+        "conversation_id": "2038729602387063197",
+        "created_at": "2026-03-31T13:59:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T14:59:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038979557710332100"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1343151486432399360",
+              "start": 0,
+              "username": "StarryNocts"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038979557710332100",
+        "in_reply_to_user_id": "1343151486432399360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038729602387063197",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StarryNocts 因为没听过后者🥲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "07｜mtx🏳️‍⚧️｜无糖｜死肥宅｜焦虑中｜健全b｜社会学｜致歉一切｜备用:@StarryNoct 小号:@WindyLuster\n对不起大家 无人在意 记录生活 凭感觉回fo（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 39,
+                "username": "StarryNoct"
+              },
+              {
+                "end": 66,
+                "start": 54,
+                "username": "WindyLuster"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "location": "摸鱼中…",
+        "name": "​碎星波波🏳️‍⚧️",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032817226680774656/ga377Pls_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 227,
+          "following_count": 170,
+          "like_count": 1091,
+          "listed_count": 0,
+          "media_count": 107,
+          "tweet_count": 2041
+        },
+        "username": "StarryNocts",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-27T21:41:25.000Z",
+        "description": "我是小男女孩/坐标冀 任何地方的线下我都想接然后换钱穿好看的衣服/🥺皮下176cm63kg/互fo🥺和我做好朋友吧🥺如果你愿意给我爆点金币的话也太谢谢你了🥺",
+        "id": "1354545024046821376",
+        "location": "回血阵",
+        "name": "三原怜🍥",
+        "pinned_tweet_id": "2033772658744300023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006116554845671424/Ni1Sr3p3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1799,
+          "following_count": 710,
+          "like_count": 7299,
+          "listed_count": 3,
+          "media_count": 1048,
+          "tweet_count": 8197
+        },
+        "username": "KURANAGA0",
+        "verified": false
+      }
+    ]
+  }
+}

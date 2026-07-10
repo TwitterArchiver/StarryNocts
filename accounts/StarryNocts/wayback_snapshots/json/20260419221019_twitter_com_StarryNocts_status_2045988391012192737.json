@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2045353209922019652",
+    "created_at": "2026-04-19T22:10:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T23:10:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045988391012192737"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1880312489008939008",
+          "start": 0,
+          "username": "SepTUNE__6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045988391012192737",
+    "in_reply_to_user_id": "1880312489008939008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045886872111755586",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SepTUNE__6 1+1还不错 但是来来回回就是那几样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2045353209922019652",
+        "created_at": "2026-04-19T22:10:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T23:10:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045988391012192737"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1880312489008939008",
+              "start": 0,
+              "username": "SepTUNE__6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045988391012192737",
+        "in_reply_to_user_id": "1880312489008939008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045886872111755586",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SepTUNE__6 1+1还不错 但是来来回回就是那几样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880312489008939008",
+        "conversation_id": "2045353209922019652",
+        "created_at": "2026-04-19T15:26:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T16:26:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045886872111755586"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1343151486432399360",
+              "start": 0,
+              "username": "StarryNocts"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045886872111755586",
+        "in_reply_to_user_id": "1343151486432399360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045353209922019652",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StarryNocts 天天吃1+1，突然感觉挺愧疚的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "07｜MTX🏳️‍⚧️｜无糖｜皮下男｜死肥宅｜社会学｜焦虑中｜备用:@StarryNoct 小号:@WindyLuster\n对不起对不起对不起我的错 无人在意 凭感觉回fo（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 34,
+                "username": "StarryNoct"
+              },
+              {
+                "end": 61,
+                "start": 49,
+                "username": "WindyLuster"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星波波✨",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032817226680774656/ga377Pls_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 419,
+          "following_count": 286,
+          "like_count": 3020,
+          "listed_count": 0,
+          "media_count": 153,
+          "tweet_count": 4236
+        },
+        "username": "StarryNocts",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-17T17:53:43.000Z",
+        "description": "学生/不善言辞/友善/ヒトリエ狂热粉丝",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/septune__61",
+                "end": 23,
+                "expanded_url": "https://ngl.link/septune__61",
+                "start": 0,
+                "url": "https://t.co/U2ScjriABa"
+              }
+            ]
+          }
+        },
+        "id": "1880312489008939008",
+        "location": "永远都在 ",
+        "name": "Seppppppp",
+        "pinned_tweet_id": "1944894651967951350",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880325782175924224/yJXPBuEq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 426,
+          "like_count": 15421,
+          "listed_count": 1,
+          "media_count": 41,
+          "tweet_count": 1477
+        },
+        "url": "https://t.co/U2ScjriABa",
+        "username": "SepTUNE__6",
+        "verified": false
+      }
+    ]
+  }
+}

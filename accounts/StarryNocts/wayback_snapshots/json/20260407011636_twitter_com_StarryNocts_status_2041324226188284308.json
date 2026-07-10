@@ -1,0 +1,374 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10041367948",
+          "name": "Xiaomi"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10041367948",
+          "name": "Xiaomi"
+        }
+      }
+    ],
+    "conversation_id": "2041322279184039991",
+    "created_at": "2026-04-07T01:16:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T02:16:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041324226188284308"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1759787246587379712",
+          "start": 0,
+          "username": "RainBuild_2025"
+        },
+        {
+          "end": 28,
+          "id": "1174608876173316096",
+          "start": 16,
+          "username": "XiaomiJapan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041324226188284308",
+    "in_reply_to_user_id": "1759787246587379712",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041322279184039991",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RainBuild_2025 @XiaomiJapan 好诶！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2041322276109574144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFQ7y3OaYAAFFk4.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10041367948",
+              "name": "Xiaomi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10041367948",
+              "name": "Xiaomi"
+            }
+          }
+        ],
+        "conversation_id": "2041322279184039991",
+        "created_at": "2026-04-07T01:16:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T02:16:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041324226188284308"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1759787246587379712",
+              "start": 0,
+              "username": "RainBuild_2025"
+            },
+            {
+              "end": 28,
+              "id": "1174608876173316096",
+              "start": 16,
+              "username": "XiaomiJapan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041324226188284308",
+        "in_reply_to_user_id": "1759787246587379712",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041322279184039991",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RainBuild_2025 @XiaomiJapan 好诶！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041322276109574144"
+          ]
+        },
+        "author_id": "1759787246587379712",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2041322279184039991",
+        "created_at": "2026-04-07T01:08:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T02:08:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041322279184039991"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vKVCEOT6z8",
+              "end": 127,
+              "expanded_url": "https://x.com/RainBuild_2025/status/2041322279184039991/photo/1",
+              "media_key": "3_2041322276109574144",
+              "start": 104,
+              "url": "https://t.co/vKVCEOT6z8"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "c999e6a453e9ef72"
+        },
+        "id": "2041322279184039991",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "K90 Max 游戏性能旗舰，本月登场！\n\n这是 REDMI K 系列第一款 Max\n搭载小米手机首款风冷主动散热方案\n新一代双芯性能魔王，游戏体验新突破\n为硬核玩家的最终向往而生\n为游戏体验的不断进化而战 https://t.co/vKVCEOT6z8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "大傻福｜蝈蝻｜备用:@StarryNoct 小号:@WindyLuster\n对不起对不起对不起我的错 无人在意 凭感觉回fo（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 10,
+                "username": "StarryNoct"
+              },
+              {
+                "end": 37,
+                "start": 25,
+                "username": "WindyLuster"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星波波✨（傻福版）",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032817226680774656/ga377Pls_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 281,
+          "following_count": 228,
+          "like_count": 1823,
+          "listed_count": 0,
+          "media_count": 126,
+          "tweet_count": 2852
+        },
+        "username": "StarryNocts",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-20T03:49:18.000Z",
+        "description": "English/日本語/简繁中文 \nChina Xiaomi Promoter UTC+8｜专注次元联合创始人、产品经理、中国区市场部总经理｜RainEngine 团队产品 UI 体验官｜平行世界另一个我@RainBuild_2024",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 102,
+                "username": "RainBuild_2024"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mi.com",
+                "end": 23,
+                "expanded_url": "http://mi.com",
+                "start": 0,
+                "url": "https://t.co/8NnopKeAgF"
+              }
+            ]
+          }
+        },
+        "id": "1759787246587379712",
+        "location": "The United Kingdom",
+        "name": "高坂穗嘉图",
+        "pinned_tweet_id": "2038399801893794249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034672368472432640/-AarshaI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1242,
+          "following_count": 1202,
+          "like_count": 1702,
+          "listed_count": 5,
+          "media_count": 260,
+          "tweet_count": 1003
+        },
+        "url": "https://t.co/8NnopKeAgF",
+        "username": "RainBuild_2025",
+        "verified": true
+      },
+      {
+        "created_at": "2019-09-19T08:59:23.000Z",
+        "description": "Xiaomiは「 #シャオミ 」と読みます。\nフォローすればあなたもMiFanです。\n📱世界第3位のスマートフォンブランド \n🌐#Global500 リストの最年少企業\n*製品のお問い合わせやDMには基本回答できません。\nサポートページをご確認ください。\nhttps://t.co/RuIEYMDlUI",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 14,
+                "start": 9,
+                "tag": "シャオミ"
+              },
+              {
+                "end": 74,
+                "start": 64,
+                "tag": "Global500"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "mi.com/jp/support/",
+                "end": 151,
+                "expanded_url": "https://www.mi.com/jp/support/",
+                "start": 128,
+                "url": "https://t.co/RuIEYMDlUI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "s.mi.com/5N07w0FF",
+                "end": 23,
+                "expanded_url": "http://s.mi.com/5N07w0FF",
+                "start": 0,
+                "url": "https://t.co/NyuEypTUjR"
+              }
+            ]
+          }
+        },
+        "id": "1174608876173316096",
+        "name": "Xiaomi Japan",
+        "pinned_tweet_id": "2040987913497063518",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1384414823786573830/PTlnxp9c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 199309,
+          "following_count": 78,
+          "like_count": 7316,
+          "listed_count": 655,
+          "media_count": 2780,
+          "tweet_count": 9477
+        },
+        "url": "https://t.co/NyuEypTUjR",
+        "username": "XiaomiJapan",
+        "verified": true
+      }
+    ]
+  }
+}
