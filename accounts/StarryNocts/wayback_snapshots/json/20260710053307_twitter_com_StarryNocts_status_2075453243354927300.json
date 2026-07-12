@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2075147492900135342",
+    "created_at": "2026-07-10T05:33:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T06:33:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075453243354927300"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "919628976208752640",
+          "start": 0,
+          "username": "BaitangToubao"
+        },
+        {
+          "end": 30,
+          "id": "69165914",
+          "start": 15,
+          "username": "Leaf_Fallfield"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075453243354927300",
+    "in_reply_to_user_id": "919628976208752640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075147492900135342",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BaitangToubao @Leaf_Fallfield 下周来找我玩嘛…不然我就要放暑假了…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2868,
+        "media_key": "3_2075147484222083072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMxnpG2aUAA4tcH.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2075147492900135342",
+        "created_at": "2026-07-10T05:33:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T06:33:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075453243354927300"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "919628976208752640",
+              "start": 0,
+              "username": "BaitangToubao"
+            },
+            {
+              "end": 30,
+              "id": "69165914",
+              "start": 15,
+              "username": "Leaf_Fallfield"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075453243354927300",
+        "in_reply_to_user_id": "919628976208752640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075147492900135342",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BaitangToubao @Leaf_Fallfield 下周来找我玩嘛…不然我就要放暑假了…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075147484222083072"
+          ]
+        },
+        "author_id": "919628976208752640",
+        "conversation_id": "2075147492900135342",
+        "created_at": "2026-07-09T09:18:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T10:18:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075147492900135342"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 24,
+              "id": "69165914",
+              "start": 9,
+              "username": "Leaf_Fallfield"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GPzpiUlqXk",
+              "end": 48,
+              "expanded_url": "https://x.com/BaitangToubao/status/2075147492900135342/photo/1",
+              "media_key": "3_2075147484222083072",
+              "start": 25,
+              "url": "https://t.co/GPzpiUlqXk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075147492900135342",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 117,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "自己说吧，想怎么死@Leaf_Fallfield https://t.co/GPzpiUlqXk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "🏳‍⚧｜备用:@StarryNoct ｜老公:@chinyu_ouo \n对不起对不起对不起我的错 无人在意 互fo请私信（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 7,
+                "username": "StarryNoct"
+              },
+              {
+                "end": 34,
+                "start": 23,
+                "username": "chinyu_ouo"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星✨",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073578724868636673/mdHJZ7GA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1541,
+          "following_count": 813,
+          "like_count": 4084,
+          "listed_count": 4,
+          "media_count": 258,
+          "tweet_count": 8430
+        },
+        "url": "",
+        "username": "StarryNocts",
+        "verified": true
+      },
+      {
+        "created_at": "2017-10-15T18:20:08.000Z",
+        "description": "AuDHD/BPD积极治疗｜瑾瑾@K66cheng｜给你加什么title？@Leaf_Fallfield｜本人无任何宗教信仰，仅分享日常生活，不相信任何政治谣言",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 16,
+                "username": "K66cheng"
+              },
+              {
+                "end": 52,
+                "start": 37,
+                "username": "Leaf_Fallfield"
+              }
+            ]
+          }
+        },
+        "id": "919628976208752640",
+        "location": "Beijing",
+        "name": "白糖豆包",
+        "pinned_tweet_id": "2016739048262672787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028994061185728512/oDlbqhBI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 942,
+          "following_count": 646,
+          "like_count": 36719,
+          "listed_count": 3,
+          "media_count": 722,
+          "tweet_count": 8680
+        },
+        "url": "",
+        "username": "BaitangToubao",
+        "verified": true
+      },
+      {
+        "created_at": "2009-08-27T01:47:30.000Z",
+        "description": "",
+        "id": "69165914",
+        "name": "叶子🍃",
+        "pinned_tweet_id": "1598564782402981888",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005115150530232320/BzX1DlXz_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 8560,
+          "following_count": 2901,
+          "like_count": 23035,
+          "listed_count": 23,
+          "media_count": 1104,
+          "tweet_count": 11426
+        },
+        "url": "",
+        "username": "Leaf_Fallfield",
+        "verified": false
+      }
+    ]
+  }
+}

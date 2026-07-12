@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2074975239747097027",
+    "created_at": "2026-07-09T08:55:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T09:55:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075141799447064775"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1943561677762646016",
+          "start": 0,
+          "username": "qusuunmd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075141799447064775",
+    "in_reply_to_user_id": "1943561677762646016",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074975239747097027",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qusuunmd 好诶！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2074975239747097027",
+        "created_at": "2026-07-09T08:55:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T09:55:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075141799447064775"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1943561677762646016",
+              "start": 0,
+              "username": "qusuunmd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075141799447064775",
+        "in_reply_to_user_id": "1943561677762646016",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074975239747097027",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qusuunmd 好诶！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943561677762646016",
+        "conversation_id": "2074975239747097027",
+        "created_at": "2026-07-08T21:53:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T22:53:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074975239747097027"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074975239747097027",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 159,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "期末考完喽 偷拿手机（）11号大抵会出女装嘻嘻"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "🏳‍⚧｜备用:@StarryNoct ｜老公:@chinyu_ouo \n对不起对不起对不起我的错 无人在意 互fo请私信（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 7,
+                "username": "StarryNoct"
+              },
+              {
+                "end": 34,
+                "start": 23,
+                "username": "chinyu_ouo"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星✨",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073578724868636673/mdHJZ7GA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1536,
+          "following_count": 809,
+          "like_count": 4083,
+          "listed_count": 4,
+          "media_count": 257,
+          "tweet_count": 8417
+        },
+        "url": "",
+        "username": "StarryNocts",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-11T06:44:29.000Z",
+        "description": "2010年的xyn/167cm 57.5kg（www我要减肥）/hrt🍥时间:2025.8.15/无证含糖🍥/高一牲/有点缺爱/想要贴贴/同类互fo喵/常住于青岛喵/过年会回泉州/穷穷穷 想要钱钱/不抽烟不喝酒不od不割手/不圆角谢谢 勿扰/摄影📹（Canom r8）（偶尔飞飞老的不行的air3）/偶尔玩玩cos",
+        "id": "1943561677762646016",
+        "location": "Hachinohe-shi, Aomori",
+        "name": "曲速 u🍥",
+        "pinned_tweet_id": "2051304340376461441",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025830754715090944/KciDNY7c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 772,
+          "following_count": 413,
+          "like_count": 2735,
+          "listed_count": 1,
+          "media_count": 74,
+          "tweet_count": 1093
+        },
+        "url": "",
+        "username": "qusuunmd",
+        "verified": false
+      }
+    ]
+  }
+}

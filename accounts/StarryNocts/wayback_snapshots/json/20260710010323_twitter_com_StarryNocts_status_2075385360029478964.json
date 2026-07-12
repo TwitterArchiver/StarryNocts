@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2075361383722664186",
+    "created_at": "2026-07-10T01:03:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T02:03:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075385360029478964"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1982449259774656512",
+          "start": 0,
+          "username": "smiroyama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075385360029478964",
+    "in_reply_to_user_id": "1982449259774656512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075361383722664186",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@smiroyama 啊对的对的 啊不对不对"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2075361383722664186",
+        "created_at": "2026-07-10T01:03:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T02:03:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075385360029478964"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1982449259774656512",
+              "start": 0,
+              "username": "smiroyama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075385360029478964",
+        "in_reply_to_user_id": "1982449259774656512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075361383722664186",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@smiroyama 啊对的对的 啊不对不对"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1982449259774656512",
+        "conversation_id": "2075361383722664186",
+        "created_at": "2026-07-09T23:28:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T00:28:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075361383722664186"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075361383722664186",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 468,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "绿色杯子千寻酱已获得此账号近期代理权🥵\n\n原号主类似的内容近期不会继续发出🥹\n\n澄清一下，此次交换并非盗号或者威胁😝\n\n喜欢原推作者的内容可以继续关注此账号🥱\n\n接下来的一些日子我就要发我的生活喵\n\n女装啊外面吃饭啊什么的😝"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "🏳‍⚧｜备用:@StarryNoct ｜老公:@chinyu_ouo \n对不起对不起对不起我的错 无人在意 互fo请私信（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 7,
+                "username": "StarryNoct"
+              },
+              {
+                "end": 34,
+                "start": 23,
+                "username": "chinyu_ouo"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星✨",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073578724868636673/mdHJZ7GA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1535,
+          "following_count": 809,
+          "like_count": 4084,
+          "listed_count": 4,
+          "media_count": 258,
+          "tweet_count": 8426
+        },
+        "url": "",
+        "username": "StarryNocts",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-26T14:08:58.000Z",
+        "description": "活力大湾区 魅力新加州\nQ群667335570 | tg在主页网站\n小号：@yansuichan | 闺蜜:@smiroyama\n\n生产年份:2007 | 180cm 60kg | female 🏳️‍⚧️\n爱好:闲逛 彩六 女装 Wargame\n常驻:南加州 | 老家:广东江门\n专业:电气工程",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 37,
+                "username": "yansuichan"
+              },
+              {
+                "end": 64,
+                "start": 54,
+                "username": "smiroyama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mizukiakiyama.com",
+                "end": 23,
+                "expanded_url": "http://mizukiakiyama.com",
+                "start": 0,
+                "url": "https://t.co/sUaEsETqiX"
+              }
+            ]
+          }
+        },
+        "id": "1982449259774656512",
+        "location": "Los Angeles, CA",
+        "name": "绿色杯子千寻酱😦😨😰🥵🫪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075359239284117504/FUSiyyKD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7033,
+          "following_count": 2538,
+          "like_count": 13584,
+          "listed_count": 21,
+          "media_count": 2306,
+          "tweet_count": 8424
+        },
+        "url": "https://t.co/sUaEsETqiX",
+        "username": "smiroyama",
+        "verified": true
+      }
+    ]
+  }
+}
