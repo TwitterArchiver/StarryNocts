@@ -1,7 +1,7 @@
 {
   "name": "​碎星✨",
   "username": "@StarryNocts",
-  "bio": "🏳‍⚧｜备用:@StarryNoct ｜老公:@chinyu_ouo 对不起对不起对不起我的错 无人在意 互fo请私信（",
+  "bio": "🏳‍⚧｜备用:@StarryNoct ｜老公:@chinyu_ouo \n对不起对不起对不起我的错 无人在意 互fo请私信（",
   "location": "",
   "link": "",
   "avatar": "avatar/avatar.jpg",
@@ -10,10 +10,16 @@
   "bio_entities": {
     "mentions": [
       {
-        "end": 63,
-        "start": 51,
-        "username": "WindyLuster"
+        "end": 18,
+        "start": 7,
+        "username": "StarryNoct"
+      },
+      {
+        "end": 34,
+        "start": 23,
+        "username": "chinyu_ouo"
       }
     ]
-  }
+  },
+  "_avatar_source": "https://pbs.twimg.com/profile_images/2073578724868636673/mdHJZ7GA_normal.jpg"
 }
