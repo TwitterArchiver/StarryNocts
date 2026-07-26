@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2080516074601386166",
+    "created_at": "2026-07-25T09:12:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T10:12:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080944155313033588"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1653253600766988288",
+          "start": 0,
+          "username": "lty010422ld"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080944155313033588",
+    "in_reply_to_user_id": "1653253600766988288",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080938114131087536",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lty010422ld 嗯嗯"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2080516074601386166",
+        "created_at": "2026-07-25T09:12:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T10:12:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080944155313033588"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1653253600766988288",
+              "start": 0,
+              "username": "lty010422ld"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080944155313033588",
+        "in_reply_to_user_id": "1653253600766988288",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080938114131087536",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lty010422ld 嗯嗯"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1653253600766988288",
+        "conversation_id": "2080516074601386166",
+        "created_at": "2026-07-25T08:48:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T09:48:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080938114131087536"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1343151486432399360",
+              "start": 0,
+              "username": "StarryNocts"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080938114131087536",
+        "in_reply_to_user_id": "1343151486432399360",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080516074601386166",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StarryNocts 雪莉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "🏳‍⚧｜备用:@StarryNoct ｜老公:@chinyu_ouo \n对不起对不起对不起我的错 无人在意 互fo请私信（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 7,
+                "username": "StarryNoct"
+              },
+              {
+                "end": 34,
+                "start": 23,
+                "username": "chinyu_ouo"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星✨",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073578724868636673/mdHJZ7GA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1544,
+          "following_count": 833,
+          "like_count": 4084,
+          "listed_count": 4,
+          "media_count": 269,
+          "tweet_count": 8710
+        },
+        "url": "",
+        "username": "StarryNocts",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-02T04:22:47.000Z",
+        "description": "只是个爱穿裙子的小男娘而已～170/57 卡哇伊外表下藏着一点点小色色的心思♡ 想看我今天穿什么？来私信告诉我你最想看的吧…😘🎀",
+        "id": "1653253600766988288",
+        "location": "HK",
+        "name": "柒柒🫧",
+        "pinned_tweet_id": "2074007170778296384",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822581945555140608/wxjQ2H8K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 601,
+          "following_count": 765,
+          "like_count": 470,
+          "listed_count": 2,
+          "media_count": 138,
+          "tweet_count": 1015
+        },
+        "url": "",
+        "username": "lty010422ld",
+        "verified": false
+      }
+    ]
+  }
+}

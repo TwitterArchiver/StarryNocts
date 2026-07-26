@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2079867634909384776",
+    "created_at": "2026-07-22T12:40:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T13:40:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079909560509481402"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "919628976208752640",
+          "start": 0,
+          "username": "BaitangToubao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079909560509481402",
+    "in_reply_to_user_id": "919628976208752640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079867634909384776",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BaitangToubao 贵贵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2868,
+        "media_key": "3_2079867602118324225",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN0skIQbMAEdSJe.jpg",
+        "width": 1320
+      },
+      {
+        "height": 4032,
+        "media_key": "3_2079867602135109632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN0skIUbUAA30T-.jpg",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "media_key": "3_2079867602168688640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN0skIcbsAArlKi.jpg",
+        "width": 3024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2079867634909384776",
+        "created_at": "2026-07-22T12:40:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T13:40:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079909560509481402"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "919628976208752640",
+              "start": 0,
+              "username": "BaitangToubao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079909560509481402",
+        "in_reply_to_user_id": "919628976208752640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079867634909384776",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BaitangToubao 贵贵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079867602118324225",
+            "3_2079867602135109632",
+            "3_2079867602168688640"
+          ]
+        },
+        "author_id": "919628976208752640",
+        "conversation_id": "2079867634909384776",
+        "created_at": "2026-07-22T09:54:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T10:54:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079867634909384776"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fa3o8Di8hf",
+              "end": 28,
+              "expanded_url": "https://x.com/BaitangToubao/status/2079867634909384776/photo/1",
+              "media_key": "3_2079867602118324225",
+              "start": 5,
+              "url": "https://t.co/fa3o8Di8hf"
+            },
+            {
+              "display_url": "pic.x.com/fa3o8Di8hf",
+              "end": 28,
+              "expanded_url": "https://x.com/BaitangToubao/status/2079867634909384776/photo/1",
+              "media_key": "3_2079867602135109632",
+              "start": 5,
+              "url": "https://t.co/fa3o8Di8hf"
+            },
+            {
+              "display_url": "pic.x.com/fa3o8Di8hf",
+              "end": 28,
+              "expanded_url": "https://x.com/BaitangToubao/status/2079867634909384776/photo/1",
+              "media_key": "3_2079867602168688640",
+              "start": 5,
+              "url": "https://t.co/fa3o8Di8hf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079867634909384776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 54,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "以换代修 https://t.co/fa3o8Di8hf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "🏳‍⚧｜备用:@StarryNoct ｜老公:@chinyu_ouo \n对不起对不起对不起我的错 无人在意 互fo请私信（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 7,
+                "username": "StarryNoct"
+              },
+              {
+                "end": 34,
+                "start": 23,
+                "username": "chinyu_ouo"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星✨",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073578724868636673/mdHJZ7GA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1537,
+          "following_count": 821,
+          "like_count": 4081,
+          "listed_count": 4,
+          "media_count": 266,
+          "tweet_count": 8624
+        },
+        "url": "",
+        "username": "StarryNocts",
+        "verified": true
+      },
+      {
+        "created_at": "2017-10-15T18:20:08.000Z",
+        "description": "AuDHD/BPD积极治疗｜瑾瑾@K66cheng｜暖男、良人、正人君子@Leaf_Fallfield｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 16,
+                "username": "K66cheng"
+              },
+              {
+                "end": 51,
+                "start": 36,
+                "username": "Leaf_Fallfield"
+              }
+            ]
+          }
+        },
+        "id": "919628976208752640",
+        "location": "Beijing",
+        "name": "白糖豆包🏳️‍⚧️",
+        "pinned_tweet_id": "2079441340015005831",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028994061185728512/oDlbqhBI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 949,
+          "following_count": 661,
+          "like_count": 36888,
+          "listed_count": 3,
+          "media_count": 731,
+          "tweet_count": 8710
+        },
+        "url": "",
+        "username": "BaitangToubao",
+        "verified": true
+      }
+    ]
+  }
+}

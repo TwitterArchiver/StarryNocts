@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2077957584695574920",
+    "created_at": "2026-07-17T05:37:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T06:37:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077991076733035003"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1900202897738252288",
+          "start": 0,
+          "username": "HGangmakot97631"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077991076733035003",
+    "in_reply_to_user_id": "1900202897738252288",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077957584695574920",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HGangmakot97631 揉揉揉揉"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2077957582317326337",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNZjaWBakAEETa3.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2077957584695574920",
+        "created_at": "2026-07-17T05:37:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T06:37:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077991076733035003"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1900202897738252288",
+              "start": 0,
+              "username": "HGangmakot97631"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077991076733035003",
+        "in_reply_to_user_id": "1900202897738252288",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077957584695574920",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HGangmakot97631 揉揉揉揉"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077957582317326337"
+          ]
+        },
+        "author_id": "1900202897738252288",
+        "conversation_id": "2077957584695574920",
+        "created_at": "2026-07-17T03:24:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T04:24:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077957584695574920"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/b0Z5CEFHsH",
+              "end": 40,
+              "expanded_url": "https://x.com/HGangmakot97631/status/2077957584695574920/photo/1",
+              "media_key": "3_2077957582317326337",
+              "start": 17,
+              "url": "https://t.co/b0Z5CEFHsH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077957584695574920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 501,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "腰上那块淋巴肉该怎么减掉啊😭😭😭 https://t.co/b0Z5CEFHsH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "🏳‍⚧｜备用:@StarryNoct ｜老公:@chinyu_ouo \n对不起对不起对不起我的错 无人在意 互fo请私信（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 7,
+                "username": "StarryNoct"
+              },
+              {
+                "end": 34,
+                "start": 23,
+                "username": "chinyu_ouo"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星✨",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073578724868636673/mdHJZ7GA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1533,
+          "following_count": 813,
+          "like_count": 4080,
+          "listed_count": 4,
+          "media_count": 264,
+          "tweet_count": 8514
+        },
+        "url": "",
+        "username": "StarryNocts",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-13T15:11:59.000Z",
+        "description": "Lost Soul Journey\n/🏳️‍⚧️MTFtx/HRT始于  2025.10.06/止于2025.10.31\n/深柜？出柜？炸柜？一种奇妙的量子叠加态/嫉妒所有比我好看的女孩子",
+        "id": "1900202897738252288",
+        "location": "湖北荆门下属某个地方",
+        "name": "困困小桐💤",
+        "pinned_tweet_id": "2051575598674550798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051573340666753024/8RKC7yiP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 408,
+          "following_count": 624,
+          "like_count": 9405,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 1522
+        },
+        "url": "",
+        "username": "HGangmakot97631",
+        "verified": false
+      }
+    ]
+  }
+}

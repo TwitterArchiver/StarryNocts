@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2080787416814960822",
+    "created_at": "2026-07-24T23:30:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T00:30:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080797858606006721"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1868438397083410432",
+          "start": 0,
+          "username": "2020520Rei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080797858606006721",
+    "in_reply_to_user_id": "1868438397083410432",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080787416814960822",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@2020520Rei 昨天"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2080787416814960822",
+        "created_at": "2026-07-24T23:30:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T00:30:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080797858606006721"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1868438397083410432",
+              "start": 0,
+              "username": "2020520Rei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080797858606006721",
+        "in_reply_to_user_id": "1868438397083410432",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080787416814960822",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2020520Rei 昨天"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868438397083410432",
+        "conversation_id": "2080787416814960822",
+        "created_at": "2026-07-24T22:49:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T23:49:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080787416814960822"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080787416814960822",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "早上好，各位，谁还记得上次打胶是什么时候🤔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "🏳‍⚧｜备用:@StarryNoct ｜老公:@chinyu_ouo \n对不起对不起对不起我的错 无人在意 互fo请私信（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 7,
+                "username": "StarryNoct"
+              },
+              {
+                "end": 34,
+                "start": 23,
+                "username": "chinyu_ouo"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星✨",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073578724868636673/mdHJZ7GA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1541,
+          "following_count": 830,
+          "like_count": 4084,
+          "listed_count": 4,
+          "media_count": 269,
+          "tweet_count": 8680
+        },
+        "url": "",
+        "username": "StarryNocts",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-15T23:30:20.000Z",
+        "description": "账号重生×3 | 重度抑郁 | 有认知障碍 |体弱多病 | MTF🏳️‍⚧️ | 💊似乎又开始了 | 只想做好自己 |  人美心善😘～| 163cm  45kg（小小只）              \n*我的互fo死了msk你赔我",
+        "id": "1868438397083410432",
+        "location": "0km",
+        "name": "Rei零酱🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2079454346442682636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075610198694297600/MUVZKOFF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 422,
+          "following_count": 223,
+          "like_count": 1802,
+          "listed_count": 1,
+          "media_count": 19,
+          "tweet_count": 814
+        },
+        "url": "",
+        "username": "2020520Rei",
+        "verified": true
+      }
+    ]
+  }
+}

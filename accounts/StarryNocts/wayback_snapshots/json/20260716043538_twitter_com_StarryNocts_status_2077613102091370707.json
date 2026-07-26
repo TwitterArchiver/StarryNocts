@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2077599322842251567",
+    "created_at": "2026-07-16T04:35:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T05:35:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077613102091370707"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1633715238322466817",
+          "start": 0,
+          "username": "plumedream233"
+        },
+        {
+          "end": 26,
+          "id": "1976995735532138496",
+          "start": 15,
+          "username": "JanboMikan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077613102091370707",
+    "in_reply_to_user_id": "1633715238322466817",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077599322842251567",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@plumedream233 @JanboMikan 羡慕"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2077599312507527168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNUdkS-bYAALv6Q.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2077599322842251567",
+        "created_at": "2026-07-16T04:35:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T05:35:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077613102091370707"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1633715238322466817",
+              "start": 0,
+              "username": "plumedream233"
+            },
+            {
+              "end": 26,
+              "id": "1976995735532138496",
+              "start": 15,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077613102091370707",
+        "in_reply_to_user_id": "1633715238322466817",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077599322842251567",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@plumedream233 @JanboMikan 羡慕"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077599312507527168"
+          ]
+        },
+        "author_id": "1633715238322466817",
+        "conversation_id": "2077599322842251567",
+        "created_at": "2026-07-16T03:40:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T04:40:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077599322842251567"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 17,
+              "start": 10,
+              "tag": "可爱的男孩子"
+            },
+            {
+              "end": 21,
+              "start": 18,
+              "tag": "男娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nQ3MVhCvaH",
+              "end": 45,
+              "expanded_url": "https://x.com/plumedream233/status/2077599322842251567/photo/1",
+              "media_key": "3_2077599312507527168",
+              "start": 22,
+              "url": "https://t.co/nQ3MVhCvaH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077599322842251567",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 293,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小萝莉搂住美少女~ #可爱的男孩子 #男娘 https://t.co/nQ3MVhCvaH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "🏳‍⚧｜备用:@StarryNoct ｜老公:@chinyu_ouo \n对不起对不起对不起我的错 无人在意 互fo请私信（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 7,
+                "username": "StarryNoct"
+              },
+              {
+                "end": 34,
+                "start": 23,
+                "username": "chinyu_ouo"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星✨",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073578724868636673/mdHJZ7GA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1537,
+          "following_count": 812,
+          "like_count": 4080,
+          "listed_count": 4,
+          "media_count": 264,
+          "tweet_count": 8506
+        },
+        "url": "",
+        "username": "StarryNocts",
+        "verified": true
+      },
+      {
+        "created_at": "2023-03-09T06:24:16.000Z",
+        "description": "阴郁压抑的笨蛋...20岁/身高160体重50/性格混乱/性别mtf/性取向是喜欢可爱的xnn和xyn/清水/持大证含糖/圈子不混只看戏的边缘独行者/中专毕业计算机自学编程笨蛋程序员一位。(扩列直接私聊我就可以了) 不喜欢随便玩抽象和来着不善的家伙靠近我,不是黄推。精神抑郁严重，精神失常的疯子。没有任何立场不站队",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+ZypVzDRP-H4xM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+ZypVzDRP-H4xMTA1",
+                "start": 0,
+                "url": "https://t.co/T7IWsxdw5M"
+              }
+            ]
+          }
+        },
+        "id": "1633715238322466817",
+        "location": "终点之路—一切的起与终",
+        "name": "羽梦🍥🏳️‍⚧️️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063617540631490560/tNcx1JqF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4418,
+          "following_count": 749,
+          "like_count": 11418,
+          "listed_count": 8,
+          "media_count": 775,
+          "tweet_count": 7398
+        },
+        "url": "https://t.co/T7IWsxdw5M",
+        "username": "plumedream233",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "深圳(全广随机出现)/珠海/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075454514812047362/ieswTjrr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15470,
+          "following_count": 599,
+          "like_count": 21075,
+          "listed_count": 52,
+          "media_count": 358,
+          "tweet_count": 11151
+        },
+        "url": "",
+        "username": "JanboMikan",
+        "verified": true
+      }
+    ]
+  }
+}

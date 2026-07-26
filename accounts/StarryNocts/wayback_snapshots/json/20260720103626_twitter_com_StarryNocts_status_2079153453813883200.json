@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2079123688298062166",
+    "created_at": "2026-07-20T10:36:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T11:36:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079153453813883200"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1153430387504373764",
+          "start": 0,
+          "username": "xiangcai_nya"
+        },
+        {
+          "end": 26,
+          "id": "1320354023451496450",
+          "start": 14,
+          "username": "OuO02213882"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079153453813883200",
+    "in_reply_to_user_id": "1153430387504373764",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079153063504588932",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiangcai_nya @OuO02213882 我也是…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2079123688298062166",
+        "created_at": "2026-07-20T10:36:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T11:36:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079153453813883200"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1153430387504373764",
+              "start": 0,
+              "username": "xiangcai_nya"
+            },
+            {
+              "end": 26,
+              "id": "1320354023451496450",
+              "start": 14,
+              "username": "OuO02213882"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079153453813883200",
+        "in_reply_to_user_id": "1153430387504373764",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079153063504588932",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiangcai_nya @OuO02213882 我也是…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1153430387504373764",
+        "conversation_id": "2079123688298062166",
+        "created_at": "2026-07-20T10:34:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T11:34:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079153063504588932"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1320354023451496450",
+              "start": 0,
+              "username": "OuO02213882"
+            },
+            {
+              "end": 25,
+              "id": "1343151486432399360",
+              "start": 13,
+              "username": "StarryNocts"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079153063504588932",
+        "in_reply_to_user_id": "1320354023451496450",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079149467513876854",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OuO02213882 @StarryNocts 都怪他们搞的我也是傻逼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "🏳‍⚧｜备用:@StarryNoct ｜老公:@chinyu_ouo \n对不起对不起对不起我的错 无人在意 互fo请私信（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 7,
+                "username": "StarryNoct"
+              },
+              {
+                "end": 34,
+                "start": 23,
+                "username": "chinyu_ouo"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星✨",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073578724868636673/mdHJZ7GA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1536,
+          "following_count": 818,
+          "like_count": 4080,
+          "listed_count": 4,
+          "media_count": 266,
+          "tweet_count": 8591
+        },
+        "url": "",
+        "username": "StarryNocts",
+        "verified": true
+      },
+      {
+        "created_at": "2019-07-22T22:23:28.000Z",
+        "description": "mtf→mtx(ing)\n想要互fo",
+        "id": "1153430387504373764",
+        "location": "Archangel, Russia",
+        "name": "꧁ 葱花香菜重度依赖 ꧂🍥",
+        "pinned_tweet_id": "2074084255555268761",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073611435129868288/Wr4hsJiq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 575,
+          "following_count": 380,
+          "like_count": 410,
+          "listed_count": 2,
+          "media_count": 49,
+          "tweet_count": 1072
+        },
+        "url": "",
+        "username": "xiangcai_nya",
+        "verified": true
+      },
+      {
+        "created_at": "2020-10-25T13:18:36.000Z",
+        "description": "迷戀天空/mtx(我會焦慮,他不會) /友善/矛盾/忘了很多事/兩個人格共存 (他會保護我) (為什麼我們記憶能互通？) /還在慢慢認識自己喵\n希望自己比大家先離開\n別走好嗎？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pinkcatouo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pinkcatouo",
+                "start": 0,
+                "url": "https://t.co/wDzuq3vK7f"
+              }
+            ]
+          }
+        },
+        "id": "1320354023451496450",
+        "location": "不能說喵 反正不在杭州喵",
+        "name": "粉天藍貓QxQ",
+        "pinned_tweet_id": "2079148774891606211",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057350986352734208/QXkn4_0I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1259,
+          "following_count": 2190,
+          "like_count": 48057,
+          "listed_count": 1,
+          "media_count": 212,
+          "tweet_count": 2196
+        },
+        "url": "https://t.co/wDzuq3vK7f",
+        "username": "OuO02213882",
+        "verified": true
+      }
+    ]
+  }
+}

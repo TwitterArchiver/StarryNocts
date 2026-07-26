@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2079874945434435894",
+    "created_at": "2026-07-22T12:12:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T13:12:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079902335996964958"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2024424705026117634",
+          "start": 0,
+          "username": "cavityuk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079902335996964958",
+    "in_reply_to_user_id": "2024424705026117634",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079874945434435894",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cavityuk 这个太棒了！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2079874942238384128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN0zPYVa4AA_vp3.jpg",
+        "width": 1578
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2079874945434435894",
+        "created_at": "2026-07-22T12:12:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T13:12:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079902335996964958"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2024424705026117634",
+              "start": 0,
+              "username": "cavityuk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079902335996964958",
+        "in_reply_to_user_id": "2024424705026117634",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079874945434435894",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cavityuk 这个太棒了！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079874942238384128"
+          ]
+        },
+        "author_id": "2024424705026117634",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2079874945434435894",
+        "created_at": "2026-07-22T10:23:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T11:23:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079874945434435894"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JLfaUY5cO2",
+              "end": 41,
+              "expanded_url": "https://x.com/cavityuk/status/2079874945434435894/photo/1",
+              "media_key": "3_2079874942238384128",
+              "start": 18,
+              "url": "https://t.co/JLfaUY5cO2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079874945434435894",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "昨晚 \n好吃好吃😋\n番茄肉沫盖浇面 https://t.co/JLfaUY5cO2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "🏳‍⚧｜备用:@StarryNoct ｜老公:@chinyu_ouo \n对不起对不起对不起我的错 无人在意 互fo请私信（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 7,
+                "username": "StarryNoct"
+              },
+              {
+                "end": 34,
+                "start": 23,
+                "username": "chinyu_ouo"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星✨",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073578724868636673/mdHJZ7GA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1537,
+          "following_count": 821,
+          "like_count": 4081,
+          "listed_count": 4,
+          "media_count": 266,
+          "tweet_count": 8622
+        },
+        "url": "",
+        "username": "StarryNocts",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-19T10:04:05.000Z",
+        "description": "ciallo～՞˶˃ ᵕ ˂˶՞这里是屿谙(也是cavityuk！‖素散架的高中生……‖2010.8 ♍‖ENTP🧩‖泛性恋🩷💛🩵‖🏳️‍🌈LGBTQ+友好‖找不到我就是在画画画🎨……（绝不是在学习‖💓女朋友❤️：@qusuunmd 💓‖ ⚠️我是好孩子不约不卖！不约不卖！不约不卖！不要来找我！！！！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 107,
+                "username": "qusuunmd"
+              }
+            ]
+          }
+        },
+        "id": "2024424705026117634",
+        "location": "水族馆🐟",
+        "name": "屿谙想喝氵",
+        "pinned_tweet_id": "2067197815055684015",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024424842578317313/CtJuVDll_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 189,
+          "following_count": 44,
+          "like_count": 1022,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 329
+        },
+        "url": "",
+        "username": "cavityuk",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2079052653527736514",
+    "created_at": "2026-07-20T10:15:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T11:15:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079148151530029328"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1706600551855656960",
+          "start": 0,
+          "username": "Jameswesore"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079148151530029328",
+    "in_reply_to_user_id": "1706600551855656960",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079147650751086884",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jameswesore 呜哇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2079052653527736514",
+        "created_at": "2026-07-20T10:15:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T11:15:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079148151530029328"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1706600551855656960",
+              "start": 0,
+              "username": "Jameswesore"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079148151530029328",
+        "in_reply_to_user_id": "1706600551855656960",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079147650751086884",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jameswesore 呜哇"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1706600551855656960",
+        "conversation_id": "2079052653527736514",
+        "created_at": "2026-07-20T10:13:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T11:13:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079147650751086884"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1343151486432399360",
+              "start": 0,
+              "username": "StarryNocts"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079147650751086884",
+        "in_reply_to_user_id": "1343151486432399360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079147316326617313",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StarryNocts 😋好图偷了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "🏳‍⚧｜备用:@StarryNoct ｜老公:@chinyu_ouo \n对不起对不起对不起我的错 无人在意 互fo请私信（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 7,
+                "username": "StarryNoct"
+              },
+              {
+                "end": 34,
+                "start": 23,
+                "username": "chinyu_ouo"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星✨",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073578724868636673/mdHJZ7GA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1536,
+          "following_count": 818,
+          "like_count": 4080,
+          "listed_count": 4,
+          "media_count": 266,
+          "tweet_count": 8587
+        },
+        "url": "",
+        "username": "StarryNocts",
+        "verified": true
+      },
+      {
+        "created_at": "2023-09-26T09:24:29.000Z",
+        "description": "😄终于不限了",
+        "id": "1706600551855656960",
+        "name": "サメ🦈",
+        "pinned_tweet_id": "2037834689873080420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036460154410188800/VxEcEp12_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 454,
+          "following_count": 3202,
+          "like_count": 28380,
+          "listed_count": 1,
+          "media_count": 92,
+          "tweet_count": 10732
+        },
+        "url": "",
+        "username": "Jameswesore",
+        "verified": false
+      }
+    ]
+  }
+}

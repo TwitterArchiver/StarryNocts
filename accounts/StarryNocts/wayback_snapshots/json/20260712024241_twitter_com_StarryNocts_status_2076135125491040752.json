@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2076119952499822877",
+    "created_at": "2026-07-12T02:42:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T03:42:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076135125491040752"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1565691463685795840",
+          "start": 0,
+          "username": "barutan8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076135125491040752",
+    "in_reply_to_user_id": "1565691463685795840",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076119952499822877",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@barutan8964 好诶"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2076119949593190400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM_cGCqaoAAKfTJ.jpg",
+        "width": 1166
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2076119952499822877",
+        "created_at": "2026-07-12T02:42:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T03:42:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076135125491040752"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1565691463685795840",
+              "start": 0,
+              "username": "barutan8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076135125491040752",
+        "in_reply_to_user_id": "1565691463685795840",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076119952499822877",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@barutan8964 好诶"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076119949593190400"
+          ]
+        },
+        "author_id": "1565691463685795840",
+        "conversation_id": "2076119952499822877",
+        "created_at": "2026-07-12T01:42:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T02:42:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076119952499822877"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/l7CFWn4X8P",
+              "end": 30,
+              "expanded_url": "https://x.com/barutan8964/status/2076119952499822877/photo/1",
+              "media_key": "3_2076119949593190400",
+              "start": 7,
+              "url": "https://t.co/l7CFWn4X8P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076119952499822877",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 87,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天发白白的 https://t.co/l7CFWn4X8P"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "🏳‍⚧｜备用:@StarryNoct ｜老公:@chinyu_ouo \n对不起对不起对不起我的错 无人在意 互fo请私信（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 7,
+                "username": "StarryNoct"
+              },
+              {
+                "end": 34,
+                "start": 23,
+                "username": "chinyu_ouo"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星✨",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073578724868636673/mdHJZ7GA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1540,
+          "following_count": 812,
+          "like_count": 4086,
+          "listed_count": 4,
+          "media_count": 258,
+          "tweet_count": 8468
+        },
+        "url": "",
+        "username": "StarryNocts",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-02T13:22:22.000Z",
+        "description": "骄傲月快乐喵🍥🏳️‍⚧️王烟洛连坐🙂‍↕️",
+        "id": "1565691463685795840",
+        "name": "巴尔坦🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1565691605516193792/56qrU4dH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 178,
+          "following_count": 324,
+          "like_count": 19396,
+          "listed_count": 0,
+          "media_count": 184,
+          "tweet_count": 3359
+        },
+        "url": "",
+        "username": "barutan8964",
+        "verified": true
+      }
+    ]
+  }
+}

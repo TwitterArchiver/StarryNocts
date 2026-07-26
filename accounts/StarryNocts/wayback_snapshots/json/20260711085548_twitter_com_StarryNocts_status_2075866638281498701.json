@@ -1,0 +1,436 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2075862981574025588",
+    "created_at": "2026-07-11T08:55:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T09:55:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075866638281498701"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1900168705847500800",
+          "start": 0,
+          "username": "wxb_NB"
+        },
+        {
+          "end": 17,
+          "id": "2024424705026117634",
+          "start": 8,
+          "username": "cavityuk"
+        },
+        {
+          "end": 27,
+          "id": "1943561677762646016",
+          "start": 18,
+          "username": "qusuunmd"
+        },
+        {
+          "end": 36,
+          "id": "1304953938320306176",
+          "start": 28,
+          "username": "hry_xsu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075866638281498701",
+    "in_reply_to_user_id": "1900168705847500800",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075862981574025588",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wxb_NB @cavityuk @qusuunmd @hry_xsu 羡慕！！！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1616,
+        "media_key": "3_2075862963932786688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM7yXgeacAAYDVj.jpg",
+        "width": 2154
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2075862981574025588",
+        "created_at": "2026-07-11T08:55:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T09:55:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075866638281498701"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1900168705847500800",
+              "start": 0,
+              "username": "wxb_NB"
+            },
+            {
+              "end": 17,
+              "id": "2024424705026117634",
+              "start": 8,
+              "username": "cavityuk"
+            },
+            {
+              "end": 27,
+              "id": "1943561677762646016",
+              "start": 18,
+              "username": "qusuunmd"
+            },
+            {
+              "end": 36,
+              "id": "1304953938320306176",
+              "start": 28,
+              "username": "hry_xsu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075866638281498701",
+        "in_reply_to_user_id": "1900168705847500800",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075862981574025588",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wxb_NB @cavityuk @qusuunmd @hry_xsu 羡慕！！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075862963932786688"
+          ]
+        },
+        "author_id": "1900168705847500800",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2075862981574025588",
+        "created_at": "2026-07-11T08:41:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T09:41:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075862981574025588"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1900168705847500800",
+              "start": 9,
+              "username": "wxb_NB"
+            },
+            {
+              "end": 26,
+              "id": "2024424705026117634",
+              "start": 17,
+              "username": "cavityuk"
+            },
+            {
+              "end": 36,
+              "id": "1943561677762646016",
+              "start": 27,
+              "username": "qusuunmd"
+            },
+            {
+              "end": 50,
+              "id": "1721095893821136896",
+              "start": 37,
+              "username": "xrxrrdx18360"
+            },
+            {
+              "end": 59,
+              "id": "1304953938320306176",
+              "start": 51,
+              "username": "hry_xsu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tehOMnbXAk",
+              "end": 83,
+              "expanded_url": "https://x.com/wxb_NB/status/2075862981574025588/photo/1",
+              "media_key": "3_2075862963932786688",
+              "start": 60,
+              "url": "https://t.co/tehOMnbXAk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075862981574025588",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "贴贴 with：\n@wxb_NB @cavityuk @qusuunmd @xrxrrdx18360 @hry_xsu https://t.co/tehOMnbXAk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "🏳‍⚧｜备用:@StarryNoct ｜老公:@chinyu_ouo \n对不起对不起对不起我的错 无人在意 互fo请私信（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 7,
+                "username": "StarryNoct"
+              },
+              {
+                "end": 34,
+                "start": 23,
+                "username": "chinyu_ouo"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星✨",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073578724868636673/mdHJZ7GA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1543,
+          "following_count": 813,
+          "like_count": 4085,
+          "listed_count": 4,
+          "media_count": 258,
+          "tweet_count": 8447
+        },
+        "url": "",
+        "username": "StarryNocts",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-13T12:58:35.000Z",
+        "description": "互fo 请私信，看成分回\n16岁高中小废柴 / 泛性恋 /  我的世界里才是家 / 梗图爱好者 / 编程全靠AI /  作业写不完 / 梗图收不停\n评论分身 @wangxbNB",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 79,
+                "username": "wangxbNB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awacat.cc",
+                "end": 23,
+                "expanded_url": "https://awacat.cc",
+                "start": 0,
+                "url": "https://t.co/kE5lN2orOL"
+              }
+            ]
+          }
+        },
+        "id": "1900168705847500800",
+        "location": "我喜欢你，请和我生小草莓！",
+        "name": "草莓走丢了",
+        "pinned_tweet_id": "2010609889283100788",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025824314927534080/qJZtGZj5_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1187,
+          "following_count": 571,
+          "like_count": 11341,
+          "listed_count": 2,
+          "media_count": 293,
+          "tweet_count": 2171
+        },
+        "url": "https://t.co/kE5lN2orOL",
+        "username": "wxb_NB",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-19T10:04:05.000Z",
+        "description": "ciallo～՞˶˃ ᵕ ˂˶՞这里是屿谙(也是cavityuk！‖素散架的高中生……‖2010.8 ♍‖ENTP🧩‖泛性恋🩷💛🩵‖🏳️‍🌈LGBTQ+友好‖找不到我就是在画画画🎨……（绝不是在学习‖💓女朋友❤️：@qusuunmd 💓‖ ⚠️我是好孩子不约不卖！不约不卖！不约不卖！不要来找我！！！！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 107,
+                "username": "qusuunmd"
+              }
+            ]
+          }
+        },
+        "id": "2024424705026117634",
+        "location": "水族馆🐟",
+        "name": "屿谙想喝氵",
+        "pinned_tweet_id": "2067197815055684015",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024424842578317313/CtJuVDll_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 187,
+          "following_count": 39,
+          "like_count": 945,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 281
+        },
+        "url": "",
+        "username": "cavityuk",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-11T06:44:29.000Z",
+        "description": "2010年的xyn/167cm 57.5kg（www我要减肥）/hrt🍥时间:2025.8.15/无证含糖🍥/高一牲/有点缺爱/想要贴贴/同类互fo喵/常住于青岛喵/过年会回泉州/穷穷穷 想要钱钱/不抽烟不喝酒不od不割手/不圆角谢谢 勿扰/摄影📹（Canom r8）（偶尔飞飞老的不行的air3）/偶尔玩玩cos",
+        "id": "1943561677762646016",
+        "location": "Hachinohe-shi, Aomori",
+        "name": "曲速 u🍥",
+        "pinned_tweet_id": "2051304340376461441",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025830754715090944/KciDNY7c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 775,
+          "following_count": 417,
+          "like_count": 2736,
+          "listed_count": 2,
+          "media_count": 75,
+          "tweet_count": 1102
+        },
+        "url": "",
+        "username": "qusuunmd",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-13T01:24:17.000Z",
+        "description": "That's ra or Harry \nen&zh | 💻笔电爱好者 | R6 | 无糖 | 女装 | 地雷系 | 🏳️‍🌈LGBTQ+friendly | 大腿夹魔爪拍照开创者\n好朋友@wxb_NB @qusuunmd @XUEQIUxka @CuteCatGYH",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 93,
+                "username": "wxb_NB"
+              },
+              {
+                "end": 110,
+                "start": 101,
+                "username": "qusuunmd"
+              },
+              {
+                "end": 121,
+                "start": 111,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 133,
+                "start": 122,
+                "username": "CuteCatGYH"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lunar.galaxy.gov",
+                "end": 23,
+                "expanded_url": "https://www.lunar.galaxy.gov",
+                "start": 0,
+                "url": "https://t.co/ZmiJZUPn5Q"
+              }
+            ]
+          }
+        },
+        "id": "1304953938320306176",
+        "location": "Lunar,Galaxy,Universe",
+        "name": "xsu_Harryyy",
+        "pinned_tweet_id": "1932047209467421162",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016521299070464000/DgHXMLJt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2279,
+          "following_count": 415,
+          "like_count": 57535,
+          "listed_count": 7,
+          "media_count": 292,
+          "tweet_count": 4068
+        },
+        "url": "https://t.co/ZmiJZUPn5Q",
+        "username": "hry_xsu",
+        "verified": false
+      }
+    ]
+  }
+}

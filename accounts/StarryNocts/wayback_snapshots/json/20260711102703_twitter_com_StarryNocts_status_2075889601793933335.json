@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2075815901732163601",
+    "created_at": "2026-07-11T10:27:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T11:27:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075889601793933335"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "919628976208752640",
+          "start": 0,
+          "username": "BaitangToubao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075889601793933335",
+    "in_reply_to_user_id": "919628976208752640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075815901732163601",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BaitangToubao 飞机大厨还整这些有的没的 明明感觉挺好玩的 但是因为这些不想玩了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1320,
+        "media_key": "3_2075815889317113856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM7HjZ3bsAAvlpE.jpg",
+        "width": 2868
+      },
+      {
+        "height": 1320,
+        "media_key": "3_2075815889312817152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM7HjZ2aIAAXG9X.jpg",
+        "width": 2868
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2075815901732163601",
+        "created_at": "2026-07-11T10:27:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T11:27:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075889601793933335"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "919628976208752640",
+              "start": 0,
+              "username": "BaitangToubao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075889601793933335",
+        "in_reply_to_user_id": "919628976208752640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075815901732163601",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BaitangToubao 飞机大厨还整这些有的没的 明明感觉挺好玩的 但是因为这些不想玩了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075815889317113856",
+            "3_2075815889312817152"
+          ]
+        },
+        "author_id": "919628976208752640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2075815901732163601",
+        "created_at": "2026-07-11T05:34:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T06:34:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075815901732163601"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WHpHJzCqLQ",
+              "end": 36,
+              "expanded_url": "https://x.com/BaitangToubao/status/2075815901732163601/photo/1",
+              "media_key": "3_2075815889317113856",
+              "start": 13,
+              "url": "https://t.co/WHpHJzCqLQ"
+            },
+            {
+              "display_url": "pic.x.com/WHpHJzCqLQ",
+              "end": 36,
+              "expanded_url": "https://x.com/BaitangToubao/status/2075815901732163601/photo/1",
+              "media_key": "3_2075815889312817152",
+              "start": 13,
+              "url": "https://t.co/WHpHJzCqLQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075815901732163601",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "都跟腾讯学坏了…还这么贵 https://t.co/WHpHJzCqLQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "🏳‍⚧｜备用:@StarryNoct ｜老公:@chinyu_ouo \n对不起对不起对不起我的错 无人在意 互fo请私信（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 7,
+                "username": "StarryNoct"
+              },
+              {
+                "end": 34,
+                "start": 23,
+                "username": "chinyu_ouo"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星✨",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073578724868636673/mdHJZ7GA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1542,
+          "following_count": 813,
+          "like_count": 4085,
+          "listed_count": 4,
+          "media_count": 258,
+          "tweet_count": 8453
+        },
+        "url": "",
+        "username": "StarryNocts",
+        "verified": true
+      },
+      {
+        "created_at": "2017-10-15T18:20:08.000Z",
+        "description": "AuDHD/BPD积极治疗｜瑾瑾@K66cheng｜给你加什么title？@Leaf_Fallfield｜本人无任何宗教信仰，仅分享日常生活，不相信任何政治谣言",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 16,
+                "username": "K66cheng"
+              },
+              {
+                "end": 52,
+                "start": 37,
+                "username": "Leaf_Fallfield"
+              }
+            ]
+          }
+        },
+        "id": "919628976208752640",
+        "location": "Beijing",
+        "name": "白糖豆包",
+        "pinned_tweet_id": "2016739048262672787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028994061185728512/oDlbqhBI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 942,
+          "following_count": 645,
+          "like_count": 36751,
+          "listed_count": 3,
+          "media_count": 724,
+          "tweet_count": 8687
+        },
+        "url": "",
+        "username": "BaitangToubao",
+        "verified": true
+      }
+    ]
+  }
+}

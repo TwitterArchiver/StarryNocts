@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2079052653527736514",
+    "created_at": "2026-07-20T09:17:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T10:17:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079133615984988621"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2078463864220602368",
+          "start": 0,
+          "username": "slky0721"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079133615984988621",
+    "in_reply_to_user_id": "2078463864220602368",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079070376341147880",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@slky0721 🥰🥰🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2079052653527736514",
+        "created_at": "2026-07-20T09:17:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T10:17:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079133615984988621"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2078463864220602368",
+              "start": 0,
+              "username": "slky0721"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079133615984988621",
+        "in_reply_to_user_id": "2078463864220602368",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079070376341147880",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@slky0721 🥰🥰🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2078463864220602368",
+        "conversation_id": "2079052653527736514",
+        "created_at": "2026-07-20T05:06:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T06:06:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079070376341147880"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1343151486432399360",
+              "start": 0,
+              "username": "StarryNocts"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079070376341147880",
+        "in_reply_to_user_id": "1343151486432399360",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079052653527736514",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StarryNocts 雪梨酱卡哇伊呆suki！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "🏳‍⚧｜备用:@StarryNoct ｜老公:@chinyu_ouo \n对不起对不起对不起我的错 无人在意 互fo请私信（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 7,
+                "username": "StarryNoct"
+              },
+              {
+                "end": 34,
+                "start": 23,
+                "username": "chinyu_ouo"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星✨",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073578724868636673/mdHJZ7GA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1536,
+          "following_count": 817,
+          "like_count": 4080,
+          "listed_count": 4,
+          "media_count": 265,
+          "tweet_count": 8579
+        },
+        "url": "",
+        "username": "StarryNocts",
+        "verified": true
+      },
+      {
+        "created_at": "2026-07-18T12:57:38.000Z",
+        "description": "",
+        "id": "2078463864220602368",
+        "name": "Lucy Green",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078535976234958849/BffGNZTy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 38,
+          "like_count": 129,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 85
+        },
+        "url": "",
+        "username": "slky0721",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2079120744924303554",
+    "created_at": "2026-07-21T11:48:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T12:48:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079534096087388514"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1235547121274605568",
+          "start": 0,
+          "username": "Nomy_Chann"
+        },
+        {
+          "end": 21,
+          "id": "1910979720227049472",
+          "start": 12,
+          "username": "Remth_07"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079534096087388514",
+    "in_reply_to_user_id": "1235547121274605568",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079461734805623099",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nomy_Chann @Remth_07 喵？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2079120744924303554",
+        "created_at": "2026-07-21T11:48:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T12:48:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079534096087388514"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1235547121274605568",
+              "start": 0,
+              "username": "Nomy_Chann"
+            },
+            {
+              "end": 21,
+              "id": "1910979720227049472",
+              "start": 12,
+              "username": "Remth_07"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079534096087388514",
+        "in_reply_to_user_id": "1235547121274605568",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079461734805623099",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nomy_Chann @Remth_07 喵？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1235547121274605568",
+        "conversation_id": "2079120744924303554",
+        "created_at": "2026-07-21T07:01:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T08:01:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079461734805623099"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1910979720227049472",
+              "start": 0,
+              "username": "Remth_07"
+            },
+            {
+              "end": 22,
+              "id": "1343151486432399360",
+              "start": 10,
+              "username": "StarryNocts"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079461734805623099",
+        "in_reply_to_user_id": "1910979720227049472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079221100647784604",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Remth_07 @StarryNocts 你们两个快贴吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "🏳‍⚧｜备用:@StarryNoct ｜老公:@chinyu_ouo \n对不起对不起对不起我的错 无人在意 互fo请私信（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 7,
+                "username": "StarryNoct"
+              },
+              {
+                "end": 34,
+                "start": 23,
+                "username": "chinyu_ouo"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星✨",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073578724868636673/mdHJZ7GA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1537,
+          "following_count": 818,
+          "like_count": 4081,
+          "listed_count": 4,
+          "media_count": 266,
+          "tweet_count": 8615
+        },
+        "url": "",
+        "username": "StarryNocts",
+        "verified": true
+      },
+      {
+        "created_at": "2020-03-05T12:46:14.000Z",
+        "description": "ただの普通な民間人。\n只是个普通人",
+        "id": "1235547121274605568",
+        "location": "東京 新宿区",
+        "name": "诺米",
+        "pinned_tweet_id": "2077428046836240777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057496186895097856/JqVD0u93_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 172,
+          "like_count": 1349,
+          "listed_count": 1,
+          "media_count": 56,
+          "tweet_count": 1238
+        },
+        "url": "",
+        "username": "Nomy_Chann",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-12T08:54:16.000Z",
+        "description": "睡觉是全世界最舒服的事情",
+        "id": "1910979720227049472",
+        "name": "Remth",
+        "pinned_tweet_id": "1934080937060610415",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041878825135697927/tUFv4RsC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1181,
+          "following_count": 995,
+          "like_count": 4648,
+          "listed_count": 0,
+          "media_count": 103,
+          "tweet_count": 1273
+        },
+        "url": "",
+        "username": "Remth_07",
+        "verified": false
+      }
+    ]
+  }
+}

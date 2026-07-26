@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2077250502874779807",
+    "created_at": "2026-07-17T09:29:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T10:29:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078049567418003496"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1468153903384756230",
+          "start": 0,
+          "username": "sionn100percent"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078049567418003496",
+    "in_reply_to_user_id": "1468153903384756230",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077286879242969254",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sionn100percent 都好吃！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2077250502874779807",
+        "created_at": "2026-07-17T09:29:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T10:29:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078049567418003496"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1468153903384756230",
+              "start": 0,
+              "username": "sionn100percent"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078049567418003496",
+        "in_reply_to_user_id": "1468153903384756230",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077286879242969254",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sionn100percent 都好吃！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468153903384756230",
+        "conversation_id": "2077250502874779807",
+        "created_at": "2026-07-15T06:59:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T07:59:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077286879242969254"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1343151486432399360",
+              "start": 0,
+              "username": "StarryNocts"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077286879242969254",
+        "in_reply_to_user_id": "1343151486432399360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 96,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077250502874779807",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StarryNocts 肯德基没有麦当劳好吃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "🏳‍⚧｜备用:@StarryNoct ｜老公:@chinyu_ouo \n对不起对不起对不起我的错 无人在意 互fo请私信（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 7,
+                "username": "StarryNoct"
+              },
+              {
+                "end": 34,
+                "start": 23,
+                "username": "chinyu_ouo"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星✨",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073578724868636673/mdHJZ7GA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1531,
+          "following_count": 813,
+          "like_count": 4080,
+          "listed_count": 4,
+          "media_count": 264,
+          "tweet_count": 8521
+        },
+        "url": "",
+        "username": "StarryNocts",
+        "verified": true
+      },
+      {
+        "created_at": "2021-12-07T09:42:39.000Z",
+        "description": "小天使｜ray of sunshine｜femboy｜ENname:LunaRuri｜backup account｜account v1:@moonlight_ruri｜Random thoughts｜humor｜entertainment｜beauty share｜Submissions welcome｜thanks",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 69,
+                "username": "moonlight_ruri"
+              }
+            ]
+          }
+        },
+        "id": "1468153903384756230",
+        "location": "🉑date✈️｜鍆60｜DM",
+        "name": "月璃_LunaRuri_V2",
+        "pinned_tweet_id": "2071105269220941983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059948074538340352/3PjIS8w-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1525,
+          "following_count": 410,
+          "like_count": 784,
+          "listed_count": 8,
+          "media_count": 141,
+          "tweet_count": 3934
+        },
+        "url": "",
+        "username": "sionn100percent",
+        "verified": false
+      }
+    ]
+  }
+}

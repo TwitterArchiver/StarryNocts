@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2075831439304929456",
+    "created_at": "2026-07-11T07:42:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T08:42:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075848127752650975"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1837843674283294720",
+          "start": 0,
+          "username": "RainEngine2026"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075848127752650975",
+    "in_reply_to_user_id": "1837843674283294720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075831439304929456",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RainEngine2026 坏坏"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2075831412444573696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM7Vq-BbMAAonYZ.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2075831439304929456",
+        "created_at": "2026-07-11T07:42:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T08:42:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075848127752650975"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1837843674283294720",
+              "start": 0,
+              "username": "RainEngine2026"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075848127752650975",
+        "in_reply_to_user_id": "1837843674283294720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075831439304929456",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RainEngine2026 坏坏"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075831412444573696"
+          ]
+        },
+        "author_id": "1837843674283294720",
+        "conversation_id": "2075831439304929456",
+        "created_at": "2026-07-11T06:35:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T07:35:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075831439304929456"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iruIZtTuM4",
+              "end": 32,
+              "expanded_url": "https://x.com/RainEngine2026/status/2075831439304929456/photo/1",
+              "media_key": "3_2075831412444573696",
+              "start": 9,
+              "url": "https://t.co/iruIZtTuM4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075831439304929456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 112,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "成分复杂.jpg https://t.co/iruIZtTuM4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "🏳‍⚧｜备用:@StarryNoct ｜老公:@chinyu_ouo \n对不起对不起对不起我的错 无人在意 互fo请私信（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 7,
+                "username": "StarryNoct"
+              },
+              {
+                "end": 34,
+                "start": 23,
+                "username": "chinyu_ouo"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星✨",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073578724868636673/mdHJZ7GA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1543,
+          "following_count": 813,
+          "like_count": 4085,
+          "listed_count": 4,
+          "media_count": 258,
+          "tweet_count": 8444
+        },
+        "url": "",
+        "username": "StarryNocts",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-22T13:17:49.000Z",
+        "description": "Xiaomi Partner / RainEngine UX Design",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/RainEngine2026",
+                "end": 23,
+                "expanded_url": "http://t.me/RainEngine2026",
+                "start": 0,
+                "url": "https://t.co/7JvZdxAqN1"
+              }
+            ]
+          }
+        },
+        "id": "1837843674283294720",
+        "name": "晴日向_Official",
+        "pinned_tweet_id": "2074486635853758675",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074471177054195712/JAy9wINP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 275,
+          "following_count": 130,
+          "like_count": 540,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 114
+        },
+        "url": "https://t.co/7JvZdxAqN1",
+        "username": "RainEngine2026",
+        "verified": false
+      }
+    ]
+  }
+}

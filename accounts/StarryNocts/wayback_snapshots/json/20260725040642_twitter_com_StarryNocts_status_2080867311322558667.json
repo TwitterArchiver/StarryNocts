@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2080843333182837042",
+    "created_at": "2026-07-25T04:06:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T05:06:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080867311322558667"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1071202984673964032",
+          "start": 0,
+          "username": "Shijiu_bai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080867311322558667",
+    "in_reply_to_user_id": "1071202984673964032",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080843333182837042",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shijiu_bai 抱抱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2080843319912128512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOCj-YSbYAAJSrO.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2080843333182837042",
+        "created_at": "2026-07-25T04:06:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T05:06:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080867311322558667"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1071202984673964032",
+              "start": 0,
+              "username": "Shijiu_bai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080867311322558667",
+        "in_reply_to_user_id": "1071202984673964032",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080843333182837042",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shijiu_bai 抱抱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080843319912128512"
+          ]
+        },
+        "author_id": "1071202984673964032",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596740190208",
+              "name": "CPG"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596144599042",
+              "name": "Snacks - CPG"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Pocky (ポッキー)",
+              "id": "1121845553527017472",
+              "name": "Pocky (ポッキー)"
+            }
+          }
+        ],
+        "conversation_id": "2080843333182837042",
+        "created_at": "2026-07-25T02:31:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T03:31:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080843333182837042"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/86RpBf5jaj",
+              "end": 166,
+              "expanded_url": "https://x.com/Shijiu_bai/status/2080843333182837042/photo/1",
+              "media_key": "3_2080843319912128512",
+              "start": 143,
+              "url": "https://t.co/86RpBf5jaj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080843333182837042",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "可以喜欢我吗？可以爱我吗？可以毫无理由地亲亲吗？可以在冬季里给一个抱抱吗？可以逛街时十指相扣吗？可以咬断你的pocky吗？可以尝一口你的奶茶吗？可以在睡前说晚安吗？可以把密码改成你的生日吗？可以在条件反射时第一个喊我的名字吗？可以用你的照片当屏保吗？可以成为你拒绝暧昧的理由吗？可以对你撒娇吗？可以和我一直这样谈恋爱吗？"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 186,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "可以喜欢我吗？可以爱我吗？可以毫无理由地亲亲吗？可以在冬季里给一个抱抱吗？可以逛街时十指相扣吗？可以咬断你的pocky吗？可以尝一口你的奶茶吗？可以在睡前说晚安吗？可以把密码改成你的生日吗？可以在条件反射时第一个喊我的名字吗？可以用你的照片当屏保吗？可以成为你拒绝暧昧的理由吗？可以对 https://t.co/86RpBf5jaj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "🏳‍⚧｜备用:@StarryNoct ｜老公:@chinyu_ouo \n对不起对不起对不起我的错 无人在意 互fo请私信（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 7,
+                "username": "StarryNoct"
+              },
+              {
+                "end": 34,
+                "start": 23,
+                "username": "chinyu_ouo"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星✨",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073578724868636673/mdHJZ7GA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1542,
+          "following_count": 833,
+          "like_count": 4084,
+          "listed_count": 4,
+          "media_count": 269,
+          "tweet_count": 8703
+        },
+        "url": "",
+        "username": "StarryNocts",
+        "verified": true
+      },
+      {
+        "created_at": "2018-12-08T00:41:08.000Z",
+        "description": "花下抚弦，花落满地，随你入梦，长醉不醒",
+        "id": "1071202984673964032",
+        "name": "詩玖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062476011300950016/OgFm_oDK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2677,
+          "following_count": 219,
+          "like_count": 1109,
+          "listed_count": 7,
+          "media_count": 167,
+          "tweet_count": 732
+        },
+        "url": "",
+        "username": "Shijiu_bai",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2079052653527736514",
+    "created_at": "2026-07-20T11:52:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T12:52:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079172651378151733"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2032328355417354240",
+          "start": 0,
+          "username": "mwn1643973"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079172651378151733",
+    "in_reply_to_user_id": "2032328355417354240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079168905738846581",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mwn1643973 对"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2079052653527736514",
+        "created_at": "2026-07-20T11:52:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T12:52:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079172651378151733"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2032328355417354240",
+              "start": 0,
+              "username": "mwn1643973"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079172651378151733",
+        "in_reply_to_user_id": "2032328355417354240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079168905738846581",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mwn1643973 对"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032328355417354240",
+        "conversation_id": "2079052653527736514",
+        "created_at": "2026-07-20T11:37:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T12:37:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079168905738846581"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1343151486432399360",
+              "start": 0,
+              "username": "StarryNocts"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079168905738846581",
+        "in_reply_to_user_id": "1343151486432399360",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079052653527736514",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StarryNocts 啥子角色！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "🏳‍⚧｜备用:@StarryNoct ｜老公:@chinyu_ouo \n对不起对不起对不起我的错 无人在意 互fo请私信（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 7,
+                "username": "StarryNoct"
+              },
+              {
+                "end": 34,
+                "start": 23,
+                "username": "chinyu_ouo"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星✨",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073578724868636673/mdHJZ7GA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1535,
+          "following_count": 817,
+          "like_count": 4080,
+          "listed_count": 4,
+          "media_count": 266,
+          "tweet_count": 8593
+        },
+        "url": "",
+        "username": "StarryNocts",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-13T05:30:27.000Z",
+        "description": "不看生殖器/赛博淫魔魅魔/♠/伪娘\n🚪25 同好免费，全部用于买新衣服",
+        "id": "2032328355417354240",
+        "name": "淑珍雪月",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043619465171181568/3kzBZeMw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 399,
+          "following_count": 291,
+          "like_count": 204,
+          "listed_count": 4,
+          "media_count": 44,
+          "tweet_count": 100
+        },
+        "url": "",
+        "username": "mwn1643973",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2078490368895852772",
+    "created_at": "2026-07-19T10:43:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T11:43:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078792785298338237"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1982449259774656512",
+          "start": 0,
+          "username": "smiroyama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078792785298338237",
+    "in_reply_to_user_id": "1982449259774656512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078490368895852772",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@smiroyama 北京9年前就已经有了公交卡小额支付 并且nfc卡也是支持的 但是现实是根本没多少人用 而且现在的公交联合也没有支付牌照 被时代淘汰了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2078490368895852772",
+        "created_at": "2026-07-19T10:43:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T11:43:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078792785298338237"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1982449259774656512",
+              "start": 0,
+              "username": "smiroyama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078792785298338237",
+        "in_reply_to_user_id": "1982449259774656512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078490368895852772",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@smiroyama 北京9年前就已经有了公交卡小额支付 并且nfc卡也是支持的 但是现实是根本没多少人用 而且现在的公交联合也没有支付牌照 被时代淘汰了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1982449259774656512",
+        "conversation_id": "2078490368895852772",
+        "created_at": "2026-07-18T14:41:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T15:41:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078490368895852772"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078490368895852772",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4576,
+          "like_count": 43,
+          "quote_count": 1,
+          "reply_count": 22,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我以前也觉得八达通传统落后，但自从我在手机钱包添加了八达通之后，简直不要太香了。不需要从裤兜里掏出手机解锁，在强光下打开某个 APP，手指头动来动去，整个注意力被短时间牵扯，还要被刺眼的二维码亮光闪瞎眼睛。\n\n我只需要从裤兜拿出手机对着读卡器啪嗒一声，我就离开，就像打了个屁一样自然"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "🏳‍⚧｜备用:@StarryNoct ｜老公:@chinyu_ouo \n对不起对不起对不起我的错 无人在意 互fo请私信（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 7,
+                "username": "StarryNoct"
+              },
+              {
+                "end": 34,
+                "start": 23,
+                "username": "chinyu_ouo"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星✨",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073578724868636673/mdHJZ7GA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1534,
+          "following_count": 817,
+          "like_count": 4080,
+          "listed_count": 4,
+          "media_count": 264,
+          "tweet_count": 8544
+        },
+        "url": "",
+        "username": "StarryNocts",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-26T14:08:58.000Z",
+        "description": "闺蜜:@qianxunchan\n朋友:@Huang_Yut1ng @fukui_p26\nDeveloping https://t.co/pJ9VtduSxe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "qianxunchan"
+              },
+              {
+                "end": 32,
+                "start": 19,
+                "username": "Huang_Yut1ng"
+              },
+              {
+                "end": 43,
+                "start": 33,
+                "username": "fukui_p26"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "hrt.mahiro.uk",
+                "end": 78,
+                "expanded_url": "http://hrt.mahiro.uk",
+                "start": 55,
+                "url": "https://t.co/pJ9VtduSxe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mizukiakiyama.com",
+                "end": 23,
+                "expanded_url": "http://mizukiakiyama.com",
+                "start": 0,
+                "url": "https://t.co/YPl1rDopW0"
+              }
+            ]
+          }
+        },
+        "id": "1982449259774656512",
+        "name": "Smirnova🍡",
+        "pinned_tweet_id": "2065373003169570821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078298418834018304/5_bmbU-u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7159,
+          "following_count": 2568,
+          "like_count": 13835,
+          "listed_count": 14,
+          "media_count": 2357,
+          "tweet_count": 8607
+        },
+        "url": "https://t.co/YPl1rDopW0",
+        "username": "smiroyama",
+        "verified": true
+      }
+    ]
+  }
+}

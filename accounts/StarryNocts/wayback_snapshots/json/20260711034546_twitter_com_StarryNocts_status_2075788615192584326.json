@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2075175683530318290",
+    "created_at": "2026-07-11T03:45:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T04:45:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075788615192584326"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1235547121274605568",
+          "start": 0,
+          "username": "Nomy_Chann"
+        },
+        {
+          "end": 20,
+          "id": "2044543772415942656",
+          "start": 12,
+          "username": "roitium"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075788615192584326",
+    "in_reply_to_user_id": "1235547121274605568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075781659216232907",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nomy_Chann @roitium 试试"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2075175683530318290",
+        "created_at": "2026-07-11T03:45:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T04:45:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075788615192584326"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1235547121274605568",
+              "start": 0,
+              "username": "Nomy_Chann"
+            },
+            {
+              "end": 20,
+              "id": "2044543772415942656",
+              "start": 12,
+              "username": "roitium"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075788615192584326",
+        "in_reply_to_user_id": "1235547121274605568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075781659216232907",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nomy_Chann @roitium 试试"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1235547121274605568",
+        "conversation_id": "2075175683530318290",
+        "created_at": "2026-07-11T03:18:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T04:18:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075781659216232907"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2044543772415942656",
+              "start": 0,
+              "username": "roitium"
+            },
+            {
+              "end": 21,
+              "id": "1343151486432399360",
+              "start": 9,
+              "username": "StarryNocts"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075781659216232907",
+        "in_reply_to_user_id": "2044543772415942656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075363546570109386",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@roitium @StarryNocts 还有长生秘诀？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "🏳‍⚧｜备用:@StarryNoct ｜老公:@chinyu_ouo \n对不起对不起对不起我的错 无人在意 互fo请私信（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 7,
+                "username": "StarryNoct"
+              },
+              {
+                "end": 34,
+                "start": 23,
+                "username": "chinyu_ouo"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星✨",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073578724868636673/mdHJZ7GA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1544,
+          "following_count": 813,
+          "like_count": 4085,
+          "listed_count": 4,
+          "media_count": 258,
+          "tweet_count": 8441
+        },
+        "url": "",
+        "username": "StarryNocts",
+        "verified": true
+      },
+      {
+        "created_at": "2020-03-05T12:46:14.000Z",
+        "description": "秋田犬がある\n優しいし親切だし、真っ黒な長い髪\n昔東京に住んでいる今北京で、\n可愛い子を友達になりたい。\n有只秋田犬\n温柔贤淑 可摸不咬人 真发黑长直\n曾在东京现居北京，胆小好色(所以有人会看我主页吗)主要社交是QQ\n所以为什么没人给我发私信",
+        "id": "1235547121274605568",
+        "location": "東京 新宿区",
+        "name": "诺米",
+        "pinned_tweet_id": "2027435415607906765",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057496186895097856/JqVD0u93_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 169,
+          "like_count": 1232,
+          "listed_count": 1,
+          "media_count": 54,
+          "tweet_count": 1155
+        },
+        "url": "",
+        "username": "Nomy_Chann",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-15T22:30:05.000Z",
+        "description": "哈气中，勿扰，，，\n\n请随意申请关注，但我可能不会通过： ）\n互关基本都会通过的说（）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "roitium.com",
+                "end": 23,
+                "expanded_url": "http://roitium.com",
+                "start": 0,
+                "url": "https://t.co/C3MRHRZCbI"
+              }
+            ]
+          }
+        },
+        "id": "2044543772415942656",
+        "location": "你心里",
+        "name": "roitium",
+        "pinned_tweet_id": "2045801266174111830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073243726584172544/ww8yu5vL_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 58,
+          "like_count": 628,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 664
+        },
+        "url": "https://t.co/C3MRHRZCbI",
+        "username": "roitium",
+        "verified": false
+      }
+    ]
+  }
+}

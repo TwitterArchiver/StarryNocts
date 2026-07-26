@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2080171359007916415",
+    "created_at": "2026-07-24T10:14:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T11:14:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080597472062119982"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1874106412529541121",
+          "start": 0,
+          "username": "Tise_hk2350"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080597472062119982",
+    "in_reply_to_user_id": "1874106412529541121",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080578583895138463",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tise_hk2350 😋😋😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2080171359007916415",
+        "created_at": "2026-07-24T10:14:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T11:14:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080597472062119982"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1874106412529541121",
+              "start": 0,
+              "username": "Tise_hk2350"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080597472062119982",
+        "in_reply_to_user_id": "1874106412529541121",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080578583895138463",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tise_hk2350 😋😋😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874106412529541121",
+        "conversation_id": "2080171359007916415",
+        "created_at": "2026-07-24T08:59:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T09:59:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080578583895138463"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1343151486432399360",
+              "start": 0,
+              "username": "StarryNocts"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080578583895138463",
+        "in_reply_to_user_id": "1343151486432399360",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080171359007916415",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StarryNocts 我也想吃😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "🏳‍⚧｜备用:@StarryNoct ｜老公:@chinyu_ouo \n对不起对不起对不起我的错 无人在意 互fo请私信（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 7,
+                "username": "StarryNoct"
+              },
+              {
+                "end": 34,
+                "start": 23,
+                "username": "chinyu_ouo"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星✨",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073578724868636673/mdHJZ7GA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1536,
+          "following_count": 825,
+          "like_count": 4083,
+          "listed_count": 4,
+          "media_count": 269,
+          "tweet_count": 8661
+        },
+        "url": "",
+        "username": "StarryNocts",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-31T14:52:57.000Z",
+        "description": "生产日期09/05/25 | ISTJ | 🇨🇳🇭🇰 | 🏳️‍⚧️🍥 | 普通话、廣東話、English | 社恐+宅家 | 不割手不od | 发疯日记 |",
+        "id": "1874106412529541121",
+        "location": "Hong Kong",
+        "name": "IronH",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999350132526256128/7BY2tOLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 42,
+          "like_count": 515,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 231
+        },
+        "url": "",
+        "username": "Tise_hk2350",
+        "verified": false
+      }
+    ]
+  }
+}
