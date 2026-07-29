@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2081593974113112472",
+    "created_at": "2026-07-27T11:46:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T12:46:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081707804604436666"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1605245047590780928",
+          "start": 0,
+          "username": "djx00919"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081707804604436666",
+    "in_reply_to_user_id": "1605245047590780928",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081694935435170075",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@djx00919 不知道"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2081593974113112472",
+        "created_at": "2026-07-27T11:46:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T12:46:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081707804604436666"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1605245047590780928",
+              "start": 0,
+              "username": "djx00919"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081707804604436666",
+        "in_reply_to_user_id": "1605245047590780928",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081694935435170075",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@djx00919 不知道"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1605245047590780928",
+        "conversation_id": "2081593974113112472",
+        "created_at": "2026-07-27T10:55:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T11:55:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081694935435170075"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1343151486432399360",
+              "start": 0,
+              "username": "StarryNocts"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081694935435170075",
+        "in_reply_to_user_id": "1343151486432399360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081670682900127789",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StarryNocts 诶?你不知道吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "🏳‍⚧｜备用:@StarryNoct ｜老公:@chinyu_ouo \n对不起对不起对不起我的错 无人在意 互fo请私信（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 7,
+                "username": "StarryNoct"
+              },
+              {
+                "end": 34,
+                "start": 23,
+                "username": "chinyu_ouo"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星✨",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073578724868636673/mdHJZ7GA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1549,
+          "following_count": 838,
+          "like_count": 4084,
+          "listed_count": 4,
+          "media_count": 272,
+          "tweet_count": 8753
+        },
+        "url": "",
+        "username": "StarryNocts",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-20T16:53:45.000Z",
+        "description": "2009/8/19男 超级丑逼  记性很差很差什么都记不住喵。\n想聊天的话可以私信喵 多和我互fo~\n＿＿＿＿＿＿＿＿以下人远离我＜烟鬼 od 给恶性肥猪卖屁股的 有主＞",
+        "id": "1605245047590780928",
+        "location": "北京",
+        "name": "uosɐɾ",
+        "pinned_tweet_id": "2063989689951133801",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027707712088510464/W5dXjr5v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1317,
+          "following_count": 3548,
+          "like_count": 182608,
+          "listed_count": 3,
+          "media_count": 315,
+          "tweet_count": 16260
+        },
+        "url": "",
+        "username": "djx00919",
+        "verified": false
+      }
+    ]
+  }
+}

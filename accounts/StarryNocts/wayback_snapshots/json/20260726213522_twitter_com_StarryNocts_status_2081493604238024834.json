@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2081490582065873339",
+    "created_at": "2026-07-26T21:35:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T22:35:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081493604238024834"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1874351728264630272",
+          "start": 0,
+          "username": "jsbsjCV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081493604238024834",
+    "in_reply_to_user_id": "1874351728264630272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081490582065873339",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jsbsjCV 不许…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2081490582065873339",
+        "created_at": "2026-07-26T21:35:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T22:35:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081493604238024834"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1874351728264630272",
+              "start": 0,
+              "username": "jsbsjCV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081493604238024834",
+        "in_reply_to_user_id": "1874351728264630272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081490582065873339",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jsbsjCV 不许…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874351728264630272",
+        "conversation_id": "2081490582065873339",
+        "created_at": "2026-07-26T21:23:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T22:23:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081490582065873339"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 14,
+              "start": 10,
+              "tag": "mtf"
+            },
+            {
+              "end": 18,
+              "start": 15,
+              "tag": "药娘"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081490582065873339",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "准备卖 有无人要买\n#mtf #药娘"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "🏳‍⚧｜备用:@StarryNoct ｜老公:@chinyu_ouo \n对不起对不起对不起我的错 无人在意 互fo请私信（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 7,
+                "username": "StarryNoct"
+              },
+              {
+                "end": 34,
+                "start": 23,
+                "username": "chinyu_ouo"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星✨",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073578724868636673/mdHJZ7GA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1550,
+          "following_count": 837,
+          "like_count": 4084,
+          "listed_count": 4,
+          "media_count": 271,
+          "tweet_count": 8740
+        },
+        "url": "",
+        "username": "StarryNocts",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-01T07:07:39.000Z",
+        "description": "我 爱 你 们 所 有 人",
+        "id": "1874351728264630272",
+        "location": "Wong Tai Sin District",
+        "name": "明矾晚安安 🍥 🏳‍⚧",
+        "pinned_tweet_id": "2077730485674139972",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077345075764539393/KiSs5EXj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 371,
+          "following_count": 383,
+          "like_count": 377,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 594
+        },
+        "url": "",
+        "username": "jsbsjCV",
+        "verified": false
+      }
+    ]
+  }
+}
