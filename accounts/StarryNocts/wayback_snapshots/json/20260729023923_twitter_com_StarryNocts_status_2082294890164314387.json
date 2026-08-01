@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2082018833884414244",
+    "created_at": "2026-07-29T02:39:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T03:39:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082294890164314387"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1235547121274605568",
+          "start": 0,
+          "username": "Nomy_Chann"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082294890164314387",
+    "in_reply_to_user_id": "1235547121274605568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082064792391651539",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nomy_Chann 还好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2082018833884414244",
+        "created_at": "2026-07-29T02:39:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T03:39:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082294890164314387"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1235547121274605568",
+              "start": 0,
+              "username": "Nomy_Chann"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082294890164314387",
+        "in_reply_to_user_id": "1235547121274605568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082064792391651539",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nomy_Chann 还好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1235547121274605568",
+        "conversation_id": "2082018833884414244",
+        "created_at": "2026-07-28T11:25:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T12:25:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082064792391651539"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1343151486432399360",
+              "start": 0,
+              "username": "StarryNocts"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082064792391651539",
+        "in_reply_to_user_id": "1343151486432399360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082018833884414244",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StarryNocts 吃这么好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "🏳‍⚧｜备用:@StarryNoct ｜老公:@chinyu_ouo \n对不起对不起对不起我的错 无人在意 互fo请私信（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 7,
+                "username": "StarryNoct"
+              },
+              {
+                "end": 34,
+                "start": 23,
+                "username": "chinyu_ouo"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星✨",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073578724868636673/mdHJZ7GA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1571,
+          "following_count": 845,
+          "like_count": 4085,
+          "listed_count": 4,
+          "media_count": 275,
+          "tweet_count": 8794
+        },
+        "url": "",
+        "username": "StarryNocts",
+        "verified": true
+      },
+      {
+        "created_at": "2020-03-05T12:46:14.000Z",
+        "description": "ただの普通な民間人。\n只是个普通人",
+        "id": "1235547121274605568",
+        "location": "東京 新宿区",
+        "name": "诺米",
+        "pinned_tweet_id": "2027435415607906765",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057496186895097856/JqVD0u93_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 175,
+          "like_count": 1458,
+          "listed_count": 1,
+          "media_count": 56,
+          "tweet_count": 1318
+        },
+        "url": "",
+        "username": "Nomy_Chann",
+        "verified": false
+      }
+    ]
+  }
+}

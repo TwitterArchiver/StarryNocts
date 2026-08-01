@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2082414294965063688",
+    "created_at": "2026-07-29T11:29:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T12:29:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082428300509786360"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1808726116842229762",
+          "start": 0,
+          "username": "ahuang70378"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082428300509786360",
+    "in_reply_to_user_id": "1808726116842229762",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082414294965063688",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ahuang70378 好可爱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2082414281102876672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOY4wWxWYAAGEhx.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2082414294965063688",
+        "created_at": "2026-07-29T11:29:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T12:29:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082428300509786360"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1808726116842229762",
+              "start": 0,
+              "username": "ahuang70378"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082428300509786360",
+        "in_reply_to_user_id": "1808726116842229762",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082414294965063688",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ahuang70378 好可爱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082414281102876672"
+          ]
+        },
+        "author_id": "1808726116842229762",
+        "conversation_id": "2082414294965063688",
+        "created_at": "2026-07-29T10:33:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T11:33:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082414294965063688"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vdcsCUjX6e",
+              "end": 43,
+              "expanded_url": "https://x.com/ahuang70378/status/2082414294965063688/photo/1",
+              "media_key": "3_2082414281102876672",
+              "start": 20,
+              "url": "https://t.co/vdcsCUjX6e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082414294965063688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 113,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "台下观众惊呼，他是个男人，他有两颗睾丸 https://t.co/vdcsCUjX6e"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "🏳‍⚧｜备用:@StarryNoct ｜老公:@chinyu_ouo \n对不起对不起对不起我的错 无人在意 互fo请私信（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 7,
+                "username": "StarryNoct"
+              },
+              {
+                "end": 34,
+                "start": 23,
+                "username": "chinyu_ouo"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星✨",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073578724868636673/mdHJZ7GA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1576,
+          "following_count": 849,
+          "like_count": 4085,
+          "listed_count": 4,
+          "media_count": 275,
+          "tweet_count": 8810
+        },
+        "url": "",
+        "username": "StarryNocts",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-04T04:54:56.000Z",
+        "description": "06/192cm/70kg\n男娘\n虽然我不收门槛，但阿皇也是要恰饭的，接点广很正常，小号@ahuang310",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 44,
+                "username": "ahuang310"
+              }
+            ]
+          }
+        },
+        "id": "1808726116842229762",
+        "location": "-18cm",
+        "name": "阿皇",
+        "pinned_tweet_id": "2075642828856652025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980074616212140032/3YPK1Eqr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6978,
+          "following_count": 2236,
+          "like_count": 2505,
+          "listed_count": 37,
+          "media_count": 482,
+          "tweet_count": 2389
+        },
+        "url": "",
+        "username": "ahuang70378",
+        "verified": false
+      }
+    ]
+  }
+}
