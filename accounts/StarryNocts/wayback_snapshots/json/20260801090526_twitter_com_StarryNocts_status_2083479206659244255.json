@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2083121419916087539",
+    "created_at": "2026-08-01T09:05:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T10:05:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083479206659244255"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1925436656628416512",
+          "start": 0,
+          "username": "BlackChoco1ate"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083479206659244255",
+    "in_reply_to_user_id": "1925436656628416512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083151932475249035",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BlackChoco1ate 原来是这样嘛"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2083121419916087539",
+        "created_at": "2026-08-01T09:05:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T10:05:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083479206659244255"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1925436656628416512",
+              "start": 0,
+              "username": "BlackChoco1ate"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083479206659244255",
+        "in_reply_to_user_id": "1925436656628416512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083151932475249035",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BlackChoco1ate 原来是这样嘛"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1925436656628416512",
+        "conversation_id": "2083121419916087539",
+        "created_at": "2026-07-31T11:24:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T12:24:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083151932475249035"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1343151486432399360",
+              "start": 0,
+              "username": "StarryNocts"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083151932475249035",
+        "in_reply_to_user_id": "1343151486432399360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 52,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083121419916087539",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StarryNocts 我也想吃 这不是有现成的吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "🏳‍⚧｜备用:@StarryNoct ｜老公:@chinyu_ouo｜姐姐:@smiroyama\n对不起对不起对不起我的错 无人在意 互fo请私信（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 7,
+                "username": "StarryNoct"
+              },
+              {
+                "end": 34,
+                "start": 23,
+                "username": "chinyu_ouo"
+              },
+              {
+                "end": 48,
+                "start": 38,
+                "username": "smiroyama"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星✨",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073578724868636673/mdHJZ7GA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1609,
+          "following_count": 865,
+          "like_count": 4086,
+          "listed_count": 4,
+          "media_count": 276,
+          "tweet_count": 8883
+        },
+        "url": "",
+        "username": "StarryNocts",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-22T06:21:02.000Z",
+        "description": "Yumemizuki Mizuki/梦见月瑞希推🍡",
+        "id": "1925436656628416512",
+        "location": "夢見月",
+        "name": "黑巧Choco🍫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925443501329915904/7vd1KZ5Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 41,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 107
+        },
+        "url": "",
+        "username": "BlackChoco1ate",
+        "verified": true
+      }
+    ]
+  }
+}

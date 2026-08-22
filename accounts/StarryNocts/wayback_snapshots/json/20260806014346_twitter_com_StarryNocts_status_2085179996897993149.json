@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2084117685231812677",
+    "created_at": "2026-08-06T01:43:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T02:43:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085179996897993149"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2074330382238126081",
+          "start": 0,
+          "username": "cof2e2_aqua"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085179996897993149",
+    "in_reply_to_user_id": "2074330382238126081",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084227078539595988",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cof2e2_aqua 好诶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2084117685231812677",
+        "created_at": "2026-08-06T01:43:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T02:43:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085179996897993149"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2074330382238126081",
+              "start": 0,
+              "username": "cof2e2_aqua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085179996897993149",
+        "in_reply_to_user_id": "2074330382238126081",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084227078539595988",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cof2e2_aqua 好诶"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2074330382238126081",
+        "conversation_id": "2084117685231812677",
+        "created_at": "2026-08-03T10:37:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T11:37:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084227078539595988"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1343151486432399360",
+              "start": 0,
+              "username": "StarryNocts"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084227078539595988",
+        "in_reply_to_user_id": "1343151486432399360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 314,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084117685231812677",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StarryNocts 可愛捏❤️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "🏳‍⚧｜备用:@StarryNoct ｜老公:@chinyu_ouo｜姐姐:@smiroyama\n对不起对不起对不起我的错 无人在意 互fo请私信（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 7,
+                "username": "StarryNoct"
+              },
+              {
+                "end": 34,
+                "start": 23,
+                "username": "chinyu_ouo"
+              },
+              {
+                "end": 48,
+                "start": 38,
+                "username": "smiroyama"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星✨",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073578724868636673/mdHJZ7GA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1728,
+          "following_count": 885,
+          "like_count": 4085,
+          "listed_count": 4,
+          "media_count": 278,
+          "tweet_count": 8963
+        },
+        "url": "",
+        "username": "StarryNocts",
+        "verified": true
+      },
+      {
+        "created_at": "2026-07-07T03:12:38.000Z",
+        "description": "@lappland123456\n老婆我永遠愛你♡",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 0,
+                "username": "lappland123456"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@cof2e2_aqua?i…",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@cof2e2_aqua?igshid=NTc4MTIwNjQ2YQ==",
+                "start": 0,
+                "url": "https://t.co/Pw0Ezb2DDF"
+              }
+            ]
+          }
+        },
+        "id": "2074330382238126081",
+        "name": "coffee",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082133541064949760/1CvBTr58_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 155,
+          "like_count": 1138,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 76
+        },
+        "url": "https://t.co/Pw0Ezb2DDF",
+        "username": "cof2e2_aqua",
+        "verified": false
+      }
+    ]
+  }
+}

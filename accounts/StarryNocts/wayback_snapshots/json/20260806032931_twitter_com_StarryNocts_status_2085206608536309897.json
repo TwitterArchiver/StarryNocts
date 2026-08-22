@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2084117685231812677",
+    "created_at": "2026-08-06T03:29:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T04:29:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085206608536309897"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1197183325216985088",
+          "start": 0,
+          "username": "HentaiLooner"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085206608536309897",
+    "in_reply_to_user_id": "1197183325216985088",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084185229925683401",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HentaiLooner 吃吃"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2084185229925683401].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2084185229925683401",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2084185229925683401"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2084117685231812677",
+        "created_at": "2026-08-06T03:29:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T04:29:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085206608536309897"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1197183325216985088",
+              "start": 0,
+              "username": "HentaiLooner"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085206608536309897",
+        "in_reply_to_user_id": "1197183325216985088",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084185229925683401",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HentaiLooner 吃吃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "🏳‍⚧｜备用:@StarryNoct ｜老公:@chinyu_ouo｜姐姐:@smiroyama\n对不起对不起对不起我的错 无人在意 互fo请私信（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 7,
+                "username": "StarryNoct"
+              },
+              {
+                "end": 34,
+                "start": 23,
+                "username": "chinyu_ouo"
+              },
+              {
+                "end": 48,
+                "start": 38,
+                "username": "smiroyama"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星✨",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073578724868636673/mdHJZ7GA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1728,
+          "following_count": 885,
+          "like_count": 4085,
+          "listed_count": 4,
+          "media_count": 278,
+          "tweet_count": 8975
+        },
+        "url": "",
+        "username": "StarryNocts",
+        "verified": true
+      },
+      {
+        "created_at": "2019-11-20T16:02:14.000Z",
+        "description": "这里是狼的里推哦🔞 NSFW \n表推@King_White_Wolf\n精神支柱：@SANBqwq\n变态玩法Looner (nonpop/pop) ，Furry，双向，不稳定，推止于推，再说一遍，推止于推",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 18,
+                "username": "King_White_Wolf"
+              },
+              {
+                "end": 48,
+                "start": 40,
+                "username": "SANBqwq"
+              }
+            ]
+          }
+        },
+        "id": "1197183325216985088",
+        "location": "Bekasi, Jawa Barat Indonesia ",
+        "name": "咱是只白狼哦 🏳️‍🌈",
+        "pinned_tweet_id": "1876896659419828700",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1590359228782637057/b_Giu-Yx_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 611,
+          "following_count": 895,
+          "like_count": 6940,
+          "listed_count": 3,
+          "media_count": 134,
+          "tweet_count": 1055
+        },
+        "url": "",
+        "username": "HentaiLooner",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2061659822081319369",
+    "created_at": "2026-08-03T12:48:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T13:48:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084260081328410796"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2059504155828387845",
+          "start": 0,
+          "username": "Emmmpymh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084260081328410796",
+    "in_reply_to_user_id": "2059504155828387845",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084253101301833795",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Emmmpymh 现实里活不下去了 在网上找存在感来了 你敢在你母国大街上对跨性别这么说个试试吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2061659822081319369",
+        "created_at": "2026-08-03T12:48:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T13:48:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084260081328410796"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2059504155828387845",
+              "start": 0,
+              "username": "Emmmpymh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084260081328410796",
+        "in_reply_to_user_id": "2059504155828387845",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084253101301833795",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Emmmpymh 现实里活不下去了 在网上找存在感来了 你敢在你母国大街上对跨性别这么说个试试吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059504155828387845",
+        "conversation_id": "2061659822081319369",
+        "created_at": "2026-08-03T12:20:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T13:20:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084253101301833795"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1343151486432399360",
+              "start": 0,
+              "username": "StarryNocts"
+            },
+            {
+              "end": 24,
+              "id": "1643042412896583680",
+              "start": 13,
+              "username": "pannengrui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084253101301833795",
+        "in_reply_to_user_id": "1343151486432399360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062102235518210123",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StarryNocts @pannengrui 死人妖发个表情包以为自己很可爱？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "🏳‍⚧｜备用:@StarryNoct ｜老公:@chinyu_ouo｜姐姐:@smiroyama\n对不起对不起对不起我的错 无人在意 互fo请私信（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 7,
+                "username": "StarryNoct"
+              },
+              {
+                "end": 34,
+                "start": 23,
+                "username": "chinyu_ouo"
+              },
+              {
+                "end": 48,
+                "start": 38,
+                "username": "smiroyama"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星✨",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073578724868636673/mdHJZ7GA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1643,
+          "following_count": 874,
+          "like_count": 4088,
+          "listed_count": 4,
+          "media_count": 278,
+          "tweet_count": 8936
+        },
+        "url": "",
+        "username": "StarryNocts",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-27T05:17:31.000Z",
+        "description": "🧩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "l-five-delta.vercel.app",
+                "end": 23,
+                "expanded_url": "https://l-five-delta.vercel.app",
+                "start": 0,
+                "url": "https://t.co/CZyXY7E61U"
+              }
+            ]
+          }
+        },
+        "id": "2059504155828387845",
+        "location": "San Francisco, CA",
+        "name": "1130",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072464770196787200/fJ_vixfl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 177,
+          "like_count": 8013,
+          "listed_count": 1,
+          "media_count": 53,
+          "tweet_count": 578
+        },
+        "url": "https://t.co/CZyXY7E61U",
+        "username": "Emmmpymh",
+        "verified": false
+      }
+    ]
+  }
+}

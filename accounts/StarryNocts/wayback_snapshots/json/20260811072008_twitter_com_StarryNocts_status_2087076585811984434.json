@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2085936004461187111",
+    "created_at": "2026-08-11T07:20:08.000Z",
+    "display_text_range": [
+      13,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T08:20:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087076585811984434"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2074330382238126081",
+          "start": 0,
+          "username": "cof2e2_aqua"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087076585811984434",
+    "in_reply_to_user_id": "2074330382238126081",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086305267122340197",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cof2e2_aqua 🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2085936004461187111",
+        "created_at": "2026-08-11T07:20:08.000Z",
+        "display_text_range": [
+          13,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T08:20:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087076585811984434"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2074330382238126081",
+              "start": 0,
+              "username": "cof2e2_aqua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087076585811984434",
+        "in_reply_to_user_id": "2074330382238126081",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086305267122340197",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cof2e2_aqua 🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2074330382238126081",
+        "conversation_id": "2085936004461187111",
+        "created_at": "2026-08-09T04:15:12.000Z",
+        "display_text_range": [
+          13,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T05:15:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086305267122340197"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1343151486432399360",
+              "start": 0,
+              "username": "StarryNocts"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086305267122340197",
+        "in_reply_to_user_id": "1343151486432399360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085936004461187111",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StarryNocts 都好可愛～"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "🏳‍⚧｜备用:@StarryNoct ｜老公:@chinyu_ouo｜姐姐:@smiroyama\n对不起对不起对不起我的错 无人在意 互fo请私信（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 7,
+                "username": "StarryNoct"
+              },
+              {
+                "end": 34,
+                "start": 23,
+                "username": "chinyu_ouo"
+              },
+              {
+                "end": 48,
+                "start": 38,
+                "username": "smiroyama"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087076585811984434",
+        "name": "​碎星✨",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1343151486432399360/1784523472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073578724868636673/mdHJZ7GA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1756,
+          "following_count": 903,
+          "like_count": 4082,
+          "listed_count": 4,
+          "media_count": 282,
+          "tweet_count": 9082
+        },
+        "url": "",
+        "username": "StarryNocts",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-07T03:12:38.000Z",
+        "description": "@lappland123456\n老婆我永遠愛你♡",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 0,
+                "username": "lappland123456"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@cof2e2_aqua?i…",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@cof2e2_aqua?igshid=NTc4MTIwNjQ2YQ==",
+                "start": 0,
+                "url": "https://t.co/Pw0Ezb2DDF"
+              }
+            ]
+          }
+        },
+        "id": "2074330382238126081",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087047500582772985",
+        "name": "coffee",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2074330382238126081/1783394424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082133541064949760/1CvBTr58_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 162,
+          "like_count": 1253,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 86
+        },
+        "url": "https://t.co/Pw0Ezb2DDF",
+        "username": "cof2e2_aqua",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

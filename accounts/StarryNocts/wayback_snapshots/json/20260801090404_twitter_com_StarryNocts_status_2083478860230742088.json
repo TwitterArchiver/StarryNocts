@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2083121419916087539",
+    "created_at": "2026-08-01T09:04:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T10:04:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083478860230742088"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1847273900755087360",
+          "start": 0,
+          "username": "atzwzym"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083478860230742088",
+    "in_reply_to_user_id": "1847273900755087360",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083125559534772341",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@atzwzym 吃喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2083121419916087539",
+        "created_at": "2026-08-01T09:04:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T10:04:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083478860230742088"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1847273900755087360",
+              "start": 0,
+              "username": "atzwzym"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083478860230742088",
+        "in_reply_to_user_id": "1847273900755087360",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083125559534772341",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@atzwzym 吃喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1847273900755087360",
+        "conversation_id": "2083121419916087539",
+        "created_at": "2026-07-31T09:40:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T10:40:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083125559534772341"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1343151486432399360",
+              "start": 0,
+              "username": "StarryNocts"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083125559534772341",
+        "in_reply_to_user_id": "1343151486432399360",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 62,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083121419916087539",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StarryNocts 吃吃🥰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "🏳‍⚧｜备用:@StarryNoct ｜老公:@chinyu_ouo｜姐姐:@smiroyama\n对不起对不起对不起我的错 无人在意 互fo请私信（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 7,
+                "username": "StarryNoct"
+              },
+              {
+                "end": 34,
+                "start": 23,
+                "username": "chinyu_ouo"
+              },
+              {
+                "end": 48,
+                "start": 38,
+                "username": "smiroyama"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星✨",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073578724868636673/mdHJZ7GA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1609,
+          "following_count": 865,
+          "like_count": 4086,
+          "listed_count": 4,
+          "media_count": 276,
+          "tweet_count": 8874
+        },
+        "url": "",
+        "username": "StarryNocts",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-18T13:50:28.000Z",
+        "description": "大家好，我是上局CR300BF-5036\n无证含糖🍥\n是个hcm||玩modern warships||拒绝od、割手||喝点酒，但不抽烟\n准高三||物化地（喜爱地理）",
+        "id": "1847273900755087360",
+        "location": "中国铁路上海局集团有限公司南京东机辆段",
+        "name": "hhll5036🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042988278215790592/GXYR0nfK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 213,
+          "like_count": 481,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 334
+        },
+        "url": "",
+        "username": "atzwzym",
+        "verified": false
+      }
+    ]
+  }
+}

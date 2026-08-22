@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2086039562523193556",
+    "created_at": "2026-08-08T17:09:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-08T18:09:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086137812165021978"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2055205435011936256",
+          "start": 0,
+          "username": "Amin1650752"
+        },
+        {
+          "end": 23,
+          "id": "2042902564048355328",
+          "start": 13,
+          "username": "TTTypezhi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086137812165021978",
+    "in_reply_to_user_id": "2055205435011936256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086039562523193556",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Amin1650752 @TTTypezhi 好厉害"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2086039216291753984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPMZnWqasAAcF2T.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2086039562523193556",
+        "created_at": "2026-08-08T17:09:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-08T18:09:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086137812165021978"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2055205435011936256",
+              "start": 0,
+              "username": "Amin1650752"
+            },
+            {
+              "end": 23,
+              "id": "2042902564048355328",
+              "start": 13,
+              "username": "TTTypezhi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086137812165021978",
+        "in_reply_to_user_id": "2055205435011936256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086039562523193556",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Amin1650752 @TTTypezhi 好厉害"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086039216291753984"
+          ]
+        },
+        "author_id": "2055205435011936256",
+        "conversation_id": "2086039562523193556",
+        "created_at": "2026-08-08T10:39:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-08T11:39:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086039562523193556"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2042902564048355328",
+              "start": 1,
+              "username": "TTTypezhi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KcVwbFjM1u",
+              "end": 46,
+              "expanded_url": "https://x.com/Amin1650752/status/2086039562523193556/photo/1",
+              "media_key": "3_2086039216291753984",
+              "start": 23,
+              "url": "https://t.co/KcVwbFjM1u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086039562523193556",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1032,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "是@TTTypezhi姐姐的日雌喵很便宜喵😋 https://t.co/KcVwbFjM1u"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "🏳‍⚧｜备用:@StarryNoct ｜老公:@chinyu_ouo｜姐姐:@smiroyama\n对不起对不起对不起我的错 无人在意 互fo请私信（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 7,
+                "username": "StarryNoct"
+              },
+              {
+                "end": 34,
+                "start": 23,
+                "username": "chinyu_ouo"
+              },
+              {
+                "end": 48,
+                "start": 38,
+                "username": "smiroyama"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星✨",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073578724868636673/mdHJZ7GA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1744,
+          "following_count": 897,
+          "like_count": 4087,
+          "listed_count": 4,
+          "media_count": 280,
+          "tweet_count": 9060
+        },
+        "url": "",
+        "username": "StarryNocts",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-15T08:35:42.000Z",
+        "description": "04/RLE学习中/前世河野樱🍥/mtf/HRT 24.9.21/家暴党/transles/同类互fo/不鉴证&不o不割/大概同人游戏女（？）/姐姐@baka_yukilove",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 74,
+                "username": "baka_yukilove"
+              }
+            ]
+          }
+        },
+        "id": "2055205435011936256",
+        "location": "黑流树海",
+        "name": "-Amin🐱",
+        "pinned_tweet_id": "2058984452580380979",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085028285134864384/pg8rixLW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 336,
+          "following_count": 771,
+          "like_count": 9285,
+          "listed_count": 2,
+          "media_count": 22,
+          "tweet_count": 554
+        },
+        "url": "",
+        "username": "Amin1650752",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-11T09:48:33.000Z",
+        "description": "全世界最好的小女孩/She.Her/17岁的小笨蛋🥺/🎂2009.3.7/🍥:2025.1.9/RLE时间太长不记得了😢/有大证/不割手od/家长不支持/💰打工攒钱SRS中.../💀死了五个号/❌线下/努力生活中喵...",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "zinet.top",
+                "end": 23,
+                "expanded_url": "https://zinet.top",
+                "start": 0,
+                "url": "https://t.co/tc7gn1vBTW"
+              }
+            ]
+          }
+        },
+        "id": "2042902564048355328",
+        "location": "你家",
+        "name": "知式（四代目）🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042902713881731072/m36bwUKf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 745,
+          "following_count": 381,
+          "like_count": 30,
+          "listed_count": 1,
+          "media_count": 19,
+          "tweet_count": 110
+        },
+        "url": "https://t.co/tc7gn1vBTW",
+        "username": "TTTypezhi",
+        "verified": false
+      }
+    ]
+  }
+}

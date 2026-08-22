@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2087227866941727036",
+    "created_at": "2026-08-12T01:59:50.000Z",
+    "display_text_range": [
+      13,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T02:59:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087358364548534486"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2055205435011936256",
+          "start": 0,
+          "username": "Amin1650752"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087358364548534486",
+    "in_reply_to_user_id": "2055205435011936256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087227866941727036",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Amin1650752 妈妈…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2087227866941727036",
+        "created_at": "2026-08-12T01:59:50.000Z",
+        "display_text_range": [
+          13,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T02:59:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087358364548534486"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2055205435011936256",
+              "start": 0,
+              "username": "Amin1650752"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087358364548534486",
+        "in_reply_to_user_id": "2055205435011936256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087227866941727036",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Amin1650752 妈妈…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055205435011936256",
+        "conversation_id": "2087227866941727036",
+        "created_at": "2026-08-11T17:21:16.000Z",
+        "display_text_range": [
+          0,
+          145
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T18:21:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087227866941727036"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LingYu0612/sta…",
+              "end": 169,
+              "expanded_url": "https://twitter.com/LingYu0612/status/2087197010290196858",
+              "start": 146,
+              "url": "https://t.co/TMHAE8t9Mn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087227866941727036",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "本人决定开除自己的跨籍，因为本人发现自己只是会对男性性征产生轻微焦虑恶心，轻微厌恶自己的生殖器，被当成女性也会感到非常开心，被当成男性会感到轻微难过，经过多次尝试自我扭转和逃避现实，不知道有没有效，遂尝试GAHT减轻痛苦，但本人深知自己是骗炮含糖顺直男，且与ICD-11中关于跨性别的诊断内容完全不符（指派性别与经验性别不一致)，目前看来本人只是个脑子有病的阴暗做题蛆，还请大家以他/臭郭楠/死肥猪称呼我，希望未来科技发展可以让我更简便的购入好咸好苦飞升雌二醇星球生活🥰🥰"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 179,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087197010290196858",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "本人决定开除自己的跨籍，因为本人发现自己只是会对男性性征产生轻微焦虑恶心，轻微厌恶自己的生殖器，被当成女性也会感到非常开心，被当成男性会感到轻微难过，经过多次尝试自我扭转和逃避现实，不知道有没有效，遂尝试GAHT减轻痛苦，但本人深知自己是骗炮含糖顺直男，且与ICD-11中关于跨性别的诊断内 https://t.co/TMHAE8t9Mn"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "🏳‍⚧｜备用:@StarryNoct ｜老公:@chinyu_ouo｜姐姐:@smiroyama\n对不起对不起对不起我的错 无人在意 互fo请私信（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 7,
+                "username": "StarryNoct"
+              },
+              {
+                "end": 34,
+                "start": 23,
+                "username": "chinyu_ouo"
+              },
+              {
+                "end": 48,
+                "start": 38,
+                "username": "smiroyama"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087358364548534486",
+        "name": "​碎星✨",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1343151486432399360/1784523472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073578724868636673/mdHJZ7GA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1778,
+          "following_count": 903,
+          "like_count": 4082,
+          "listed_count": 4,
+          "media_count": 282,
+          "tweet_count": 9097
+        },
+        "url": "",
+        "username": "StarryNocts",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-15T08:35:42.000Z",
+        "description": "04/RLE学习中/前世河野樱🍥/mtf/HRT 24.9.21/家暴党/transles/同类互fo/不鉴证&不o不割/大概同人游戏女（？）/姐姐@baka_yukilove",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 74,
+                "username": "baka_yukilove"
+              }
+            ]
+          }
+        },
+        "id": "2055205435011936256",
+        "is_identity_verified": false,
+        "location": "黑流树海",
+        "most_recent_tweet_id": "2087231126272344317",
+        "name": "-Amin🐱",
+        "pinned_tweet_id": "2058984452580380979",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055205435011936256/1781585938",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085028285134864384/pg8rixLW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 354,
+          "following_count": 797,
+          "like_count": 9753,
+          "listed_count": 2,
+          "media_count": 22,
+          "tweet_count": 620
+        },
+        "url": "",
+        "username": "Amin1650752",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

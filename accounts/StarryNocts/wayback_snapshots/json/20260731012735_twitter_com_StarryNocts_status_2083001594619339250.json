@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2082289545731850249",
+    "created_at": "2026-07-31T01:27:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T02:27:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083001594619339250"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1855493934371549184",
+          "start": 0,
+          "username": "LimneAe3800y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083001594619339250",
+    "in_reply_to_user_id": "1855493934371549184",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082399484278157343",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LimneAe3800y 摸摸摸摸"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2082289545731850249",
+        "created_at": "2026-07-31T01:27:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T02:27:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083001594619339250"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1855493934371549184",
+              "start": 0,
+              "username": "LimneAe3800y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083001594619339250",
+        "in_reply_to_user_id": "1855493934371549184",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082399484278157343",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LimneAe3800y 摸摸摸摸"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1855493934371549184",
+        "conversation_id": "2082289545731850249",
+        "created_at": "2026-07-29T09:35:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T10:35:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082399484278157343"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1343151486432399360",
+              "start": 0,
+              "username": "StarryNocts"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082399484278157343",
+        "in_reply_to_user_id": "1343151486432399360",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082289545731850249",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StarryNocts 好看捏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "🏳‍⚧｜备用:@StarryNoct ｜老公:@chinyu_ouo｜姐姐:@smiroyama\n对不起对不起对不起我的错 无人在意 互fo请私信（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 7,
+                "username": "StarryNoct"
+              },
+              {
+                "end": 34,
+                "start": 23,
+                "username": "chinyu_ouo"
+              },
+              {
+                "end": 48,
+                "start": 38,
+                "username": "smiroyama"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星✨",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073578724868636673/mdHJZ7GA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1585,
+          "following_count": 853,
+          "like_count": 4083,
+          "listed_count": 4,
+          "media_count": 275,
+          "tweet_count": 8831
+        },
+        "url": "",
+        "username": "StarryNocts",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-10T06:13:54.000Z",
+        "description": "社交萌新，还请大家多照顾……\n喜欢听电子音乐，喜好畅想未来和宇宙星空，想与合得来的伙伴互Follow交朋友″(⑉°з°)-♡\n亲密朋友 丨@hoshinofujivy \n邮箱📮：limncheetein.kirapusoq86@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 69,
+                "username": "hoshinofujivy"
+              }
+            ]
+          }
+        },
+        "id": "1855493934371549184",
+        "location": "仙英座北极星✧",
+        "name": "～Hoyitaze limne Azu.（_Official）",
+        "pinned_tweet_id": "2080322151396049190",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038264538207072256/c29B4Igc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 103,
+          "like_count": 3398,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 1600
+        },
+        "url": "",
+        "username": "LimneAe3800y",
+        "verified": false
+      }
+    ]
+  }
+}

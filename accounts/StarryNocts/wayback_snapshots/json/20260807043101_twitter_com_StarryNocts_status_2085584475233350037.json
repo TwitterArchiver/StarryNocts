@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2085219549377372646",
+    "created_at": "2026-08-07T04:31:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T05:31:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085584475233350037"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1913367572730490880",
+          "start": 0,
+          "username": "wayuuuuu_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085584475233350037",
+    "in_reply_to_user_id": "1913367572730490880",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085219549377372646",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wayuuuuu_ i want to wear a  same one!!!"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 893,
+        "media_key": "3_2085219479202439168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPAwEYCWIAAppZx.jpg",
+        "width": 401
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2085219549377372646",
+        "created_at": "2026-08-07T04:31:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T05:31:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085584475233350037"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1913367572730490880",
+              "start": 0,
+              "username": "wayuuuuu_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085584475233350037",
+        "in_reply_to_user_id": "1913367572730490880",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085219549377372646",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wayuuuuu_ i want to wear a  same one!!!"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085219479202439168"
+          ]
+        },
+        "author_id": "1913367572730490880",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2085219549377372646",
+        "created_at": "2026-08-06T04:20:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T05:20:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085219549377372646"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 17,
+              "start": 10,
+              "tag": "femboy"
+            },
+            {
+              "end": 26,
+              "start": 18,
+              "tag": "cosplay"
+            },
+            {
+              "end": 36,
+              "start": 27,
+              "tag": "jiraikei"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wM1qjVD7QB",
+              "end": 60,
+              "expanded_url": "https://x.com/wayuuuuu_/status/2085219549377372646/photo/1",
+              "media_key": "3_2085219479202439168",
+              "start": 37,
+              "url": "https://t.co/wM1qjVD7QB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085219549377372646",
+        "lang": "in",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 610,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "jirai boy\n#femboy #cosplay #jiraikei https://t.co/wM1qjVD7QB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "🏳‍⚧｜备用:@StarryNoct ｜老公:@chinyu_ouo｜姐姐:@smiroyama\n对不起对不起对不起我的错 无人在意 互fo请私信（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 7,
+                "username": "StarryNoct"
+              },
+              {
+                "end": 34,
+                "start": 23,
+                "username": "chinyu_ouo"
+              },
+              {
+                "end": 48,
+                "start": 38,
+                "username": "smiroyama"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星✨",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073578724868636673/mdHJZ7GA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1740,
+          "following_count": 890,
+          "like_count": 4084,
+          "listed_count": 4,
+          "media_count": 279,
+          "tweet_count": 9019
+        },
+        "url": "",
+        "username": "StarryNocts",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-18T23:02:47.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bollos.straw.page",
+                "end": 23,
+                "expanded_url": "https://bollos.straw.page",
+                "start": 0,
+                "url": "https://t.co/Tr2WTcAzLG"
+              }
+            ]
+          }
+        },
+        "id": "1913367572730490880",
+        "location": "21♂️ | Esp/Eng | MDNI",
+        "name": "˚₊‧꒰ა B💙llo ໒꒱ ‧₊˚",
+        "pinned_tweet_id": "2073239281200435709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082355976737312769/djwW84Xl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268,
+          "following_count": 274,
+          "like_count": 8283,
+          "listed_count": 5,
+          "media_count": 261,
+          "tweet_count": 3107
+        },
+        "url": "https://t.co/Tr2WTcAzLG",
+        "username": "wayuuuuu_",
+        "verified": false
+      }
+    ]
+  }
+}

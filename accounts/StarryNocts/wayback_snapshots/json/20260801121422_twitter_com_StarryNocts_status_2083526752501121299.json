@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2083491575318155443",
+    "created_at": "2026-08-01T12:14:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T13:14:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083526752501121299"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1442362841193795593",
+          "start": 0,
+          "username": "kusunoki_riko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083526752501121299",
+    "in_reply_to_user_id": "1442362841193795593",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083491575318155443",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kusunoki_riko 大姐姐！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2083491547312705536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOoMhgIaUAASGR8.jpg",
+        "width": 3072
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2083491563536306176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOoMicka0AAZaMW.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2083491575318155443",
+        "created_at": "2026-08-01T12:14:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T13:14:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083526752501121299"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1442362841193795593",
+              "start": 0,
+              "username": "kusunoki_riko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083526752501121299",
+        "in_reply_to_user_id": "1442362841193795593",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083491575318155443",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kusunoki_riko 大姐姐！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083491547312705536",
+            "3_2083491563536306176"
+          ]
+        },
+        "author_id": "1442362841193795593",
+        "conversation_id": "2083491575318155443",
+        "created_at": "2026-08-01T09:54:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T10:54:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083491575318155443"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GNoZMCc3dh",
+              "end": 87,
+              "expanded_url": "https://x.com/kusunoki_riko/status/2083491575318155443/photo/1",
+              "media_key": "3_2083491547312705536",
+              "start": 64,
+              "url": "https://t.co/GNoZMCc3dh"
+            },
+            {
+              "display_url": "pic.x.com/GNoZMCc3dh",
+              "end": 87,
+              "expanded_url": "https://x.com/kusunoki_riko/status/2083491575318155443/photo/1",
+              "media_key": "3_2083491563536306176",
+              "start": 64,
+              "url": "https://t.co/GNoZMCc3dh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083491575318155443",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 304,
+          "like_count": 16,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好久不见的朋友好久不见。\n初次见面的朋友请多关照。\n楠理子です。\n\n坐标北京的搬砖狗一枚。\n大概是日常推加ACGN相关的内容。 https://t.co/GNoZMCc3dh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "🏳‍⚧｜备用:@StarryNoct ｜老公:@chinyu_ouo｜姐姐:@smiroyama\n对不起对不起对不起我的错 无人在意 互fo请私信（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 7,
+                "username": "StarryNoct"
+              },
+              {
+                "end": 34,
+                "start": 23,
+                "username": "chinyu_ouo"
+              },
+              {
+                "end": 48,
+                "start": 38,
+                "username": "smiroyama"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星✨",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073578724868636673/mdHJZ7GA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1609,
+          "following_count": 865,
+          "like_count": 4087,
+          "listed_count": 4,
+          "media_count": 276,
+          "tweet_count": 8897
+        },
+        "url": "",
+        "username": "StarryNocts",
+        "verified": true
+      },
+      {
+        "created_at": "2021-09-27T05:38:10.000Z",
+        "description": "赌书消得泼茶香，当时只道是寻常",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/kusunoki_riko",
+                "end": 23,
+                "expanded_url": "https://t.me/kusunoki_riko",
+                "start": 0,
+                "url": "https://t.co/n7zJdOnlgI"
+              }
+            ]
+          }
+        },
+        "id": "1442362841193795593",
+        "location": "此心安处是吾乡",
+        "name": "楠•理子",
+        "pinned_tweet_id": "2083491575318155443",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079083393401380865/XQJlXSb4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8135,
+          "following_count": 1489,
+          "like_count": 107399,
+          "listed_count": 32,
+          "media_count": 4314,
+          "tweet_count": 58230
+        },
+        "url": "https://t.co/n7zJdOnlgI",
+        "username": "kusunoki_riko",
+        "verified": true
+      }
+    ]
+  }
+}

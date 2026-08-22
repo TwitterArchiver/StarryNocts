@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2083962201573048813",
+    "created_at": "2026-08-03T06:43:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T07:43:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084168201370251655"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1768935696646238208",
+          "start": 0,
+          "username": "PsycheRabbiiOwO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084168201370251655",
+    "in_reply_to_user_id": "1768935696646238208",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083962201573048813",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PsycheRabbiiOwO 萌萌"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1711,
+        "media_key": "3_2083962192031027200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOu4koVakAA7Zax.jpg",
+        "width": 1136
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2083962201573048813",
+        "created_at": "2026-08-03T06:43:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T07:43:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084168201370251655"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1768935696646238208",
+              "start": 0,
+              "username": "PsycheRabbiiOwO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084168201370251655",
+        "in_reply_to_user_id": "1768935696646238208",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083962201573048813",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PsycheRabbiiOwO 萌萌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083962192031027200"
+          ]
+        },
+        "author_id": "1768935696646238208",
+        "conversation_id": "2083962201573048813",
+        "created_at": "2026-08-02T17:04:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T18:04:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083962201573048813"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tvNyjA70VW",
+              "end": 29,
+              "expanded_url": "https://x.com/PsycheRabbiiOwO/status/2083962201573048813/photo/1",
+              "media_key": "3_2083962192031027200",
+              "start": 6,
+              "url": "https://t.co/tvNyjA70VW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083962201573048813",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 749,
+          "like_count": 49,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "早期照片（ https://t.co/tvNyjA70VW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "🏳‍⚧｜备用:@StarryNoct ｜老公:@chinyu_ouo｜姐姐:@smiroyama\n对不起对不起对不起我的错 无人在意 互fo请私信（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 7,
+                "username": "StarryNoct"
+              },
+              {
+                "end": 34,
+                "start": 23,
+                "username": "chinyu_ouo"
+              },
+              {
+                "end": 48,
+                "start": 38,
+                "username": "smiroyama"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星✨",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073578724868636673/mdHJZ7GA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1629,
+          "following_count": 870,
+          "like_count": 4088,
+          "listed_count": 4,
+          "media_count": 277,
+          "tweet_count": 8931
+        },
+        "url": "",
+        "username": "StarryNocts",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔发疯/你喜欢我我喜欢你\n调戏链接：https://t.co/EvAZCy4Miy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 53,
+                "expanded_url": "http://ngl.link/psycherabbii1",
+                "start": 30,
+                "url": "https://t.co/EvAZCy4Miy"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "People's Dictatorship of China",
+        "name": "🤯凌月月🤯🩵🩷🤍🩷🩵",
+        "pinned_tweet_id": "2050853542223896951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1409,
+          "following_count": 1773,
+          "like_count": 21568,
+          "listed_count": 2,
+          "media_count": 366,
+          "tweet_count": 3258
+        },
+        "url": "",
+        "username": "PsycheRabbiiOwO",
+        "verified": true
+      }
+    ]
+  }
+}

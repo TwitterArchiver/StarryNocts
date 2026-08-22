@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2084960878949233021",
+    "created_at": "2026-08-05T12:01:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T13:01:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084973088161321296"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1650507308101779458",
+          "start": 0,
+          "username": "qingzhiwum47315"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084973088161321296",
+    "in_reply_to_user_id": "1650507308101779458",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084971906739163275",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qingzhiwum47315 别人送的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2084960878949233021",
+        "created_at": "2026-08-05T12:01:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T13:01:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084973088161321296"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1650507308101779458",
+              "start": 0,
+              "username": "qingzhiwum47315"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084973088161321296",
+        "in_reply_to_user_id": "1650507308101779458",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084971906739163275",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qingzhiwum47315 别人送的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650507308101779458",
+        "conversation_id": "2084960878949233021",
+        "created_at": "2026-08-05T11:56:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T12:56:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084971906739163275"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1343151486432399360",
+              "start": 0,
+              "username": "StarryNocts"
+            },
+            {
+              "end": 23,
+              "id": "1946799807366082560",
+              "start": 13,
+              "username": "LeavesMao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084971906739163275",
+        "in_reply_to_user_id": "1343151486432399360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084967433392234627",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StarryNocts @LeavesMao 你不是也开了😡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "🏳‍⚧｜备用:@StarryNoct ｜老公:@chinyu_ouo｜姐姐:@smiroyama\n对不起对不起对不起我的错 无人在意 互fo请私信（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 7,
+                "username": "StarryNoct"
+              },
+              {
+                "end": 34,
+                "start": 23,
+                "username": "chinyu_ouo"
+              },
+              {
+                "end": 48,
+                "start": 38,
+                "username": "smiroyama"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星✨",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073578724868636673/mdHJZ7GA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1728,
+          "following_count": 885,
+          "like_count": 4087,
+          "listed_count": 4,
+          "media_count": 278,
+          "tweet_count": 8958
+        },
+        "url": "",
+        "username": "StarryNocts",
+        "verified": true
+      },
+      {
+        "created_at": "2023-04-24T14:29:59.000Z",
+        "description": "",
+        "id": "1650507308101779458",
+        "name": "Dreamless-栀子花",
+        "pinned_tweet_id": "1901765651599176168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901628871801450496/rUwOBCxx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 238,
+          "following_count": 430,
+          "like_count": 4709,
+          "listed_count": 1,
+          "media_count": 31,
+          "tweet_count": 715
+        },
+        "url": "",
+        "username": "qingzhiwum47315",
+        "verified": false
+      }
+    ]
+  }
+}

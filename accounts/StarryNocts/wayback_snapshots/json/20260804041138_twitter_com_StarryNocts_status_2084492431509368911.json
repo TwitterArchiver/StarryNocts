@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2061659822081319369",
+    "created_at": "2026-08-04T04:11:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T05:11:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084492431509368911"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2059504155828387845",
+          "start": 0,
+          "username": "Emmmpymh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084492431509368911",
+    "in_reply_to_user_id": "2059504155828387845",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084488163955970489",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Emmmpymh 不好意思 还真看过😅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2061659822081319369",
+        "created_at": "2026-08-04T04:11:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T05:11:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084492431509368911"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2059504155828387845",
+              "start": 0,
+              "username": "Emmmpymh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084492431509368911",
+        "in_reply_to_user_id": "2059504155828387845",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084488163955970489",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Emmmpymh 不好意思 还真看过😅"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059504155828387845",
+        "conversation_id": "2061659822081319369",
+        "created_at": "2026-08-04T03:54:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T04:54:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084488163955970489"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1343151486432399360",
+              "start": 0,
+              "username": "StarryNocts"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084488163955970489",
+        "in_reply_to_user_id": "1343151486432399360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084448459772620823",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StarryNocts 你能不能换一点有攻击力的？你就是诅咒我一千遍我也是有父母。\n你要是把你在X上的主页给你爸妈看说不定真的会被赶出家门😂打死也想不到自己的做题区儿子还想要想女生一样老东西要被气死咯"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "🏳‍⚧｜备用:@StarryNoct ｜老公:@chinyu_ouo｜姐姐:@smiroyama\n对不起对不起对不起我的错 无人在意 互fo请私信（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 7,
+                "username": "StarryNoct"
+              },
+              {
+                "end": 34,
+                "start": 23,
+                "username": "chinyu_ouo"
+              },
+              {
+                "end": 48,
+                "start": 38,
+                "username": "smiroyama"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星✨",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073578724868636673/mdHJZ7GA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1690,
+          "following_count": 876,
+          "like_count": 4088,
+          "listed_count": 5,
+          "media_count": 278,
+          "tweet_count": 8942
+        },
+        "url": "",
+        "username": "StarryNocts",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-27T05:17:31.000Z",
+        "description": "🧩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "l-five-delta.vercel.app",
+                "end": 23,
+                "expanded_url": "https://l-five-delta.vercel.app",
+                "start": 0,
+                "url": "https://t.co/CZyXY7E61U"
+              }
+            ]
+          }
+        },
+        "id": "2059504155828387845",
+        "location": "San Francisco, CA",
+        "name": "1130",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072464770196787200/fJ_vixfl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 177,
+          "like_count": 8027,
+          "listed_count": 1,
+          "media_count": 53,
+          "tweet_count": 582
+        },
+        "url": "https://t.co/CZyXY7E61U",
+        "username": "Emmmpymh",
+        "verified": false
+      }
+    ]
+  }
+}

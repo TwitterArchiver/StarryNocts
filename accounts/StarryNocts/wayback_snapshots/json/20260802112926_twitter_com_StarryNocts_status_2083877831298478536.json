@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2083870658493309318",
+    "created_at": "2026-08-02T11:29:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T12:29:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083877831298478536"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1929798380240465921",
+          "start": 0,
+          "username": "AacerF59616"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083877831298478536",
+    "in_reply_to_user_id": "1929798380240465921",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083870658493309318",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AacerF59616 好吃的！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2083870647860801536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOtlUDubMAAe8Kx.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2083870658493309318",
+        "created_at": "2026-08-02T11:29:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T12:29:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083877831298478536"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1929798380240465921",
+              "start": 0,
+              "username": "AacerF59616"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083877831298478536",
+        "in_reply_to_user_id": "1929798380240465921",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083870658493309318",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AacerF59616 好吃的！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083870647860801536"
+          ]
+        },
+        "author_id": "1929798380240465921",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2083870658493309318",
+        "created_at": "2026-08-02T11:00:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T12:00:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083870658493309318"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/g4KRj4VyuD",
+              "end": 29,
+              "expanded_url": "https://x.com/AacerF59616/status/2083870658493309318/photo/1",
+              "media_key": "3_2083870647860801536",
+              "start": 6,
+              "url": "https://t.co/g4KRj4VyuD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083870658493309318",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 118,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天份晚饭 https://t.co/g4KRj4VyuD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "🏳‍⚧｜备用:@StarryNoct ｜老公:@chinyu_ouo｜姐姐:@smiroyama\n对不起对不起对不起我的错 无人在意 互fo请私信（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 7,
+                "username": "StarryNoct"
+              },
+              {
+                "end": 34,
+                "start": 23,
+                "username": "chinyu_ouo"
+              },
+              {
+                "end": 48,
+                "start": 38,
+                "username": "smiroyama"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星✨",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073578724868636673/mdHJZ7GA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1618,
+          "following_count": 868,
+          "like_count": 4088,
+          "listed_count": 4,
+          "media_count": 276,
+          "tweet_count": 8916
+        },
+        "url": "",
+        "username": "StarryNocts",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜性别指派男 认同女｜HRT：2026.7.9｜家长党｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od戒自伤少见证？｜有小众癖好｜同类可互fo｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "id": "1929798380240465921",
+        "location": "金星 伊什塔高地",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙ᴹᴷ⁻ᴱᵐᵇᵉʳ",
+        "pinned_tweet_id": "2068738476930179271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082961413799358464/m2AI6tXH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 850,
+          "following_count": 727,
+          "like_count": 4825,
+          "listed_count": 2,
+          "media_count": 222,
+          "tweet_count": 1415
+        },
+        "url": "",
+        "username": "AacerF59616",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2084700246286934052",
+    "created_at": "2026-08-05T02:59:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T03:59:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084836670839644236"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1944397601354465280",
+          "start": 0,
+          "username": "AzusaBA0713"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084836670839644236",
+    "in_reply_to_user_id": "1944397601354465280",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084700246286934052",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AzusaBA0713 😋"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3628,
+        "media_key": "3_2084700230273183744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO5X0HCbsAABN4n.jpg",
+        "width": 2720
+      },
+      {
+        "height": 1073,
+        "media_key": "3_2084700240251355136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO5X0sNagAAiLti.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2084700246286934052",
+        "created_at": "2026-08-05T02:59:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T03:59:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084836670839644236"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1944397601354465280",
+              "start": 0,
+              "username": "AzusaBA0713"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084836670839644236",
+        "in_reply_to_user_id": "1944397601354465280",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084700246286934052",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AzusaBA0713 😋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084700230273183744",
+            "3_2084700240251355136"
+          ]
+        },
+        "author_id": "1944397601354465280",
+        "conversation_id": "2084700246286934052",
+        "created_at": "2026-08-04T17:57:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T18:57:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084700246286934052"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uoEJEpkLJS",
+              "end": 74,
+              "expanded_url": "https://x.com/AzusaBA0713/status/2084700246286934052/photo/1",
+              "media_key": "3_2084700230273183744",
+              "start": 51,
+              "url": "https://t.co/uoEJEpkLJS"
+            },
+            {
+              "display_url": "pic.x.com/uoEJEpkLJS",
+              "end": 74,
+              "expanded_url": "https://x.com/AzusaBA0713/status/2084700246286934052/photo/1",
+              "media_key": "3_2084700240251355136",
+              "start": 51,
+              "url": "https://t.co/uoEJEpkLJS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084700246286934052",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 195,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "已成功拍攝喵...\n😭😭(2025.10.28之後的第一次黑絲😭😭，之後等我好了還會拍很多的QwQ) https://t.co/uoEJEpkLJS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "🏳‍⚧｜备用:@StarryNoct ｜老公:@chinyu_ouo｜姐姐:@smiroyama\n对不起对不起对不起我的错 无人在意 互fo请私信（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 7,
+                "username": "StarryNoct"
+              },
+              {
+                "end": 34,
+                "start": 23,
+                "username": "chinyu_ouo"
+              },
+              {
+                "end": 48,
+                "start": 38,
+                "username": "smiroyama"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星✨",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073578724868636673/mdHJZ7GA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1728,
+          "following_count": 885,
+          "like_count": 4088,
+          "listed_count": 4,
+          "media_count": 278,
+          "tweet_count": 8951
+        },
+        "url": "",
+        "username": "StarryNocts",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-13T14:05:32.000Z",
+        "description": "一只喜欢吃糖🍥の小孩纸˃ ˄ ˂̥/已炸柜/家长不管/INFP-T/生产日期 农历六月初二2010/7/13/1.65m/mtf/hrt2025.5.1/中度抑郁/高敏註意...養傷中。\n請多多關心我\n最爱の笨宝宝:@XueFu13456\n供🍬の猫猫:@AksharJethwa\n呆呆瓜星羽:@seiuki070327",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 108,
+                "username": "XueFu13456"
+              },
+              {
+                "end": 139,
+                "start": 126,
+                "username": "AksharJethwa"
+              },
+              {
+                "end": 159,
+                "start": 146,
+                "username": "seiuki070327"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/AzusaBA0713",
+                "end": 23,
+                "expanded_url": "http://t.me/AzusaBA0713",
+                "start": 0,
+                "url": "https://t.co/bbrOTQXtfz"
+              }
+            ]
+          }
+        },
+        "id": "1944397601354465280",
+        "location": "坐在守月的大金金上~",
+        "name": "木辛伊(梓星星)🍥",
+        "pinned_tweet_id": "2001140478084001950",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059476908623151105/bgmq9-he_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2002,
+          "following_count": 1733,
+          "like_count": 3543,
+          "listed_count": 7,
+          "media_count": 353,
+          "tweet_count": 704
+        },
+        "url": "https://t.co/bbrOTQXtfz",
+        "username": "AzusaBA0713",
+        "verified": false
+      }
+    ]
+  }
+}

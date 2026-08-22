@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2085762982848688532",
+    "created_at": "2026-08-07T22:16:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T23:16:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085852558741164218"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1952805837401202688",
+          "start": 0,
+          "username": "Z9Gsystem"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085852558741164218",
+    "in_reply_to_user_id": "1952805837401202688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085762982848688532",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Z9Gsystem 贴贴"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2085762852321947649",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPIeQ2pa8AEPxMX.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2085762882634182663",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPIeSnka8Acretc.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2085762912216608770",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPIeUVxa8AIwv3r.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2085762952528035840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPIeWr8agAAWIuU.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2085762982848688532",
+        "created_at": "2026-08-07T22:16:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T23:16:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085852558741164218"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1952805837401202688",
+              "start": 0,
+              "username": "Z9Gsystem"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085852558741164218",
+        "in_reply_to_user_id": "1952805837401202688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085762982848688532",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Z9Gsystem 贴贴"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085762852321947649",
+            "3_2085762882634182663",
+            "3_2085762912216608770",
+            "3_2085762952528035840"
+          ]
+        },
+        "author_id": "1952805837401202688",
+        "conversation_id": "2085762982848688532",
+        "created_at": "2026-08-07T16:20:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T17:20:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085762982848688532"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qZEyZaKGq2",
+              "end": 29,
+              "expanded_url": "https://x.com/Z9Gsystem/status/2085762982848688532/photo/1",
+              "media_key": "3_2085762852321947649",
+              "start": 6,
+              "url": "https://t.co/qZEyZaKGq2"
+            },
+            {
+              "display_url": "pic.x.com/qZEyZaKGq2",
+              "end": 29,
+              "expanded_url": "https://x.com/Z9Gsystem/status/2085762982848688532/photo/1",
+              "media_key": "3_2085762882634182663",
+              "start": 6,
+              "url": "https://t.co/qZEyZaKGq2"
+            },
+            {
+              "display_url": "pic.x.com/qZEyZaKGq2",
+              "end": 29,
+              "expanded_url": "https://x.com/Z9Gsystem/status/2085762982848688532/photo/1",
+              "media_key": "3_2085762912216608770",
+              "start": 6,
+              "url": "https://t.co/qZEyZaKGq2"
+            },
+            {
+              "display_url": "pic.x.com/qZEyZaKGq2",
+              "end": 29,
+              "expanded_url": "https://x.com/Z9Gsystem/status/2085762982848688532/photo/1",
+              "media_key": "3_2085762952528035840",
+              "start": 6,
+              "url": "https://t.co/qZEyZaKGq2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085762982848688532",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1286,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "长发男耍嘛 https://t.co/qZEyZaKGq2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "🏳‍⚧｜备用:@StarryNoct ｜老公:@chinyu_ouo｜姐姐:@smiroyama\n对不起对不起对不起我的错 无人在意 互fo请私信（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 7,
+                "username": "StarryNoct"
+              },
+              {
+                "end": 34,
+                "start": 23,
+                "username": "chinyu_ouo"
+              },
+              {
+                "end": 48,
+                "start": 38,
+                "username": "smiroyama"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星✨",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073578724868636673/mdHJZ7GA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1741,
+          "following_count": 896,
+          "like_count": 4084,
+          "listed_count": 4,
+          "media_count": 279,
+          "tweet_count": 9044
+        },
+        "url": "",
+        "username": "StarryNocts",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-05T18:56:30.000Z",
+        "description": "07  四川 男\n成分复杂 OverDoes 女装 友跨🏳️‍⚧️  亚文化🖤后朋🤘🏻 无政府主义爱好者☠️  \n哲学 心理学重度依赖🥺\n全X使命召唤手游最强玩家\n 机车 抑郁 焦虑 BPD \n多意识体系统:李玖钟system\n世界上成分最复杂之人\n期待互fo喵\n座右铭:\n意义由存在的当下赋予",
+        "id": "1952805837401202688",
+        "location": "距离你114514km",
+        "name": "Aliseya",
+        "pinned_tweet_id": "2049564004264362377",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960586455530790912/fMX1dRw2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 312,
+          "following_count": 373,
+          "like_count": 570,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 675
+        },
+        "url": "",
+        "username": "Z9Gsystem",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2088549057589653598",
+    "created_at": "2026-08-16T02:44:12.000Z",
+    "display_text_range": [
+      17,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T03:44:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088819081826935087"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1282017604362571777",
+          "start": 0,
+          "username": "uPX8HIP7AndEVKd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088819081826935087",
+    "in_reply_to_user_id": "1282017604362571777",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088603391597658224",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@uPX8HIP7AndEVKd 喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2088549057589653598",
+        "created_at": "2026-08-16T02:44:12.000Z",
+        "display_text_range": [
+          17,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T03:44:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088819081826935087"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1282017604362571777",
+              "start": 0,
+              "username": "uPX8HIP7AndEVKd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088819081826935087",
+        "in_reply_to_user_id": "1282017604362571777",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088603391597658224",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uPX8HIP7AndEVKd 喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1282017604362571777",
+        "conversation_id": "2088549057589653598",
+        "created_at": "2026-08-15T12:27:07.000Z",
+        "display_text_range": [
+          13,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T13:27:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088603391597658224"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1343151486432399360",
+              "start": 0,
+              "username": "StarryNocts"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088603391597658224",
+        "in_reply_to_user_id": "1343151486432399360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 61,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088549057589653598",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StarryNocts 贴贴"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "🏳‍⚧｜备用:@StarryNoct ｜老公:@chinyu_ouo｜姐姐:@smiroyama\n对不起对不起对不起我的错 无人在意 互fo请私信（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 7,
+                "username": "StarryNoct"
+              },
+              {
+                "end": 34,
+                "start": 23,
+                "username": "chinyu_ouo"
+              },
+              {
+                "end": 48,
+                "start": 38,
+                "username": "smiroyama"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088819081826935087",
+        "name": "​碎星✨",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1343151486432399360/1784523472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073578724868636673/mdHJZ7GA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1796,
+          "following_count": 920,
+          "like_count": 4087,
+          "listed_count": 4,
+          "media_count": 284,
+          "tweet_count": 9133
+        },
+        "url": "",
+        "username": "StarryNocts",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-07-11T18:23:27.000Z",
+        "description": "收男娘M。收CD小可爱，收CD奴，收可爱的男孩子，收小正太，收小男娘。VⅩ13822182268",
+        "id": "1282017604362571777",
+        "is_identity_verified": false,
+        "location": "广西，桂林",
+        "most_recent_tweet_id": "2088603665372446720",
+        "name": "广西S九哥哥（已回桂林）",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1282017604362571777/1650106961",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1365725145311047681/zFvi6aIR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1655,
+          "following_count": 3727,
+          "like_count": 308,
+          "listed_count": 21,
+          "media_count": 2495,
+          "tweet_count": 6142
+        },
+        "url": "",
+        "username": "uPX8HIP7AndEVKd",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

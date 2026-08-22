@@ -1,0 +1,346 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2083480876692992355",
+    "created_at": "2026-08-01T11:16:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T12:16:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083512128275894586"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1812363069487742976",
+          "start": 0,
+          "username": "mingji_A"
+        },
+        {
+          "end": 21,
+          "id": "1976995735532138496",
+          "start": 10,
+          "username": "JanboMikan"
+        },
+        {
+          "end": 32,
+          "id": "1131911207915380736",
+          "start": 22,
+          "username": "nene00219"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083512128275894586",
+    "in_reply_to_user_id": "1812363069487742976",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083480876692992355",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mingji_A @JanboMikan @nene00219 羡慕"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3000,
+        "media_key": "3_2083480863506108416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOoCzn2bEAA55Yn.jpg",
+        "width": 4000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2083480876692992355",
+        "created_at": "2026-08-01T11:16:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T12:16:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083512128275894586"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1812363069487742976",
+              "start": 0,
+              "username": "mingji_A"
+            },
+            {
+              "end": 21,
+              "id": "1976995735532138496",
+              "start": 10,
+              "username": "JanboMikan"
+            },
+            {
+              "end": 32,
+              "id": "1131911207915380736",
+              "start": 22,
+              "username": "nene00219"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083512128275894586",
+        "in_reply_to_user_id": "1812363069487742976",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083480876692992355",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mingji_A @JanboMikan @nene00219 羡慕"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083480863506108416"
+          ]
+        },
+        "author_id": "1812363069487742976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2083480876692992355",
+        "created_at": "2026-08-01T09:12:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T10:12:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083480876692992355"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Q3qUouBSiA",
+              "end": 28,
+              "expanded_url": "https://x.com/mingji_A/status/2083480876692992355/photo/1",
+              "media_key": "3_2083480863506108416",
+              "start": 5,
+              "url": "https://t.co/Q3qUouBSiA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083480876692992355",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1330,
+          "like_count": 25,
+          "quote_count": 1,
+          "reply_count": 11,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "🈷️了🥰 https://t.co/Q3qUouBSiA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "🏳‍⚧｜备用:@StarryNoct ｜老公:@chinyu_ouo｜姐姐:@smiroyama\n对不起对不起对不起我的错 无人在意 互fo请私信（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 7,
+                "username": "StarryNoct"
+              },
+              {
+                "end": 34,
+                "start": 23,
+                "username": "chinyu_ouo"
+              },
+              {
+                "end": 48,
+                "start": 38,
+                "username": "smiroyama"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星✨",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073578724868636673/mdHJZ7GA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1609,
+          "following_count": 865,
+          "like_count": 4087,
+          "listed_count": 4,
+          "media_count": 276,
+          "tweet_count": 8896
+        },
+        "url": "",
+        "username": "StarryNocts",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-14T05:46:53.000Z",
+        "description": "但愿我是美好，也能赠你美好",
+        "id": "1812363069487742976",
+        "location": "广州",
+        "name": "銘紀Å",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008927021653757952/qD2IxV8A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4747,
+          "following_count": 2657,
+          "like_count": 96458,
+          "listed_count": 25,
+          "media_count": 250,
+          "tweet_count": 23176
+        },
+        "url": "",
+        "username": "mingji_A",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "深圳(全广随机出现)/珠海/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075454514812047362/ieswTjrr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15841,
+          "following_count": 612,
+          "like_count": 21632,
+          "listed_count": 52,
+          "media_count": 376,
+          "tweet_count": 11490
+        },
+        "url": "",
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-24T13:13:56.000Z",
+        "description": "170/50｜istj｜喜欢漂亮可爱的小裙子O(∩_∩)O👗｜双鱼座♓｜提问箱💌 https://t.co/MWnGbFb0aF ｜提问箱回复💌、日常💭🥗在这里@shiroha467 ｜更多平台在下方↓↓↓🔗URL",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 80,
+                "username": "shiroha467"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/nene418491",
+                "end": 64,
+                "expanded_url": "https://ngl.link/nene418491",
+                "start": 41,
+                "url": "https://t.co/MWnGbFb0aF"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/nene219",
+                "end": 23,
+                "expanded_url": "http://lit.link/nene219",
+                "start": 0,
+                "url": "https://t.co/4yFM9YJlzZ"
+              }
+            ]
+          }
+        },
+        "id": "1131911207915380736",
+        "location": "廣州",
+        "name": "Nene",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944178089623277568/-nwvYjYH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7141,
+          "following_count": 281,
+          "like_count": 5046,
+          "listed_count": 44,
+          "media_count": 269,
+          "tweet_count": 1298
+        },
+        "url": "https://t.co/4yFM9YJlzZ",
+        "username": "nene00219",
+        "verified": false
+      }
+    ]
+  }
+}

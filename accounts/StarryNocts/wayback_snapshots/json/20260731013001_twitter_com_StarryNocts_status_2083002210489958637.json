@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2082289545731850249",
+    "created_at": "2026-07-31T01:30:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T02:30:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083002210489958637"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1812363069487742976",
+          "start": 0,
+          "username": "mingji_A"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083002210489958637",
+    "in_reply_to_user_id": "1812363069487742976",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082655619241451568",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mingji_A 贴贴贴贴"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2082289545731850249",
+        "created_at": "2026-07-31T01:30:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T02:30:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083002210489958637"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1812363069487742976",
+              "start": 0,
+              "username": "mingji_A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083002210489958637",
+        "in_reply_to_user_id": "1812363069487742976",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082655619241451568",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mingji_A 贴贴贴贴"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1812363069487742976",
+        "conversation_id": "2082289545731850249",
+        "created_at": "2026-07-30T02:32:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T03:32:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082655619241451568"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1343151486432399360",
+              "start": 0,
+              "username": "StarryNocts"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082655619241451568",
+        "in_reply_to_user_id": "1343151486432399360",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082289545731850249",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StarryNocts 那很好了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "🏳‍⚧｜备用:@StarryNoct ｜老公:@chinyu_ouo｜姐姐:@smiroyama\n对不起对不起对不起我的错 无人在意 互fo请私信（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 7,
+                "username": "StarryNoct"
+              },
+              {
+                "end": 34,
+                "start": 23,
+                "username": "chinyu_ouo"
+              },
+              {
+                "end": 48,
+                "start": 38,
+                "username": "smiroyama"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星✨",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073578724868636673/mdHJZ7GA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1585,
+          "following_count": 856,
+          "like_count": 4083,
+          "listed_count": 4,
+          "media_count": 275,
+          "tweet_count": 8838
+        },
+        "url": "",
+        "username": "StarryNocts",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-14T05:46:53.000Z",
+        "description": "但愿我是美好，也能赠你美好",
+        "id": "1812363069487742976",
+        "location": "广州",
+        "name": "銘紀Å",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008927021653757952/qD2IxV8A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4739,
+          "following_count": 2658,
+          "like_count": 96505,
+          "listed_count": 25,
+          "media_count": 249,
+          "tweet_count": 23175
+        },
+        "url": "",
+        "username": "mingji_A",
+        "verified": false
+      }
+    ]
+  }
+}

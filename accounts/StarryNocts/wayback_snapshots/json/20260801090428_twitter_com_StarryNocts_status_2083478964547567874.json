@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2083121419916087539",
+    "created_at": "2026-08-01T09:04:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T10:04:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083478964547567874"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1752569012012363776",
+          "start": 0,
+          "username": "queue_prompt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083478964547567874",
+    "in_reply_to_user_id": "1752569012012363776",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083130076036472951",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@queue_prompt 😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2083121419916087539",
+        "created_at": "2026-08-01T09:04:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T10:04:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083478964547567874"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1752569012012363776",
+              "start": 0,
+              "username": "queue_prompt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083478964547567874",
+        "in_reply_to_user_id": "1752569012012363776",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083130076036472951",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@queue_prompt 😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752569012012363776",
+        "conversation_id": "2083121419916087539",
+        "created_at": "2026-07-31T09:58:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T10:58:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083130076036472951"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1343151486432399360",
+              "start": 0,
+              "username": "StarryNocts"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083130076036472951",
+        "in_reply_to_user_id": "1343151486432399360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083121419916087539",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StarryNocts 這不是近在眼前嗎"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "🏳‍⚧｜备用:@StarryNoct ｜老公:@chinyu_ouo｜姐姐:@smiroyama\n对不起对不起对不起我的错 无人在意 互fo请私信（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 7,
+                "username": "StarryNoct"
+              },
+              {
+                "end": 34,
+                "start": 23,
+                "username": "chinyu_ouo"
+              },
+              {
+                "end": 48,
+                "start": 38,
+                "username": "smiroyama"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星✨",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073578724868636673/mdHJZ7GA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1609,
+          "following_count": 865,
+          "like_count": 4086,
+          "listed_count": 4,
+          "media_count": 276,
+          "tweet_count": 8877
+        },
+        "url": "",
+        "username": "StarryNocts",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-31T05:46:59.000Z",
+        "description": "09高二 | 169cm/52kg | mtf/hrt since 25.7.24/天賦也許及格 | xp疑似危險 | minecraft/counter-strike | 某人@Platelet_X | looking forward to one day when I could love summer",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 89,
+                "username": "Platelet_X"
+              }
+            ]
+          }
+        },
+        "id": "1752569012012363776",
+        "location": "NaN",
+        "name": "Volaris|Yoshino233醬世界第一可愛！",
+        "pinned_tweet_id": "2081343659983634924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083144910039883778/ljez0kbm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 321,
+          "following_count": 200,
+          "like_count": 24098,
+          "listed_count": 5,
+          "media_count": 434,
+          "tweet_count": 4718
+        },
+        "url": "",
+        "username": "queue_prompt",
+        "verified": false
+      }
+    ]
+  }
+}
