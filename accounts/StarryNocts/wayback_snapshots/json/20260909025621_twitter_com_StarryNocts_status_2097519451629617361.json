@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2097191919650840936",
+    "created_at": "2026-09-09T02:56:21.000Z",
+    "display_text_range": [
+      15,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T03:56:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097519451629617361"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1878828884810141696",
+          "start": 0,
+          "username": "shixiaoman527"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097519451629617361",
+    "in_reply_to_user_id": "1878828884810141696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097191919650840936",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shixiaoman527 贴贴"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2304,
+        "media_key": "3_2097191913212493824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRq47wTaQAAy3wS.jpg",
+        "width": 1728
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2097191919650840936",
+        "created_at": "2026-09-09T02:56:21.000Z",
+        "display_text_range": [
+          15,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T03:56:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097519451629617361"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1878828884810141696",
+              "start": 0,
+              "username": "shixiaoman527"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097519451629617361",
+        "in_reply_to_user_id": "1878828884810141696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097191919650840936",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shixiaoman527 贴贴"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097191913212493824"
+          ]
+        },
+        "author_id": "1878828884810141696",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2097191919650840936",
+        "created_at": "2026-09-08T05:14:52.000Z",
+        "display_text_range": [
+          0,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T06:14:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097191919650840936"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 5,
+              "tag": "男娘"
+            },
+            {
+              "end": 17,
+              "start": 9,
+              "tag": "cosplay"
+            },
+            {
+              "end": 21,
+              "start": 18,
+              "tag": "王者"
+            },
+            {
+              "end": 25,
+              "start": 22,
+              "tag": "小乔"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yxhIE2rnRI",
+              "end": 49,
+              "expanded_url": "https://x.com/shixiaoman527/status/2097191919650840936/photo/1",
+              "media_key": "3_2097191913212493824",
+              "start": 26,
+              "url": "https://t.co/yxhIE2rnRI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097191919650840936",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097191913212493824"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1966,
+          "like_count": 64,
+          "quote_count": 0,
+          "reply_count": 34,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "复活了。\n#男娘 #cosplay #王者 #小乔 https://t.co/yxhIE2rnRI"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "🏳‍⚧｜备用:@StarryNoct｜姐姐:@smiroyama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 7,
+                "username": "StarryNoct"
+              },
+              {
+                "end": 32,
+                "start": 22,
+                "username": "smiroyama"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097519451629617361",
+        "name": "​碎星猫猫",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1343151486432399360/1788007697",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093682145500057600/1ydeUACT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1854,
+          "following_count": 948,
+          "like_count": 4080,
+          "listed_count": 4,
+          "media_count": 199,
+          "tweet_count": 9319
+        },
+        "url": "",
+        "username": "StarryNocts",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-13T15:38:25.000Z",
+        "description": "坐标广州。小南梁一枚，上推就是为了和可爱的人贴贴✧",
+        "id": "1878828884810141696",
+        "is_identity_verified": false,
+        "location": "中国🇨🇳",
+        "most_recent_tweet_id": "2097263607008346369",
+        "name": "晚安呀小鹿",
+        "pinned_tweet_id": "2070101520608317867",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1878828884810141696/1778390419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878829032399360000/swnz6X4B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 605,
+          "following_count": 1279,
+          "like_count": 188,
+          "listed_count": 2,
+          "media_count": 52,
+          "tweet_count": 129
+        },
+        "url": "",
+        "username": "shixiaoman527",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

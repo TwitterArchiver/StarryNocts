@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2094666000318996619",
+    "created_at": "2026-09-01T06:52:40.000Z",
+    "display_text_range": [
+      13,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T07:52:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094679816348053566"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1758508742780567552",
+          "start": 0,
+          "username": "qianxunchan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094679816348053566",
+    "in_reply_to_user_id": "1758508742780567552",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094666000318996619",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qianxunchan 😋😋😋"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2094665993205477376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRG_n3AacAARD-H.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2094666000318996619",
+        "created_at": "2026-09-01T06:52:40.000Z",
+        "display_text_range": [
+          13,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T07:52:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094679816348053566"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1758508742780567552",
+              "start": 0,
+              "username": "qianxunchan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094679816348053566",
+        "in_reply_to_user_id": "1758508742780567552",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094666000318996619",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qianxunchan 😋😋😋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094665993205477376"
+          ]
+        },
+        "author_id": "1758508742780567552",
+        "conversation_id": "2094666000318996619",
+        "created_at": "2026-09-01T05:57:46.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T06:57:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094666000318996619"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xxzjtTH6A0",
+              "end": 35,
+              "expanded_url": "https://x.com/qianxunchan/status/2094666000318996619/photo/1",
+              "media_key": "3_2094665993205477376",
+              "start": 12,
+              "url": "https://t.co/xxzjtTH6A0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094666000318996619",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094665993205477376"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 101,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "模仿某些评论区的片姐😋 https://t.co/xxzjtTH6A0"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "🏳‍⚧｜备用:@StarryNoct｜姐姐:@smiroyama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 7,
+                "username": "StarryNoct"
+              },
+              {
+                "end": 32,
+                "start": 22,
+                "username": "smiroyama"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094679816348053566",
+        "name": "​碎星猫猫",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1343151486432399360/1788007697",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093682145500057600/1ydeUACT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1854,
+          "following_count": 937,
+          "like_count": 4081,
+          "listed_count": 4,
+          "media_count": 197,
+          "tweet_count": 9243
+        },
+        "url": "",
+        "username": "StarryNocts",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "description": "活力大湾区 魅力新加州\n给岁月以文明不是给文明以岁月\n\nQ群667335570 | tg在主页网站\n小号：@yansuichan | 闺蜜:@smiroyama\n\n生产年份:2007 | 180cm 60kg\n爱好:闲逛 彩六 女装 Wargame\n常驻:南加州 | 老家:广东江门\n专业:电气工程",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 53,
+                "username": "yansuichan"
+              },
+              {
+                "end": 80,
+                "start": 70,
+                "username": "smiroyama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+D26Gt92PEwphN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+D26Gt92PEwphNGNh",
+                "start": 0,
+                "url": "https://t.co/ohpCYKVaiD"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "is_identity_verified": false,
+        "location": "Los Angeles, CA🇺🇸",
+        "most_recent_tweet_id": "2094679793052860632",
+        "name": "绿色杯子千尋醬喵～🫪😦😨😰🥵♻️",
+        "pinned_tweet_id": "2035594121231171969",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1758508742780567552/1778381234",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2606,
+          "following_count": 1213,
+          "like_count": 8905,
+          "listed_count": 10,
+          "media_count": 1080,
+          "tweet_count": 4285
+        },
+        "url": "https://t.co/ohpCYKVaiD",
+        "username": "qianxunchan",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

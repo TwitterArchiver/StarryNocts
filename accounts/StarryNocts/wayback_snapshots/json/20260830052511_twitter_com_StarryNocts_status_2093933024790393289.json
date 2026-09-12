@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2093913560179265790",
+    "created_at": "2026-08-30T05:25:11.000Z",
+    "display_text_range": [
+      10,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T06:25:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093933024790393289"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1943561677762646016",
+          "start": 0,
+          "username": "qusuunmd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093933024790393289",
+    "in_reply_to_user_id": "1943561677762646016",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093913560179265790",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qusuunmd 贴贴贴贴"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2093913560179265790",
+        "created_at": "2026-08-30T05:25:11.000Z",
+        "display_text_range": [
+          10,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T06:25:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093933024790393289"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1943561677762646016",
+              "start": 0,
+              "username": "qusuunmd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093933024790393289",
+        "in_reply_to_user_id": "1943561677762646016",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093913560179265790",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qusuunmd 贴贴贴贴"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943561677762646016",
+        "conversation_id": "2093913560179265790",
+        "created_at": "2026-08-30T04:07:50.000Z",
+        "display_text_range": [
+          0,
+          50
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T05:07:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093913560179265790"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2093913560179265790",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "怎么开学了w 呜呜 大家拜拜 之后上推可能就更少了 哦对了 我已经约上国庆的妆娘了（）等着看女装吧喵"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "🏳‍⚧｜备用:@StarryNoct ｜老公:@chinyu_ouo｜姐姐:@smiroyama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 7,
+                "username": "StarryNoct"
+              },
+              {
+                "end": 34,
+                "start": 23,
+                "username": "chinyu_ouo"
+              },
+              {
+                "end": 48,
+                "start": 38,
+                "username": "smiroyama"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093933024790393289",
+        "name": "​碎星猫猫",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1343151486432399360/1788007697",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093682145500057600/1ydeUACT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1850,
+          "following_count": 933,
+          "like_count": 4080,
+          "listed_count": 4,
+          "media_count": 197,
+          "tweet_count": 9215
+        },
+        "url": "",
+        "username": "StarryNocts",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-11T06:44:29.000Z",
+        "description": "2010年的xyn/167cm 57.5kg（www我要减肥）/hrt🍥时间:2025.8.15/无证含糖🍥/高二牲/有点缺爱/想要贴贴/同类互fo喵/常住于青岛喵/过年会回泉州/穷穷穷 想要钱钱/不抽烟不喝酒不od不割手/摄影📹（Canon r8）（偶尔飞飞老的不行的air3）/偶尔玩玩cos/已炸柜/家暴党",
+        "id": "1943561677762646016",
+        "is_identity_verified": false,
+        "location": "Hachinohe-shi, Aomori",
+        "most_recent_tweet_id": "2093913560179265790",
+        "name": "曲速 u🍥",
+        "pinned_tweet_id": "2051304340376461441",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1943561677762646016/1772934743",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025830754715090944/KciDNY7c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 921,
+          "following_count": 492,
+          "like_count": 3059,
+          "listed_count": 4,
+          "media_count": 87,
+          "tweet_count": 1333
+        },
+        "url": "",
+        "username": "qusuunmd",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

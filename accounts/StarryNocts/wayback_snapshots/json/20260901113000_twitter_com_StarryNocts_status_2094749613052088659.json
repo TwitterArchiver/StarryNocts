@@ -1,0 +1,349 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2094648750937678047",
+    "created_at": "2026-09-01T11:30:00.000Z",
+    "display_text_range": [
+      26,
+      29
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T12:30:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094749613052088659"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1982449259774656512",
+          "start": 0,
+          "username": "smiroyama"
+        },
+        {
+          "end": 25,
+          "id": "2048331424504463360",
+          "start": 11,
+          "username": "Com0loquieras"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094749613052088659",
+    "in_reply_to_user_id": "1982449259774656512",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094710255854960925",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@smiroyama @Com0loquieras 姐姐…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2094648750937678047",
+        "created_at": "2026-09-01T11:30:00.000Z",
+        "display_text_range": [
+          26,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T12:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094749613052088659"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1982449259774656512",
+              "start": 0,
+              "username": "smiroyama"
+            },
+            {
+              "end": 25,
+              "id": "2048331424504463360",
+              "start": 11,
+              "username": "Com0loquieras"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094749613052088659",
+        "in_reply_to_user_id": "1982449259774656512",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094710255854960925",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@smiroyama @Com0loquieras 姐姐…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1982449259774656512",
+        "conversation_id": "2094648750937678047",
+        "created_at": "2026-09-01T08:53:37.000Z",
+        "display_text_range": [
+          28,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T09:53:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094710255854960925"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1343151486432399360",
+              "start": 0,
+              "username": "StarryNocts"
+            },
+            {
+              "end": 27,
+              "id": "2048331424504463360",
+              "start": 13,
+              "username": "Com0loquieras"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094710255854960925",
+        "in_reply_to_user_id": "1343151486432399360",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094680266866610220",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StarryNocts @Com0loquieras 原来…"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "🏳‍⚧｜备用:@StarryNoct｜姐姐:@smiroyama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 7,
+                "username": "StarryNoct"
+              },
+              {
+                "end": 32,
+                "start": 22,
+                "username": "smiroyama"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094749613052088659",
+        "name": "​碎星猫猫",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1343151486432399360/1788007697",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093682145500057600/1ydeUACT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1856,
+          "following_count": 937,
+          "like_count": 4081,
+          "listed_count": 4,
+          "media_count": 197,
+          "tweet_count": 9252
+        },
+        "url": "",
+        "username": "StarryNocts",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-10-26T14:08:58.000Z",
+        "description": "猫猫主人:@NanoCatfish\nBestie:@qianxunchan Sisters:@tangeorange @StarryNocts @Huang_Yut1ng @fukui_p26\nDeveloping https://t.co/pJ9VtdukHG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 5,
+                "username": "NanoCatfish"
+              },
+              {
+                "end": 37,
+                "start": 25,
+                "username": "qianxunchan"
+              },
+              {
+                "end": 58,
+                "start": 46,
+                "username": "tangeorange"
+              },
+              {
+                "end": 71,
+                "start": 59,
+                "username": "StarryNocts"
+              },
+              {
+                "end": 85,
+                "start": 72,
+                "username": "Huang_Yut1ng"
+              },
+              {
+                "end": 96,
+                "start": 86,
+                "username": "fukui_p26"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "hrt.mahiro.uk",
+                "end": 131,
+                "expanded_url": "http://hrt.mahiro.uk",
+                "start": 108,
+                "url": "https://t.co/pJ9VtdukHG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mizukiakiyama.com",
+                "end": 23,
+                "expanded_url": "http://mizukiakiyama.com",
+                "start": 0,
+                "url": "https://t.co/YPl1rDnS6s"
+              }
+            ]
+          }
+        },
+        "id": "1982449259774656512",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094738103273758845",
+        "name": "寻寻",
+        "pinned_tweet_id": "2084650884575985701",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1982449259774656512/1784339298",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078298418834018304/5_bmbU-u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8107,
+          "following_count": 2814,
+          "like_count": 15663,
+          "listed_count": 16,
+          "media_count": 2681,
+          "tweet_count": 10192
+        },
+        "url": "https://t.co/YPl1rDnS6s",
+        "username": "smiroyama",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-26T09:20:48.000Z",
+        "description": "Producción:2010/10/10 180cm/81kg\nHabilidades:Go,astro,pnpm,Linux,Vibe Código,internet,español CEFR A1\n性格特点：直球 拉美大手子 大男娘 梦到什么说什么 谈崩专家不善言辞 身体不好 性压抑",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "867678.xyz",
+                "end": 23,
+                "expanded_url": "https://867678.xyz",
+                "start": 0,
+                "url": "https://t.co/S3HBBI7wbC"
+              }
+            ]
+          }
+        },
+        "id": "2048331424504463360",
+        "is_identity_verified": false,
+        "location": "Virreinato de Nueva España",
+        "most_recent_tweet_id": "2094745896433144146",
+        "name": "Gato🇪🇸🇲🇽🇨🇴🇵🇪🇦🇷🇨🇱",
+        "pinned_tweet_id": "2094311814276493360",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2048331424504463360/1786365601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093952578551959552/Eh2f0V6i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 331,
+          "following_count": 305,
+          "like_count": 13971,
+          "listed_count": 2,
+          "media_count": 205,
+          "tweet_count": 6285
+        },
+        "url": "https://t.co/S3HBBI7wbC",
+        "username": "Com0loquieras",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2094656610291577126",
+    "created_at": "2026-09-01T20:52:40.000Z",
+    "display_text_range": [
+      17,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T21:52:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094891210540482668"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2047894021457211393",
+          "start": 0,
+          "username": "IiRin_00917_QwQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094891210540482668",
+    "in_reply_to_user_id": "2047894021457211393",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094790478659191212",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IiRin_00917_QwQ 好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2094656610291577126",
+        "created_at": "2026-09-01T20:52:40.000Z",
+        "display_text_range": [
+          17,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T21:52:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094891210540482668"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2047894021457211393",
+              "start": 0,
+              "username": "IiRin_00917_QwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094891210540482668",
+        "in_reply_to_user_id": "2047894021457211393",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094790478659191212",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IiRin_00917_QwQ 好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047894021457211393",
+        "conversation_id": "2094656610291577126",
+        "created_at": "2026-09-01T14:12:24.000Z",
+        "display_text_range": [
+          13,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T15:12:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094790478659191212"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1343151486432399360",
+              "start": 0,
+              "username": "StarryNocts"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094790478659191212",
+        "in_reply_to_user_id": "1343151486432399360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094680011282530499",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StarryNocts 😭😭😭帮我考试🤤"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "🏳‍⚧｜备用:@StarryNoct｜姐姐:@smiroyama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 7,
+                "username": "StarryNoct"
+              },
+              {
+                "end": 32,
+                "start": 22,
+                "username": "smiroyama"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094891210540482668",
+        "name": "​碎星猫猫",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1343151486432399360/1788007697",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093682145500057600/1ydeUACT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1857,
+          "following_count": 942,
+          "like_count": 4081,
+          "listed_count": 4,
+          "media_count": 197,
+          "tweet_count": 9256
+        },
+        "url": "",
+        "username": "StarryNocts",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-25T04:22:51.000Z",
+        "description": "霖21号机\n开学淡推不闲聊，消息晚上回我住宿\n- ✰*🎀 ੈ✩🍥✰*💗ੈ✩-\n互联网永生-眼熟fo/低龄糖福😭别和我计较了\n末地级严重失眠 -12现役初中生\n^✟❀里号@yumumu_msknb❀小号@rin917_8964❀野生狗奶@woaiuai0721❀🐱@linring2010❀✟",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 84,
+                "username": "yumumu_msknb"
+              },
+              {
+                "end": 112,
+                "start": 100,
+                "username": "rin917_8964"
+              },
+              {
+                "end": 129,
+                "start": 117,
+                "username": "woaiuai0721"
+              },
+              {
+                "end": 143,
+                "start": 131,
+                "username": "linring2010"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ii_rin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ii_rin",
+                "start": 0,
+                "url": "https://t.co/CHH7qlUpGv"
+              }
+            ]
+          }
+        },
+        "id": "2047894021457211393",
+        "is_identity_verified": false,
+        "location": "你看看你身后",
+        "most_recent_tweet_id": "2094838769178529974",
+        "name": "IiRin",
+        "pinned_tweet_id": "2084899038219104559",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047894021457211393/1787985006",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084916830247014400/nMn0uWwQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2127,
+          "following_count": 141,
+          "like_count": 8224,
+          "listed_count": 1,
+          "media_count": 335,
+          "tweet_count": 3508
+        },
+        "url": "https://t.co/CHH7qlUpGv",
+        "username": "IiRin_00917_QwQ",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

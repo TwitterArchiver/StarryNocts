@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2096002387131662843",
+    "created_at": "2026-09-04T23:24:12.000Z",
+    "display_text_range": [
+      11,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T00:24:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096016508728246452"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2075187156268773376",
+          "start": 0,
+          "username": "seaskyfor"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096016508728246452",
+    "in_reply_to_user_id": "2075187156268773376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096002871917691016",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@seaskyfor 什么"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2096002387131662843",
+        "created_at": "2026-09-04T23:24:12.000Z",
+        "display_text_range": [
+          11,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T00:24:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096016508728246452"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2075187156268773376",
+              "start": 0,
+              "username": "seaskyfor"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096016508728246452",
+        "in_reply_to_user_id": "2075187156268773376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096002871917691016",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@seaskyfor 什么"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2075187156268773376",
+        "conversation_id": "2096002387131662843",
+        "created_at": "2026-09-04T22:30:01.000Z",
+        "display_text_range": [
+          13,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T23:30:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096002871917691016"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1343151486432399360",
+              "start": 0,
+              "username": "StarryNocts"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096002871917691016",
+        "in_reply_to_user_id": "1343151486432399360",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096002387131662843",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StarryNocts 😭会出事的"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "🏳‍⚧｜备用:@StarryNoct｜姐姐:@smiroyama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 7,
+                "username": "StarryNoct"
+              },
+              {
+                "end": 32,
+                "start": 22,
+                "username": "smiroyama"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096016508728246452",
+        "name": "​碎星猫猫",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1343151486432399360/1788007697",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093682145500057600/1ydeUACT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1853,
+          "following_count": 945,
+          "like_count": 4081,
+          "listed_count": 4,
+          "media_count": 198,
+          "tweet_count": 9276
+        },
+        "url": "",
+        "username": "StarryNocts",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-09T11:57:07.000Z",
+        "description": "永远的南京城 / illusion  / 08 高三 /  crypto trader / 许你岁岁平安 / 不像男生 不是女生 / 终将成为你 / 永不失联的tg逃生仓  https://t.co/qP2RTqn4g8",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/illusion5201314",
+                "end": 110,
+                "expanded_url": "http://t.me/illusion5201314",
+                "start": 87,
+                "url": "https://t.co/qP2RTqn4g8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lanyuan",
+                "end": 23,
+                "expanded_url": "https://t.me/lanyuan",
+                "start": 0,
+                "url": "https://t.co/gXd2q9b752"
+              }
+            ]
+          }
+        },
+        "id": "2075187156268773376",
+        "is_identity_verified": false,
+        "location": "南京医科大学江宁校区",
+        "most_recent_tweet_id": "2096002871917691016",
+        "name": "ill skysea",
+        "pinned_tweet_id": "2090228053733777908",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089971410626347008/CBvV8wvE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1193,
+          "following_count": 223,
+          "like_count": 319,
+          "listed_count": 5,
+          "media_count": 105,
+          "tweet_count": 240
+        },
+        "url": "https://t.co/gXd2q9b752",
+        "username": "seaskyfor",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

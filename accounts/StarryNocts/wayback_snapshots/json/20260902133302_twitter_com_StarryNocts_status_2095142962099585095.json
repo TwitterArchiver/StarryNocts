@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2095142222580858972",
+    "created_at": "2026-09-02T13:33:02.000Z",
+    "display_text_range": [
+      15,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T14:33:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095142962099585095"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2048331424504463360",
+          "start": 0,
+          "username": "Com0loquieras"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095142962099585095",
+    "in_reply_to_user_id": "2048331424504463360",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095142222580858972",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Com0loquieras ？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2095142222580858972",
+        "created_at": "2026-09-02T13:33:02.000Z",
+        "display_text_range": [
+          15,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T14:33:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095142962099585095"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2048331424504463360",
+              "start": 0,
+              "username": "Com0loquieras"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095142962099585095",
+        "in_reply_to_user_id": "2048331424504463360",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095142222580858972",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Com0loquieras ？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048331424504463360",
+        "conversation_id": "2095142222580858972",
+        "created_at": "2026-09-02T13:30:06.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T14:30:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095142222580858972"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2095142222580858972",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我把雨夹雪加了\n来聊😋"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "🏳‍⚧｜备用:@StarryNoct｜姐姐:@smiroyama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 7,
+                "username": "StarryNoct"
+              },
+              {
+                "end": 32,
+                "start": 22,
+                "username": "smiroyama"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095142962099585095",
+        "name": "​碎星猫猫",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1343151486432399360/1788007697",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093682145500057600/1ydeUACT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1856,
+          "following_count": 945,
+          "like_count": 4081,
+          "listed_count": 4,
+          "media_count": 197,
+          "tweet_count": 9261
+        },
+        "url": "",
+        "username": "StarryNocts",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-26T09:20:48.000Z",
+        "description": "Producción:2010/10/10 180cm/81kg\nHabilidades:Go,astro,pnpm,Linux,Vibe Código,internet,español CEFR A1\n性格特点：直球 拉美大手子 大男娘 梦到什么说什么 谈崩专家不善言辞 身体不好 性压抑",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "867678.xyz",
+                "end": 23,
+                "expanded_url": "https://867678.xyz",
+                "start": 0,
+                "url": "https://t.co/S3HBBI7wbC"
+              }
+            ]
+          }
+        },
+        "id": "2048331424504463360",
+        "is_identity_verified": false,
+        "location": "Virreinato de Nueva España",
+        "most_recent_tweet_id": "2095142222580858972",
+        "name": "Gato🇪🇸🇲🇽🇨🇴🇵🇪🇦🇷🇨🇱",
+        "pinned_tweet_id": "2094311814276493360",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2048331424504463360/1786365601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093952578551959552/Eh2f0V6i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 339,
+          "following_count": 310,
+          "like_count": 14281,
+          "listed_count": 2,
+          "media_count": 207,
+          "tweet_count": 6358
+        },
+        "url": "https://t.co/S3HBBI7wbC",
+        "username": "Com0loquieras",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,333 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2096268236782481436",
+    "created_at": "2026-09-05T22:27:38.000Z",
+    "display_text_range": [
+      15,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T23:27:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096364660966736017"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1999059927650930688",
+          "start": 0,
+          "username": "LightSTAR_qwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096364660966736017",
+    "in_reply_to_user_id": "1999059927650930688",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096268236782481436",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LightSTAR_qwq 好萌！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2096268179421163520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRdwzXxacAAPF2J.jpg",
+        "width": 1911
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2096268192792600576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRdw0JlaYAAFqh0.jpg",
+        "width": 2013
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2096268209829847040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRdw1JDaIAANJoQ.jpg",
+        "width": 1675
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2096268223809548288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRdw19IbcAAn5gQ.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2096268236782481436",
+        "created_at": "2026-09-05T22:27:38.000Z",
+        "display_text_range": [
+          15,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T23:27:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096364660966736017"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1999059927650930688",
+              "start": 0,
+              "username": "LightSTAR_qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096364660966736017",
+        "in_reply_to_user_id": "1999059927650930688",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096268236782481436",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LightSTAR_qwq 好萌！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096268179421163520",
+            "3_2096268192792600576",
+            "3_2096268209829847040",
+            "3_2096268223809548288"
+          ]
+        },
+        "author_id": "1999059927650930688",
+        "conversation_id": "2096268236782481436",
+        "created_at": "2026-09-05T16:04:29.000Z",
+        "display_text_range": [
+          0,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T17:04:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096268236782481436"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/y4a28K02nK",
+              "end": 43,
+              "expanded_url": "https://x.com/LightSTAR_qwq/status/2096268236782481436/photo/1",
+              "media_key": "3_2096268179421163520",
+              "start": 20,
+              "url": "https://t.co/y4a28K02nK"
+            },
+            {
+              "display_url": "pic.x.com/y4a28K02nK",
+              "end": 43,
+              "expanded_url": "https://x.com/LightSTAR_qwq/status/2096268236782481436/photo/1",
+              "media_key": "3_2096268192792600576",
+              "start": 20,
+              "url": "https://t.co/y4a28K02nK"
+            },
+            {
+              "display_url": "pic.x.com/y4a28K02nK",
+              "end": 43,
+              "expanded_url": "https://x.com/LightSTAR_qwq/status/2096268236782481436/photo/1",
+              "media_key": "3_2096268209829847040",
+              "start": 20,
+              "url": "https://t.co/y4a28K02nK"
+            },
+            {
+              "display_url": "pic.x.com/y4a28K02nK",
+              "end": 43,
+              "expanded_url": "https://x.com/LightSTAR_qwq/status/2096268236782481436/photo/1",
+              "media_key": "3_2096268223809548288",
+              "start": 20,
+              "url": "https://t.co/y4a28K02nK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096268236782481436",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096268179421163520"
+          },
+          {
+            "media_key": "3_2096268192792600576"
+          },
+          {
+            "media_key": "3_2096268209829847040"
+          },
+          {
+            "media_key": "3_2096268223809548288"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 408,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "试试新衣服(晚上拍光线不好拍出来好丑) https://t.co/y4a28K02nK"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "🏳‍⚧｜备用:@StarryNoct｜姐姐:@smiroyama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 7,
+                "username": "StarryNoct"
+              },
+              {
+                "end": 32,
+                "start": 22,
+                "username": "smiroyama"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096364660966736017",
+        "name": "​碎星猫猫",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1343151486432399360/1788007697",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093682145500057600/1ydeUACT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1856,
+          "following_count": 945,
+          "like_count": 4080,
+          "listed_count": 4,
+          "media_count": 198,
+          "tweet_count": 9287
+        },
+        "url": "",
+        "username": "StarryNocts",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-12-11T10:13:45.000Z",
+        "description": "音游人 | mtf🏳️‍⚧️ | 165cm | 57kg | 重焦重抑 | 无证含糖 | 生日2008.11.28 | B站up | VRchat重度依赖 | 不od | 不见证 | 不抽烟喝酒 | 有时会割手 |  对象@lovelymaodou",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 112,
+                "username": "lovelymaodou"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/bzfR3fN",
+                "end": 23,
+                "expanded_url": "https://b23.tv/bzfR3fN",
+                "start": 0,
+                "url": "https://t.co/ghmbUs7tgx"
+              }
+            ]
+          }
+        },
+        "id": "1999059927650930688",
+        "is_identity_verified": false,
+        "location": "广东",
+        "most_recent_tweet_id": "2096290074250166475",
+        "name": "苍星哒哒哒🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2092188722246943095",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1999059927650930688/1777743465",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051718115445354496/zw7XNEkf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 661,
+          "following_count": 410,
+          "like_count": 1820,
+          "listed_count": 2,
+          "media_count": 57,
+          "tweet_count": 199
+        },
+        "url": "https://t.co/ghmbUs7tgx",
+        "username": "LightSTAR_qwq",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

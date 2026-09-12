@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2094393961251279128",
+    "created_at": "2026-08-31T12:55:30.000Z",
+    "display_text_range": [
+      13,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T13:55:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094408738325274856"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1591959828573757440",
+          "start": 0,
+          "username": "a2517337359"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094408738325274856",
+    "in_reply_to_user_id": "1591959828573757440",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094393961251279128",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@a2517337359 好吃的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2094393945723969536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRDIMnKbIAA7yyB.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2094393961251279128",
+        "created_at": "2026-08-31T12:55:30.000Z",
+        "display_text_range": [
+          13,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T13:55:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094408738325274856"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1591959828573757440",
+              "start": 0,
+              "username": "a2517337359"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094408738325274856",
+        "in_reply_to_user_id": "1591959828573757440",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094393961251279128",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@a2517337359 好吃的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094393945723969536"
+          ]
+        },
+        "author_id": "1591959828573757440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2094393961251279128",
+        "created_at": "2026-08-31T11:56:46.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T12:56:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094393961251279128"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aYE9QWdi3a",
+              "end": 29,
+              "expanded_url": "https://x.com/a2517337359/status/2094393961251279128/photo/1",
+              "media_key": "3_2094393945723969536",
+              "start": 6,
+              "url": "https://t.co/aYE9QWdi3a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094393961251279128",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2094393945723969536"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 74,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "吃吃吃吃😸 https://t.co/aYE9QWdi3a"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "🏳‍⚧｜备用:@StarryNoct ｜老公:@chinyu_ouo｜姐姐:@smiroyama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 7,
+                "username": "StarryNoct"
+              },
+              {
+                "end": 34,
+                "start": 23,
+                "username": "chinyu_ouo"
+              },
+              {
+                "end": 48,
+                "start": 38,
+                "username": "smiroyama"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094408738325274856",
+        "name": "​碎星猫猫",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1343151486432399360/1788007697",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093682145500057600/1ydeUACT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1855,
+          "following_count": 934,
+          "like_count": 4081,
+          "listed_count": 4,
+          "media_count": 197,
+          "tweet_count": 9232
+        },
+        "url": "",
+        "username": "StarryNocts",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-11-14T01:03:22.000Z",
+        "description": "04年小朋友😚？｜🏳️‍⚧️HRT：2026.3.17|INFP | 嵌入式开发｜喜欢可爱的东西｜精神状态超好｜想交更多的朋友！\n最爱的🍑：@xiey57828",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 70,
+                "username": "xiey57828"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mizuki30870",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mizuki30870",
+                "start": 0,
+                "url": "https://t.co/dKXzgYeQRH"
+              }
+            ]
+          }
+        },
+        "id": "1591959828573757440",
+        "is_identity_verified": false,
+        "location": "1.2km",
+        "most_recent_tweet_id": "2094399780843864544",
+        "name": "水希ちゃん🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1591959828573757440/1768892982",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081195740932825088/jl5H_BPX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 777,
+          "following_count": 307,
+          "like_count": 1446,
+          "listed_count": 2,
+          "media_count": 15,
+          "tweet_count": 683
+        },
+        "url": "https://t.co/dKXzgYeQRH",
+        "username": "a2517337359",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

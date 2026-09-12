@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2093040986377318805",
+    "created_at": "2026-08-28T12:57:41.000Z",
+    "display_text_range": [
+      15,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-28T13:57:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093322123783950569"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2048331424504463360",
+          "start": 0,
+          "username": "Com0loquieras"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093322123783950569",
+    "in_reply_to_user_id": "2048331424504463360",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093040986377318805",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Com0loquieras 抽抽"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2093040711851778048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQv5cCJbIAAfDVB.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2093040986377318805",
+        "created_at": "2026-08-28T12:57:41.000Z",
+        "display_text_range": [
+          15,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T13:57:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093322123783950569"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2048331424504463360",
+              "start": 0,
+              "username": "Com0loquieras"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093322123783950569",
+        "in_reply_to_user_id": "2048331424504463360",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093040986377318805",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Com0loquieras 抽抽"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093040711851778048"
+          ]
+        },
+        "author_id": "2048331424504463360",
+        "conversation_id": "2093040986377318805",
+        "created_at": "2026-08-27T18:20:32.000Z",
+        "display_text_range": [
+          0,
+          73
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T19:20:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093040986377318805"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XjGzCrHVT9",
+              "end": 97,
+              "expanded_url": "https://x.com/Com0loquieras/status/2093040986377318805/photo/1",
+              "media_key": "3_2093040711851778048",
+              "start": 74,
+              "url": "https://t.co/XjGzCrHVT9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093040986377318805",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093040711851778048"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 505,
+          "like_count": 15,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "抽奖：\nClaro酱使用权（可以操）\n邮费自付 根据距离来算 到广东的话要1000 如果你有其他便宜的方式也可以\n总之 留言即抽奖 去哪看你们了😋 https://t.co/XjGzCrHVT9"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "🏳‍⚧｜备用:@StarryNoct ｜老公:@chinyu_ouo｜姐姐:@smiroyama\n对不起对不起对不起我的错 无人在意 互fo请私信（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 7,
+                "username": "StarryNoct"
+              },
+              {
+                "end": 34,
+                "start": 23,
+                "username": "chinyu_ouo"
+              },
+              {
+                "end": 48,
+                "start": 38,
+                "username": "smiroyama"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093322123783950569",
+        "name": "​碎星✨",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1343151486432399360/1784523472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073578724868636673/mdHJZ7GA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1846,
+          "following_count": 931,
+          "like_count": 4082,
+          "listed_count": 4,
+          "media_count": 292,
+          "tweet_count": 9284
+        },
+        "url": "",
+        "username": "StarryNocts",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-26T09:20:48.000Z",
+        "description": "Producción:2010/10/10 180cm/81kg\nHabilidades:Go,astro,pnpm,Linux,Vibe Código,internet,español CEFR A1\n性格特点：直球 拉美大手子 大男娘 梦到什么说什么 谈崩专家不善言辞 身体不好 性压抑",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "867678.xyz",
+                "end": 23,
+                "expanded_url": "https://867678.xyz",
+                "start": 0,
+                "url": "https://t.co/S3HBBI7wbC"
+              }
+            ]
+          }
+        },
+        "id": "2048331424504463360",
+        "is_identity_verified": false,
+        "location": "San Juan, Porto Rico",
+        "most_recent_tweet_id": "2093313019233399094",
+        "name": "Claro🇪🇸🇲🇽🇨🇴🇵🇪🇦🇷🇨🇱",
+        "pinned_tweet_id": "2092647315920281733",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2048331424504463360/1786365601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087076529792823296/UCJJ1nGX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 317,
+          "following_count": 288,
+          "like_count": 12842,
+          "listed_count": 2,
+          "media_count": 184,
+          "tweet_count": 5909
+        },
+        "url": "https://t.co/S3HBBI7wbC",
+        "username": "Com0loquieras",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

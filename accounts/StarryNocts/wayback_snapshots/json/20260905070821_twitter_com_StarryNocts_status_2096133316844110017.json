@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2096054226199752920",
+    "created_at": "2026-09-05T07:08:21.000Z",
+    "display_text_range": [
+      22,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T08:08:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096133316844110017"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1841429529413529600",
+          "start": 0,
+          "username": "LazyCataww"
+        },
+        {
+          "end": 21,
+          "id": "1227603655903399936",
+          "start": 12,
+          "username": "K66cheng"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096133316844110017",
+    "in_reply_to_user_id": "1841429529413529600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096081058580382174",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LazyCataww @K66cheng 不许！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2096054226199752920",
+        "created_at": "2026-09-05T07:08:21.000Z",
+        "display_text_range": [
+          22,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T08:08:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096133316844110017"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1841429529413529600",
+              "start": 0,
+              "username": "LazyCataww"
+            },
+            {
+              "end": 21,
+              "id": "1227603655903399936",
+              "start": 12,
+              "username": "K66cheng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096133316844110017",
+        "in_reply_to_user_id": "1841429529413529600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096081058580382174",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LazyCataww @K66cheng 不许！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1841429529413529600",
+        "conversation_id": "2096054226199752920",
+        "created_at": "2026-09-05T03:40:42.000Z",
+        "display_text_range": [
+          10,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T04:40:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096081058580382174"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1227603655903399936",
+              "start": 0,
+              "username": "K66cheng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096081058580382174",
+        "in_reply_to_user_id": "1227603655903399936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096054226199752920",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@K66cheng 妈妈"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "🏳‍⚧｜备用:@StarryNoct｜姐姐:@smiroyama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 7,
+                "username": "StarryNoct"
+              },
+              {
+                "end": 32,
+                "start": 22,
+                "username": "smiroyama"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096133316844110017",
+        "name": "​碎星猫猫",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1343151486432399360/1788007697",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093682145500057600/1ydeUACT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1853,
+          "following_count": 945,
+          "like_count": 4080,
+          "listed_count": 4,
+          "media_count": 198,
+          "tweet_count": 9277
+        },
+        "url": "",
+        "username": "StarryNocts",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-10-02T10:46:34.000Z",
+        "description": "emm缺爱逼泛（双？）性恋（x）爱喝酒爱吃菠萝白切鸡……长发男短发女重度依赖（确信）喜欢年上但长相多半没人喜欢……想不起来了……会写欧体不抽烟没精神疾病……差不多这些XD……很喜欢一句歌词：别忘了寂寞的山谷的角落里野百合也有春天！",
+        "id": "1841429529413529600",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096131791543586878",
+        "name": "天雨雋子",
+        "pinned_tweet_id": "2083536433558806861",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1841429529413529600/1770106296",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068341947690082304/T7DnUdZU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 354,
+          "following_count": 392,
+          "like_count": 18448,
+          "listed_count": 1,
+          "media_count": 269,
+          "tweet_count": 3667
+        },
+        "url": "",
+        "username": "LazyCataww",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2020-02-12T14:42:44.000Z",
+        "description": "伪物空城｜含糖MTX天残党｜厨娘女仆 | \nINTJ-T｜迪迪@BaitangToubao｜皮肤饥渴症终末期患者快和我贴贴｜缺爱｜喵喵｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 31,
+                "username": "BaitangToubao"
+              }
+            ]
+          }
+        },
+        "id": "1227603655903399936",
+        "is_identity_verified": false,
+        "location": "北京",
+        "most_recent_tweet_id": "2096099489006207028",
+        "name": "蓝粉白糖🏳️‍⚧️🏳️‍🌈",
+        "pinned_tweet_id": "1892567203943252339",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1227603655903399936/1632565817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1297561582734467072/wWXPtOUY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6432,
+          "following_count": 4268,
+          "like_count": 28468,
+          "listed_count": 27,
+          "media_count": 1366,
+          "tweet_count": 18724
+        },
+        "url": "",
+        "username": "K66cheng",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

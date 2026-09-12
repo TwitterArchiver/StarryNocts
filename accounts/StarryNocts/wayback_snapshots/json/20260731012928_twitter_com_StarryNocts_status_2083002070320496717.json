@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2082828509614096473",
+    "created_at": "2026-07-31T01:29:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T02:29:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083002070320496717"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1923621171544850437",
+          "start": 0,
+          "username": "Mary18716528345"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083002070320496717",
+    "in_reply_to_user_id": "1923621171544850437",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082828509614096473",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mary18716528345 萌萌"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2082828466098257920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOexdGHbwAAHBvh.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2082828509614096473",
+        "created_at": "2026-07-31T01:29:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T02:29:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083002070320496717"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1923621171544850437",
+              "start": 0,
+              "username": "Mary18716528345"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083002070320496717",
+        "in_reply_to_user_id": "1923621171544850437",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082828509614096473",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mary18716528345 萌萌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082828466098257920"
+          ]
+        },
+        "author_id": "1923621171544850437",
+        "conversation_id": "2082828509614096473",
+        "created_at": "2026-07-30T13:59:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T14:59:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082828509614096473"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 18,
+              "start": 15,
+              "tag": "男娘"
+            },
+            {
+              "end": 22,
+              "start": 19,
+              "tag": "伪娘"
+            },
+            {
+              "end": 30,
+              "start": 23,
+              "tag": "可爱的男孩子"
+            },
+            {
+              "end": 35,
+              "start": 31,
+              "tag": "男の娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gjjVNW1UY5",
+              "end": 59,
+              "expanded_url": "https://x.com/Mary18716528345/status/2082828509614096473/photo/1",
+              "media_key": "3_2082828466098257920",
+              "start": 36,
+              "url": "https://t.co/gjjVNW1UY5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082828509614096473",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 80,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "第一次发照片，怪不好意思的 \n#男娘 #伪娘 #可爱的男孩子 #男の娘 https://t.co/gjjVNW1UY5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "🏳‍⚧｜备用:@StarryNoct ｜老公:@chinyu_ouo｜姐姐:@smiroyama\n对不起对不起对不起我的错 无人在意 互fo请私信（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 7,
+                "username": "StarryNoct"
+              },
+              {
+                "end": 34,
+                "start": 23,
+                "username": "chinyu_ouo"
+              },
+              {
+                "end": 48,
+                "start": 38,
+                "username": "smiroyama"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星✨",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073578724868636673/mdHJZ7GA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1585,
+          "following_count": 856,
+          "like_count": 4083,
+          "listed_count": 4,
+          "media_count": 275,
+          "tweet_count": 8836
+        },
+        "url": "",
+        "username": "StarryNocts",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-17T06:06:43.000Z",
+        "description": "07男娘/大学生/百合控/游戏苦手/非常性压抑（",
+        "id": "1923621171544850437",
+        "name": "汐雨天音",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082828234283229184/z7iO4vMy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 20,
+          "like_count": 13,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 1
+        },
+        "url": "",
+        "username": "Mary18716528345",
+        "verified": false
+      }
+    ]
+  }
+}

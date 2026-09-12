@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2085364727585423666",
+    "created_at": "2026-08-07T04:51:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T05:51:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085589692582608937"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1153430387504373764",
+          "start": 0,
+          "username": "xiangcai_nya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085589692582608937",
+    "in_reply_to_user_id": "1153430387504373764",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085426713190924683",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiangcai_nya 好萌！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2085364727585423666",
+        "created_at": "2026-08-07T04:51:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T05:51:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085589692582608937"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1153430387504373764",
+              "start": 0,
+              "username": "xiangcai_nya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085589692582608937",
+        "in_reply_to_user_id": "1153430387504373764",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085426713190924683",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiangcai_nya 好萌！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1153430387504373764",
+        "conversation_id": "2085364727585423666",
+        "created_at": "2026-08-06T18:04:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T19:04:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085426713190924683"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1900718682579578880",
+              "start": 0,
+              "username": "Idontlikesleeph"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085426713190924683",
+        "in_reply_to_user_id": "1900718682579578880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085415760482968024",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Idontlikesleeph 删掉删掉😡😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "🏳‍⚧｜备用:@StarryNoct ｜老公:@chinyu_ouo｜姐姐:@smiroyama\n对不起对不起对不起我的错 无人在意 互fo请私信（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 7,
+                "username": "StarryNoct"
+              },
+              {
+                "end": 34,
+                "start": 23,
+                "username": "chinyu_ouo"
+              },
+              {
+                "end": 48,
+                "start": 38,
+                "username": "smiroyama"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星✨",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073578724868636673/mdHJZ7GA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1740,
+          "following_count": 891,
+          "like_count": 4084,
+          "listed_count": 4,
+          "media_count": 279,
+          "tweet_count": 9021
+        },
+        "url": "",
+        "username": "StarryNocts",
+        "verified": true
+      },
+      {
+        "created_at": "2019-07-22T22:23:28.000Z",
+        "description": "mtf→mtx(ing)\n想要互fo",
+        "id": "1153430387504373764",
+        "location": "Archangel, Russia",
+        "name": "꧁ 葱花香菜重度依赖 ꧂🍥",
+        "pinned_tweet_id": "2084566116417032467",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073611435129868288/Wr4hsJiq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 784,
+          "following_count": 445,
+          "like_count": 696,
+          "listed_count": 4,
+          "media_count": 76,
+          "tweet_count": 1859
+        },
+        "url": "",
+        "username": "xiangcai_nya",
+        "verified": true
+      }
+    ]
+  }
+}

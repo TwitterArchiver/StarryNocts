@@ -1,0 +1,390 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2096187084121977088",
+    "created_at": "2026-09-05T13:19:13.000Z",
+    "display_text_range": [
+      11,
+      45
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T14:19:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096226645803942240"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1982449259774656512",
+          "start": 0,
+          "username": "smiroyama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096226645803942240",
+    "in_reply_to_user_id": "1982449259774656512",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096187084121977088",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@smiroyama i can share my doubao subscription"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 436,
+        "media_key": "3_2096187024499982336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRcm_iIawAAgedl.png",
+        "width": 859
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2096187084121977088",
+        "created_at": "2026-09-05T13:19:13.000Z",
+        "display_text_range": [
+          11,
+          45
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T14:19:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096226645803942240"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1982449259774656512",
+              "start": 0,
+              "username": "smiroyama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096226645803942240",
+        "in_reply_to_user_id": "1982449259774656512",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096187084121977088",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@smiroyama i can share my doubao subscription"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096187024499982336"
+          ]
+        },
+        "author_id": "1982449259774656512",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2096187084121977088",
+        "created_at": "2026-09-05T10:42:00.000Z",
+        "display_text_range": [
+          0,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T11:42:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096187084121977088"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wlZo0hPeeJ",
+              "end": 66,
+              "expanded_url": "https://x.com/smiroyama/status/2096187084121977088/photo/1",
+              "media_key": "3_2096187024499982336",
+              "start": 43,
+              "url": "https://t.co/wlZo0hPeeJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096187084121977088",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2096187024499982336"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 465,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "I think I need to buy ChatGPT subscription https://t.co/wlZo0hPeeJ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "🏳‍⚧｜备用:@StarryNoct｜姐姐:@smiroyama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 7,
+                "username": "StarryNoct"
+              },
+              {
+                "end": 32,
+                "start": 22,
+                "username": "smiroyama"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096226645803942240",
+        "name": "​碎星猫猫",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1343151486432399360/1788007697",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093682145500057600/1ydeUACT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1857,
+          "following_count": 946,
+          "like_count": 4080,
+          "listed_count": 4,
+          "media_count": 198,
+          "tweet_count": 9281
+        },
+        "url": "",
+        "username": "StarryNocts",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-10-26T14:08:58.000Z",
+        "description": "猫猫主人:@NanoCatfish\nBestie:@qianxunchan Sisters:@tangeorange @StarryNocts @Huang_Yut1ng @fukui_p26\nDeveloping https://t.co/pJ9VtdukHG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 5,
+                "username": "NanoCatfish"
+              },
+              {
+                "end": 37,
+                "start": 25,
+                "username": "qianxunchan"
+              },
+              {
+                "end": 58,
+                "start": 46,
+                "username": "tangeorange"
+              },
+              {
+                "end": 71,
+                "start": 59,
+                "username": "StarryNocts"
+              },
+              {
+                "end": 85,
+                "start": 72,
+                "username": "Huang_Yut1ng"
+              },
+              {
+                "end": 96,
+                "start": 86,
+                "username": "fukui_p26"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "hrt.mahiro.uk",
+                "end": 131,
+                "expanded_url": "http://hrt.mahiro.uk",
+                "start": 108,
+                "url": "https://t.co/pJ9VtdukHG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mizukiakiyama.com",
+                "end": 23,
+                "expanded_url": "http://mizukiakiyama.com",
+                "start": 0,
+                "url": "https://t.co/YPl1rDnS6s"
+              }
+            ]
+          }
+        },
+        "id": "1982449259774656512",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096226633061724537",
+        "name": "寻寻",
+        "pinned_tweet_id": "2084650884575985701",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1982449259774656512/1784339298",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078298418834018304/5_bmbU-u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8162,
+          "following_count": 2845,
+          "like_count": 15843,
+          "listed_count": 16,
+          "media_count": 2706,
+          "tweet_count": 10293
+        },
+        "url": "https://t.co/YPl1rDnS6s",
+        "username": "smiroyama",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

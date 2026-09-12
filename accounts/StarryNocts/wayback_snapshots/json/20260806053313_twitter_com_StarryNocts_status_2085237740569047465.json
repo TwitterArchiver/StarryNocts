@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2085222322282389827",
+    "created_at": "2026-08-06T05:33:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T06:33:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085237740569047465"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1690519191525462016",
+          "start": 0,
+          "username": "magisutan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085237740569047465",
+    "in_reply_to_user_id": "1690519191525462016",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085222322282389827",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@magisutan 好萌！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2085221189719605248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPAxn8NawAAobzI.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2085221710861832192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPAyGRnaEAAuV7c.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2085222322282389827",
+        "created_at": "2026-08-06T05:33:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T06:33:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085237740569047465"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1690519191525462016",
+              "start": 0,
+              "username": "magisutan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085237740569047465",
+        "in_reply_to_user_id": "1690519191525462016",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085222322282389827",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@magisutan 好萌！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085221189719605248",
+            "3_2085221710861832192"
+          ]
+        },
+        "author_id": "1690519191525462016",
+        "conversation_id": "2085222322282389827",
+        "created_at": "2026-08-06T04:31:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T05:31:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085222322282389827"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 23,
+              "tag": "男娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3Y5mHzmlQq",
+              "end": 50,
+              "expanded_url": "https://x.com/magisutan/status/2085222322282389827/photo/1",
+              "media_key": "3_2085221189719605248",
+              "start": 27,
+              "url": "https://t.co/3Y5mHzmlQq"
+            },
+            {
+              "display_url": "pic.x.com/3Y5mHzmlQq",
+              "end": 50,
+              "expanded_url": "https://x.com/magisutan/status/2085222322282389827/photo/1",
+              "media_key": "3_2085221710861832192",
+              "start": 27,
+              "url": "https://t.co/3Y5mHzmlQq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085222322282389827",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 257,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我信了，你敢不信吗\n今天画了个圆脸妆，好圆啊\n#男娘 https://t.co/3Y5mHzmlQq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "🏳‍⚧｜备用:@StarryNoct ｜老公:@chinyu_ouo｜姐姐:@smiroyama\n对不起对不起对不起我的错 无人在意 互fo请私信（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 7,
+                "username": "StarryNoct"
+              },
+              {
+                "end": 34,
+                "start": 23,
+                "username": "chinyu_ouo"
+              },
+              {
+                "end": 48,
+                "start": 38,
+                "username": "smiroyama"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "name": "​碎星✨",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073578724868636673/mdHJZ7GA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1728,
+          "following_count": 885,
+          "like_count": 4085,
+          "listed_count": 4,
+          "media_count": 278,
+          "tweet_count": 8984
+        },
+        "url": "",
+        "username": "StarryNocts",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-13T00:23:31.000Z",
+        "description": "♂️，坐标成都，随便拍着玩，同城男娘请私我",
+        "id": "1690519191525462016",
+        "location": "成都",
+        "name": "鱼米米米鲨",
+        "pinned_tweet_id": "2066154856407327051",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1835129272140546048/eLC4TaoU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 283,
+          "following_count": 1275,
+          "like_count": 653,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 584
+        },
+        "url": "",
+        "username": "magisutan",
+        "verified": false
+      }
+    ]
+  }
+}

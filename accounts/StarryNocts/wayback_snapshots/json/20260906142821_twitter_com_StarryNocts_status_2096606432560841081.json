@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2096566467265282486",
+    "created_at": "2026-09-06T14:28:21.000Z",
+    "display_text_range": [
+      8,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T15:28:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096606432560841081"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1715553524749320192",
+          "start": 0,
+          "username": "ZHMIDE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096606432560841081",
+    "in_reply_to_user_id": "1715553524749320192",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096590588414185782",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZHMIDE 感觉普普通通…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2096566467265282486",
+        "created_at": "2026-09-06T14:28:21.000Z",
+        "display_text_range": [
+          8,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T15:28:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096606432560841081"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1715553524749320192",
+              "start": 0,
+              "username": "ZHMIDE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096606432560841081",
+        "in_reply_to_user_id": "1715553524749320192",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096590588414185782",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZHMIDE 感觉普普通通…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715553524749320192",
+        "conversation_id": "2096566467265282486",
+        "created_at": "2026-09-06T13:25:23.000Z",
+        "display_text_range": [
+          13,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T14:25:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096590588414185782"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1343151486432399360",
+              "start": 0,
+              "username": "StarryNocts"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096590588414185782",
+        "in_reply_to_user_id": "1343151486432399360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096566467265282486",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StarryNocts 是炸虾哇…看着好好吃"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "🏳‍⚧｜备用:@StarryNoct｜姐姐:@smiroyama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 7,
+                "username": "StarryNoct"
+              },
+              {
+                "end": 32,
+                "start": 22,
+                "username": "smiroyama"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096606432560841081",
+        "name": "​碎星猫猫",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1343151486432399360/1788007697",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093682145500057600/1ydeUACT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1857,
+          "following_count": 945,
+          "like_count": 4080,
+          "listed_count": 4,
+          "media_count": 199,
+          "tweet_count": 9298
+        },
+        "url": "",
+        "username": "StarryNocts",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-10-21T02:20:23.000Z",
+        "description": "怕孤独 会半夜切换人格发癫 \n想在推上认识善良的人",
+        "id": "1715553524749320192",
+        "is_identity_verified": false,
+        "location": "乱葬岗",
+        "most_recent_tweet_id": "2096591662592225481",
+        "name": "桜羽エマ",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1715553524749320192/1777796306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050851702895685632/U9QTrltB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 435,
+          "like_count": 2724,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 929
+        },
+        "url": "",
+        "username": "ZHMIDE",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

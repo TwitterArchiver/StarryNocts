@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2097081620239171816",
+    "created_at": "2026-09-08T03:04:36.000Z",
+    "display_text_range": [
+      13,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T04:04:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097159138271010990"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2055205435011936256",
+          "start": 0,
+          "username": "Amin1650752"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097159138271010990",
+    "in_reply_to_user_id": "2055205435011936256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097081620239171816",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Amin1650752 妈妈！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2097081615084347392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRpUnjwa4AA2zp_.jpg",
+        "width": 768
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2097081618188181504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRpUnvUboAAcZec.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2097081620239171816",
+        "created_at": "2026-09-08T03:04:36.000Z",
+        "display_text_range": [
+          13,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T04:04:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097159138271010990"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2055205435011936256",
+              "start": 0,
+              "username": "Amin1650752"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097159138271010990",
+        "in_reply_to_user_id": "2055205435011936256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097081620239171816",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Amin1650752 妈妈！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097081615084347392",
+            "3_2097081618188181504"
+          ]
+        },
+        "author_id": "2055205435011936256",
+        "conversation_id": "2097081620239171816",
+        "created_at": "2026-09-07T21:56:34.000Z",
+        "display_text_range": [
+          0,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T22:56:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097081620239171816"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2l1mOpftFR",
+              "end": 53,
+              "expanded_url": "https://x.com/Amin1650752/status/2097081620239171816/photo/1",
+              "media_key": "3_2097081615084347392",
+              "start": 30,
+              "url": "https://t.co/2l1mOpftFR"
+            },
+            {
+              "display_url": "pic.x.com/2l1mOpftFR",
+              "end": 53,
+              "expanded_url": "https://x.com/Amin1650752/status/2097081620239171816/photo/1",
+              "media_key": "3_2097081618188181504",
+              "start": 30,
+              "url": "https://t.co/2l1mOpftFR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097081620239171816",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097081615084347392"
+          },
+          {
+            "media_key": "3_2097081618188181504"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 401,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "发都发了再来一条\n是试衣和假发尝试\n我原皮很蛆所以口罩致歉 https://t.co/2l1mOpftFR"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "🏳‍⚧｜备用:@StarryNoct｜姐姐:@smiroyama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 7,
+                "username": "StarryNoct"
+              },
+              {
+                "end": 32,
+                "start": 22,
+                "username": "smiroyama"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097159138271010990",
+        "name": "​碎星猫猫",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1343151486432399360/1788007697",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093682145500057600/1ydeUACT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1855,
+          "following_count": 945,
+          "like_count": 4080,
+          "listed_count": 4,
+          "media_count": 199,
+          "tweet_count": 9311
+        },
+        "url": "",
+        "username": "StarryNocts",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-15T08:35:42.000Z",
+        "description": "姛/mtf/HRT 24.9.21/同类互fo/不鉴证&不o不割/大概同人游戏女（？）/q2418203817（猫の箱）",
+        "id": "2055205435011936256",
+        "is_identity_verified": false,
+        "location": "RiNG",
+        "most_recent_tweet_id": "2097126472125497802",
+        "name": "-Amin🐱",
+        "pinned_tweet_id": "2095712124458995938",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055205435011936256/1788541715",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096133941447299072/quH4TbTB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 579,
+          "following_count": 1105,
+          "like_count": 15547,
+          "listed_count": 2,
+          "media_count": 42,
+          "tweet_count": 1221
+        },
+        "url": "",
+        "username": "Amin1650752",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

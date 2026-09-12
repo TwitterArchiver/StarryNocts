@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2093622946711654506",
+    "created_at": "2026-08-29T14:18:18.000Z",
+    "display_text_range": [
+      14,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-29T15:18:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093704802236862759"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1153430387504373764",
+          "start": 0,
+          "username": "xiangcai_nya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093704802236862759",
+    "in_reply_to_user_id": "1153430387504373764",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093622946711654506",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiangcai_nya 😭😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2093622946711654506",
+        "created_at": "2026-08-29T14:18:18.000Z",
+        "display_text_range": [
+          14,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T15:18:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093704802236862759"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1153430387504373764",
+              "start": 0,
+              "username": "xiangcai_nya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093704802236862759",
+        "in_reply_to_user_id": "1153430387504373764",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093622946711654506",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiangcai_nya 😭😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1153430387504373764",
+        "conversation_id": "2093622946711654506",
+        "created_at": "2026-08-29T08:53:02.000Z",
+        "display_text_range": [
+          0,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T09:53:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093622946711654506"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Wrin520/status…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/Wrin520/status/2093081121001267549",
+              "start": 20,
+              "url": "https://t.co/79zJx0r2rh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093622946711654506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 781,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093081121001267549",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "缺氧窒息真的好难受，我不想再经历一次了 https://t.co/79zJx0r2rh"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "🏳‍⚧｜备用:@StarryNoct ｜老公:@chinyu_ouo｜姐姐:@smiroyama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 7,
+                "username": "StarryNoct"
+              },
+              {
+                "end": 34,
+                "start": 23,
+                "username": "chinyu_ouo"
+              },
+              {
+                "end": 48,
+                "start": 38,
+                "username": "smiroyama"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093704802236862759",
+        "name": "​碎星猫猫",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1343151486432399360/1788007697",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093682145500057600/1ydeUACT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1852,
+          "following_count": 933,
+          "like_count": 4080,
+          "listed_count": 4,
+          "media_count": 197,
+          "tweet_count": 9212
+        },
+        "url": "",
+        "username": "StarryNocts",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-07-22T22:23:28.000Z",
+        "description": "mtf→mtx(ing)\n想要互fo\n小号@Wrin520",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 21,
+                "username": "Wrin520"
+              }
+            ]
+          }
+        },
+        "id": "1153430387504373764",
+        "is_identity_verified": false,
+        "location": "Archangel, Russia",
+        "most_recent_tweet_id": "2093675381148782820",
+        "name": "꧁ 葱花香菜重度依赖 ꧂🍥",
+        "pinned_tweet_id": "2084566116417032467",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1153430387504373764/1781704040",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087441813909217280/uKEPeOau_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 818,
+          "following_count": 450,
+          "like_count": 838,
+          "listed_count": 4,
+          "media_count": 85,
+          "tweet_count": 2236
+        },
+        "url": "",
+        "username": "xiangcai_nya",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

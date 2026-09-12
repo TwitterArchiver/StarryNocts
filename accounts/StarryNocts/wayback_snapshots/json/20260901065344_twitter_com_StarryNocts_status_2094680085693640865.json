@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2094668019532460170",
+    "created_at": "2026-09-01T06:53:44.000Z",
+    "display_text_range": [
+      8,
+      11
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T07:53:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094680085693640865"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1866003673656303616",
+          "start": 0,
+          "username": "xmwben"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094680085693640865",
+    "in_reply_to_user_id": "1866003673656303616",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094668019532460170",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xmwben 萌萌！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2094668009742991360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRHBdPMbAAAbplv.jpg",
+        "width": 1722
+      },
+      {
+        "height": 1384,
+        "media_key": "3_2094668009734590464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRHBdPKa0AAqW5t.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2094668019532460170",
+        "created_at": "2026-09-01T06:53:44.000Z",
+        "display_text_range": [
+          8,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T07:53:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094680085693640865"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1866003673656303616",
+              "start": 0,
+              "username": "xmwben"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094680085693640865",
+        "in_reply_to_user_id": "1866003673656303616",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094668019532460170",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xmwben 萌萌！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094668009742991360",
+            "3_2094668009734590464"
+          ]
+        },
+        "author_id": "1866003673656303616",
+        "conversation_id": "2094668019532460170",
+        "created_at": "2026-09-01T06:05:47.000Z",
+        "display_text_range": [
+          0,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T07:05:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094668019532460170"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 14,
+              "start": 11,
+              "tag": "男娘"
+            },
+            {
+              "end": 18,
+              "start": 15,
+              "tag": "药娘"
+            },
+            {
+              "end": 22,
+              "start": 19,
+              "tag": "伪娘"
+            },
+            {
+              "end": 30,
+              "start": 23,
+              "tag": "可爱的男孩子"
+            },
+            {
+              "end": 38,
+              "start": 31,
+              "tag": "femboy"
+            },
+            {
+              "end": 42,
+              "start": 39,
+              "tag": "南京"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5TaDjdtbPl",
+              "end": 66,
+              "expanded_url": "https://x.com/xmwben/status/2094668019532460170/photo/1",
+              "media_key": "3_2094668009742991360",
+              "start": 43,
+              "url": "https://t.co/5TaDjdtbPl"
+            },
+            {
+              "display_url": "pic.x.com/5TaDjdtbPl",
+              "end": 66,
+              "expanded_url": "https://x.com/xmwben/status/2094668019532460170/photo/1",
+              "media_key": "3_2094668009734590464",
+              "start": 43,
+              "url": "https://t.co/5TaDjdtbPl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094668019532460170",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094668009742991360"
+          },
+          {
+            "media_key": "3_2094668009734590464"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 150,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "看起来傻傻的土豆地雷 #男娘 #药娘 #伪娘 #可爱的男孩子 #femboy #南京 https://t.co/5TaDjdtbPl"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "🏳‍⚧｜备用:@StarryNoct｜姐姐:@smiroyama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 7,
+                "username": "StarryNoct"
+              },
+              {
+                "end": 32,
+                "start": 22,
+                "username": "smiroyama"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094680085693640865",
+        "name": "​碎星猫猫",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1343151486432399360/1788007697",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093682145500057600/1ydeUACT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1854,
+          "following_count": 937,
+          "like_count": 4081,
+          "listed_count": 4,
+          "media_count": 197,
+          "tweet_count": 9246
+        },
+        "url": "",
+        "username": "StarryNocts",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-12-09T06:15:29.000Z",
+        "description": "立志成为美少女，173/120，🚪68，全国可✈️，愿世上再也没有戒网瘾学校，",
+        "id": "1866003673656303616",
+        "is_identity_verified": false,
+        "location": "江苏 南京",
+        "most_recent_tweet_id": "2094672695564833228",
+        "name": "黄豆粉（互推）",
+        "pinned_tweet_id": "2085692901108187501",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1866003673656303616/1733725206",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089543387506753536/VRLzTZ8j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4542,
+          "following_count": 972,
+          "like_count": 764,
+          "listed_count": 17,
+          "media_count": 51,
+          "tweet_count": 215
+        },
+        "url": "",
+        "username": "xmwben",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

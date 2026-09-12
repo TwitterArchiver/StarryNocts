@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2093225722370474046",
+    "created_at": "2026-08-28T23:25:28.000Z",
+    "display_text_range": [
+      13,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-29T00:25:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093480114655019176"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2055205435011936256",
+          "start": 0,
+          "username": "Amin1650752"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093480114655019176",
+    "in_reply_to_user_id": "2055205435011936256",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093225722370474046",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Amin1650752 😭😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2093225722370474046",
+        "created_at": "2026-08-28T23:25:28.000Z",
+        "display_text_range": [
+          13,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T00:25:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093480114655019176"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2055205435011936256",
+              "start": 0,
+              "username": "Amin1650752"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093480114655019176",
+        "in_reply_to_user_id": "2055205435011936256",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093225722370474046",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Amin1650752 😭😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055205435011936256",
+        "conversation_id": "2093225722370474046",
+        "created_at": "2026-08-28T06:34:37.000Z",
+        "display_text_range": [
+          0,
+          47
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T07:34:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093225722370474046"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2093225722370474046",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 449,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我需要钱…能交房租不用流浪，能买日雌不必断糖，能买猫粮让家咪幸福…可是一无所有，我一无所有……"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "🏳‍⚧｜备用:@StarryNoct ｜老公:@chinyu_ouo｜姐姐:@smiroyama\n对不起对不起对不起我的错 无人在意 互fo请私信（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 7,
+                "username": "StarryNoct"
+              },
+              {
+                "end": 34,
+                "start": 23,
+                "username": "chinyu_ouo"
+              },
+              {
+                "end": 48,
+                "start": 38,
+                "username": "smiroyama"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093480114655019176",
+        "name": "​碎星✨",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1343151486432399360/1784523472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073578724868636673/mdHJZ7GA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1846,
+          "following_count": 929,
+          "like_count": 4082,
+          "listed_count": 4,
+          "media_count": 292,
+          "tweet_count": 9292
+        },
+        "url": "",
+        "username": "StarryNocts",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-15T08:35:42.000Z",
+        "description": "姛/前世河野樱🍥/mtf/HRT 24.9.21/家暴党/同类互fo/不鉴证&不o不割/大概同人游戏女（？）",
+        "id": "2055205435011936256",
+        "is_identity_verified": false,
+        "location": "黑流树海",
+        "most_recent_tweet_id": "2093379183858823383",
+        "name": "-Amin🐱",
+        "pinned_tweet_id": "2087531868929622273",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055205435011936256/1781585938",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085028285134864384/pg8rixLW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 440,
+          "following_count": 929,
+          "like_count": 12314,
+          "listed_count": 2,
+          "media_count": 35,
+          "tweet_count": 890
+        },
+        "url": "",
+        "username": "Amin1650752",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

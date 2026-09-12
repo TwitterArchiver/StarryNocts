@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2096566467265282486",
+    "created_at": "2026-09-06T13:09:52.000Z",
+    "display_text_range": [
+      12,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T14:09:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096586682925453678"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1888562153004929024",
+          "start": 0,
+          "username": "ST_Bed0721"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096586682925453678",
+    "in_reply_to_user_id": "1888562153004929024",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096585138293682360",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ST_Bed0721 几十块钱富在哪…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2096566467265282486",
+        "created_at": "2026-09-06T13:09:52.000Z",
+        "display_text_range": [
+          12,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T14:09:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096586682925453678"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1888562153004929024",
+              "start": 0,
+              "username": "ST_Bed0721"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096586682925453678",
+        "in_reply_to_user_id": "1888562153004929024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096585138293682360",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ST_Bed0721 几十块钱富在哪…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888562153004929024",
+        "conversation_id": "2096566467265282486",
+        "created_at": "2026-09-06T13:03:44.000Z",
+        "display_text_range": [
+          13,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T14:03:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096585138293682360"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1343151486432399360",
+              "start": 0,
+              "username": "StarryNocts"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096585138293682360",
+        "in_reply_to_user_id": "1343151486432399360",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096566467265282486",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StarryNocts ！？富富？！"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "🏳‍⚧｜备用:@StarryNoct｜姐姐:@smiroyama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 7,
+                "username": "StarryNoct"
+              },
+              {
+                "end": 32,
+                "start": 22,
+                "username": "smiroyama"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096586682925453678",
+        "name": "​碎星猫猫",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1343151486432399360/1788007697",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093682145500057600/1ydeUACT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1857,
+          "following_count": 945,
+          "like_count": 4080,
+          "listed_count": 4,
+          "media_count": 199,
+          "tweet_count": 9292
+        },
+        "url": "",
+        "username": "StarryNocts",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-02-09T12:14:47.000Z",
+        "description": "可以叫我ST或者橙子酱🍊~｜渴望交朋友！｜不想当男生｜无糖｜06年 175cm 50kg｜快来找我聊天！｜不开心可以和我倾诉哦｜最重要的人@Shionaowo｜好宝宝@Evenin_eko｜妹妹@as_qwq0721｜橙子的幼稚园（群）1087803950",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 69,
+                "username": "Shionaowo"
+              },
+              {
+                "end": 94,
+                "start": 83,
+                "username": "Evenin_eko"
+              },
+              {
+                "end": 108,
+                "start": 97,
+                "username": "as_qwq0721"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/st_bed0721",
+                "end": 23,
+                "expanded_url": "https://ngl.link/st_bed0721",
+                "start": 0,
+                "url": "https://t.co/fyfckL9h5q"
+              }
+            ]
+          }
+        },
+        "id": "1888562153004929024",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096585138293682360",
+        "name": "ST_Bed🏳️‍⚧️",
+        "pinned_tweet_id": "2041998228351283704",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888562153004929024/1776428424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041343523228889088/y0SOhB3L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 582,
+          "following_count": 140,
+          "like_count": 1086,
+          "listed_count": 2,
+          "media_count": 62,
+          "tweet_count": 1151
+        },
+        "url": "https://t.co/fyfckL9h5q",
+        "username": "ST_Bed0721",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2096187084121977088",
+    "created_at": "2026-09-05T13:21:03.000Z",
+    "display_text_range": [
+      11,
+      57
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T14:21:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096227109639454767"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1982449259774656512",
+          "start": 0,
+          "username": "smiroyama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096227109639454767",
+    "in_reply_to_user_id": "1982449259774656512",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096226780306878480",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@smiroyama my parents and a lots of people believe doubao"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2096187084121977088",
+        "created_at": "2026-09-05T13:21:03.000Z",
+        "display_text_range": [
+          11,
+          57
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T14:21:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096227109639454767"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1982449259774656512",
+              "start": 0,
+              "username": "smiroyama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096227109639454767",
+        "in_reply_to_user_id": "1982449259774656512",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096226780306878480",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@smiroyama my parents and a lots of people believe doubao"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1982449259774656512",
+        "conversation_id": "2096187084121977088",
+        "created_at": "2026-09-05T13:19:45.000Z",
+        "display_text_range": [
+          13,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T14:19:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096226780306878480"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1343151486432399360",
+              "start": 0,
+              "username": "StarryNocts"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096226780306878480",
+        "in_reply_to_user_id": "1343151486432399360",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096226645803942240",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StarryNocts doubao is for exam cheating"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "🏳‍⚧｜备用:@StarryNoct｜姐姐:@smiroyama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 7,
+                "username": "StarryNoct"
+              },
+              {
+                "end": 32,
+                "start": 22,
+                "username": "smiroyama"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096227109639454767",
+        "name": "​碎星猫猫",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1343151486432399360/1788007697",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093682145500057600/1ydeUACT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1857,
+          "following_count": 946,
+          "like_count": 4080,
+          "listed_count": 4,
+          "media_count": 198,
+          "tweet_count": 9283
+        },
+        "url": "",
+        "username": "StarryNocts",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-10-26T14:08:58.000Z",
+        "description": "猫猫主人:@NanoCatfish\nBestie:@qianxunchan Sisters:@tangeorange @StarryNocts @Huang_Yut1ng @fukui_p26\nDeveloping https://t.co/pJ9VtdukHG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 5,
+                "username": "NanoCatfish"
+              },
+              {
+                "end": 37,
+                "start": 25,
+                "username": "qianxunchan"
+              },
+              {
+                "end": 58,
+                "start": 46,
+                "username": "tangeorange"
+              },
+              {
+                "end": 71,
+                "start": 59,
+                "username": "StarryNocts"
+              },
+              {
+                "end": 85,
+                "start": 72,
+                "username": "Huang_Yut1ng"
+              },
+              {
+                "end": 96,
+                "start": 86,
+                "username": "fukui_p26"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "hrt.mahiro.uk",
+                "end": 131,
+                "expanded_url": "http://hrt.mahiro.uk",
+                "start": 108,
+                "url": "https://t.co/pJ9VtdukHG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mizukiakiyama.com",
+                "end": 23,
+                "expanded_url": "http://mizukiakiyama.com",
+                "start": 0,
+                "url": "https://t.co/YPl1rDnS6s"
+              }
+            ]
+          }
+        },
+        "id": "1982449259774656512",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096227050482995226",
+        "name": "寻寻",
+        "pinned_tweet_id": "2084650884575985701",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1982449259774656512/1784339298",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078298418834018304/5_bmbU-u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8162,
+          "following_count": 2845,
+          "like_count": 15843,
+          "listed_count": 16,
+          "media_count": 2706,
+          "tweet_count": 10295
+        },
+        "url": "https://t.co/YPl1rDnS6s",
+        "username": "smiroyama",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

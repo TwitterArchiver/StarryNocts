@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2097121710374010899",
+    "created_at": "2026-09-09T13:43:00.000Z",
+    "display_text_range": [
+      15,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T14:43:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097682182705922417"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "919628976208752640",
+          "start": 0,
+          "username": "BaitangToubao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097682182705922417",
+    "in_reply_to_user_id": "919628976208752640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097121710374010899",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BaitangToubao 我舍友说过敏吃这个管事"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3024,
+        "media_key": "3_2097121695702343680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRp5EjsaYAAMuHQ.jpg",
+        "width": 4032
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2097121710374010899",
+        "created_at": "2026-09-09T13:43:00.000Z",
+        "display_text_range": [
+          15,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T14:43:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097682182705922417"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "919628976208752640",
+              "start": 0,
+              "username": "BaitangToubao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097682182705922417",
+        "in_reply_to_user_id": "919628976208752640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097121710374010899",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BaitangToubao 我舍友说过敏吃这个管事"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097121695702343680"
+          ]
+        },
+        "author_id": "919628976208752640",
+        "conversation_id": "2097121710374010899",
+        "created_at": "2026-09-08T00:35:53.000Z",
+        "display_text_range": [
+          0,
+          2
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T01:35:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097121710374010899"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rR2eOq8hOr",
+              "end": 26,
+              "expanded_url": "https://x.com/BaitangToubao/status/2097121710374010899/photo/1",
+              "media_key": "3_2097121695702343680",
+              "start": 3,
+              "url": "https://t.co/rR2eOq8hOr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097121710374010899",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097121695702343680"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 505,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "换药 https://t.co/rR2eOq8hOr"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "🏳‍⚧｜备用:@StarryNoct｜姐姐:@smiroyama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 7,
+                "username": "StarryNoct"
+              },
+              {
+                "end": 32,
+                "start": 22,
+                "username": "smiroyama"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097682182705922417",
+        "name": "​碎星猫猫",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1343151486432399360/1788007697",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093682145500057600/1ydeUACT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1855,
+          "following_count": 948,
+          "like_count": 4080,
+          "listed_count": 4,
+          "media_count": 199,
+          "tweet_count": 9331
+        },
+        "url": "",
+        "username": "StarryNocts",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2017-10-15T18:20:08.000Z",
+        "description": "BPD AuDHD积极治疗｜瑾瑾@K66cheng｜暖男、良人、正人君子@Leaf_Fallfield｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 16,
+                "username": "K66cheng"
+              },
+              {
+                "end": 51,
+                "start": 36,
+                "username": "Leaf_Fallfield"
+              }
+            ]
+          }
+        },
+        "id": "919628976208752640",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2097640283894857949",
+        "name": "白糖豆包🍥🏳️‍🌈",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/919628976208752640/1772584867",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028994061185728512/oDlbqhBI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1004,
+          "following_count": 672,
+          "like_count": 38730,
+          "listed_count": 3,
+          "media_count": 776,
+          "tweet_count": 8868
+        },
+        "url": "",
+        "username": "BaitangToubao",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

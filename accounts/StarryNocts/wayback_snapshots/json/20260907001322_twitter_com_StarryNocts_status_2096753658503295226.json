@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2096619375222800737",
+    "created_at": "2026-09-07T00:13:22.000Z",
+    "display_text_range": [
+      14,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T01:13:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096753658503295226"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1319578357395156993",
+          "start": 0,
+          "username": "yoshino_2333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096753658503295226",
+    "in_reply_to_user_id": "1319578357395156993",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096619375222800737",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yoshino_2333 🤤🤤🤤"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2296,
+        "media_key": "3_2096619367832416256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRiwNOja8AAAsHa.jpg",
+        "width": 3056
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2096619375222800737",
+        "created_at": "2026-09-07T00:13:22.000Z",
+        "display_text_range": [
+          14,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T01:13:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096753658503295226"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1319578357395156993",
+              "start": 0,
+              "username": "yoshino_2333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096753658503295226",
+        "in_reply_to_user_id": "1319578357395156993",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096619375222800737",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yoshino_2333 🤤🤤🤤"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096619367832416256"
+          ]
+        },
+        "author_id": "1319578357395156993",
+        "conversation_id": "2096619375222800737",
+        "created_at": "2026-09-06T15:19:47.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T16:19:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096619375222800737"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oxpsFViypM",
+              "end": 39,
+              "expanded_url": "https://x.com/yoshino_2333/status/2096619375222800737/photo/1",
+              "media_key": "3_2096619367832416256",
+              "start": 16,
+              "url": "https://t.co/oxpsFViypM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096619375222800737",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096619367832416256"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1949,
+          "like_count": 57,
+          "quote_count": 0,
+          "reply_count": 84,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这样处理过的照片会显得很有格调 https://t.co/oxpsFViypM"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "🏳‍⚧｜备用:@StarryNoct｜姐姐:@smiroyama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 7,
+                "username": "StarryNoct"
+              },
+              {
+                "end": 32,
+                "start": 22,
+                "username": "smiroyama"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096753658503295226",
+        "name": "​碎星猫猫",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1343151486432399360/1788007697",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093682145500057600/1ydeUACT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1857,
+          "following_count": 945,
+          "like_count": 4080,
+          "listed_count": 4,
+          "media_count": 199,
+          "tweet_count": 9305
+        },
+        "url": "",
+        "username": "StarryNocts",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2020-10-23T09:56:17.000Z",
+        "description": "希望成为一个有趣、独特的人 | Frontend/ReactNative Developer | AI 拉屎督察官 | Tweets in EN/CN | 逃生舱 @roitium\n\n「I love the world and everything in it.」",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 82,
+                "username": "roitium"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/roitium",
+                "end": 23,
+                "expanded_url": "https://github.com/roitium",
+                "start": 0,
+                "url": "https://t.co/z8BZ98SA9U"
+              }
+            ]
+          }
+        },
+        "id": "1319578357395156993",
+        "is_identity_verified": false,
+        "location": "你的电脑",
+        "most_recent_tweet_id": "2096630070861537498",
+        "name": "Yoshino233",
+        "pinned_tweet_id": "2086658175890260182",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1319578357395156993/1784508241",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081177042264133632/AGz5kVXy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2367,
+          "following_count": 717,
+          "like_count": 26039,
+          "listed_count": 4,
+          "media_count": 1153,
+          "tweet_count": 16061
+        },
+        "url": "https://t.co/z8BZ98SA9U",
+        "username": "yoshino_2333",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

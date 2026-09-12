@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2096642749755957638",
+    "created_at": "2026-09-07T03:01:21.000Z",
+    "display_text_range": [
+      17,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T04:01:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096795931018441041"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1282017604362571777",
+          "start": 0,
+          "username": "uPX8HIP7AndEVKd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096795931018441041",
+    "in_reply_to_user_id": "1282017604362571777",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096642749755957638",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@uPX8HIP7AndEVKd 羡慕"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2096642649122058240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRjFYYHasAAeaRl.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2096642686581379073",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRjFajqakAEmLhD.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2096642687780921345",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRjFaoIaIAEBBO-.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2096642735826743296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRjFdbHbMAAsg9Y.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2096642749755957638",
+        "created_at": "2026-09-07T03:01:21.000Z",
+        "display_text_range": [
+          17,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T04:01:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096795931018441041"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1282017604362571777",
+              "start": 0,
+              "username": "uPX8HIP7AndEVKd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096795931018441041",
+        "in_reply_to_user_id": "1282017604362571777",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096642749755957638",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uPX8HIP7AndEVKd 羡慕"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096642649122058240",
+            "3_2096642686581379073",
+            "3_2096642687780921345",
+            "3_2096642735826743296"
+          ]
+        },
+        "author_id": "1282017604362571777",
+        "conversation_id": "2096642749755957638",
+        "created_at": "2026-09-06T16:52:39.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T17:52:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096642749755957638"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tG4DIJ7mZF",
+              "end": 31,
+              "expanded_url": "https://x.com/uPX8HIP7AndEVKd/status/2096642749755957638/photo/1",
+              "media_key": "3_2096642649122058240",
+              "start": 8,
+              "url": "https://t.co/tG4DIJ7mZF"
+            },
+            {
+              "display_url": "pic.x.com/tG4DIJ7mZF",
+              "end": 31,
+              "expanded_url": "https://x.com/uPX8HIP7AndEVKd/status/2096642749755957638/photo/1",
+              "media_key": "3_2096642686581379073",
+              "start": 8,
+              "url": "https://t.co/tG4DIJ7mZF"
+            },
+            {
+              "display_url": "pic.x.com/tG4DIJ7mZF",
+              "end": 31,
+              "expanded_url": "https://x.com/uPX8HIP7AndEVKd/status/2096642749755957638/photo/1",
+              "media_key": "3_2096642687780921345",
+              "start": 8,
+              "url": "https://t.co/tG4DIJ7mZF"
+            },
+            {
+              "display_url": "pic.x.com/tG4DIJ7mZF",
+              "end": 31,
+              "expanded_url": "https://x.com/uPX8HIP7AndEVKd/status/2096642749755957638/photo/1",
+              "media_key": "3_2096642735826743296",
+              "start": 8,
+              "url": "https://t.co/tG4DIJ7mZF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096642749755957638",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2096642649122058240"
+          },
+          {
+            "media_key": "3_2096642686581379073"
+          },
+          {
+            "media_key": "3_2096642687780921345"
+          },
+          {
+            "media_key": "3_2096642735826743296"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 110,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "踩踩温迪牛子～ https://t.co/tG4DIJ7mZF"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "🏳‍⚧｜备用:@StarryNoct｜姐姐:@smiroyama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 7,
+                "username": "StarryNoct"
+              },
+              {
+                "end": 32,
+                "start": 22,
+                "username": "smiroyama"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096795931018441041",
+        "name": "​碎星猫猫",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1343151486432399360/1788007697",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093682145500057600/1ydeUACT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1857,
+          "following_count": 945,
+          "like_count": 4080,
+          "listed_count": 4,
+          "media_count": 199,
+          "tweet_count": 9309
+        },
+        "url": "",
+        "username": "StarryNocts",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-07-11T18:23:27.000Z",
+        "description": "收男娘M。收CD小可爱，收CD奴，收可爱的男孩子，收小正太，收小男娘。VⅩ13822182268",
+        "id": "1282017604362571777",
+        "is_identity_verified": false,
+        "location": "广西，桂林",
+        "most_recent_tweet_id": "2096651312998064149",
+        "name": "广西S九哥哥（已回桂林）",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1282017604362571777/1650106961",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1365725145311047681/zFvi6aIR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1728,
+          "following_count": 3721,
+          "like_count": 307,
+          "listed_count": 21,
+          "media_count": 2538,
+          "tweet_count": 6222
+        },
+        "url": "",
+        "username": "uPX8HIP7AndEVKd",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
