@@ -1,7 +1,7 @@
 {
-  "name": "​碎星猫猫",
+  "name": "​碎星✨",
   "username": "@StarryNocts",
-  "bio": "🏳‍⚧｜备用:@StarryNoct｜姐姐:@smiroyama",
+  "bio": "🏳‍⚧mtx｜备用:@StarryNoct｜姐姐:@smiroyama",
   "location": "",
   "link": "",
   "avatar": "avatar/avatar.jpg",
@@ -10,13 +10,13 @@
   "bio_entities": {
     "mentions": [
       {
-        "end": 18,
-        "start": 7,
+        "end": 21,
+        "start": 10,
         "username": "StarryNoct"
       },
       {
-        "end": 32,
-        "start": 22,
+        "end": 35,
+        "start": 25,
         "username": "smiroyama"
       }
     ]
