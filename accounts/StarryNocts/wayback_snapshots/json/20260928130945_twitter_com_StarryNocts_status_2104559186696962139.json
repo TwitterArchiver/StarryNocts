@@ -1,0 +1,325 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2104528211996504195",
+    "created_at": "2026-09-28T13:09:45.000Z",
+    "display_text_range": [
+      10,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T14:09:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104559186696962139"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2023571607780782080",
+          "start": 0,
+          "username": "Haoyue0y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104559186696962139",
+    "in_reply_to_user_id": "2023571607780782080",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104528211996504195",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Haoyue0y 摸摸"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2560,
+        "media_key": "3_2104528099786301440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTTJKA-XIAAY-Tg.jpg",
+        "width": 1152
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2104528122544582657",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTTJLVwW8AEXSdr.jpg",
+        "width": 2560
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2104528150583554048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTTJM-NXsAA-fKx.jpg",
+        "width": 2560
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2104528189905117184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTTJPQsXIAAWOB3.jpg",
+        "width": 2560
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2104528211996504195",
+        "created_at": "2026-09-28T13:09:45.000Z",
+        "display_text_range": [
+          10,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T14:09:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104559186696962139"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2023571607780782080",
+              "start": 0,
+              "username": "Haoyue0y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104559186696962139",
+        "in_reply_to_user_id": "2023571607780782080",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104528211996504195",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Haoyue0y 摸摸"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104528099786301440",
+            "3_2104528122544582657",
+            "3_2104528150583554048",
+            "3_2104528189905117184"
+          ]
+        },
+        "author_id": "2023571607780782080",
+        "conversation_id": "2104528211996504195",
+        "created_at": "2026-09-28T11:06:40.000Z",
+        "display_text_range": [
+          0,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T12:06:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104528211996504195"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 17,
+              "start": 14,
+              "tag": "男娘"
+            },
+            {
+              "end": 22,
+              "start": 18,
+              "tag": "男の娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/efoI1BCt8C",
+              "end": 46,
+              "expanded_url": "https://x.com/Haoyue0y/status/2104528211996504195/photo/1",
+              "media_key": "3_2104528099786301440",
+              "start": 23,
+              "url": "https://t.co/efoI1BCt8C"
+            },
+            {
+              "display_url": "pic.x.com/efoI1BCt8C",
+              "end": 46,
+              "expanded_url": "https://x.com/Haoyue0y/status/2104528211996504195/photo/1",
+              "media_key": "3_2104528122544582657",
+              "start": 23,
+              "url": "https://t.co/efoI1BCt8C"
+            },
+            {
+              "display_url": "pic.x.com/efoI1BCt8C",
+              "end": 46,
+              "expanded_url": "https://x.com/Haoyue0y/status/2104528211996504195/photo/1",
+              "media_key": "3_2104528150583554048",
+              "start": 23,
+              "url": "https://t.co/efoI1BCt8C"
+            },
+            {
+              "display_url": "pic.x.com/efoI1BCt8C",
+              "end": 46,
+              "expanded_url": "https://x.com/Haoyue0y/status/2104528211996504195/photo/1",
+              "media_key": "3_2104528189905117184",
+              "start": 23,
+              "url": "https://t.co/efoI1BCt8C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104528211996504195",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2104528099786301440"
+          },
+          {
+            "media_key": "3_2104528122544582657"
+          },
+          {
+            "media_key": "3_2104528150583554048"
+          },
+          {
+            "media_key": "3_2104528189905117184"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 72,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "世界破破烂烂，男娘可可爱爱\n#男娘\n#男の娘 https://t.co/efoI1BCt8C"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "🏳‍⚧mtx｜备用:@StarryNoct｜姐姐:@smiroyama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 10,
+                "username": "StarryNoct"
+              },
+              {
+                "end": 35,
+                "start": 25,
+                "username": "smiroyama"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104559186696962139",
+        "name": "​碎星✨",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1343151486432399360/1788007697",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093682145500057600/1ydeUACT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1896,
+          "following_count": 957,
+          "like_count": 4075,
+          "listed_count": 4,
+          "media_count": 197,
+          "tweet_count": 9506
+        },
+        "url": "",
+        "username": "StarryNocts",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2026-02-17T01:34:33.000Z",
+        "description": "かわいなダー二ャが大好きです",
+        "id": "2023571607780782080",
+        "is_identity_verified": false,
+        "location": "贵州 安顺",
+        "most_recent_tweet_id": "2104535554477961307",
+        "name": "皓月（hào yuè）",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2023571607780782080/1789898336",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098192117755695104/ZWH3pwmj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 360,
+          "like_count": 1558,
+          "listed_count": 0,
+          "media_count": 127,
+          "tweet_count": 1145
+        },
+        "url": "",
+        "username": "Haoyue0y",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

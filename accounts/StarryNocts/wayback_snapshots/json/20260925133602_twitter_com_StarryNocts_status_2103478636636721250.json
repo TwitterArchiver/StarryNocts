@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2103477585170792770",
+    "created_at": "2026-09-25T13:36:02.000Z",
+    "display_text_range": [
+      16,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-25T14:36:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103478636636721250"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1980236829455511552",
+          "start": 0,
+          "username": "PaulDrizzyvlni"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103478636636721250",
+    "in_reply_to_user_id": "1980236829455511552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103477585170792770",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PaulDrizzyvlni 生日快乐🎂"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2103477562584539137",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTENss7bIAEci_T.jpg",
+        "width": 1536
+      },
+      {
+        "height": 332,
+        "media_key": "3_2103477562576138240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTENss5a8AAtsk0.jpg",
+        "width": 1022
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2103477585170792770",
+        "created_at": "2026-09-25T13:36:02.000Z",
+        "display_text_range": [
+          16,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T14:36:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103478636636721250"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1980236829455511552",
+              "start": 0,
+              "username": "PaulDrizzyvlni"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103478636636721250",
+        "in_reply_to_user_id": "1980236829455511552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103477585170792770",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PaulDrizzyvlni 生日快乐🎂"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103477562584539137",
+            "3_2103477562576138240"
+          ]
+        },
+        "author_id": "1980236829455511552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2103477585170792770",
+        "created_at": "2026-09-25T13:31:51.000Z",
+        "display_text_range": [
+          0,
+          3
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T14:31:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103477585170792770"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/I1LhOVl9cY",
+              "end": 27,
+              "expanded_url": "https://x.com/PaulDrizzyvlni/status/2103477585170792770/photo/1",
+              "media_key": "3_2103477562584539137",
+              "start": 4,
+              "url": "https://t.co/I1LhOVl9cY"
+            },
+            {
+              "display_url": "pic.x.com/I1LhOVl9cY",
+              "end": 27,
+              "expanded_url": "https://x.com/PaulDrizzyvlni/status/2103477585170792770/photo/1",
+              "media_key": "3_2103477562576138240",
+              "start": 4,
+              "url": "https://t.co/I1LhOVl9cY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103477585170792770",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2103477562584539137"
+          },
+          {
+            "media_key": "3_2103477562576138240"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "生日… https://t.co/I1LhOVl9cY"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "🏳‍⚧mtx｜备用:@StarryNoct｜姐姐:@smiroyama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 10,
+                "username": "StarryNoct"
+              },
+              {
+                "end": 35,
+                "start": 25,
+                "username": "smiroyama"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103478636636721250",
+        "name": "​碎星✨",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1343151486432399360/1788007697",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093682145500057600/1ydeUACT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1872,
+          "following_count": 948,
+          "like_count": 4071,
+          "listed_count": 5,
+          "media_count": 194,
+          "tweet_count": 9440
+        },
+        "url": "",
+        "username": "StarryNocts",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-10-20T11:37:56.000Z",
+        "description": "恢覆出廠 25.11.18🏳️‍⚧️🍥|想睡覺|\n好姐姐 @HappyHejsDay | 對象 @shixveriya 🥰 |我的妹妹 @shiyaoshiwo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 29,
+                "username": "HappyHejsDay"
+              },
+              {
+                "end": 59,
+                "start": 48,
+                "username": "shixveriya"
+              },
+              {
+                "end": 80,
+                "start": 68,
+                "username": "shiyaoshiwo"
+              }
+            ]
+          }
+        },
+        "id": "1980236829455511552",
+        "is_identity_verified": false,
+        "location": "Palmdale, California, USA",
+        "most_recent_tweet_id": "2103477585170792770",
+        "name": "happiness🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1980236829455511552/1772609453",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029097178988425216/wR_-2rgN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2817,
+          "following_count": 1530,
+          "like_count": 6662,
+          "listed_count": 7,
+          "media_count": 482,
+          "tweet_count": 5002
+        },
+        "url": "",
+        "username": "PaulDrizzyvlni",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

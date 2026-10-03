@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2105642173379281020",
+    "created_at": "2026-10-01T22:37:47.000Z",
+    "display_text_range": [
+      10,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-01T23:37:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105789300365517154"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1910979720227049472",
+          "start": 0,
+          "username": "Remth_07"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105789300365517154",
+    "in_reply_to_user_id": "1910979720227049472",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105642173379281020",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Remth_07 好萌！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1279,
+        "media_key": "3_2105642159227731968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTi-YzzbAAAhIr_.jpg",
+        "width": 1493
+      },
+      {
+        "height": 1279,
+        "media_key": "3_2105642166584524800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTi-ZPNawAAeEKL.jpg",
+        "width": 1493
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2105642173379281020",
+        "created_at": "2026-10-01T22:37:47.000Z",
+        "display_text_range": [
+          10,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T23:37:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105789300365517154"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1910979720227049472",
+              "start": 0,
+              "username": "Remth_07"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105789300365517154",
+        "in_reply_to_user_id": "1910979720227049472",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105642173379281020",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Remth_07 好萌！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105642159227731968",
+            "3_2105642166584524800"
+          ]
+        },
+        "author_id": "1910979720227049472",
+        "conversation_id": "2105642173379281020",
+        "created_at": "2026-10-01T12:53:09.000Z",
+        "display_text_range": [
+          0,
+          141
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T13:53:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105642173379281020"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/d0HqAuS546",
+              "end": 165,
+              "expanded_url": "https://x.com/Remth_07/status/2105642173379281020/photo/1",
+              "media_key": "3_2105642159227731968",
+              "start": 142,
+              "url": "https://t.co/d0HqAuS546"
+            },
+            {
+              "display_url": "pic.x.com/d0HqAuS546",
+              "end": 165,
+              "expanded_url": "https://x.com/Remth_07/status/2105642173379281020/photo/1",
+              "media_key": "3_2105642166584524800",
+              "start": 142,
+              "url": "https://t.co/d0HqAuS546"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105642173379281020",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2105642159227731968"
+          },
+          {
+            "media_key": "3_2105642166584524800"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 591,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "每周二上午最后两节课是数学课连堂 这100分钟内我的心路历程:\n认真听课→居然听懂了我真是天才→为什么我又听不懂了→书写一些例题→视奸一下同桌→我草讲到哪了→下课了到处蠕动→十分钟后继续听课→和同桌进行一些八卦→聊一些涩涩→听一下讲课→想涩涩...→快下课了准备抢饭→被旁边的人创飞 https://t.co/d0HqAuS546"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "🏳‍⚧mtx｜备用:@StarryNoct｜姐姐:@smiroyama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 10,
+                "username": "StarryNoct"
+              },
+              {
+                "end": 35,
+                "start": 25,
+                "username": "smiroyama"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105789300365517154",
+        "name": "​碎星✨",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1343151486432399360/1788007697",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093682145500057600/1ydeUACT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1920,
+          "following_count": 957,
+          "like_count": 4075,
+          "listed_count": 4,
+          "media_count": 200,
+          "tweet_count": 9577
+        },
+        "url": "",
+        "username": "StarryNocts",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-04-12T08:54:16.000Z",
+        "description": "睡觉是全世界最舒服的事情",
+        "id": "1910979720227049472",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105658272909029410",
+        "name": "Remth",
+        "pinned_tweet_id": "1934080937060610415",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1910979720227049472/1744541190",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041878825135697927/tUFv4RsC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1252,
+          "following_count": 1016,
+          "like_count": 6244,
+          "listed_count": 0,
+          "media_count": 115,
+          "tweet_count": 1412
+        },
+        "url": "",
+        "username": "Remth_07",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

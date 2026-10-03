@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2100763432756916679",
+    "created_at": "2026-09-18T06:31:49.000Z",
+    "display_text_range": [
+      10,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T07:31:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100835166243663949"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2023571607780782080",
+          "start": 0,
+          "username": "Haoyue0y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100835166243663949",
+    "in_reply_to_user_id": "2023571607780782080",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100763432756916679",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Haoyue0y 摸摸"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2100763368995135488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSdpJ14boAAn4YD.jpg",
+        "width": 2560
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2100763432756916679",
+        "created_at": "2026-09-18T06:31:49.000Z",
+        "display_text_range": [
+          10,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T07:31:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100835166243663949"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2023571607780782080",
+              "start": 0,
+              "username": "Haoyue0y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100835166243663949",
+        "in_reply_to_user_id": "2023571607780782080",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100763432756916679",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Haoyue0y 摸摸"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100763368995135488"
+          ]
+        },
+        "author_id": "2023571607780782080",
+        "conversation_id": "2100763432756916679",
+        "created_at": "2026-09-18T01:46:47.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T02:46:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100763432756916679"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 13,
+              "start": 10,
+              "tag": "男娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QQ3TBNZ5sP",
+              "end": 37,
+              "expanded_url": "https://x.com/Haoyue0y/status/2100763432756916679/photo/1",
+              "media_key": "3_2100763368995135488",
+              "start": 14,
+              "url": "https://t.co/QQ3TBNZ5sP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100763432756916679",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100763368995135488"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 154,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天也要好好女装呀 #男娘 https://t.co/QQ3TBNZ5sP"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "🏳‍⚧mtx｜备用:@StarryNoct｜姐姐:@smiroyama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 10,
+                "username": "StarryNoct"
+              },
+              {
+                "end": 35,
+                "start": 25,
+                "username": "smiroyama"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100835166243663949",
+        "name": "​碎星✨",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1343151486432399360/1788007697",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093682145500057600/1ydeUACT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1853,
+          "following_count": 946,
+          "like_count": 4069,
+          "listed_count": 5,
+          "media_count": 191,
+          "tweet_count": 9377
+        },
+        "url": "",
+        "username": "StarryNocts",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2026-02-17T01:34:33.000Z",
+        "description": "かわいなダー二ャが大好きです",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/FNnKJ3u",
+                "end": 23,
+                "expanded_url": "https://b23.tv/FNnKJ3u",
+                "start": 0,
+                "url": "https://t.co/L70beBpF7d"
+              }
+            ]
+          }
+        },
+        "id": "2023571607780782080",
+        "is_identity_verified": false,
+        "location": "贵州 安顺",
+        "most_recent_tweet_id": "2100801307175248112",
+        "name": "皓月（hào yuè）",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2023571607780782080/1789082958",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098192117755695104/ZWH3pwmj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 308,
+          "like_count": 1282,
+          "listed_count": 0,
+          "media_count": 114,
+          "tweet_count": 1023
+        },
+        "url": "https://t.co/L70beBpF7d",
+        "username": "Haoyue0y",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

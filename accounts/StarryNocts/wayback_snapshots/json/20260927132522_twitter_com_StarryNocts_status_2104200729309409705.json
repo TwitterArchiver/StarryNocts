@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2104152585217478894",
+    "created_at": "2026-09-27T13:25:22.000Z",
+    "display_text_range": [
+      13,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T14:25:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104200729309409705"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "972585975133057024",
+          "start": 0,
+          "username": "2212151302a"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104200729309409705",
+    "in_reply_to_user_id": "972585975133057024",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104152585217478894",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@2212151302a 我我我"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 602,
+        "media_key": "3_2104152560940789760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTNzmxwasAABdal.jpg",
+        "width": 650
+      },
+      {
+        "height": 1600,
+        "media_key": "3_2104152567169376256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTNznI9bYAAWhv9.jpg",
+        "width": 1200
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2104152574941437953",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTNznl6boAEvZUo.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2104152585217478894",
+        "created_at": "2026-09-27T13:25:22.000Z",
+        "display_text_range": [
+          13,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T14:25:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104200729309409705"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "972585975133057024",
+              "start": 0,
+              "username": "2212151302a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104200729309409705",
+        "in_reply_to_user_id": "972585975133057024",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104152585217478894",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2212151302a 我我我"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104152560940789760",
+            "3_2104152567169376256",
+            "3_2104152574941437953"
+          ]
+        },
+        "author_id": "972585975133057024",
+        "conversation_id": "2104152585217478894",
+        "created_at": "2026-09-27T10:14:04.000Z",
+        "display_text_range": [
+          0,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T11:14:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104152585217478894"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 16,
+              "tag": "男娘"
+            },
+            {
+              "end": 25,
+              "start": 20,
+              "tag": "作战记录"
+            },
+            {
+              "end": 31,
+              "start": 26,
+              "tag": "樋口円香"
+            },
+            {
+              "end": 37,
+              "start": 32,
+              "tag": "偶像大师"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/S7hqBMrLkG",
+              "end": 61,
+              "expanded_url": "https://x.com/2212151302a/status/2104152585217478894/photo/1",
+              "media_key": "3_2104152560940789760",
+              "start": 38,
+              "url": "https://t.co/S7hqBMrLkG"
+            },
+            {
+              "display_url": "pic.x.com/S7hqBMrLkG",
+              "end": 61,
+              "expanded_url": "https://x.com/2212151302a/status/2104152585217478894/photo/1",
+              "media_key": "3_2104152567169376256",
+              "start": 38,
+              "url": "https://t.co/S7hqBMrLkG"
+            },
+            {
+              "display_url": "pic.x.com/S7hqBMrLkG",
+              "end": 61,
+              "expanded_url": "https://x.com/2212151302a/status/2104152585217478894/photo/1",
+              "media_key": "3_2104152574941437953",
+              "start": 38,
+              "url": "https://t.co/S7hqBMrLkG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104152585217478894",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2104152560940789760"
+          },
+          {
+            "media_key": "3_2104152567169376256"
+          },
+          {
+            "media_key": "3_2104152574941437953"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 321,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有没有京津冀附近的宝宝扩扩啊  #男娘 #作战记录 #樋口円香 #偶像大师 https://t.co/S7hqBMrLkG"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "🏳‍⚧mtx｜备用:@StarryNoct｜姐姐:@smiroyama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 10,
+                "username": "StarryNoct"
+              },
+              {
+                "end": 35,
+                "start": 25,
+                "username": "smiroyama"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104200729309409705",
+        "name": "​碎星✨",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1343151486432399360/1788007697",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093682145500057600/1ydeUACT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1892,
+          "following_count": 958,
+          "like_count": 4074,
+          "listed_count": 5,
+          "media_count": 197,
+          "tweet_count": 9486
+        },
+        "url": "",
+        "username": "StarryNocts",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-03-10T21:32:21.000Z",
+        "description": "喜欢车万，邦邦，ba，🐧2212151302，同好宝宝直接加就可以，游戏玩300英雄、vrc、apex、三角洲等等，欢迎扩列一起玩\nzn🚪15 介意勿扰",
+        "id": "972585975133057024",
+        "is_identity_verified": false,
+        "location": "beijing",
+        "most_recent_tweet_id": "2104152585217478894",
+        "name": "日菜最爱吃薯条",
+        "pinned_tweet_id": "2100165903061307534",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/972585975133057024/1614038781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031210482238107651/8h047npL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1773,
+          "following_count": 1870,
+          "like_count": 497,
+          "listed_count": 9,
+          "media_count": 22,
+          "tweet_count": 144
+        },
+        "url": "",
+        "username": "2212151302a",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

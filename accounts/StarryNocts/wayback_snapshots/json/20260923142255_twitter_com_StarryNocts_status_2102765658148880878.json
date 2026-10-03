@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2102706214308286616",
+    "created_at": "2026-09-23T14:22:55.000Z",
+    "display_text_range": [
+      14,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-23T15:22:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102765658148880878"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1153430387504373764",
+          "start": 0,
+          "username": "xiangcai_nya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102765658148880878",
+    "in_reply_to_user_id": "1153430387504373764",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102706214308286616",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiangcai_nya 好好看"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1588,
+        "media_key": "3_2102706035287097344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS5P_5xbgAALIVE.jpg",
+        "width": 1080
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2102706141948227584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS5QGHHbMAA0EgG.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2102706214308286616",
+        "created_at": "2026-09-23T14:22:55.000Z",
+        "display_text_range": [
+          14,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T15:22:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102765658148880878"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1153430387504373764",
+              "start": 0,
+              "username": "xiangcai_nya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102765658148880878",
+        "in_reply_to_user_id": "1153430387504373764",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102706214308286616",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiangcai_nya 好好看"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102706035287097344",
+            "3_2102706141948227584"
+          ]
+        },
+        "author_id": "1153430387504373764",
+        "conversation_id": "2102706214308286616",
+        "created_at": "2026-09-23T10:26:42.000Z",
+        "display_text_range": [
+          0,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T11:26:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102706214308286616"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gOaFiRZoht",
+              "end": 43,
+              "expanded_url": "https://x.com/xiangcai_nya/status/2102706214308286616/photo/1",
+              "media_key": "3_2102706035287097344",
+              "start": 20,
+              "url": "https://t.co/gOaFiRZoht"
+            },
+            {
+              "display_url": "pic.x.com/gOaFiRZoht",
+              "end": 43,
+              "expanded_url": "https://x.com/xiangcai_nya/status/2102706214308286616/photo/1",
+              "media_key": "3_2102706141948227584",
+              "start": 20,
+              "url": "https://t.co/gOaFiRZoht"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102706214308286616",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2102706035287097344"
+          },
+          {
+            "media_key": "3_2102706141948227584"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 212,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "因为在精卫发疯喜提拘束带+地西泮大礼包 https://t.co/gOaFiRZoht"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "🏳‍⚧mtx｜备用:@StarryNoct｜姐姐:@smiroyama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 10,
+                "username": "StarryNoct"
+              },
+              {
+                "end": 35,
+                "start": 25,
+                "username": "smiroyama"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102765658148880878",
+        "name": "​碎星✨",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1343151486432399360/1788007697",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093682145500057600/1ydeUACT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1876,
+          "following_count": 953,
+          "like_count": 4070,
+          "listed_count": 5,
+          "media_count": 194,
+          "tweet_count": 9421
+        },
+        "url": "",
+        "username": "StarryNocts",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-07-22T22:23:28.000Z",
+        "description": "mtx｜互fo｜纯良xyn｜不混圈\n防失联tg群https://t.co/XZkgF2x3HZ\n第一人格@Wrin520",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 52,
+                "username": "Wrin520"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+mn26KZjvhyVlZ…",
+                "end": 47,
+                "expanded_url": "https://t.me/+mn26KZjvhyVlZDEx",
+                "start": 24,
+                "url": "https://t.co/XZkgF2x3HZ"
+              }
+            ]
+          }
+        },
+        "id": "1153430387504373764",
+        "is_identity_verified": false,
+        "location": "Archangel, Russia",
+        "most_recent_tweet_id": "2102706214308286616",
+        "name": "꧁ 葱花香菜重度依赖 ꧂🍥",
+        "pinned_tweet_id": "2096183201689715032",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1153430387504373764/1781704040",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087441813909217280/uKEPeOau_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 822,
+          "following_count": 451,
+          "like_count": 919,
+          "listed_count": 5,
+          "media_count": 95,
+          "tweet_count": 2394
+        },
+        "url": "",
+        "username": "xiangcai_nya",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

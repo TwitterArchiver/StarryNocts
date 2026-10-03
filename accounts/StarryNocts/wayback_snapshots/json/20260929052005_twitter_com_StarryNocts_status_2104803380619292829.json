@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2104785767914496297",
+    "created_at": "2026-09-29T05:20:05.000Z",
+    "display_text_range": [
+      9,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-29T06:20:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104803380619292829"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1977283341583106052",
+          "start": 0,
+          "username": "Gatn_ID"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104803380619292829",
+    "in_reply_to_user_id": "1977283341583106052",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104785767914496297",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Gatn_ID 好吃的！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2104785752169021440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTWzfW5WgAAU_4x.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2104785767914496297",
+        "created_at": "2026-09-29T05:20:05.000Z",
+        "display_text_range": [
+          9,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T06:20:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104803380619292829"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1977283341583106052",
+              "start": 0,
+              "username": "Gatn_ID"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104803380619292829",
+        "in_reply_to_user_id": "1977283341583106052",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104785767914496297",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Gatn_ID 好吃的！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104785752169021440"
+          ]
+        },
+        "author_id": "1977283341583106052",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2104785767914496297",
+        "created_at": "2026-09-29T04:10:06.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T05:10:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104785767914496297"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mAZRJjQu9b",
+              "end": 37,
+              "expanded_url": "https://x.com/Gatn_ID/status/2104785767914496297/photo/1",
+              "media_key": "3_2104785752169021440",
+              "start": 14,
+              "url": "https://t.co/mAZRJjQu9b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104785767914496297",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2104785752169021440"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 238,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天点了芝士牛堡🍔三层！😋 https://t.co/mAZRJjQu9b"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "🏳‍⚧mtx｜备用:@StarryNoct｜姐姐:@smiroyama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 10,
+                "username": "StarryNoct"
+              },
+              {
+                "end": 35,
+                "start": 25,
+                "username": "smiroyama"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104803380619292829",
+        "name": "​碎星✨",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1343151486432399360/1788007697",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093682145500057600/1ydeUACT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1895,
+          "following_count": 957,
+          "like_count": 4075,
+          "listed_count": 4,
+          "media_count": 198,
+          "tweet_count": 9517
+        },
+        "url": "",
+        "username": "StarryNocts",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-10-12T08:01:06.000Z",
+        "description": "04的老old大叔 懂一点点梅花易数/VRchat：TangD:/小号@gnat_id",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 35,
+                "username": "gnat_id"
+              }
+            ]
+          }
+        },
+        "id": "1977283341583106052",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104788926259200437",
+        "name": "GaTn_:D",
+        "pinned_tweet_id": "2080991834898129197",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1977283341583106052/1760541406",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977287571786153987/anKaiFG1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 241,
+          "following_count": 1137,
+          "like_count": 44454,
+          "listed_count": 0,
+          "media_count": 1424,
+          "tweet_count": 7556
+        },
+        "url": "",
+        "username": "Gatn_ID",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

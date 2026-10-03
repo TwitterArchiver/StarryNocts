@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2100566966528614812",
+    "created_at": "2026-09-17T15:15:52.000Z",
+    "display_text_range": [
+      17,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T16:15:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100604656376561881"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1923621171544850437",
+          "start": 0,
+          "username": "Mary18716528345"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100604656376561881",
+    "in_reply_to_user_id": "1923621171544850437",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100566966528614812",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mary18716528345 吃吃"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1443,
+        "media_key": "3_2100566944038719488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSa2gZ5bEAASRoh.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1429,
+        "media_key": "3_2100566943988404224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSa2gZtbUAApfFH.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1465,
+        "media_key": "3_2100566943984173056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSa2gZsawAAETE9.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2100566966528614812",
+        "created_at": "2026-09-17T15:15:52.000Z",
+        "display_text_range": [
+          17,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T16:15:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100604656376561881"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1923621171544850437",
+              "start": 0,
+              "username": "Mary18716528345"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100604656376561881",
+        "in_reply_to_user_id": "1923621171544850437",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100566966528614812",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mary18716528345 吃吃"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100566944038719488",
+            "3_2100566943988404224",
+            "3_2100566943984173056"
+          ]
+        },
+        "author_id": "1923621171544850437",
+        "conversation_id": "2100566966528614812",
+        "created_at": "2026-09-17T12:46:06.000Z",
+        "display_text_range": [
+          0,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T13:46:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100566966528614812"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 9,
+              "start": 6,
+              "tag": "男娘"
+            },
+            {
+              "end": 17,
+              "start": 10,
+              "tag": "可爱的男孩子"
+            },
+            {
+              "end": 21,
+              "start": 18,
+              "tag": "伪娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lddeMA1cWl",
+              "end": 45,
+              "expanded_url": "https://x.com/Mary18716528345/status/2100566966528614812/photo/1",
+              "media_key": "3_2100566944038719488",
+              "start": 22,
+              "url": "https://t.co/lddeMA1cWl"
+            },
+            {
+              "display_url": "pic.x.com/lddeMA1cWl",
+              "end": 45,
+              "expanded_url": "https://x.com/Mary18716528345/status/2100566966528614812/photo/1",
+              "media_key": "3_2100566943988404224",
+              "start": 22,
+              "url": "https://t.co/lddeMA1cWl"
+            },
+            {
+              "display_url": "pic.x.com/lddeMA1cWl",
+              "end": 45,
+              "expanded_url": "https://x.com/Mary18716528345/status/2100566966528614812/photo/1",
+              "media_key": "3_2100566943984173056",
+              "start": 22,
+              "url": "https://t.co/lddeMA1cWl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100566966528614812",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2100566944038719488"
+          },
+          {
+            "media_key": "3_2100566943988404224"
+          },
+          {
+            "media_key": "3_2100566943984173056"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 68,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "出了助手w\n#男娘 #可爱的男孩子 #伪娘 https://t.co/lddeMA1cWl"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "🏳‍⚧mtx｜备用:@StarryNoct｜姐姐:@smiroyama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 10,
+                "username": "StarryNoct"
+              },
+              {
+                "end": 35,
+                "start": 25,
+                "username": "smiroyama"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100604656376561881",
+        "name": "​碎星✨",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1343151486432399360/1788007697",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093682145500057600/1ydeUACT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1853,
+          "following_count": 946,
+          "like_count": 4069,
+          "listed_count": 5,
+          "media_count": 190,
+          "tweet_count": 9371
+        },
+        "url": "",
+        "username": "StarryNocts",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-05-17T06:06:43.000Z",
+        "description": "07男娘/大学生/百合控/游戏苦手/非常性压抑（欢迎找我聊天",
+        "id": "1923621171544850437",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100582428834504850",
+        "name": "汐雨天音",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082828234283229184/z7iO4vMy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 197,
+          "like_count": 230,
+          "listed_count": 1,
+          "media_count": 3,
+          "tweet_count": 70
+        },
+        "url": "",
+        "username": "Mary18716528345",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

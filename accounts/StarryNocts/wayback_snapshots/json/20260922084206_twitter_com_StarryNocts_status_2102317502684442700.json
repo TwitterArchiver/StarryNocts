@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2102305887477985442",
+    "created_at": "2026-09-22T08:42:06.000Z",
+    "display_text_range": [
+      9,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-22T09:42:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102317502684442700"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2044543772415942656",
+          "start": 0,
+          "username": "roitium"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102317502684442700",
+    "in_reply_to_user_id": "2044543772415942656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102305887477985442",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@roitium 我也是这样…"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2102305887477985442].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2102305887477985442",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2102305887477985442"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2102305887477985442",
+        "created_at": "2026-09-22T08:42:06.000Z",
+        "display_text_range": [
+          9,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T09:42:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102317502684442700"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2044543772415942656",
+              "start": 0,
+              "username": "roitium"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102317502684442700",
+        "in_reply_to_user_id": "2044543772415942656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102305887477985442",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@roitium 我也是这样…"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "🏳‍⚧mtx｜备用:@StarryNoct｜姐姐:@smiroyama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 10,
+                "username": "StarryNoct"
+              },
+              {
+                "end": 35,
+                "start": 25,
+                "username": "smiroyama"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102317502684442700",
+        "name": "​碎星✨",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1343151486432399360/1788007697",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093682145500057600/1ydeUACT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1875,
+          "following_count": 951,
+          "like_count": 4069,
+          "listed_count": 5,
+          "media_count": 194,
+          "tweet_count": 9410
+        },
+        "url": "",
+        "username": "StarryNocts",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-15T22:30:05.000Z",
+        "description": "哈气中，勿扰，，，\n\n请随意申请关注，但我可能不会通过： ）\n互关基本都会通过的说（）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "roitium.com",
+                "end": 23,
+                "expanded_url": "http://roitium.com",
+                "start": 0,
+                "url": "https://t.co/C3MRHRZCbI"
+              }
+            ]
+          }
+        },
+        "id": "2044543772415942656",
+        "is_identity_verified": false,
+        "location": "你心里",
+        "most_recent_tweet_id": "2045751888445145398",
+        "name": "roitium",
+        "pinned_tweet_id": "2045801266174111830",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2044543772415942656/1776579947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079003633447063552/AAW1F8yM_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 56,
+          "like_count": 1063,
+          "listed_count": 0,
+          "media_count": 119,
+          "tweet_count": 1064
+        },
+        "url": "https://t.co/C3MRHRZCbI",
+        "username": "roitium",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

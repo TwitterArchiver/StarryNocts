@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2105279474090836081",
+    "created_at": "2026-10-01T09:26:04.000Z",
+    "display_text_range": [
+      10,
+      11
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-01T10:26:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105590056149029157"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2087388704641892352",
+          "start": 0,
+          "username": "Raullrye"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105590056149029157",
+    "in_reply_to_user_id": "2087388704641892352",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105481466276716573",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Raullrye 🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2105279474090836081",
+        "created_at": "2026-10-01T09:26:04.000Z",
+        "display_text_range": [
+          10,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T10:26:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105590056149029157"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2087388704641892352",
+              "start": 0,
+              "username": "Raullrye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105590056149029157",
+        "in_reply_to_user_id": "2087388704641892352",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105481466276716573",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Raullrye 🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2087388704641892352",
+        "conversation_id": "2105279474090836081",
+        "created_at": "2026-10-01T02:14:34.000Z",
+        "display_text_range": [
+          13,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T03:14:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105481466276716573"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1343151486432399360",
+              "start": 0,
+              "username": "StarryNocts"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105481466276716573",
+        "in_reply_to_user_id": "1343151486432399360",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105279474090836081",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StarryNocts Mmmmm..so sexy! 🥰🤤🤤"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "🏳‍⚧mtx｜备用:@StarryNoct｜姐姐:@smiroyama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 10,
+                "username": "StarryNoct"
+              },
+              {
+                "end": 35,
+                "start": 25,
+                "username": "smiroyama"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105590056149029157",
+        "name": "​碎星✨",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1343151486432399360/1788007697",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093682145500057600/1ydeUACT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1913,
+          "following_count": 956,
+          "like_count": 4076,
+          "listed_count": 4,
+          "media_count": 200,
+          "tweet_count": 9544
+        },
+        "url": "",
+        "username": "StarryNocts",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-12T04:01:41.000Z",
+        "description": "",
+        "id": "2087388704641892352",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105493800734835173",
+        "name": "Raul",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2087388704641892352/1788157430",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094309695230038016/OUCvOPi8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 270,
+          "like_count": 11190,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 1754
+        },
+        "url": "",
+        "username": "Raullrye",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

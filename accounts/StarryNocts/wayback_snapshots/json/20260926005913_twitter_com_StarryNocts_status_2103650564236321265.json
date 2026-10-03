@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2103646033544982921",
+    "created_at": "2026-09-26T00:59:13.000Z",
+    "display_text_range": [
+      10,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T01:59:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103650564236321265"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1811265295849598976",
+          "start": 0,
+          "username": "KiraMyao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103650564236321265",
+    "in_reply_to_user_id": "1811265295849598976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103646033544982921",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KiraMyao 不许玩！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2007,
+        "media_key": "3_2103646023608573952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTGm6bJaIAA9wIb.jpg",
+        "width": 1843
+      },
+      {
+        "height": 900,
+        "media_key": "3_2103646029354835968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTGm6wjbIAA82DV.jpg",
+        "width": 1176
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2103646033544982921",
+        "created_at": "2026-09-26T00:59:13.000Z",
+        "display_text_range": [
+          10,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T01:59:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103650564236321265"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1811265295849598976",
+              "start": 0,
+              "username": "KiraMyao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103650564236321265",
+        "in_reply_to_user_id": "1811265295849598976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103646033544982921",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KiraMyao 不许玩！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103646023608573952",
+            "3_2103646029354835968"
+          ]
+        },
+        "author_id": "1811265295849598976",
+        "conversation_id": "2103646033544982921",
+        "created_at": "2026-09-26T00:41:12.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T01:41:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103646033544982921"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fcGzetSr6w",
+              "end": 42,
+              "expanded_url": "https://x.com/KiraMyao/status/2103646033544982921/photo/1",
+              "media_key": "3_2103646023608573952",
+              "start": 19,
+              "url": "https://t.co/fcGzetSr6w"
+            },
+            {
+              "display_url": "pic.x.com/fcGzetSr6w",
+              "end": 42,
+              "expanded_url": "https://x.com/KiraMyao/status/2103646033544982921/photo/1",
+              "media_key": "3_2103646029354835968",
+              "start": 19,
+              "url": "https://t.co/fcGzetSr6w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103646033544982921",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2103646023608573952"
+          },
+          {
+            "media_key": "3_2103646029354835968"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "初次体验，真的纯锻炼心脏，太吓人了。 https://t.co/fcGzetSr6w"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "🏳‍⚧mtx｜备用:@StarryNoct｜姐姐:@smiroyama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 10,
+                "username": "StarryNoct"
+              },
+              {
+                "end": 35,
+                "start": 25,
+                "username": "smiroyama"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103650564236321265",
+        "name": "​碎星✨",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1343151486432399360/1788007697",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093682145500057600/1ydeUACT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1873,
+          "following_count": 949,
+          "like_count": 4071,
+          "listed_count": 5,
+          "media_count": 194,
+          "tweet_count": 9445
+        },
+        "url": "",
+        "username": "StarryNocts",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-11T05:04:57.000Z",
+        "description": "KiraMyao🌎きらみゃお🌏星绮喵                                      \n  \nTech💾 meme👻 Equal❤️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kiramyao.com",
+                "end": 23,
+                "expanded_url": "https://kiramyao.com/",
+                "start": 0,
+                "url": "https://t.co/NVGsHKEdLi"
+              }
+            ]
+          }
+        },
+        "id": "1811265295849598976",
+        "is_identity_verified": true,
+        "location": "Japan",
+        "most_recent_tweet_id": "2103646033544982921",
+        "name": "KiraMyao🐱",
+        "pinned_tweet_id": "2088478447643578384",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1811265295849598976/1772529789",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050442466428616704/Cd6JwXLB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2636,
+          "following_count": 394,
+          "like_count": 11486,
+          "listed_count": 11,
+          "media_count": 492,
+          "tweet_count": 2318
+        },
+        "url": "https://t.co/NVGsHKEdLi",
+        "username": "KiraMyao",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

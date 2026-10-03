@@ -1,0 +1,127 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2102719214243225975",
+    "created_at": "2026-09-23T11:18:21.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-23T12:18:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2102719214243225975"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2102719214243225975",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "有问之，对曰：“橐驼非能使木寿且孳也，能顺木之天，以致其性焉尔。凡植木之性，其本欲舒，其培欲平，其土欲故，其筑欲密。既然已，勿动勿虑，去不复顾。其莳也若子，其置也若弃，则其天者全而其性得矣。故吾不害其长而已，非有能硕茂之也；不抑耗其实而已，非有能早而蕃之也。他植者则不然，根拳而土易，其培之也，若不过焉则不及。苟有能反是者，则又爱之太恩，忧之太勤。旦视而暮抚，已去而复顾。甚者，爪其肤以验其生枯，摇其本以观其疏密，而木之性日以离矣。虽曰爱之，其实害之；虽曰忧之，其实仇之；故不我若也。吾又何能为哉？”"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "有问之，对曰：“橐驼非能使木寿且孳也，能顺木之天，以致其性焉尔。凡植木之性，其本欲舒，其培欲平，其土欲故，其筑欲密。既然已，勿动勿虑，去不复顾。其莳也若子，其置也若弃，则其天者全而其性得矣。故吾不害其长而已，非有能硕茂之也；不抑耗其实而已，非有能早而蕃之也。他植者则不然，根拳而土"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2102719214243225975",
+        "created_at": "2026-09-23T11:18:21.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T12:18:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102719214243225975"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2102719214243225975",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "有问之，对曰：“橐驼非能使木寿且孳也，能顺木之天，以致其性焉尔。凡植木之性，其本欲舒，其培欲平，其土欲故，其筑欲密。既然已，勿动勿虑，去不复顾。其莳也若子，其置也若弃，则其天者全而其性得矣。故吾不害其长而已，非有能硕茂之也；不抑耗其实而已，非有能早而蕃之也。他植者则不然，根拳而土易，其培之也，若不过焉则不及。苟有能反是者，则又爱之太恩，忧之太勤。旦视而暮抚，已去而复顾。甚者，爪其肤以验其生枯，摇其本以观其疏密，而木之性日以离矣。虽曰爱之，其实害之；虽曰忧之，其实仇之；故不我若也。吾又何能为哉？”"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有问之，对曰：“橐驼非能使木寿且孳也，能顺木之天，以致其性焉尔。凡植木之性，其本欲舒，其培欲平，其土欲故，其筑欲密。既然已，勿动勿虑，去不复顾。其莳也若子，其置也若弃，则其天者全而其性得矣。故吾不害其长而已，非有能硕茂之也；不抑耗其实而已，非有能早而蕃之也。他植者则不然，根拳而土"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "🏳‍⚧mtx｜备用:@StarryNoct｜姐姐:@smiroyama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 10,
+                "username": "StarryNoct"
+              },
+              {
+                "end": 35,
+                "start": 25,
+                "username": "smiroyama"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102719214243225975",
+        "name": "​碎星✨",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1343151486432399360/1788007697",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093682145500057600/1ydeUACT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1876,
+          "following_count": 953,
+          "like_count": 4070,
+          "listed_count": 5,
+          "media_count": 194,
+          "tweet_count": 9420
+        },
+        "url": "",
+        "username": "StarryNocts",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

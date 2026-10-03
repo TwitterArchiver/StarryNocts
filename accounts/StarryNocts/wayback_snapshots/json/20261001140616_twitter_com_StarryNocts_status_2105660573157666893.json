@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2105612779810181151",
+    "created_at": "2026-10-01T14:06:16.000Z",
+    "display_text_range": [
+      15,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-01T15:06:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105660573157666893"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1958048434021437440",
+          "start": 0,
+          "username": "baizhimengyao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105660573157666893",
+    "in_reply_to_user_id": "1958048434021437440",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105612779810181151",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@baizhimengyao 我也想吃…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2105612779810181151",
+        "created_at": "2026-10-01T14:06:16.000Z",
+        "display_text_range": [
+          15,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T15:06:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105660573157666893"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1958048434021437440",
+              "start": 0,
+              "username": "baizhimengyao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105660573157666893",
+        "in_reply_to_user_id": "1958048434021437440",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105612779810181151",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@baizhimengyao 我也想吃…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1958048434021437440",
+        "conversation_id": "2105612779810181151",
+        "created_at": "2026-10-01T10:56:21.000Z",
+        "display_text_range": [
+          0,
+          161
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T11:56:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105612779810181151"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2105612779810181151",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 214,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "爸❤️妈️💗不 ❤️在️💗家❤️\n\n一❤️个️💗人❤️寂️💗寞❤️\n\n想不想搞大我肚子\n\n❤️星期四🔞\n 给我从未有过的体验🍟\n香🔥辣🔥鸡🔥腿🔥堡\n❤️❤️❤️肯德基❤️活力周四 激情四射\n今天肯德基疯狂星期四 香辣香骨鸡9.9六块+热辣香骨鸡19.9十五块+爆汁柠桔茶19.9两杯+秘汁全鸡29.9 轻松搞大我肚子~❤️"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "🏳‍⚧mtx｜备用:@StarryNoct｜姐姐:@smiroyama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 10,
+                "username": "StarryNoct"
+              },
+              {
+                "end": 35,
+                "start": 25,
+                "username": "smiroyama"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105660573157666893",
+        "name": "​碎星✨",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1343151486432399360/1788007697",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093682145500057600/1ydeUACT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1917,
+          "following_count": 957,
+          "like_count": 4076,
+          "listed_count": 4,
+          "media_count": 200,
+          "tweet_count": 9574
+        },
+        "url": "",
+        "username": "StarryNocts",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-08-20T06:08:29.000Z",
+        "description": "无证糖🍥/出厂日期2007.02.17/北京/爸妈严正反对/enfp/文学发烧友（现网瘾少女）/某师范高校在读生/@k66cheng 伪物空城我大姐头/学姐@xinjie87288/攒钱手术ing\n紧急逃生舱：@wuheyuyang（已经被鬼了）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 57,
+                "username": "k66cheng"
+              },
+              {
+                "end": 90,
+                "start": 78,
+                "username": "xinjie87288"
+              },
+              {
+                "end": 116,
+                "start": 105,
+                "username": "wuheyuyang"
+              }
+            ]
+          }
+        },
+        "id": "1958048434021437440",
+        "is_identity_verified": false,
+        "location": "距你0.1km",
+        "most_recent_tweet_id": "2105623849421484333",
+        "name": "白芷梦瑶🍥",
+        "pinned_tweet_id": "2091135577379000468",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041418903319166976/IHr3Mv0I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 754,
+          "following_count": 41,
+          "like_count": 529,
+          "listed_count": 1,
+          "media_count": 64,
+          "tweet_count": 2357
+        },
+        "url": "",
+        "username": "baizhimengyao",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

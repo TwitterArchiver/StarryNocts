@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2102211812284575820",
+    "created_at": "2026-09-22T08:51:21.000Z",
+    "display_text_range": [
+      13,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-22T09:51:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102319829545795903"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1706600551855656960",
+          "start": 0,
+          "username": "Jameswesore"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102319829545795903",
+    "in_reply_to_user_id": "1706600551855656960",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102211812284575820",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jameswesore 抱抱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2045,
+        "media_key": "3_2102211801111052288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSyOfr_bwAAAA9Y.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2102211812284575820",
+        "created_at": "2026-09-22T08:51:21.000Z",
+        "display_text_range": [
+          13,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T09:51:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102319829545795903"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1706600551855656960",
+              "start": 0,
+              "username": "Jameswesore"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102319829545795903",
+        "in_reply_to_user_id": "1706600551855656960",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102211812284575820",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jameswesore 抱抱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102211801111052288"
+          ]
+        },
+        "author_id": "1706600551855656960",
+        "conversation_id": "2102211812284575820",
+        "created_at": "2026-09-22T01:42:07.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T02:42:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102211812284575820"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/y51vVRNtTU",
+              "end": 36,
+              "expanded_url": "https://x.com/Jameswesore/status/2102211812284575820/photo/1",
+              "media_key": "3_2102211801111052288",
+              "start": 13,
+              "url": "https://t.co/y51vVRNtTU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102211812284575820",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2102211801111052288"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 168,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🤔点个赞就把我ban了？ https://t.co/y51vVRNtTU"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "🏳‍⚧mtx｜备用:@StarryNoct｜姐姐:@smiroyama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 10,
+                "username": "StarryNoct"
+              },
+              {
+                "end": 35,
+                "start": 25,
+                "username": "smiroyama"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102319829545795903",
+        "name": "​碎星✨",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1343151486432399360/1788007697",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093682145500057600/1ydeUACT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1875,
+          "following_count": 951,
+          "like_count": 4069,
+          "listed_count": 5,
+          "media_count": 194,
+          "tweet_count": 9412
+        },
+        "url": "",
+        "username": "StarryNocts",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-09-26T09:24:29.000Z",
+        "description": "😄终于不限了",
+        "id": "1706600551855656960",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102293872567312467",
+        "name": "サメ🦈",
+        "pinned_tweet_id": "2037834689873080420",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1706600551855656960/1774364912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036460154410188800/VxEcEp12_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 496,
+          "following_count": 3389,
+          "like_count": 32065,
+          "listed_count": 1,
+          "media_count": 107,
+          "tweet_count": 12453
+        },
+        "url": "",
+        "username": "Jameswesore",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

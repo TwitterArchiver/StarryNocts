@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2101724031800266892",
+    "created_at": "2026-09-21T09:25:35.000Z",
+    "display_text_range": [
+      13,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-21T10:25:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101966056474698087"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2055205435011936256",
+          "start": 0,
+          "username": "Amin1650752"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101966056474698087",
+    "in_reply_to_user_id": "2055205435011936256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101724031800266892",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Amin1650752 贴贴"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2101724028776108032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSrS3mcaUAA2Tn2.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2101724031800266892",
+        "created_at": "2026-09-21T09:25:35.000Z",
+        "display_text_range": [
+          13,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T10:25:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101966056474698087"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2055205435011936256",
+              "start": 0,
+              "username": "Amin1650752"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101966056474698087",
+        "in_reply_to_user_id": "2055205435011936256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101724031800266892",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Amin1650752 贴贴"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101724028776108032"
+          ]
+        },
+        "author_id": "2055205435011936256",
+        "conversation_id": "2101724031800266892",
+        "created_at": "2026-09-20T17:23:51.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T18:23:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101724031800266892"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ag1t6InrSt",
+              "end": 31,
+              "expanded_url": "https://x.com/Amin1650752/status/2101724031800266892/photo/1",
+              "media_key": "3_2101724028776108032",
+              "start": 8,
+              "url": "https://t.co/ag1t6InrSt"
+            },
+            {
+              "display_url": "x.com/acnekot/status…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/acnekot/status/2101319941605732597",
+              "start": 32,
+              "url": "https://t.co/j6W3Mih92z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101724031800266892",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2101724028776108032"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 411,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101319941605732597",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "那也玩一下吧。 https://t.co/ag1t6InrSt https://t.co/j6W3Mih92z"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "🏳‍⚧mtx｜备用:@StarryNoct｜姐姐:@smiroyama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 10,
+                "username": "StarryNoct"
+              },
+              {
+                "end": 35,
+                "start": 25,
+                "username": "smiroyama"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101966056474698087",
+        "name": "​碎星✨",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1343151486432399360/1788007697",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093682145500057600/1ydeUACT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1873,
+          "following_count": 950,
+          "like_count": 4069,
+          "listed_count": 5,
+          "media_count": 194,
+          "tweet_count": 9403
+        },
+        "url": "",
+        "username": "StarryNocts",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-15T08:35:42.000Z",
+        "description": "姛/mtf/HRT 24.9.21/同类互fo/不鉴证&不o不割/大概同人游戏女（？）",
+        "id": "2055205435011936256",
+        "is_identity_verified": false,
+        "location": "RiNG",
+        "most_recent_tweet_id": "2101955109475545318",
+        "name": "-Amin🐱",
+        "pinned_tweet_id": "2095712124458995938",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055205435011936256/1789924803",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101551195596951552/gceG3h-S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 923,
+          "following_count": 1219,
+          "like_count": 19949,
+          "listed_count": 3,
+          "media_count": 57,
+          "tweet_count": 1706
+        },
+        "url": "",
+        "username": "Amin1650752",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

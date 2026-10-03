@@ -1,0 +1,364 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2105576457640759582",
+    "created_at": "2026-10-01T09:53:57.000Z",
+    "display_text_range": [
+      10,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-01T10:53:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105597073626440089"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1229429137833627648",
+          "start": 0,
+          "username": "ZY_zuoye"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105597073626440089",
+    "in_reply_to_user_id": "1229429137833627648",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105576457640759582",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZY_zuoye 好看好看！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1168,
+        "media_key": "3_2105576439181680640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTiCnZjbIAA44yK.jpg",
+        "width": 880
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2105576457640759582",
+        "created_at": "2026-10-01T09:53:57.000Z",
+        "display_text_range": [
+          10,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T10:53:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105597073626440089"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1229429137833627648",
+              "start": 0,
+              "username": "ZY_zuoye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105597073626440089",
+        "in_reply_to_user_id": "1229429137833627648",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105576457640759582",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZY_zuoye 好看好看！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105576439181680640"
+          ]
+        },
+        "author_id": "1229429137833627648",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "2105576457640759582",
+        "created_at": "2026-10-01T08:32:01.000Z",
+        "display_text_range": [
+          0,
+          73
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T09:32:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105576457640759582"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 37,
+              "start": 32,
+              "tag": "蔚蓝档案"
+            },
+            {
+              "end": 48,
+              "start": 39,
+              "tag": "ブルーアーカイブ"
+            },
+            {
+              "end": 61,
+              "start": 49,
+              "tag": "BlueArchive"
+            },
+            {
+              "end": 73,
+              "start": 62,
+              "tag": "BlueArcive"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/y63INYOdPO",
+              "end": 97,
+              "expanded_url": "https://x.com/ZY_zuoye/status/2105576457640759582/photo/1",
+              "media_key": "3_2105576439181680640",
+              "start": 74,
+              "url": "https://t.co/y63INYOdPO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105576457640759582",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2105576439181680640"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 577,
+          "like_count": 54,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "一张自拍好看的三要素难道不是自己好看、自己好看、自己好看吗（悲\n#蔚蓝档案  #ブルーアーカイブ #BlueArchive #BlueArcive https://t.co/y63INYOdPO"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "🏳‍⚧mtx｜备用:@StarryNoct｜姐姐:@smiroyama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 10,
+                "username": "StarryNoct"
+              },
+              {
+                "end": 35,
+                "start": 25,
+                "username": "smiroyama"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105597073626440089",
+        "name": "​碎星✨",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1343151486432399360/1788007697",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093682145500057600/1ydeUACT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1913,
+          "following_count": 956,
+          "like_count": 4076,
+          "listed_count": 4,
+          "media_count": 200,
+          "tweet_count": 9559
+        },
+        "url": "",
+        "username": "StarryNocts",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-02-17T15:35:40.000Z",
+        "description": "05长发男/偶尔发点自己觉得有意思的照片\nVRChat ID:-作业-",
+        "id": "1229429137833627648",
+        "is_identity_verified": false,
+        "location": "深圳",
+        "most_recent_tweet_id": "2105595296218771518",
+        "name": "-作业-",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1229429137833627648/1772552052",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069330765553549312/vvLy3B1d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 263,
+          "following_count": 327,
+          "like_count": 64884,
+          "listed_count": 1,
+          "media_count": 1224,
+          "tweet_count": 1591
+        },
+        "url": "",
+        "username": "ZY_zuoye",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1343151486432399360",
+    "conversation_id": "2102082434896626030",
+    "created_at": "2026-10-01T12:32:39.000Z",
+    "display_text_range": [
+      12,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-01T13:32:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105637014251204694"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2101507379560931329",
+          "start": 0,
+          "username": "Ximena_awa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105637014251204694",
+    "in_reply_to_user_id": "2101507379560931329",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102082434896626030",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ximena_awa 好好看"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2102082431906189312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSwY1aJbkAAkDon.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343151486432399360",
+        "conversation_id": "2102082434896626030",
+        "created_at": "2026-10-01T12:32:39.000Z",
+        "display_text_range": [
+          12,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T13:32:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105637014251204694"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2101507379560931329",
+              "start": 0,
+              "username": "Ximena_awa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105637014251204694",
+        "in_reply_to_user_id": "2101507379560931329",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102082434896626030",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ximena_awa 好好看"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102082431906189312"
+          ]
+        },
+        "author_id": "2101507379560931329",
+        "conversation_id": "2102082434896626030",
+        "created_at": "2026-09-21T17:08:01.000Z",
+        "display_text_range": [
+          0,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T18:08:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102082434896626030"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "男娘"
+            },
+            {
+              "end": 9,
+              "start": 4,
+              "tag": "晓山瑞希"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/udl1Ylq50n",
+              "end": 33,
+              "expanded_url": "https://x.com/Ximena_awa/status/2102082434896626030/photo/1",
+              "media_key": "3_2102082431906189312",
+              "start": 10,
+              "url": "https://t.co/udl1Ylq50n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102082434896626030",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2102082431906189312"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 899,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#男娘 #晓山瑞希 https://t.co/udl1Ylq50n"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-12-27T11:07:31.000Z",
+        "description": "🏳‍⚧mtx｜备用:@StarryNoct｜姐姐:@smiroyama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 10,
+                "username": "StarryNoct"
+              },
+              {
+                "end": 35,
+                "start": 25,
+                "username": "smiroyama"
+              }
+            ]
+          }
+        },
+        "id": "1343151486432399360",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105637014251204694",
+        "name": "​碎星✨",
+        "pinned_tweet_id": "2037145943125221540",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1343151486432399360/1788007697",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093682145500057600/1ydeUACT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1916,
+          "following_count": 957,
+          "like_count": 4076,
+          "listed_count": 4,
+          "media_count": 200,
+          "tweet_count": 9567
+        },
+        "url": "",
+        "username": "StarryNocts",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-20T03:05:15.000Z",
+        "description": "10后男娘 无🍬 180/123 粉丝群：565017993 🚪25",
+        "id": "2101507379560931329",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105560686390845858",
+        "name": "Ximena",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2101507379560931329/1789925866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101508085982322688/knbvyjeZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 204,
+          "following_count": 49,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 14
+        },
+        "url": "",
+        "username": "Ximena_awa",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
